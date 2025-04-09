@@ -1,0 +1,317 @@
+{
+  "timestamp": 1744170320283,
+  "masters": {
+    "@desyov": {
+      "username": "@desyov",
+      "id": "247940619022893065",
+      "gameCount": 92,
+      "tier": "GM: Reality Shaper - T3"
+    },
+    "@tobro": {
+      "username": "@tobro",
+      "id": null,
+      "gameCount": 2,
+      "tier": null
+    },
+    "@incognegro": {
+      "username": "@incognegro",
+      "id": "118899054179516417",
+      "gameCount": 55,
+      "tier": "GM: World Builder - T2"
+    },
+    "@2naf1sh": {
+      "username": "@2naf1sh",
+      "id": "365605862615810049",
+      "gameCount": 63,
+      "tier": "GM: World Builder - T2"
+    },
+    "@stickybarb": {
+      "username": "@stickybarb",
+      "id": "222732936909160449",
+      "gameCount": 2,
+      "tier": "GM: Apprentice - T0"
+    },
+    "@moofah": {
+      "username": "@moofah",
+      "id": null,
+      "gameCount": 1,
+      "tier": null
+    },
+    "@johnm0": {
+      "username": "@johnm0",
+      "id": null,
+      "gameCount": 5,
+      "tier": null
+    },
+    "@samikazuki": {
+      "username": "@samikazuki",
+      "id": "173547590694993920",
+      "gameCount": 21,
+      "tier": "GM: Storyteller - T1"
+    },
+    "@yoshimage": {
+      "username": "@yoshimage",
+      "id": "180873257480617984",
+      "gameCount": 5,
+      "tier": "GM: Storyteller - T1"
+    },
+    "@agentdj": {
+      "username": "@agentdj",
+      "id": "319372431221587968",
+      "gameCount": 21,
+      "tier": "GM: World Builder - T2"
+    },
+    "@nut_wizard": {
+      "username": "@nut_wizard",
+      "id": "594008151779573762",
+      "gameCount": 8,
+      "tier": "GM: Storyteller - T1"
+    },
+    "@solaceinfire": {
+      "username": "@solaceinfire",
+      "id": "151914442035036160",
+      "gameCount": 6,
+      "tier": "GM: Storyteller - T1"
+    },
+    "@rayhammer": {
+      "username": "@rayhammer",
+      "id": "200273794969894912",
+      "gameCount": 4,
+      "tier": "GM: Apprentice - T0"
+    },
+    "@topsick": {
+      "username": "@topsick",
+      "id": "210992769890648064",
+      "gameCount": 1,
+      "tier": "GM: Apprentice - T0"
+    },
+    "@cursed6069": {
+      "username": "@cursed6069",
+      "id": null,
+      "gameCount": 6,
+      "tier": null
+    },
+    "@xavieremix": {
+      "username": "@xavieremix",
+      "id": "181294303622987776",
+      "gameCount": 28,
+      "tier": "GM: Storyteller - T1"
+    },
+    "@jrlol3megu": {
+      "username": "@jrlol3megu",
+      "id": "464911746088304650",
+      "gameCount": 9,
+      "tier": "GM: Storyteller - T1"
+    },
+    "@solotic.": {
+      "username": "@solotic.",
+      "id": "384371410576998401",
+      "gameCount": 20,
+      "tier": "GM: Storyteller - T1"
+    },
+    "@seraphim": {
+      "username": "@seraphim",
+      "id": "108744783031185408",
+      "gameCount": 34,
+      "tier": "GM: Storyteller - T1"
+    },
+    "@sawzie": {
+      "username": "@sawzie",
+      "id": "66337541518790656",
+      "gameCount": 4,
+      "tier": "GM: Storyteller - T1"
+    },
+    "@theelusivegin": {
+      "username": "@theelusivegin",
+      "id": "124671590775390208",
+      "gameCount": 68,
+      "tier": "GM: World Builder - T2"
+    },
+    "@snuggle_bun": {
+      "username": "@snuggle_bun",
+      "id": null,
+      "gameCount": 24,
+      "tier": null
+    },
+    "@starfir54": {
+      "username": "@starfir54",
+      "id": "491765200727310337",
+      "gameCount": 1,
+      "tier": "GM: Apprentice - T0"
+    },
+    "@dragoneldester": {
+      "username": "@dragoneldester",
+      "id": "409390729627041792",
+      "gameCount": 21,
+      "tier": "GM: Apprentice - T0"
+    },
+    "@xelenus": {
+      "username": "@xelenus",
+      "id": null,
+      "gameCount": 1,
+      "tier": null
+    },
+    "@facinarose": {
+      "username": "@facinarose",
+      "id": "194955560276197377",
+      "gameCount": 1,
+      "tier": "GM: Apprentice - T0"
+    },
+    "@reggie7457": {
+      "username": "@reggie7457",
+      "id": "555561965951647754",
+      "gameCount": 3,
+      "tier": "GM: Apprentice - T0"
+    },
+    "@mercurialcomet": {
+      "username": "@mercurialcomet",
+      "id": "227988328119533568",
+      "gameCount": 43,
+      "tier": "GM: Storyteller - T1"
+    },
+    "@madamezuri": {
+      "username": "@madamezuri",
+      "id": "457645105122115615",
+      "gameCount": 43,
+      "tier": "GM: Storyteller - T1"
+    },
+    "@saruno": {
+      "username": "@saruno",
+      "id": "140811574737764352",
+      "gameCount": 8,
+      "tier": "GM: Apprentice - T0"
+    },
+    "@vittinhodosus": {
+      "username": "@vittinhodosus",
+      "id": "178906027914297344",
+      "gameCount": 33,
+      "tier": "GM: World Builder - T2"
+    },
+    "@sleepy_bernkastel": {
+      "username": "@sleepy_bernkastel",
+      "id": "308792711274692610",
+      "gameCount": 7,
+      "tier": "GM: Storyteller - T1"
+    },
+    "@istealyourzs": {
+      "username": "@istealyourzs",
+      "id": null,
+      "gameCount": 1,
+      "tier": null
+    },
+    "@gabrielthefool": {
+      "username": "@gabrielthefool",
+      "id": "142973642093887488",
+      "gameCount": 45,
+      "tier": "GM: Storyteller - T1"
+    },
+    "@letiana": {
+      "username": "@letiana",
+      "id": "299015281853071360",
+      "gameCount": 13,
+      "tier": "GM: Storyteller - T1"
+    },
+    "@missingpath": {
+      "username": "@missingpath",
+      "id": "181544205796114433",
+      "gameCount": 15,
+      "tier": "GM: Storyteller - T1"
+    },
+    "@doctor_temmie": {
+      "username": "@doctor_temmie",
+      "id": "145516833817100288",
+      "gameCount": 5,
+      "tier": "GM: Apprentice - T0"
+    },
+    "@rastamufasa": {
+      "username": "@rastamufasa",
+      "id": "283019070578753536",
+      "gameCount": 13,
+      "tier": "GM: Storyteller - T1"
+    },
+    "@ijiyiji": {
+      "username": "@ijiyiji",
+      "id": null,
+      "gameCount": 3,
+      "tier": null
+    },
+    "@angrykitsu": {
+      "username": "@angrykitsu",
+      "id": "169795599758131200",
+      "gameCount": 30,
+      "tier": "GM: Storyteller - T1"
+    },
+    "@mike_miguel_michael": {
+      "username": "@mike_miguel_michael",
+      "id": "178284834978791425",
+      "gameCount": 10,
+      "tier": "GM: Storyteller - T1"
+    },
+    "@madrid222": {
+      "username": "@madrid222",
+      "id": "173539943426031616",
+      "gameCount": 1,
+      "tier": "GM: Apprentice - T0"
+    },
+    "@foxfacesuicide": {
+      "username": "@foxfacesuicide",
+      "id": "181593003008327680",
+      "gameCount": 14,
+      "tier": "GM: Apprentice - T0"
+    },
+    "@phosphophyllite0": {
+      "username": "@phosphophyllite0",
+      "id": "237438769840652291",
+      "gameCount": 17,
+      "tier": "GM: Apprentice - T0"
+    },
+    "@faeriexing": {
+      "username": "@faeriexing",
+      "id": null,
+      "gameCount": 2,
+      "tier": null
+    },
+    "@doobledeedooble": {
+      "username": "@doobledeedooble",
+      "id": "223253130417012736",
+      "gameCount": 7,
+      "tier": "GM: Storyteller - T1"
+    },
+    "@nikolaim.": {
+      "username": "@nikolaim.",
+      "id": "419689143443128321",
+      "gameCount": 3,
+      "tier": "GM: Apprentice - T0"
+    },
+    "@wandering": {
+      "username": "@wandering",
+      "id": "162680177665638401",
+      "gameCount": 1,
+      "tier": "GM: Apprentice - T0"
+    },
+    "@the429117": {
+      "username": "@the429117",
+      "id": "465582019150217226",
+      "gameCount": 1,
+      "tier": "GM: Apprentice - T0"
+    },
+    "@caelum_blue": {
+      "username": "@caelum_blue",
+      "id": "886623433306288158",
+      "gameCount": 2,
+      "tier": "GM: Apprentice - T0"
+    },
+    "@vievinvalor": {
+      "username": "@vievinvalor",
+      "id": "169054863978790913",
+      "gameCount": 3,
+      "tier": "GM: Apprentice - T0"
+    },
+    "@leplep": {
+      "username": "@leplep",
+      "id": "106596968976957440",
+      "gameCount": 1,
+      "tier": "GM: Apprentice - T0"
+    }
+  }
+}
