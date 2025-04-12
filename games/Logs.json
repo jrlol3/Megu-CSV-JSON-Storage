@@ -1,5 +1,5 @@
 {
-  "timestamp": 1744362013077,
+  "timestamp": 1744445716701,
   "logs": [
     {
       "master": "@desyov",
@@ -11043,6 +11043,44 @@
         "@niorno. as James",
         "@angrykitsu as Kazuko",
         "@mutemissy as Mae"
+      ]
+    },
+    {
+      "master": "@gabrielthefool",
+      "title": "The Gate of Blasphemy",
+      "postedAt": 1744367825460,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1360201988796842075",
+      "players": [
+        "@seizui as Keith",
+        "@2naf1sh as Gyalwa",
+        "@squidlover23 as Timothy",
+        "@doobledeedooble as Kiyo",
+        "@emgry as Monique",
+        "@mike_miguel_michael as Calibre"
+      ]
+    },
+    {
+      "master": "@phosphophyllite0",
+      "title": "Lunar Remnants",
+      "postedAt": 1744396899795,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1360323935396171838",
+      "players": [
+        "@julie_shimmershade as Cora",
+        "@galen876 as Millenium",
+        "@lenpendragon as Nanashi",
+        "@leplep as Orpheus",
+        "@chouniro as Robbins",
+        "@oleamollevampie as Rue"
+      ]
+    },
+    {
+      "master": "@incognegro",
+      "title": "The Three Tribulations: Horoko II",
+      "postedAt": 1744422042856,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1360429393037492304",
+      "players": [
+        "@theelusivegin as Gin",
+        "@angrykitsu as Horoko"
       ]
     }
   ]
