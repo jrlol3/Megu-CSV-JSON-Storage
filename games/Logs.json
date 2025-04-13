@@ -1,5 +1,5 @@
 {
-  "timestamp": 1744448416854,
+  "timestamp": 1744532113029,
   "logs": [
     {
       "master": "@desyov",
@@ -11081,6 +11081,112 @@
       "players": [
         "@theelusivegin as Gin",
         "@angrykitsu as Horoko"
+      ]
+    },
+    {
+      "master": "@gabrielthefool",
+      "title": "[The Gate of Blasphemy] - Liberty Desert",
+      "postedAt": 1744471812444,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1360638141819781230",
+      "players": [
+        "@.galebolg. as Caelan",
+        "@mutemissy as Mae",
+        "@letiana as Amelia",
+        "@rastamufasa as Basil",
+        "@madamezuri as Lionel",
+        "@_.squibbles._ as Kanon"
+      ]
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "Bleeding Lotus, Dying Crow",
+      "postedAt": 1744483371920,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1360686625776074963",
+      "players": [
+        "@hildah1lda as Hua Ying",
+        "@rastamufasa as Guo Muchen",
+        "@solaceinfire as Aelina Van Deivoet",
+        "@sleepy_bernkastel as Caspian Riviera",
+        "@theworldweavingcloud as Yin Yue",
+        "@desyov as Jiafei Lanying"
+      ]
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "The Endless Tide",
+      "postedAt": 1744496199367,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1360740427988340948",
+      "players": [
+        "@vampiremommy as Scarlet",
+        "@oleamollevampie as Isobel",
+        "@vievinvalor as Sella",
+        "@schwertaria as Aria",
+        "@leplep as Elijah",
+        "@caelum_blue as Céline"
+      ]
+    },
+    {
+      "master": "@solotic.",
+      "title": "The Sundering Pact Saga - Song on the River",
+      "postedAt": 1744503038049,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1360769111499735112",
+      "players": [
+        "@letiana as Amelia",
+        "@foxfacesuicide as Icarus",
+        "@samikazuki as Edward",
+        "@bancho_bancho as Lochlann",
+        "@rastamufasa as Perseus",
+        "@sirgabite as Apollo"
+      ]
+    },
+    {
+      "master": "@seraphim",
+      "title": "GET IN GET IN GET IN!",
+      "postedAt": 1744507830682,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1360789213259501628",
+      "players": [
+        "@sleepy_bernkastel as Kawa",
+        "@.galebolg. as Cypher",
+        "@mutemissy as Fernia",
+        "@doobledeedooble as Liliwen"
+      ]
+    },
+    {
+      "master": "@seraphim",
+      "title": "A Door within A Door within A Door with-GET IN!",
+      "postedAt": 1744519188156,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1360836849957998673",
+      "players": [
+        "@oleamollevampie as Rue",
+        "@madamezuri as Thamalaine",
+        "@nikolaim. as Eluna",
+        "@foxfacesuicide as \"Trillion\""
+      ]
+    },
+    {
+      "master": "@incognegro",
+      "title": "[Steps of Prosperity] The Dragon-Lotus Pill",
+      "postedAt": 1744520460235,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1360842185443901491",
+      "players": [
+        "@samikazuki as Anahi",
+        "@facinarose as Vivian",
+        "@agentdj as Mako",
+        "@lenpendragon as Baimei",
+        "@leplep as Isagani"
+      ]
+    },
+    {
+      "master": "@gabrielthefool",
+      "title": "[The Gate of Blasphemy] - Soul Desert",
+      "postedAt": 1744531393347,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1360888042239426732",
+      "players": [
+        "@angrykitsu as Musashi",
+        "@nikolaim. as Noir",
+        "@honeydewmelons as Marianne",
+        "@sussy_arata as Keiji",
+        "@saruno as Nasim"
       ]
     }
   ]
