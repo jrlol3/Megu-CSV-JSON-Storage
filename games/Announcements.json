@@ -1,5 +1,5 @@
 {
-  "timestamp": 1744534818682,
+  "timestamp": 1744618516769,
   "games": [
     {
       "title": "First Introductions",
@@ -9744,6 +9744,17 @@
       "time": "<t:1744574400:F>",
       "public": false,
       "creator": "zzShiori"
+    },
+    {
+      "title": "The Beggar's Sect: The White Orchid Pavilion",
+      "postedAt": 1744584693494,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1361111599259189278",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1744588860:F>",
+      "public": true,
+      "creator": "Trif | Larkspur"
     }
   ]
 }
