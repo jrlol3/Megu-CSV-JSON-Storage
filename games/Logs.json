@@ -1,5 +1,5 @@
 {
-  "timestamp": 1744534818689,
+  "timestamp": 1744618516784,
   "logs": [
     {
       "master": "@desyov",
@@ -11199,6 +11199,59 @@
         "@biffmcmanly as Reynaud",
         "@phosphophyllite0 as Isobel",
         "@oleamollevampie as Isobel"
+      ]
+    },
+    {
+      "master": "@solotic.",
+      "title": "The Sundering Pact Saga - A Homecoming Veiled in Mist",
+      "postedAt": 1744584203470,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1361109543949701310",
+      "players": [
+        "@seraphim as Trif",
+        "@galen876 as Waylen",
+        "@mercurialcomet as Epsilon",
+        "@zealot3019 as Trinity",
+        "@niorno. as Ioes",
+        "@solaceinfire as Saki"
+      ]
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "Family Affair",
+      "postedAt": 1744597223483,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1361164153842307092",
+      "players": [
+        "@oleamollevampie as Isobel",
+        "@cola.bubble as Mori",
+        "@madamezuri as Leo",
+        "@caelum_blue as Celine"
+      ]
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "Seeking Wisdom",
+      "postedAt": 1744597650889,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1361165946512998561",
+      "players": [
+        "@cola.bubble as Mori Cadwal",
+        "@oleamollevampie as Isobel Ashwynd",
+        "@caelum_blue as Celine Brighttail",
+        "@vievinvalor as Sella",
+        "@brooms as Echo"
+      ]
+    },
+    {
+      "master": "@seraphim",
+      "title": "The Beggar's Sect: The White Orchid Pavilion",
+      "postedAt": 1744604331315,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1361193966250492057",
+      "players": [
+        "@solotic. as Wen Tian",
+        "@letiana as Duan Nuying",
+        "@_.squibbles._ as Kanon",
+        "@oleamollevampie as Rue",
+        "@sleepy_bernkastel as Caspian",
+        "@solaceinfire as Aelina"
       ]
     }
   ]
