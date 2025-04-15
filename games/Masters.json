@@ -1,5 +1,5 @@
 {
-  "timestamp": 1744621217965,
+  "timestamp": 1744704916242,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -112,7 +112,7 @@
     "@seraphim": {
       "username": "@seraphim",
       "id": "108744783031185408",
-      "gameCount": 39,
+      "gameCount": 40,
       "tier": "GM: Storyteller - T1"
     },
     "@sawzie": {
@@ -310,7 +310,7 @@
     "@leplep": {
       "username": "@leplep",
       "id": "106596968976957440",
-      "gameCount": 1,
+      "gameCount": 2,
       "tier": "GM: Apprentice - T0"
     }
   }
