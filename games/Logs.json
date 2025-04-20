@@ -1,5 +1,5 @@
 {
-  "timestamp": 1745053216588,
+  "timestamp": 1745136919860,
   "logs": [
     {
       "master": "@desyov",
@@ -11483,6 +11483,61 @@
         "@mutemissy as Aerah",
         "@honeydewmelons as Isolde",
         "@_.squibbles._ as Kanon"
+      ]
+    },
+    {
+      "master": "@gabrielthefool",
+      "title": "The Second Baylorefall",
+      "postedAt": 1745061606634,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1363111917950079118",
+      "players": [
+        "@seizui as Keith",
+        "@2naf1sh as Gyalwa",
+        "@squidlover23 as Timothy",
+        "@doobledeedooble as Kiyo",
+        "@emgry as Monique",
+        "@mike_miguel_michael as Calibre"
+      ]
+    },
+    {
+      "master": "@vittinhodosus",
+      "title": "Aranova: A Dangerous Delve",
+      "postedAt": 1745110482410,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1363316917812727848",
+      "players": [
+        "@madamezuri as **Thiago**.",
+        "@mike_miguel_michael as **Orpheus**.",
+        "@rastamufasa as **Eurydice**.",
+        "@incognegro as **Mahuizoh**.",
+        "@samikazuki as **Risata**."
+      ]
+    },
+    {
+      "master": "@vittinhodosus",
+      "title": "Aranova: Into The Broken Storm",
+      "postedAt": 1745110821364,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1363318339488841980",
+      "players": [
+        "@.galebolg. as **Cassius**.",
+        "@foxfacesuicide as **Helios, the First**.",
+        "@madamezuri as **Tyra Godbinder**.",
+        "@nikolaim. as **Noir**.",
+        "@leplep as **Zophiel**.",
+        "@saruno as **Aston Aldebrand**."
+      ]
+    },
+    {
+      "master": "@desyov",
+      "title": "Dreadlan Trials: Welcome to Hollowgrave",
+      "postedAt": 1745127052708,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1363386418679779388",
+      "players": [
+        "@rastamufasa as Perseus",
+        "@sirgabite as Apollo",
+        "@solotic. as Alexei",
+        "@solaceinfire as Aelina",
+        "@jackalmuerto as Leo",
+        "@bloodboyce as Eno"
       ]
     }
   ]
