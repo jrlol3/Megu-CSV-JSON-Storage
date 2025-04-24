@@ -1,5 +1,5 @@
 {
-  "timestamp": 1745402417021,
+  "timestamp": 1745485216979,
   "logs": [
     {
       "master": "@desyov",
@@ -11714,6 +11714,34 @@
         "@emgry as Fuji",
         "@lenpendragon as Nanashi",
         "@missingpath as Ebb"
+      ]
+    },
+    {
+      "master": "@xavieremix",
+      "title": "Rocks Fall, Nobody Dies (Hopefully)",
+      "postedAt": 1745442569314,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1364709791242653707",
+      "players": [
+        "@mondayyy as Barry",
+        "@lenpendragon as Asuka",
+        "@solcarona as Eris",
+        "@madamezuri as Cuaromo",
+        "@.galebolg. as Alejandra",
+        "@katen_m as Peri"
+      ]
+    },
+    {
+      "master": "@starfir54",
+      "title": "[Termina City] \"Calling all TEMPs!\"",
+      "postedAt": 1745447112123,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1364728845164609597",
+      "players": [
+        "@mutemissy as Aerah",
+        "@sirgabite as Haru",
+        "@solcarona as Raine",
+        "@gabrielthefool as Naomi",
+        "@rastamufasa as Basil",
+        "@2naf1sh as Gladi"
       ]
     }
   ]
