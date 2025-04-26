@@ -1,5 +1,5 @@
 {
-  "timestamp": 1745575219752,
+  "timestamp": 1745658014459,
   "logs": [
     {
       "master": "@desyov",
@@ -11810,6 +11810,75 @@
         "@lenpendragon as Lin Baimei",
         "@solotic. as Wen Tian",
         "@madrid222 as Tsuiho"
+      ]
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "Pirates of the Lachfair Sea",
+      "postedAt": 1745578300269,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1365279088130002964",
+      "players": [
+        "@solotic.as Noel Salbe",
+        "@leplep as Zophiel",
+        "@missingpath as Flynn",
+        "@desyov as Nai'Kitari",
+        "@madrid222 as Orion"
+      ]
+    },
+    {
+      "master": "@foxfacesuicide",
+      "title": "[Termina City] Lost and Found",
+      "postedAt": 1745618651049,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1365448331568087061",
+      "players": [
+        "@Barry Strike (Monday) as Barry Strike",
+        "@Thiago the Dog as Thiago",
+        "@Raine/Eris | Sol as Raine",
+        "@Caelan Blacklaw as Caelan",
+        "@Nikolai M. as Nova",
+        "@Tatsuya as 1400z materials as Tatsuya"
+      ]
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Eyes of Omoikane] Nekomata-San : Awaken",
+      "postedAt": 1745640694782,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1365540789685583895",
+      "players": [
+        "@seraphim as Kohaku",
+        "@facinarose as Akiko",
+        "@missingpath as Rin",
+        "@_.squibbles._ as Kanon",
+        "@the429117 as Koishi",
+        "@nut_wizard as Ranmaru"
+      ]
+    },
+    {
+      "master": "@mike_miguel_michael",
+      "title": "[Palace Impulse] The Scent of Iron",
+      "postedAt": 1745654030517,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1365596723812106332",
+      "players": [
+        "@Wilhelm | EnderTen as Wilhelm Bergmann",
+        "@Johnathan⁵ | Medja as Johnathan Southworth",
+        "@Lisa⁵ | Ciel as Lisa Aeingradt",
+        "@Dr. O'Riley⁸ | Phos as Dr. Amber O'Riley",
+        "@Jaeger | Rusty as Soren Jaeger",
+        "@Bedivere as Russo \"Basil\" Abetti"
+      ]
+    },
+    {
+      "master": "@gabrielthefool",
+      "title": "[Termina City] Operation S: Recon",
+      "postedAt": 1745655334884,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1365602194723835985",
+      "players": [
+        "@letiana as Amelia",
+        "@.galebolg. as Caelan",
+        "@rastamufasa as Basil",
+        "@sirgabite as Haru",
+        "@leplep as Orpheus",
+        "@lenpendragon as Elaine"
       ]
     }
   ]
