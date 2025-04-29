@@ -1,5 +1,5 @@
 {
-  "timestamp": 1745834419614,
+  "timestamp": 1745917219916,
   "logs": [
     {
       "master": "@desyov",
@@ -12026,6 +12026,56 @@
         "@emgry as Hiya",
         "@madamezuri as Thiago",
         "@vampiremommy as Lillian"
+      ]
+    },
+    {
+      "master": "@missingpath",
+      "title": "The Start of Something New",
+      "postedAt": 1745878248919,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1366537163952492645",
+      "players": [
+        "@emgry as Monique",
+        "@vittinhodosus as Lupo",
+        "@mike_miguel_michael as Calibre"
+      ]
+    },
+    {
+      "master": "@seraphim",
+      "title": "The Blades of Rhew: The Contest Begins",
+      "postedAt": 1745899734395,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1366627280570548345",
+      "players": [
+        "@samikazuki as Anahi",
+        "@enderten as Yoyoy",
+        "@letiana as Erin",
+        "@schwertaria as Aria",
+        "@doobledeedooble as Liliwen",
+        "@solotic. as Alexei"
+      ]
+    },
+    {
+      "master": "@mike_miguel_michael",
+      "title": "The Root of Misery",
+      "postedAt": 1745904205930,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1366646035547553853",
+      "players": [
+        "@enderten as Kit",
+        "@desyov as Faust",
+        "@honeydewmelons as Isolde"
+      ]
+    },
+    {
+      "master": "@phosphophyllite0",
+      "title": "The Howling of Madmen",
+      "postedAt": 1745907618781,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1366660350082154546",
+      "players": [
+        "@lenpendragon as Nanashi",
+        "@.galebolg. as Alejandra",
+        "@niorno. as James",
+        "@vampiremommy as Akahime",
+        "@vievinvalor as Kelden",
+        "@hyper_117 as Laeli"
       ]
     }
   ]
