@@ -1,5 +1,5 @@
 {
-  "timestamp": 1745920821135,
+  "timestamp": 1746003616575,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -16,7 +16,7 @@
     "@incognegro": {
       "username": "@incognegro",
       "id": "118899054179516417",
-      "gameCount": 59,
+      "gameCount": 60,
       "tier": "GM: World Builder - T2"
     },
     "@2naf1sh": {
@@ -46,7 +46,7 @@
     "@samikazuki": {
       "username": "@samikazuki",
       "id": "173547590694993920",
-      "gameCount": 23,
+      "gameCount": 24,
       "tier": "GM: Storyteller - T1"
     },
     "@yoshimage": {
@@ -106,13 +106,13 @@
     "@solotic.": {
       "username": "@solotic.",
       "id": "384371410576998401",
-      "gameCount": 24,
+      "gameCount": 25,
       "tier": "GM: Storyteller - T1"
     },
     "@seraphim": {
       "username": "@seraphim",
       "id": "108744783031185408",
-      "gameCount": 44,
+      "gameCount": 45,
       "tier": "GM: Storyteller - T1"
     },
     "@sawzie": {
@@ -226,7 +226,7 @@
     "@rastamufasa": {
       "username": "@rastamufasa",
       "id": "283019070578753536",
-      "gameCount": 16,
+      "gameCount": 17,
       "tier": "GM: Storyteller - T1"
     },
     "@ijiyiji": {
@@ -256,7 +256,7 @@
     "@foxfacesuicide": {
       "username": "@foxfacesuicide",
       "id": "181593003008327680",
-      "gameCount": 18,
+      "gameCount": 19,
       "tier": "GM: Apprentice - T0"
     },
     "@phosphophyllite0": {
@@ -311,6 +311,12 @@
       "username": "@leplep",
       "id": "106596968976957440",
       "gameCount": 2,
+      "tier": "GM: Apprentice - T0"
+    },
+    "@mondayyy": {
+      "username": "@mondayyy",
+      "id": "318588979433963530",
+      "gameCount": 1,
       "tier": "GM: Apprentice - T0"
     }
   }
