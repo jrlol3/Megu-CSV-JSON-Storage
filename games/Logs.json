@@ -1,5 +1,5 @@
 {
-  "timestamp": 1746093621057,
+  "timestamp": 1746176420568,
   "logs": [
     {
       "master": "@desyov",
@@ -12202,6 +12202,44 @@
         "@Lisa⁵ |  Ciel as Lisa Aeingradt",
         "@Ayan | Galen as Ayan Jabir",
         "@Elvis | Shing as Elvis"
+      ]
+    },
+    {
+      "master": "@agentdj",
+      "title": "Champions of Nimue",
+      "postedAt": 1746118183007,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1367543520457654344",
+      "players": [
+        "@celesteias as Solana",
+        "@foxfacesuicide as Helios",
+        "@sussy_arata as Nasser Sayid",
+        "@the429117 as Zaid"
+      ]
+    },
+    {
+      "master": "@phosphophyllite0",
+      "title": "Burning For You",
+      "postedAt": 1746136928629,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1367622145294864500",
+      "players": [
+        "@enderten as Yoyoy",
+        "@lenpendragon as Elaine",
+        "@mike_miguel_michael as Mabilis",
+        "@vittinhodosus as Mel",
+        "@doctor_temmie as Brigitta",
+        "@madamezuri as Lionel"
+      ]
+    },
+    {
+      "master": "@starfir54",
+      "title": "To Hunt a Demon...",
+      "postedAt": 1746143527758,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1367649824048025611",
+      "players": [
+        "@oleamollevampire as Rue",
+        "@lenpendragon as Nanashi",
+        "@schwertaria as Adelphel",
+        "@itstheroyaljester as Iris"
       ]
     }
   ]
