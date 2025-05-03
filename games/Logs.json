@@ -1,5 +1,5 @@
 {
-  "timestamp": 1746180023746,
+  "timestamp": 1746262823648,
   "logs": [
     {
       "master": "@desyov",
@@ -12240,6 +12240,88 @@
         "@lenpendragon as Nanashi",
         "@schwertaria as Adelphel",
         "@itstheroyaljester as Iris"
+      ]
+    },
+    {
+      "master": "@sunny.something",
+      "title": "The Overlord of Kerbonn",
+      "postedAt": 1746194029247,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1367861642645475498",
+      "players": [
+        "@sleepy_bernkastel as Kawa",
+        "@solaceinfire as Saki",
+        "@the_1spark as Lumio",
+        "@agentdj as Violet",
+        "@brooms as Echo",
+        "@and @oleamollevampie as Isobel"
+      ]
+    },
+    {
+      "master": "@vievinvalor",
+      "title": "The Empty Glass",
+      "postedAt": 1746212534103,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1367939257637011638",
+      "players": [
+        "@Vania as Vania",
+        "@Zaylee | JVDragoon as Zaylee",
+        "@Asuka | Len as Asuka",
+        "@Isagani | Leplep as Isagani",
+        "@Ekho | RayHammer as Ekho"
+      ]
+    },
+    {
+      "master": "@starfir54",
+      "title": "[Horsemen] \"The White Rider, first of Plagues...\"",
+      "postedAt": 1746234127286,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1368029826010583160",
+      "players": [
+        "@_.squibbles._ as Kanon",
+        "@seraphim as Trif",
+        "@bancho_bancho as Lochlann",
+        "@.galebolg. as Caelan",
+        "@samikazuki as Ed",
+        "@mutemissy as Mae"
+      ]
+    },
+    {
+      "master": "@seraphim",
+      "title": "The Mark of the Moth: False Hope",
+      "postedAt": 1746243983050,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1368071164081209435",
+      "players": [
+        "@solotic. as Alexei",
+        "@doobledeedooble as Liliwen",
+        "@oleamollevampie as Rue",
+        "@schwertaria as Adelphel",
+        "@starfir54 as Tomiko",
+        "@itstheroyaljester as Iris Blue"
+      ]
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "Aranova: Squishy, Pudgy, Extremely Aggressive",
+      "postedAt": 1746258026227,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1368130065434546256",
+      "players": [
+        "@incognegro as Mahuizoh",
+        "@samikazuki as Risata",
+        "@emgry as Fuji",
+        "@schwertaria as Benício",
+        "@facinarose as Charlotte",
+        "@doobledeedooble as Madhuri"
+      ]
+    },
+    {
+      "master": "@gabrielthefool",
+      "title": "Termina City] Operation S: Syntropy Funneler",
+      "postedAt": 1746262494243,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1368148805651927092",
+      "players": [
+        "@.galebolg. as Caelan",
+        "@mondayyy as Barry",
+        "@mutemissy as Mae",
+        "@caelum_blue as Mutt",
+        "@leplep as Orpheus"
       ]
     }
   ]
