@@ -1,5 +1,5 @@
 {
-  "timestamp": 1746262823630,
+  "timestamp": 1746266421269,
   "games": [
     {
       "title": "First Introductions",
@@ -10830,6 +10830,17 @@
       "time": "<t:1746309600:F>",
       "public": false,
       "creator": "= 中国 ="
+    },
+    {
+      "title": "[Termina City] First Wave",
+      "postedAt": 1746266142331,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1368164106841882634",
+      "pings": [
+        "1170826716571238410"
+      ],
+      "time": "<t:1746298800:F>",
+      "public": true,
+      "creator": "gabagabagu"
     }
   ]
 }
