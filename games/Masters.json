@@ -1,5 +1,5 @@
 {
-  "timestamp": 1746957621874,
+  "timestamp": 1747040416647,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -184,7 +184,7 @@
     "@vittinhodosus": {
       "username": "@vittinhodosus",
       "id": "178906027914297344",
-      "gameCount": 36,
+      "gameCount": 37,
       "tier": "GM: World Builder - T2"
     },
     "@sleepy_bernkastel": {
@@ -238,13 +238,13 @@
     "@angrykitsu": {
       "username": "@angrykitsu",
       "id": "169795599758131200",
-      "gameCount": 36,
+      "gameCount": 39,
       "tier": "GM: Storyteller - T1"
     },
     "@mike_miguel_michael": {
       "username": "@mike_miguel_michael",
       "id": "178284834978791425",
-      "gameCount": 17,
+      "gameCount": 18,
       "tier": "GM: Storyteller - T1"
     },
     "@madrid222": {
@@ -285,9 +285,9 @@
     },
     "@wandering": {
       "username": "@wandering",
-      "id": "162680177665638401",
+      "id": null,
       "gameCount": 1,
-      "tier": "GM: Apprentice - T0"
+      "tier": null
     },
     "@the429117": {
       "username": "@the429117",
