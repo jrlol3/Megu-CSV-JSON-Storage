@@ -1,5 +1,5 @@
 {
-  "timestamp": 1746957621846,
+  "timestamp": 1747040416615,
   "games": [
     {
       "title": "First Introductions",
@@ -11165,6 +11165,17 @@
       "time": "<t:1747443600:F>",
       "public": true,
       "creator": "zzLyle (& VIAL) | AgentDJ"
+    },
+    {
+      "title": "RETRIEVE THE MACGUFFIN!!!!!!!!!!",
+      "postedAt": 1746977479458,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1371147670999269446",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1746995400:F>",
+      "public": true,
+      "creator": "zzthe spectatorrrrrr (Monday)"
     }
   ]
 }
