@@ -1,5 +1,5 @@
 {
-  "timestamp": 1747044023087,
+  "timestamp": 1747126822354,
   "logs": [
     {
       "master": "@desyov",
@@ -12678,6 +12678,48 @@
         "@theworldweavingcloud as Ronan",
         "@caelum_blue as Celine",
         "@vievinvalor as Sella"
+      ]
+    },
+    {
+      "master": "@starfir54",
+      "title": "[Horsemen] \"The Red Rider, second of Blood...\"",
+      "postedAt": 1747107035853,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1371691069905047555",
+      "players": [
+        "@bancho_bancho as Lochlann",
+        "@samikazuki as Ed",
+        "@schhwertaria as Tatsuya",
+        "@_.squibbles._ as Kanon",
+        "@sleepy_bernkastel as Alec",
+        "@seraphim as Trif"
+      ]
+    },
+    {
+      "master": "@seraphim",
+      "title": "Blades of Rhew: Horizon of Second Dusk",
+      "postedAt": 1747112921256,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1371715755074392084",
+      "players": [
+        "@samikazuki as Anahi",
+        "@oleamollevampie as Isobel",
+        "@sleepy_bernkastel as Raia",
+        "@schwertaria as Aria",
+        "@nut_wizard as Ranmaru",
+        "@mutemissy as Fernia"
+      ]
+    },
+    {
+      "master": "@seraphim",
+      "title": "Blades of Rhew: The Horizon of the Second Dusk",
+      "postedAt": 1747116771045,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1371731902259789845",
+      "players": [
+        "@schwertaria as Aria",
+        "@oleamollevampie as Isobel",
+        "@doobledeedooble as Liliwen",
+        "@samikazuki as Anahi",
+        "@sleepy_bernkastel as Raia",
+        "@starfir54 as Tomiko"
       ]
     }
   ]
