@@ -1,5 +1,5 @@
 {
-  "timestamp": 1747130422189,
+  "timestamp": 1747213221483,
   "logs": [
     {
       "master": "@desyov",
@@ -12720,6 +12720,75 @@
         "@samikazuki as Anahi",
         "@sleepy_bernkastel as Raia",
         "@starfir54 as Tomiko"
+      ]
+    },
+    {
+      "master": "@gabrielthefool",
+      "title": "[Termina City] A weapon deserves rest",
+      "postedAt": 1747174747752,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1371975074193608764",
+      "players": [
+        "@lenpendragon as Elaine",
+        "@schwertaria as Tastuya",
+        "@sleepy_bernkastel as Alec",
+        "@bancho_bancho as Bancho",
+        "@emgry as Mongrel",
+        "@solotic. as Wen Tian"
+      ]
+    },
+    {
+      "master": "@vievinvalor",
+      "title": "Gathering the Empty Nest",
+      "postedAt": 1747175499439,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1371978226997530845",
+      "players": [
+        "@Lillian | Neon as Lillian",
+        "@Isagani | Leplep as Isagani",
+        "@Vania as Vania",
+        "@Basil | Rada as Basil",
+        "@Tsumugi | Maxxine as Tsumugi"
+      ]
+    },
+    {
+      "master": "@agentdj",
+      "title": "Heroes of the Past",
+      "postedAt": 1747188370375,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1372032211616006326",
+      "players": [
+        "@missingpath",
+        "@the429117",
+        "@foxfacesuicide",
+        "@celesteias",
+        "@sussy_arata"
+      ]
+    },
+    {
+      "master": "@gabrielthefool",
+      "title": "[Termina City] Second Wave",
+      "postedAt": 1747202818301,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1372092810609557586",
+      "players": [
+        "@seizui as Keith",
+        "@sussy_arata as Keiji",
+        "@phosphophyllite0 as Keiko",
+        "@enderten as Kit",
+        "@2naf1sh as Gyalwa",
+        "@mike_miguel_michael as Calibre"
+      ]
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "[To the End of the World] - Breaking Free",
+      "postedAt": 1747210785512,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1372126227514523741",
+      "players": [
+        "@madamezuri as Çuaromo",
+        "@flaahn as Taavi",
+        "@seraphim as Saga",
+        "@lenpendragon as Nanashi",
+        "@emgry as Fuji",
+        "@missingpath as Ebb",
+        "@theworldweavingcloud as Iori"
       ]
     }
   ]
