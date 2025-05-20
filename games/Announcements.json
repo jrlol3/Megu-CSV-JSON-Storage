@@ -1,5 +1,5 @@
 {
-  "timestamp": 1747648820660,
+  "timestamp": 1747731619714,
   "games": [
     {
       "title": "First Introductions",
@@ -11490,6 +11490,50 @@
       "time": "<t:1747621800:F>",
       "public": true,
       "creator": ".Ms. Teisei. | 🎭🌱🔑🀄 🖤"
+    },
+    {
+      "title": "Jizou's Mercy: The Cure",
+      "postedAt": 1747661879231,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1374018251704500256",
+      "pings": [
+        "1170826784862908661"
+      ],
+      "time": "<t:1747692000:F>",
+      "public": true,
+      "creator": ".Ms. Teisei. | 🎭🌱🔑🀄 🖤"
+    },
+    {
+      "title": "Death is Always on the Table",
+      "postedAt": 1747665980747,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1374035454709600276",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1748041200:F>",
+      "public": true,
+      "creator": "Kori von Kleist"
+    },
+    {
+      "title": "The Night Parade of 100 Demons: Kenkubi",
+      "postedAt": 1747698760071,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1374172941159239742",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1747764000:F>",
+      "public": true,
+      "creator": "Kohaku Aiuchi"
+    },
+    {
+      "title": "The Perfect Medicine",
+      "postedAt": 1747724301544,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1374280069861736532",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1747787400:F>",
+      "public": true,
+      "creator": "==GAMING MASTERRRR== (Monday)"
     }
   ]
 }
