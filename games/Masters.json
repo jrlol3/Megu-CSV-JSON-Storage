@@ -1,5 +1,5 @@
 {
-  "timestamp": 1747821620940,
+  "timestamp": 1747904421944,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -17,13 +17,13 @@
       "username": "@incognegro",
       "id": "118899054179516417",
       "gameCount": 62,
-      "tier": "GM: World Builder - T2"
+      "tier": "GM: Reality Shaper - T3"
     },
     "@2naf1sh": {
       "username": "@2naf1sh",
       "id": "365605862615810049",
       "gameCount": 74,
-      "tier": "GM: World Builder - T2"
+      "tier": "GM: Reality Shaper - T3"
     },
     "@stickybarb": {
       "username": "@stickybarb",
@@ -112,7 +112,7 @@
     "@seraphim": {
       "username": "@seraphim",
       "id": "108744783031185408",
-      "gameCount": 56,
+      "gameCount": 57,
       "tier": "GM: World Builder - T2"
     },
     "@sawzie": {
@@ -172,7 +172,7 @@
     "@madamezuri": {
       "username": "@madamezuri",
       "id": "457645105122115615",
-      "gameCount": 45,
+      "gameCount": 46,
       "tier": "GM: Storyteller - T1"
     },
     "@saruno": {
@@ -201,9 +201,9 @@
     },
     "@gabrielthefool": {
       "username": "@gabrielthefool",
-      "id": "142973642093887488",
+      "id": null,
       "gameCount": 59,
-      "tier": "GM: Storyteller - T1"
+      "tier": null
     },
     "@letiana": {
       "username": "@letiana",
@@ -214,7 +214,7 @@
     "@missingpath": {
       "username": "@missingpath",
       "id": "181544205796114433",
-      "gameCount": 18,
+      "gameCount": 19,
       "tier": "GM: World Builder - T2"
     },
     "@doctor_temmie": {
