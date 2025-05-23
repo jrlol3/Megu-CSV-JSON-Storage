@@ -923,9 +923,10 @@ Merchant 3",,11,"Haven, Terra",,"A slim person with light brown skin, hair made 
 - Enjoyed bartending, but it doesn't pay the bills
 - But what if he made his own bar?
 - Now actively trying to schmooze a way into owning his own bar where he can control the shots and be better than what he's seen (he's unfortunately suspect to the wheel that grinds everyone under it).",Aspiration
-Erin Shephard,299015281853071360,1359338987046830336,3859edb0-0563-4f72-b2d6-c9cff3f5a49f,https://i.imgur.com/4o6dZB7.png,,https://docs.google.com/spreadsheets/d/1ieYWFRDhIZ4aSK2hgbcgO5Csb1N0Lw-MjhUUrWGBNog/edit?usp=sharing,"Pilot - 10
-Tinkerer - 4
-Guardian - 1",,15,"Steelbin, Kaiway",,Erin is a 5' 10 young woman with tan skin and shaggy brown hair. She is often seen in her uniform though it has the wear and tear of being in it when she is both training and working. A mechanical surfboard-esque thing is often slung over her shoulder that has become a staple for many who see her.,,,,"- Born and raised in Steelbin's Civilized Zone with her older brother, Anthony Shephard. Their parents made their living being mechanics for Machina.
+Erin Shephard,299015281853071360,,3859edb0-0563-4f72-b2d6-c9cff3f5a49f,https://i.imgur.com/4o6dZB7.png,,https://docs.google.com/spreadsheets/d/1ieYWFRDhIZ4aSK2hgbcgO5Csb1N0Lw-MjhUUrWGBNog/edit?usp=sharing,"Pilot - 10
+Tinkerer - 8
+Guardian - 1
+Rogue - 1",,20,"Steelbin, Kaiway",,Erin is a 5' 10 young woman with tan skin and shaggy brown hair. She is often seen in her uniform though it has the wear and tear of being in it when she is both training and working. A mechanical surfboard-esque thing is often slung over her shoulder that has become a staple for many who see her.,,,,"- Born and raised in Steelbin's Civilized Zone with her older brother, Anthony Shephard. Their parents made their living being mechanics for Machina.
 - The two siblings were raised to be skilled craftsmen and Anthony gained patronage to the Academy due to engineering skills. Anthony then brought attention to his younger sister Erin, who held the same promising skills but seemed more focused on using it on her own projects.
 - Under Anthony's recommendation, Erin received the same patronage but was more eager at the chance to leave Steelbin behind than learning new skills.
 - Erin has been a student now for two years and while her brother was a perfect student, she failed to meet those expectations so she focused on proceeding to do the bare minimum to stay enrolled and no more than that.",Ambition
@@ -1329,9 +1330,9 @@ Feels more comfortable with metal then skin
 Now protects those as a metal husk of a man believing metal cold emotionless is superior to feeling and emotion",Progress
 Iara Amrade,141687335241646081,1296886796252352512,cab4649f-70f0-4805-b292-e924fee3b73b,https://i.imgur.com/RoTQzOB.png,,https://docs.google.com/spreadsheets/d/1Tr4y7sbAQOs-Yq0NrIaDd43aSZckNAwk7UNmE5-8Bb4/edit?gid=0#gid=0,"Spiritist 3
 Entropist 2",,5,"Dryholde, Kor'Tarion",,"Tall, Silver-eyed lady with blue eyes. Often gazing at the horizon when lost in thought.",,,,,Belonging
-Icarus Vittore,181593003008327680,1368214668061179904,9727a331-0484-4fa9-9a58-7626d1c7d980,https://i.imgur.com/bzouLiI.png,[**~~NTTECH CLASSIFIED INFORMATION~~**](https://discord.com/channels/1169852846083153941/1170111183869706362/1342337462768373800),"[*""Don't look at me like that.""*](https://docs.google.com/spreadsheets/d/1veT-xvK8ZCcXhgrrregESUi2p5iyp8QxeK_R51KYV6o/edit?gid=0#gid=0)","Sharpshooter 2
-Tinkerer 7
-Esper 1",#FFFFFF,10,"Silver Canyon, Terra",I.V.,"Icarus is a very slender, young man with a permanent grimace towards the world. He moves with a graceful precision, and his fierce golden eyes convey a sense that he is always intently focusing on something about to happen. He has light skin, and even lighter, platinum blonde hair. When fully clothed in his traditional Terran streetwear, one would not be remiss to assume him to be a perfectly normal human being. However, when exposed, one can see transluscent feathers erupting from the skin on his forearms and calves. These are a mark of his experimentation, and he hides them at all costs, ashamed that they remind him of failure.",Levitation (Flight Quirk),,There are no gods.,"- A ""failed"" experiment, created by a scientific collaboration between NTTech and DHK Heavy Industries.
+Icarus Vittore,181593003008327680,1375516118227095552,9727a331-0484-4fa9-9a58-7626d1c7d980,https://i.imgur.com/bzouLiI.png,[**~~NTTECH CLASSIFIED INFORMATION~~**](https://discord.com/channels/1169852846083153941/1170111183869706362/1342337462768373800),"[*""Don't look at me like that.""*](https://docs.google.com/spreadsheets/d/1veT-xvK8ZCcXhgrrregESUi2p5iyp8QxeK_R51KYV6o/edit?gid=0#gid=0)","Sharpshooter 2
+Tinkerer 9
+Esper 1",#FFFFFF,12,"Silver Canyon, Terra",I.V.,"Icarus is a very slender, young man with a permanent grimace towards the world. He moves with a graceful precision, and his fierce golden eyes convey a sense that he is always intently focusing on something about to happen. He has light skin, and even lighter, platinum blonde hair. When fully clothed in his traditional Terran streetwear, one would not be remiss to assume him to be a perfectly normal human being. However, when exposed, one can see transluscent feathers erupting from the skin on his forearms and calves. These are a mark of his experimentation, and he hides them at all costs, ashamed that they remind him of failure.",Levitation (Flight Quirk),,There are no gods.,"- A ""failed"" experiment, created by a scientific collaboration between NTTech and DHK Heavy Industries.
 - Left to die in NTTech Territories, but managed to survive despite the odds.
 - Part human, part avian DNA with apparent Esper abilities.
 - Worked as an assassin-for-hire as part of the Vignettes.
@@ -2108,19 +2109,15 @@ Elementalist [1]
 Symbolist [2]",,8,"Brightshield, Kor'Tarion",,"Mel stands at a moderate height, around 1,75 cm. A dense high ponytail, woven with an intricate braid, showcases her striking yellowish orange hair, resembling that of a lion. Her brown eyes bear sparkling traces of yellow, showing to the future a bright view with optimism. 
 
 She dresses in hot and sunny colors, which complement the looks of her hair and the little but furry tail on her back. Those colors exhibit her liveliness and her bright, positive view in life.",No,,,,Optimistic elemental archer
-Mel Monroe,178906027914297344,1358520556860997888,d42b7a9a-373e-456e-9829-1097e2da6a0b,https://i.imgur.com/prVfjl5.png,[Bio Link](https://discord.com/channels/1169852846083153941/1170111183869706362/1291568797471473706),[Verify Temp License - Issued by PARABELLUM](https://docs.google.com/spreadsheets/d/1VumFQlAIirmD3pVIu358B_TYtPG6RS5rfqjVRY8Km2U/edit?gid=0#gid=0),"Weaponmaster 10;
+Mel Monroe,178906027914297344,1375522875464880384,d42b7a9a-373e-456e-9829-1097e2da6a0b,https://i.imgur.com/gPvRjA2.png,[Bio Link](https://discord.com/channels/1169852846083153941/1170111183869706362/1291568797471473706),[Verify Temp License - Issued by PARABELLUM](https://docs.google.com/spreadsheets/d/1VumFQlAIirmD3pVIu358B_TYtPG6RS5rfqjVRY8Km2U/edit?gid=0#gid=0),"Weaponmaster 10;
 Guardian 4;
 Rogue 3;
-Tinkerer 2;",#008080,19,"South Rock, Haven, Terra",,"Melinda is a slim, tall and sharply dressed female human from Terra. Her white hair is often arranged in a high ponytail with little hair streaks by the side, hiding the handles of her round reading glasses she sometimes puts to good use.
+Tinkerer 3;",#008080,20,"South Rock, Haven, Terra",,"Melinda is a slim, tall and sharply dressed female human from Terra. Her white hair is often arranged in a high ponytail with little hair streaks by the side, hiding the handles of her round reading glasses she sometimes puts to good use.
 
 Her style is often high class, after already having seen the lows of life, usually sporting a black tie as a habit from her monster hunting days at Parabellum. Her go to colors are white and black, matching her hair and overall personality.
 
-A smile for the welcome, a fist for the wicked. This is the philosophy that has carried her for the last few decades, and will continue to until her last breath.",Heirloom (Severance),"**ACCESSORIES:**
-- **Micro Missile Launcher:** At your turn start, Slow creatures on the scene may lose 5 HP.
-**ARMOR:**
-- **Light Kevlar Suit:** You are immune to Slow.
-**WEAPONS:**
-- **Severance ✦ :** Your attacks with swords deal 5 extra damage..",,"- Monsters Hunter for PARABELLUM ever since young.
+A smile for the welcome, a fist for the wicked. This is the philosophy that has carried her for the last few decades, and will continue to until her last breath.",Heirloom (Severance),"- **SEVERANCE, THE NEGATIVE EDGE WEAPON (N.E.W)** 
+> A sword-type N.E.W created specifically for Mel back in her prime, when these were less regulated. These are dangerous and unstable pieces of technology that can go through through any material. They must be kept in special containers, or will degrade all matter around them. When used, it leaves a negative energy trail that can be detected by high tier magic or tech. Their existence is secretive, their creation is closely regulated by the Prime Corporations, and some percieve them as portable nukes.",,"- Monsters Hunter for PARABELLUM ever since young.
 - Rose quickly through the ranks because of efficieny and morals.
 - Got married late in life and decided to stop working at 50 years old.
 - Spent the last 10 years in love, but then wife died.
