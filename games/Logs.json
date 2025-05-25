@@ -1,5 +1,5 @@
 {
-  "timestamp": 1748080822190,
+  "timestamp": 1748163619770,
   "logs": [
     {
       "master": "@desyov",
@@ -13275,6 +13275,76 @@
         "@nikolaim as Cyph",
         "@enderten as Yoyoy",
         "@.galebolg. as Caelan"
+      ]
+    },
+    {
+      "master": "@vittinhodosus",
+      "title": "[Aranova] Shadow and Blood",
+      "postedAt": 1748105926250,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1375880719892480090",
+      "players": [
+        "@madamezuri as **Thiadog**.",
+        "@rastamufasa as **Eurydice**.",
+        "@mike_miguel_michael as **Orpheus**.",
+        "@brooms as **Cyrus**.",
+        "@foxfacesuicide as **A'shibah**.",
+        "@solcarona as **Hibiki**."
+      ]
+    },
+    {
+      "master": "@seraphim",
+      "title": "The Blades of Rhew: Dawn and Dusk",
+      "postedAt": 1748106739901,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1375884132592128050",
+      "players": [
+        "@schwertaria as Aria",
+        "@doobledeedooble as Liliwen",
+        "@oleamollevampie as Isobel",
+        "@mutemissy as Fernia",
+        "@sussy_arata as Lin Shen",
+        "@rastamufasa as Guo Muchen"
+      ]
+    },
+    {
+      "master": "@seraphim",
+      "title": "The Golden Boar Merchant Guild: The Lady of House Mǎzhàn",
+      "postedAt": 1748137205502,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1376011914584526938",
+      "players": [
+        "@madrid222 as Tsuiho",
+        "@schwertaria as Aria",
+        "@honeydewmelons as Brooks",
+        "@_.squibbles._ as Kanon",
+        "@lenpendragon as Lin Baimei",
+        "@hejtan as Heinrich"
+      ]
+    },
+    {
+      "master": "@starfir54",
+      "title": "To Wish Upon a Star...",
+      "postedAt": 1748142147239,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1376032641731526799",
+      "players": [
+        "@samikazuki as Ed",
+        "@solaceinfire as Saki",
+        "@leplep as Elijah-2615",
+        "@sleepybernkastel as Kawa",
+        "@maddamezuri as Lionel",
+        "@incognegro as Kviss"
+      ]
+    },
+    {
+      "master": "@seraphim",
+      "title": "The Midnight Lotus: The Highest Petal Graces the Lowest Ground",
+      "postedAt": 1748155755133,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1376089717375893534",
+      "players": [
+        "@madrid222 as Tsuiho",
+        "@lenpendragon as Lin Baimei",
+        "@schwertaria as Aria",
+        "@rastamufasa as Guo Muchen",
+        "@doobledeedooble as Katya",
+        "@sussy_arata as Lin Shen"
       ]
     }
   ]
