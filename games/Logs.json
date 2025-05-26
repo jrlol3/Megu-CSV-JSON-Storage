@@ -1,5 +1,5 @@
 {
-  "timestamp": 1748167222123,
+  "timestamp": 1748250021861,
   "logs": [
     {
       "master": "@desyov",
@@ -13345,6 +13345,68 @@
         "@rastamufasa as Guo Muchen",
         "@doobledeedooble as Katya",
         "@sussy_arata as Lin Shen"
+      ]
+    },
+    {
+      "master": "@samikazuki",
+      "title": "Jizou's Mercy: The Cure",
+      "postedAt": 1748190640086,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1376236035473801437",
+      "players": [
+        "@incognegro as Shuye",
+        "@angrykitsu as Horoko (Shiori)",
+        "@theelusivegin as Gin",
+        "@lenpendragon as Izu",
+        "@solaceinfire as Tzera"
+      ]
+    },
+    {
+      "master": "@samikazuki",
+      "title": "Jizou's Mercy: The Family Visit (B-Plot)",
+      "postedAt": 1748191072566,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1376237849426530596",
+      "players": [
+        "@madrid222 as Tsuihou",
+        "@sleepy_bernkastel as Raia",
+        "@angrykitsu as Shiori",
+        "@phosphophyllite0 as Keiko"
+      ]
+    },
+    {
+      "master": "@starfir54",
+      "title": "A Terrible Night to Have a Curse: Snowmaw",
+      "postedAt": 1748202742153,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1376286795221696542",
+      "players": [
+        "@seraphim as Esmon",
+        "@facinarose as Akiko",
+        "@leplep as Elijah-2615",
+        "@oleamollevampie as Rue",
+        "@.galebolg. as Cypher",
+        "@caelum_blue as Celine"
+      ]
+    },
+    {
+      "master": "@madamezuri",
+      "title": "[Behold, Bhavya] Someone's Gotta Die Today",
+      "postedAt": 1748210666865,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1376320033873199195",
+      "players": [
+        "@katen_m as Ananda",
+        "@_.squibbles._ as Charlies",
+        "@brooms as Cyrus",
+        "@doobledeedooble as Madhuri",
+        "@dragoneldester as Aijing"
+      ]
+    },
+    {
+      "master": "@foxfacesuicide",
+      "title": "Dust to Dust",
+      "postedAt": 1748230084945,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1376401479203815545",
+      "players": [
+        "@missingpath as Dawn of Nezmira",
+        "@desyov as Dr. Lawrence Faust"
       ]
     }
   ]
