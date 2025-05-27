@@ -1,5 +1,5 @@
 {
-  "timestamp": 1748253620428,
+  "timestamp": 1748336420531,
   "logs": [
     {
       "master": "@desyov",
@@ -13407,6 +13407,34 @@
       "players": [
         "@missingpath as Dawn of Nezmira",
         "@desyov as Dr. Lawrence Faust"
+      ]
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "[A Fitting Death] Feast of the Dead",
+      "postedAt": 1748255309714,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1376507279553331351",
+      "players": [
+        "@the_1spark as Lumio",
+        "@biffmcmanly as Reynaud",
+        "@oleamollevampie as Isobel",
+        "@brooms as Echo",
+        "@caelum_blue as Yukari",
+        "@phosphophyllite0 as Mokah"
+      ]
+    },
+    {
+      "master": "@starfir54",
+      "title": "[Horsemen] Between a Rock and a Hard Place",
+      "postedAt": 1748276088614,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1376594432576720989",
+      "players": [
+        "@letiana as Amelia",
+        "@pidgeon as Caliste",
+        "@leplep as Orpheus",
+        "@seraphim as Trif",
+        "@oleamollevampie as Wraith",
+        "@angrykitsu as Zoe"
       ]
     }
   ]
