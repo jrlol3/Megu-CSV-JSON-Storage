@@ -1,5 +1,5 @@
 {
-  "timestamp": 1748512824187,
+  "timestamp": 1748595618723,
   "logs": [
     {
       "master": "@desyov",
@@ -13503,6 +13503,32 @@
         "@nikolaim. as Eluna",
         "@lillie2071 as Sarah of Lances",
         "@lenpendragon as Nanashi"
+      ]
+    },
+    {
+      "master": "@phosphophyllite0",
+      "title": "Dead Man Walking",
+      "postedAt": 1748555744686,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1377767395157872782",
+      "players": [
+        "@lenpendragon as Elaine",
+        "@brooms as Cyrus",
+        "@mutemissy as Aerah",
+        "@sleepy_bernkastel as Caspian",
+        "@doctor_temmie as Brigitta",
+        "@solaceinfire as Aelina"
+      ]
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "Shining Blade",
+      "postedAt": 1748563308331,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1377799119384481832",
+      "players": [
+        "@Temmie as Brigitta",
+        "@Caelum as Celine",
+        "@Vie as Sella",
+        "@Caelan Blacklaw as Cypher"
       ]
     }
   ]
