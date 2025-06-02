@@ -1,5 +1,5 @@
 {
-  "timestamp": 1748772022073,
+  "timestamp": 1748854822242,
   "games": [
     {
       "title": "First Introductions",
@@ -11992,6 +11992,39 @@
       "time": "<t:1748751300:F>",
       "public": true,
       "creator": "Anahi🌱(Sammy)"
+    },
+    {
+      "title": "Supply and Demand",
+      "postedAt": 1748800136046,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1378792446816813127",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1748802600:F>",
+      "public": true,
+      "creator": "Enlai | The42"
+    },
+    {
+      "title": "Jizou's Mercy : Side Effect One",
+      "postedAt": 1748824236470,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1378893531321471056",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1748827806:F>",
+      "public": true,
+      "creator": ".Ms. Teisei. (Sammy)"
+    },
+    {
+      "title": "The Cost of Spilled Blood",
+      "postedAt": 1748850118019,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1379002086406094898",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1748853020:F>",
+      "public": true,
+      "creator": "Naiki'tari 🔮"
     }
   ]
 }
