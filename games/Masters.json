@@ -1,5 +1,5 @@
 {
-  "timestamp": 1748944819599,
+  "timestamp": 1749027619836,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -112,7 +112,7 @@
     "@seraphim": {
       "username": "@seraphim",
       "id": "108744783031185408",
-      "gameCount": 62,
+      "gameCount": 63,
       "tier": "GM: World Builder - T2"
     },
     "@sawzie": {
@@ -209,7 +209,7 @@
       "username": "@letiana",
       "id": "299015281853071360",
       "gameCount": 15,
-      "tier": "GM: Storyteller - T1"
+      "tier": "GM: World Builder - T2"
     },
     "@missingpath": {
       "username": "@missingpath",
