@@ -1,5 +1,5 @@
 {
-  "timestamp": 1749031225414,
+  "timestamp": 1749114019504,
   "games": [
     {
       "title": "First Introductions",
@@ -12096,6 +12096,37 @@
       "time": "<t:1749020431:F>",
       "public": true,
       "creator": "zz ☆"
+    },
+    {
+      "title": "The Seer, the Fox, and the Egg",
+      "postedAt": 1749046310151,
+      "link": "https://discord.com/channels/1169852846083153941/1170183729856135250/1379824975850242148",
+      "pings": [],
+      "time": "<t:1749103200:F>",
+      "public": false,
+      "creator": "Gyalwa with an identity crisis"
+    },
+    {
+      "title": "The Night Parade of 100 Demons: Amagi",
+      "postedAt": 1749074323647,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1379942472968437801",
+      "pings": [
+        "1170826716571238410"
+      ],
+      "time": "<t:1749081622:F>",
+      "public": true,
+      "creator": "zz"
+    },
+    {
+      "title": "Heart of Fire",
+      "postedAt": 1749096962557,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1380037427439210506",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1749751200:F>",
+      "public": true,
+      "creator": "Phos"
     }
   ]
 }
