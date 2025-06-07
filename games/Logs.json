@@ -1,5 +1,5 @@
 {
-  "timestamp": 1749204022111,
+  "timestamp": 1749286823448,
   "logs": [
     {
       "master": "@desyov",
@@ -13925,6 +13925,45 @@
         "@phosphophyllite0 as Lizbern",
         "@madamezuri as Tyra",
         "@squidlover23 Timothy"
+      ]
+    },
+    {
+      "master": "@incognegro",
+      "title": "The Grind Never Stops",
+      "postedAt": 1749262890278,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1380733378743242843",
+      "players": [
+        "@serrayes as Hoshiko",
+        "@missingpath as Rin",
+        "@emgry as Hiya",
+        "@letiana as Nuying",
+        "@mooshen as Shing"
+      ]
+    },
+    {
+      "master": "@seraphim",
+      "title": "The Night Parade of 100 Demons: Amagi",
+      "postedAt": 1749268410754,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1380756533297807440",
+      "players": [
+        "@facinarose as Akiko",
+        "@sleepy_bernkastel as Raia",
+        "@lenpendragon as Izu",
+        "@incognegro as Dai Shuye",
+        "@emgry as Hiya",
+        "@theworldweavingcloud as Khaal"
+      ]
+    },
+    {
+      "master": "@madrid222",
+      "title": "BBA Fights: Macho Malcom",
+      "postedAt": 1749281754516,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1380812501092143154",
+      "players": [
+        "@Guo Mùchén「沐宸」 as Muchen",
+        "@Caelan Blacklaw as Caelan",
+        "@Lanying Jiafei「佳飞」 as Jiafei",
+        "@Lochlann | Bancho as Lochlann"
       ]
     }
   ]
