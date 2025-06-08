@@ -1,5 +1,5 @@
 {
-  "timestamp": 1749290428297,
+  "timestamp": 1749373220529,
   "games": [
     {
       "title": "First Introductions",
@@ -12192,6 +12192,26 @@
       "time": "<t:1749272014:F>",
       "public": true,
       "creator": "zzTsuiho/Madrid"
+    },
+    {
+      "title": "The Smoky City: Allies from Afar",
+      "postedAt": 1749320812856,
+      "link": "https://discord.com/channels/1169852846083153941/1170183729856135250/1380976323643707482",
+      "pings": [],
+      "time": "<t:1749499200:F>",
+      "public": false,
+      "creator": "Goober | Path"
+    },
+    {
+      "title": "[Termina City] All The Lights Are Stars",
+      "postedAt": 1749326973287,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1381002162364223629",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1749340800:F>",
+      "public": true,
+      "creator": "Star"
     }
   ]
 }
