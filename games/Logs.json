@@ -1,5 +1,5 @@
 {
-  "timestamp": 1749463223592,
+  "timestamp": 1749546023720,
   "logs": [
     {
       "master": "@desyov",
@@ -14062,6 +14062,61 @@
         "@foxfacesuicide as Icarus",
         "@schwertaria as Tatsuya",
         "@the_1spark as Zora"
+      ]
+    },
+    {
+      "master": "@xavieremix",
+      "title": "Coarse, Rough, and Everywhere",
+      "postedAt": 1749490570551,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1381688339022741534",
+      "players": [
+        "@madamezuri as Otani Kasai",
+        "@foxfacesuicide as Zaizen",
+        "@lenpendragon as Asuka Senko",
+        "@nikolaim. as Nova",
+        "@the_1spark as Valentine",
+        "@proffessorslime as Sister Durian"
+      ]
+    },
+    {
+      "master": "@missingpath",
+      "title": "The Smoky City: Allies from Afar",
+      "postedAt": 1749509539652,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1381767901198946315",
+      "players": [
+        "@emgry as Monique",
+        "@letiana as Erin",
+        "@mike_miguel_michael as Calibre",
+        "@solotic. as Alexei",
+        "@seraphim as Esmon"
+      ]
+    },
+    {
+      "master": "@mike_miguel_michael",
+      "title": "[Wings of Ill Omen] Nest of Treachery",
+      "postedAt": 1749512352851,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1381779700610764920",
+      "players": [
+        "@facinarose as The Raven Who Hunts Despair",
+        "@brooms as The Echo Through the Canyon",
+        "@doobledeedooble as The Bastion Against Darkness",
+        "@vittinhodosus as The Otherworld Veteran",
+        "@leplep as Last Flame of Forgotten Faith",
+        "@desyov as The Wisdom of 98 Sages"
+      ]
+    },
+    {
+      "master": "@seraphim",
+      "title": "The First Fathom: The Great Fortune",
+      "postedAt": 1749537439977,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1381884923643695145",
+      "players": [
+        "@starfir54 as Rongshi",
+        "@serrayes as Hoshiko",
+        "@aznrcmp as Orizuma",
+        "@oleamollevampie as Wraith",
+        "@missingpath as Ebb",
+        "@emgry as Fuji"
       ]
     }
   ]
