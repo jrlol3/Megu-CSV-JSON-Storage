@@ -1,5 +1,5 @@
 {
-  "timestamp": 1749549618969,
+  "timestamp": 1749632421140,
   "logs": [
     {
       "master": "@desyov",
@@ -14117,6 +14117,48 @@
         "@oleamollevampie as Wraith",
         "@missingpath as Ebb",
         "@emgry as Fuji"
+      ]
+    },
+    {
+      "master": "@vittinhodosus",
+      "title": "[Aranova] The Chromatic Carp Fishing Festival: Prologue",
+      "postedAt": 1749597514059,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1382136892606386337",
+      "players": [
+        "@jrlol3megu as **Teyac**.",
+        "@enderten as **Iman**.",
+        "@nut_wizard as **Córdoba**.",
+        "@letiana as **Patli Nequiz**.",
+        "@desyov as **Morrigan Nequiz**.",
+        "@honeydewmelons as **Vero**."
+      ]
+    },
+    {
+      "master": "@seraphim",
+      "title": "The Holy Water Palace: A Treacherous Hand",
+      "postedAt": 1749614862155,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1382209655794831390",
+      "players": [
+        "@Calibre | Miguel as Calibre",
+        "@Kit | EnderTen as Kit Grannus",
+        "@Akiko 🌤 | Rose as Akiko",
+        "@Keiko²⁸ | Phos as Keiko",
+        "@Fernia as Fernia",
+        "@Noir as Noir"
+      ]
+    },
+    {
+      "master": "@foxfacesuicide",
+      "title": "[KAIJU] Whispers of Discontent",
+      "postedAt": 1749621782944,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1382238683687817236",
+      "players": [
+        "@2naf1sh as Gladiolus",
+        "@oleamollevampie as Wraith",
+        "@eggmus as Irius",
+        "@westfallorc as Rhea",
+        "@madamezuri as Kasai",
+        "@vievinvalor as Clover"
       ]
     }
   ]
