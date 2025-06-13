@@ -1,5 +1,5 @@
 {
-  "timestamp": 1749722425209,
+  "timestamp": 1749805220975,
   "logs": [
     {
       "master": "@desyov",
@@ -14170,6 +14170,62 @@
         "@sleepy_bernkastel as Kawa",
         "@solaceinfire as Saki",
         "@mutemissy as Fernia"
+      ]
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Eyes of Omoikane] : Marginal Differences",
+      "postedAt": 1749750740657,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1382779571539017872",
+      "players": [
+        "@honeydewmelons as Isolde",
+        "@rastamufasa as Mùchén",
+        "@caelum_blue as Yukari",
+        "@_.squibbles._ as Kanon",
+        "@lenpendragon as Lin",
+        "@sirgabite as Apollo"
+      ]
+    },
+    {
+      "master": "@phosphophyllite0",
+      "title": "Heart of Fire",
+      "postedAt": 1749765725360,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1382842421938753556",
+      "players": [
+        "@brooms as Cyrus",
+        "@mutemissy as Aerah",
+        "@lenpendragon as Elaine",
+        "@mooshen as Elvis",
+        "@the429117 as Koishi",
+        "@solaceinfire as Aelina"
+      ]
+    },
+    {
+      "master": "@seraphim",
+      "title": "The Horrors of Coal and Smoke: Everything has a Price",
+      "postedAt": 1749785208912,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1382924141879099444",
+      "players": [
+        "@leplep as Elijah",
+        "@letiana as Erin",
+        "@schwertaria as Aria",
+        "@rastamufasa as Russo",
+        "@phosphophyllite0 as Verge",
+        "@mutemissy as Mae"
+      ]
+    },
+    {
+      "master": "@foxfacesuicide",
+      "title": "[KAIJU] The Spark of Rebellion",
+      "postedAt": 1749788999756,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1382940041830989906",
+      "players": [
+        "@zzzGladi as Gladi",
+        "@Otani Kasai「大谷  葛西」 as Otani Kasai",
+        "@Irius || Eggmus as Irius",
+        "@Sol Anaphalis | Speagle as Sol",
+        "@Void || Xeno💫 as Void",
+        "@Caliste | Pidgeon as Caliste"
       ]
     }
   ]
