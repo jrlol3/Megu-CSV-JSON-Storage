@@ -1,5 +1,5 @@
 {
-  "timestamp": 1749808824782,
+  "timestamp": 1749891623934,
   "logs": [
     {
       "master": "@desyov",
@@ -14226,6 +14226,45 @@
         "@Sol Anaphalis | Speagle as Sol",
         "@Void || Xeno💫 as Void",
         "@Caliste | Pidgeon as Caliste"
+      ]
+    },
+    {
+      "master": "@letiana",
+      "title": "A City Remade: An Emperor’s Return",
+      "postedAt": 1749855607395,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1383219414517944450",
+      "players": [
+        "@incognegro as Shuye",
+        "@theelusivegin as Gin",
+        "@samikazuki as Anahi",
+        "@jrlol3megu as Godric"
+      ]
+    },
+    {
+      "master": "@agentdj",
+      "title": "Hero's Past: Path of the Wanderer",
+      "postedAt": 1749871453320,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1383285877144424468",
+      "players": [
+        "@celesteias as Solana",
+        "@foxfacesuicide as Helios",
+        "@missingpath as Dawn",
+        "@the429117 as Zaid",
+        "@sussy_arata as Nasser"
+      ]
+    },
+    {
+      "master": "@seraphim",
+      "title": "The Celestial Archipelago: A Grand Tour",
+      "postedAt": 1749880443761,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1383323585787068557",
+      "players": [
+        "@schwertaria as Benicio",
+        "@mooshen as Shing",
+        "@westfallorc as Rhea",
+        "@the_1spark as Valentine",
+        "@aznrcmp as Orizuma",
+        "@starfir54 as Hui"
       ]
     }
   ]
