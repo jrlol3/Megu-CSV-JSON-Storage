@@ -1,5 +1,5 @@
 {
-  "timestamp": 1749895224024,
+  "timestamp": 1749978026391,
   "logs": [
     {
       "master": "@desyov",
@@ -10905,7 +10905,7 @@
         "@emgry as Mongrel",
         "@missingpath as Fox",
         "@letiana as Amelia",
-        "@maxxinejean as Vespa",
+        "@vvnni as Vespa",
         "@lenpendragon as Elaine"
       ]
     },
@@ -12630,7 +12630,7 @@
       "postedAt": 1746972008413,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1371124723773210644",
       "players": [
-        "@maxxinejean as Tsumugi",
+        "@vvnni as Tsumugi",
         "@vampiremommy as Kurayami",
         "@lillie2071 as Melinda",
         "@_.squibbles._ as Kanon",
@@ -14265,6 +14265,33 @@
         "@the_1spark as Valentine",
         "@aznrcmp as Orizuma",
         "@starfir54 as Hui"
+      ]
+    },
+    {
+      "master": "@madamezuri",
+      "title": "[Jungle Hunger] Where is our Pride and our Rage?",
+      "postedAt": 1749928699880,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1383525986620149833",
+      "players": [
+        "@theworldweavingcloud as Khaal",
+        "@madrid222 as Valen",
+        "@rastamufasa as Guo Mùchén",
+        "@galen876 as Xing Wei",
+        "@_.squibbles._ as Charlies Erp Jagan"
+      ]
+    },
+    {
+      "master": "@seraphim",
+      "title": "The Celestial Archipelago: Binary Stars",
+      "postedAt": 1749956720646,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1383643514230931458",
+      "players": [
+        "@vievinvalor as Nyx",
+        "@sleepy_bernkastel as Alec",
+        "@mutemissy as Mae",
+        "@oleamollevampie as Wraith",
+        "@starfir54 as Hui",
+        "@aznrcmp as Orizuma."
       ]
     }
   ]
