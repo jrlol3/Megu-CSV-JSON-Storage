@@ -1,6 +1,42 @@
 {
-  "timestamp": 1750016434572,
+  "timestamp": 1750019093750,
   "approvals": [
+    {
+      "user": "<@173547590694993920>",
+      "approver": "desyov",
+      "date": 1699051632741,
+      "character": "- Professor Coeurd'or"
+    },
+    {
+      "user": "<@247940619022893065>",
+      "approver": "desyov",
+      "date": 1699057464149,
+      "character": "- Milo Fleiss"
+    },
+    {
+      "user": "<@594008151779573762>",
+      "approver": "desyov",
+      "date": 1699062349077,
+      "character": "Former Royal Engineer of Merrane"
+    },
+    {
+      "user": "<@181195525914230784>",
+      "approver": "desyov",
+      "date": 1699062833110,
+      "character": "- Opus Resbina"
+    },
+    {
+      "user": "<@214869658463895553>",
+      "approver": "desyov",
+      "date": 1699062912145,
+      "character": "The Recorder of Histories"
+    },
+    {
+      "user": "<@151914442035036160>",
+      "approver": "desyov",
+      "date": 1699141846685,
+      "character": "- Agata Nergath"
+    },
     {
       "user": "<@384371410576998401>",
       "approver": "nut_wizard",
@@ -8,10 +44,34 @@
       "character": "Elizabeth 'Mory' Moraine"
     },
     {
+      "user": "<@115768673163018249>",
+      "approver": "nut_wizard",
+      "date": 1699228936768,
+      "character": "- Eden Rivvikyn"
+    },
+    {
+      "user": "<@464911746088304650>",
+      "approver": "nut_wizard",
+      "date": 1699249722467,
+      "character": "- Elara Lockflint"
+    },
+    {
       "user": "<@223066808847040512>",
       "approver": "nut_wizard",
       "date": 1699254540568,
       "character": "Bronzeheart"
+    },
+    {
+      "user": "<@118899054179516417>",
+      "approver": "nut_wizard",
+      "date": 1699294201958,
+      "character": "Karmic Corrector from the Moon"
+    },
+    {
+      "user": "<@115768673163018249>",
+      "approver": "nut_wizard",
+      "date": 1699294620216,
+      "character": "- Nagi Skyheart"
     },
     {
       "user": "<@331591853000491009>",
@@ -26,10 +86,124 @@
       "character": "Mikkel Oaks"
     },
     {
+      "user": "<@298485047919378432>",
+      "approver": "desyov",
+      "date": 1699379779386,
+      "character": "Denizen from the Ancient Foresst"
+    },
+    {
       "user": "<@239174959895805954>",
       "approver": "desyov",
       "date": 1699482150511,
       "character": "World Wandering Bard"
+    },
+    {
+      "user": "<@334670035991658498>",
+      "approver": "desyov",
+      "date": 1699485067537,
+      "character": "Olivia Moonshine"
+    },
+    {
+      "user": "<@240606774984441866>",
+      "approver": "desyov",
+      "date": 1699598258390,
+      "character": "Exiled Oathbound Outlander"
+    },
+    {
+      "user": "<@66337541518790656>",
+      "approver": "desyov",
+      "date": 1699598608708,
+      "character": "- No notes! Dhata Mithril"
+    },
+    {
+      "user": "<@222732936909160449>",
+      "approver": "desyov",
+      "date": 1699640618883,
+      "character": "Oblivious but Curious Moth Child"
+    },
+    {
+      "user": "<@319372431221587968>",
+      "approver": "desyov",
+      "date": 1699681055765,
+      "character": "- Mirio Astra"
+    },
+    {
+      "user": "<@137725081412435968>",
+      "approver": "desyov",
+      "date": 1699727337770,
+      "character": "- Your Identity needs a bit more detail before this can be approved"
+    },
+    {
+      "user": "<@138467756168314881>",
+      "approver": "desyov",
+      "date": 1699727730729,
+      "character": "- Freddy Baker"
+    },
+    {
+      "user": "<@187366331371356160>",
+      "approver": "desyov",
+      "date": 1699727906212,
+      "character": "Naive Wandering Warrior Trying his Best"
+    },
+    {
+      "user": "<@266305409868890122>",
+      "approver": "desyov",
+      "date": 1699728260020,
+      "character": "- Revin Aegian"
+    },
+    {
+      "user": "<@190987976224931840>",
+      "approver": "desyov",
+      "date": 1699740211103,
+      "character": "- Stock Trinity"
+    },
+    {
+      "user": "<@757629299749683201>",
+      "approver": "desyov",
+      "date": 1699827455445,
+      "character": "- Jane \"The Shadow\" Winter"
+    },
+    {
+      "user": "<@173648039725105152>",
+      "approver": "desyov",
+      "date": 1699916760654,
+      "character": "- Please submit the one you sent to me in DMs in <#1170106162360877148>. However"
+    },
+    {
+      "user": "<@182937998340390912>",
+      "approver": "desyov",
+      "date": 1699916931840,
+      "character": "Lunar Witch from an Ancient Bloodline"
+    },
+    {
+      "user": "<@306223332653793283>",
+      "approver": "desyov",
+      "date": 1699917733826,
+      "character": "- Wyrt"
+    },
+    {
+      "user": "<@137725081412435968>",
+      "approver": "desyov",
+      "date": 1699918090767,
+      "character": "- Vuk Yekno"
+    },
+    {
+      "user": "<@365605862615810049>",
+      "approver": "desyov",
+      "date": 1699933238573,
+      "character": "Well-Meaning Sea Demon"
+    },
+    {
+      "user": "<@173648039725105152>",
+      "approver": "nut_wizard",
+      "date": 1699988717038,
+      "character": "Shy but Electric Inventor Who Can't Sit Still"
+    },
+    {
+      "user": "<@247940619022893065>",
+      "approver": "nut_wizard",
+      "date": 1699989086152,
+      "character": "- Lua Aiden"
     },
     {
       "user": "<@222732936909160449>",
@@ -38,10 +212,76 @@
       "character": "- You should have 160z instead of 180 if I'm not mistaken; update that"
     },
     {
+      "user": "<@182937998340390912>",
+      "approver": "desyov",
+      "date": 1700263342356,
+      "character": "- Lilac Brightshield"
+    },
+    {
+      "user": "<@550477095969619980>",
+      "approver": "desyov",
+      "date": 1700562950158,
+      "character": "Leobald Mountainespine"
+    },
+    {
+      "user": "<@319372431221587968>",
+      "approver": "desyov",
+      "date": 1700563076075,
+      "character": "- Trick Lockheart"
+    },
+    {
+      "user": "<@321821963058282496>",
+      "approver": "desyov",
+      "date": 1700563233402,
+      "character": "- Nero Myrtth"
+    },
+    {
       "user": "<@550477095969619980>",
       "approver": "desyov",
       "date": 1700563501326,
       "character": "Verik Chase"
+    },
+    {
+      "user": "<@180873257480617984>",
+      "approver": "desyov",
+      "date": 1700563677362,
+      "character": "- Donovan Goodwin"
+    },
+    {
+      "user": "<@241022757637324801>",
+      "approver": "desyov",
+      "date": 1700563730860,
+      "character": "Elusive Cat Burglar of Brightshield"
+    },
+    {
+      "user": "<@872669760528220200>",
+      "approver": "desyov",
+      "date": 1700563984137,
+      "character": "- Kana Hyderlan"
+    },
+    {
+      "user": "<@365605862615810049>",
+      "approver": "desyov",
+      "date": 1700564348790,
+      "character": "- Gianna Tomaris"
+    },
+    {
+      "user": "<@319372431221587968>",
+      "approver": "desyov",
+      "date": 1700625497779,
+      "character": "Rebellious Traitor to Merrane"
+    },
+    {
+      "user": "<@173648039725105152>",
+      "approver": "desyov",
+      "date": 1700646185807,
+      "character": "Experiment Vocalist with an Aching Heart"
+    },
+    {
+      "user": "<@182937998340390912>",
+      "approver": "nut_wizard",
+      "date": 1700806683961,
+      "character": "Runaway Slave Seeking Justice"
     },
     {
       "user": "<@247940619022893065>",
@@ -60,6 +300,12 @@
       "approver": "nut_wizard",
       "date": 1700807637361,
       "character": "The Scared Singing Slime Girl"
+    },
+    {
+      "user": "<@594008151779573762>",
+      "approver": "desyov",
+      "date": 1700816818669,
+      "character": "the Perfect Monster"
     },
     {
       "user": "<@168733228914573312>",
@@ -122,10 +368,22 @@
       "character": "You"
     },
     {
+      "user": "<@182937998340390912>",
+      "approver": "desyov",
+      "date": 1701876123436,
+      "character": "Reanimated Robot Wildlife Photographer"
+    },
+    {
       "user": "<@177644371695501312>",
       "approver": "nut_wizard",
       "date": 1702002965095,
       "character": "Sellsword from an Old and Forgotten Army"
+    },
+    {
+      "user": "<@108744783031185408>",
+      "approver": "nut_wizard",
+      "date": 1702009088426,
+      "character": "Courageous Hunter for the Black Obelisk"
     },
     {
       "user": "<@464911746088304650>",
@@ -276,6 +534,12 @@
       "approver": "desyov",
       "date": 1705207983154,
       "character": "- Tzera Crawford"
+    },
+    {
+      "user": "<@173107292781281280>",
+      "approver": "topsick",
+      "date": 1705263897317,
+      "character": "- Those are both very minor though so once you fix those things just ping me in <#1170106159601033237> and Sharry Skelter"
     },
     {
       "user": "<@173107292781281280>",
@@ -444,6 +708,12 @@
       "approver": "jrlol3megu",
       "date": 1709661628441,
       "character": "The Blade of Shifting Sands"
+    },
+    {
+      "user": "<@355425282343174154>",
+      "approver": "dragoneldester",
+      "date": 1709936505927,
+      "character": "- Reason: Ace of Cards is currently not approved for public use."
     },
     {
       "user": "<@355425282343174154>",
@@ -1208,6 +1478,12 @@
       "character": "- Brittle Winter Ground"
     },
     {
+      "user": "<@548575954423775275>",
+      "approver": "dragoneldester",
+      "date": 1722955827393,
+      "character": "- May Shuggar"
+    },
+    {
       "user": "<@173539943426031616>",
       "approver": "madamezuri",
       "date": 1723414526551,
@@ -1912,6 +2188,12 @@
     {
       "user": "<@251110496206454785>",
       "approver": "saruno",
+      "date": 1732721409341,
+      "character": "- You are not allowed to take the Inventor Prodigy Quirk at character creation. Please refer to the Server Player Guide for the list of approved Quirks."
+    },
+    {
+      "user": "<@251110496206454785>",
+      "approver": "saruno",
       "date": 1732722967678,
       "character": "- Nikola Technis"
     },
@@ -1961,7 +2243,7 @@
       "user": "<@481519290885996544>",
       "approver": "jrlol3megu",
       "date": 1733095126177,
-      "character": "Evgenikós Asteráki"
+      "character": "- The skill Bodyguard has been changed to Retaliation"
     },
     {
       "user": "<@84441917282062336>",
@@ -3542,6 +3824,12 @@
       "character": "- Mori Yuma"
     },
     {
+      "user": "<@465582019150217226>",
+      "approver": "saruno",
+      "date": 1737823478767,
+      "character": "Aspirant of the Wingless Serpent"
+    },
+    {
       "user": "<@108744783031185408>",
       "approver": "jrlol3megu",
       "date": 1738018901756,
@@ -4208,6 +4496,12 @@
       "character": "Robbins"
     },
     {
+      "user": "<@404317967585640451>",
+      "approver": "agentdj",
+      "date": 1743925142307,
+      "character": "Please ping me in <#1170106159601033237> once you've changed these so i may give you one more look before getting you approved."
+    },
+    {
       "user": "<@617280338632114187>",
       "approver": "agentdj",
       "date": 1743927349666,
@@ -4370,6 +4664,12 @@
       "character": "* Benício Galhardo"
     },
     {
+      "user": "<@142973642093887488>",
+      "approver": "saruno",
+      "date": 1744715178047,
+      "character": "Naomi Falken"
+    },
+    {
       "user": "<@206900071055228930>",
       "approver": "saruno",
       "date": 1744717701336,
@@ -4508,10 +4808,22 @@
       "character": "- Magnum Opus Resbina"
     },
     {
+      "user": "<@59810251750252544>",
+      "approver": "saruno",
+      "date": 1745978077119,
+      "character": "Iori Hirose"
+    },
+    {
       "user": "<@223253130417012736>",
       "approver": "saruno",
       "date": 1746175678926,
       "character": "- Kasagi Miyuu"
+    },
+    {
+      "user": "<@491765200727310337>",
+      "approver": "saruno",
+      "date": 1746232295372,
+      "character": "Vigo Mortenkaisen"
     },
     {
       "user": "<@226351330950643713>",
