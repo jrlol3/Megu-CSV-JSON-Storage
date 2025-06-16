@@ -1,5 +1,5 @@
 {
-  "timestamp": 1749978026386,
+  "timestamp": 1750064421912,
   "games": [
     {
       "title": "First Introductions",
@@ -12454,6 +12454,87 @@
       "time": "<t:1750024800:F>",
       "public": false,
       "creator": "Miguel"
+    },
+    {
+      "title": "Jizou's Mercy : The Treatment Plan",
+      "postedAt": 1750005365450,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1383847545327063113",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1750035600:F>",
+      "public": true,
+      "creator": "Edward 🔑 | Sammy"
+    },
+    {
+      "title": "[Bahata Burning] [Darker Heart] Hunt for the Scorpion",
+      "postedAt": 1750027149142,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1383938912753422386",
+      "pings": [
+        "1170826554914373652",
+        "1170826620869808248"
+      ],
+      "time": "<t:1750201200:F>",
+      "public": true,
+      "creator": "Otani Kasai「大谷  葛西」"
+    },
+    {
+      "title": "[Bahata Burning] [Seer's Sight] The Siege",
+      "postedAt": 1750027445540,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1383940155936735332",
+      "pings": [
+        "1170826716571238410"
+      ],
+      "time": "<t:1750287600:F>",
+      "public": true,
+      "creator": "Otani Kasai「大谷  葛西」"
+    },
+    {
+      "title": "[Bahata Burning] Monsters and Men",
+      "postedAt": 1750027770862,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1383941520436105298",
+      "pings": [
+        "1170826554914373652",
+        "1170826620869808248"
+      ],
+      "time": "<t:1750374000:F>",
+      "public": true,
+      "creator": "Otani Kasai「大谷  葛西」"
+    },
+    {
+      "title": "[Bahata Burning] [Winding Vines] Husks of Men",
+      "postedAt": 1750027843109,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1383941823462117387",
+      "pings": [
+        "1170826716571238410",
+        "1170826784862908661"
+      ],
+      "time": "<t:1750460400:F>",
+      "public": true,
+      "creator": "Otani Kasai「大谷  葛西」"
+    },
+    {
+      "title": "[Bahata Burning] Shadows over Karpe",
+      "postedAt": 1750028000908,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1383942485318828132",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1750114800:F>",
+      "public": true,
+      "creator": "Otani Kasai「大谷  葛西」"
+    },
+    {
+      "title": "[Bahata Burning] Run for your Lives",
+      "postedAt": 1750028094786,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1383942879071699076",
+      "pings": [
+        "1170826554914373652",
+        "1170826620869808248"
+      ],
+      "time": "<t:1750546800:F>",
+      "public": true,
+      "creator": "Otani Kasai「大谷  葛西」"
     }
   ]
 }
