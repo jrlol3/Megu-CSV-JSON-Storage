@@ -1,5 +1,5 @@
 {
-  "timestamp": 1750064421912,
+  "timestamp": 1750150822830,
   "games": [
     {
       "title": "First Introductions",
@@ -12535,6 +12535,17 @@
       "time": "<t:1750546800:F>",
       "public": true,
       "creator": "Otani Kasai「大谷  葛西」"
+    },
+    {
+      "title": "[KAIJU] Unity in Struggle",
+      "postedAt": 1750125457167,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1384351246495912111",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1750179600:F>",
+      "public": true,
+      "creator": "Helios, the First | Farewell"
     }
   ]
 }
