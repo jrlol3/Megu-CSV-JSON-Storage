@@ -1,5 +1,5 @@
 {
-  "timestamp": 1750150822849,
+  "timestamp": 1750237226015,
   "logs": [
     {
       "master": "@desyov",
@@ -14344,6 +14344,31 @@
         "@leplep as Zophiel",
         "@sirgabite as Simone",
         "@enderten as Kit"
+      ]
+    },
+    {
+      "master": "@seraphim",
+      "title": "The Red Strings that Bind You",
+      "postedAt": 1750209775847,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1384704904672575580",
+      "players": [
+        "@incognegro as Mahuizoh",
+        "@samikazuki as Risata",
+        "@brooms as Luo",
+        "@nut_wizard as Córdoba"
+      ]
+    },
+    {
+      "master": "@madamezuri",
+      "title": "[Bahata Burning] [Darker Heart] Hunt for the Scorpion",
+      "postedAt": 1750217795917,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1384738543284260975",
+      "players": [
+        "@doobledeedooble as Madhuri",
+        "@devilapple as Blackthorn",
+        "@jrlol3megu as Teyac",
+        "@vievinvalor as Kelden",
+        "@katen_m as Ananda"
       ]
     }
   ]
