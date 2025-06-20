@@ -1,5 +1,5 @@
 {
-  "timestamp": 1750323623671,
+  "timestamp": 1750410021638,
   "logs": [
     {
       "master": "@desyov",
@@ -14383,6 +14383,32 @@
         "@facinarose as Akiko",
         "@foxfacesuicide as Helios",
         "@mutemissy as Fernia"
+      ]
+    },
+    {
+      "master": "@foxfacesuicide",
+      "title": "[KAIJU] Unity in Struggle",
+      "postedAt": 1750361224402,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1385340125952872741",
+      "players": [
+        "@eggmus as Irius",
+        "@madamezuri as Kasai",
+        "@caelum_blue as Curly",
+        "@westfallorc as Rhea",
+        "@s4msepi0l as Tavian",
+        "@oleamollevampie as Wraith"
+      ]
+    },
+    {
+      "master": "@madamezuri",
+      "title": "[Bahata Burning] [Seer's Sight] The Siege",
+      "postedAt": 1750377050315,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1385406504642809889",
+      "players": [
+        "@doobledeedooble as Kiyo",
+        "@sleepy_bernkastel as Raia",
+        "@mike_miguel_michael as Calibre",
+        "@enderten as Kit"
       ]
     }
   ]
