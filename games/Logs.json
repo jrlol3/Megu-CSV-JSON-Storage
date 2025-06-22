@@ -1,5 +1,5 @@
 {
-  "timestamp": 1750496426339,
+  "timestamp": 1750582820311,
   "logs": [
     {
       "master": "@desyov",
@@ -14423,6 +14423,127 @@
         "@leplep as Orpheus",
         "@bancho_bancho as Lochlann",
         "@.galebolg. as Caelan"
+      ]
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "[Warlord of Ishiyama] The Fall of Kenkubi: Retreat",
+      "postedAt": 1750514737532,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1385984006687821824",
+      "players": [
+        "@the429117 as Koishi",
+        "@doobledeedooble as Kasagi",
+        "@westfallorc as Tsumugi",
+        "@vampiremommy as Yuzuki",
+        "@speagle as Sol",
+        "@serrayes as Kinmei"
+      ]
+    },
+    {
+      "master": "@madamezuri",
+      "title": "[Bahata Burning] [Winding Vines] Husks of Men",
+      "postedAt": 1750524143331,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1386023457468190892",
+      "players": [
+        "@incognegroas Dai Shenbin",
+        "@theworldweavingcloud as Khaal",
+        "@letiana as Saroja",
+        "@_.squibbles._ as Charlies",
+        "@honeydewmelons as Isolde",
+        "@galen876 as Xing Wei"
+      ]
+    },
+    {
+      "master": "@facinarose",
+      "title": "Tip the Scales, Crack the Stone",
+      "postedAt": 1750527100471,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1386035860612321322",
+      "players": [
+        "@Blackthorn | Devilapple as Blackthorn",
+        "@Bjorn | Thorium as Bjorn",
+        "@Córdoba | nut as Córdoba",
+        "@Wen Tian「文天」 as Wen Tian",
+        "@Lanying Jiafei「佳飞」🦁 as Rika Carpenter",
+        "@Risata 🖤 | Sammy as Risata"
+      ]
+    },
+    {
+      "master": "@seraphim",
+      "title": "The Tales of Xuanwu: The Lion Emerges from the Mist",
+      "postedAt": 1750538198697,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1386082409946284154",
+      "players": [
+        "@desyov as Lanying Jiafei"
+      ]
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "[Bahata Burning] Why Wars Happen",
+      "postedAt": 1750538826662,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1386085043822137355",
+      "players": [
+        "@madrid222 as Devendra",
+        "@sirgabite as Jun-Hie",
+        "@angrykitsu as Sumati",
+        "@letiana as Duan Nuying",
+        "@leplep as Sienna",
+        "@aznrcmp as Orizuma"
+      ]
+    },
+    {
+      "master": "@foxfacesuicide",
+      "title": "[KAIJU] Subterfuge and Sabotage",
+      "postedAt": 1750548964215,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1386127563801497622",
+      "players": [
+        "@2naf1sh as Gladi",
+        "@madamezuri as Kasai",
+        "@oleamollevampie as Wraith",
+        "@solcarona as Raine",
+        "@the429117 as Shibana",
+        "@mutemissy as Chime"
+      ]
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "[Termina City] The Price of a Home",
+      "postedAt": 1750561423571,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1386179822128206056",
+      "players": [
+        "@schwertaria as Tatsuya",
+        "@pidgeon as Caliste",
+        "@enderten as Iman",
+        "@seraphim as Esmon",
+        "@starfir54 as Hui",
+        "@oleamollevampie as Wraith"
+      ]
+    },
+    {
+      "master": "@madamezuri",
+      "title": "[Bahata Burning] Run for your lives",
+      "postedAt": 1750563808018,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1386189823223529522",
+      "players": [
+        "@doobledeedooble as Madhuri",
+        "@foxfacesuicide as Zaizen",
+        "@katen_m as Ananda",
+        "@brooms as Luo Kai",
+        "@jrlol3megu as Teyac",
+        "@caelum_blue as Mutt"
+      ]
+    },
+    {
+      "master": "@incognegro",
+      "title": "The Three Tribulations: Anahi I",
+      "postedAt": 1750570220107,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1386216717474336878",
+      "players": [
+        "@samikazuki as Anahi",
+        "@agentdj as Mako",
+        "@leplep as Isagani",
+        "@missingpath as Rin",
+        "@emgry as Hiya",
+        "@facinarose as Vivian"
       ]
     }
   ]
