@@ -1,5 +1,5 @@
 {
-  "timestamp": 1750582820311,
+  "timestamp": 1750669224281,
   "logs": [
     {
       "master": "@desyov",
@@ -14544,6 +14544,73 @@
         "@missingpath as Rin",
         "@emgry as Hiya",
         "@facinarose as Vivian"
+      ]
+    },
+    {
+      "master": "@foxfacesuicide",
+      "title": "[Bahata Burning] The Breach of Boliyada",
+      "postedAt": 1750607166308,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1386371681072971907",
+      "players": [
+        "@katen_m as Ananda",
+        "@vievinvalor as Keldon",
+        "@Leplep as Sienna",
+        "@desyov as Rika",
+        "@aznrcmp as Orizuma",
+        "@serrayes as Hoshiko"
+      ]
+    },
+    {
+      "master": "@caelum_blue",
+      "title": "[Termina City] Puppet Theather",
+      "postedAt": 1750627380575,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1386456465853649027",
+      "players": [
+        "@angrykitsu as Kori von Kleist",
+        "@honeydewmelons as Isolde Forvelkanta",
+        "@mutemissy as Mae Lavery",
+        "@schwertaria as Tatsuya Sakanagi",
+        "@the_1spark as Zora",
+        "@brooms as Cyrus Sand"
+      ]
+    },
+    {
+      "master": "@missingpath",
+      "title": "A Hero's Journey: Chapter 3 - A Faded Betrayal",
+      "postedAt": 1750637193731,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1386497625213239377",
+      "players": [
+        "@desyov as Nai",
+        "@madrid222 as Valen",
+        "@emgry as Monique",
+        "@xavieremix as Lock",
+        "@oleamollevampie as Isobel"
+      ]
+    },
+    {
+      "master": "@seraphim",
+      "title": "The Celestial Archipelego: The Moons of War",
+      "postedAt": 1750662496966,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1386603754673148005",
+      "players": [
+        "@starfir54 as Rongshi Hui",
+        "@aznrcmp as Orizuma",
+        "@oleamollevampie as Wraith",
+        "@mutemissy as Mae",
+        "@samikazuki as Mei-Mei",
+        "@schwertaria as Benecio"
+      ]
+    },
+    {
+      "master": "@madamezuri",
+      "title": "[Bahata Burning] Slip the noose",
+      "postedAt": 1750662527418,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1386603882397958164",
+      "players": [
+        "@doobledeedooble as Kiyo",
+        "@sleepy_bernkastel as Raia",
+        "@mike_miguel_michael as Calibre",
+        "@enderten as Kit"
       ]
     }
   ]
