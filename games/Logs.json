@@ -1,5 +1,5 @@
 {
-  "timestamp": 1751187623024,
+  "timestamp": 1751274024138,
   "logs": [
     {
       "master": "@desyov",
@@ -15027,6 +15027,29 @@
         "@Abigail Byrne | Maxxine as Abigail",
         "@Fungee | sam as Fungee",
         "@Annelise | Leti as Annelise"
+      ]
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "Wandering a Mysterious Realm",
+      "postedAt": 1751217427347,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1388931301389631530",
+      "players": [
+        "@Squid as Timothy Maclain"
+      ]
+    },
+    {
+      "master": "@foxfacesuicide",
+      "title": "[KAIJU] The Fire of Dissent: VCC West",
+      "postedAt": 1751252849774,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1389079873817153587",
+      "players": [
+        "@madamezuri as Kasai",
+        "@2naf1sh as Gladiolus",
+        "@aznrcmp as Orizuma",
+        "@brooms as Sizz",
+        "@katen_m as Beryl",
+        "@agentdj as Arin"
       ]
     }
   ]
