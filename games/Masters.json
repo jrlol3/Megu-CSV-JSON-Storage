@@ -1,5 +1,5 @@
 {
-  "timestamp": 1751360426627,
+  "timestamp": 1751446824650,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -238,19 +238,19 @@
     "@angrykitsu": {
       "username": "@angrykitsu",
       "id": "169795599758131200",
-      "gameCount": 55,
+      "gameCount": 57,
       "tier": "GM: Storyteller - T1"
     },
     "@mike_miguel_michael": {
       "username": "@mike_miguel_michael",
       "id": "178284834978791425",
-      "gameCount": 23,
+      "gameCount": 24,
       "tier": "GM: Storyteller - T1"
     },
     "@madrid222": {
       "username": "@madrid222",
       "id": "173539943426031616",
-      "gameCount": 3,
+      "gameCount": 4,
       "tier": "GM: Apprentice - T0"
     },
     "@foxfacesuicide": {
@@ -335,6 +335,12 @@
       "username": "@vampiremommy",
       "id": "186812413574774784",
       "gameCount": 2,
+      "tier": "GM: Apprentice - T0"
+    },
+    "@brooms": {
+      "username": "@brooms",
+      "id": "140595221300772864",
+      "gameCount": 1,
       "tier": "GM: Apprentice - T0"
     }
   }
