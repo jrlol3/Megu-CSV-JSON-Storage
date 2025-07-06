@@ -1,5 +1,5 @@
 {
-  "timestamp": 1751706022118,
+  "timestamp": 1751792422051,
   "logs": [
     {
       "master": "@desyov",
@@ -15268,6 +15268,59 @@
         "@saltmammoth as Lynne-4",
         "@bancho_bancho as Lochlann Carlisle",
         "@phosphophyllite0 as Verge"
+      ]
+    },
+    {
+      "master": "@agentdj",
+      "title": "Farewell Nezmira: Defensive",
+      "postedAt": 1751714987623,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1391018220445634681",
+      "players": [
+        "@sussy_arata as Levan",
+        "@foxfacesuicide as Ashibah",
+        "@katen_m as Beryl",
+        "@drowsydm as Jian Shi"
+      ]
+    },
+    {
+      "master": "@vievinvalor",
+      "title": "Chaos Incursion: Quiet in the Library!",
+      "postedAt": 1751748985662,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1391160818556473446",
+      "players": [
+        "@brooms as Cyrus",
+        "@the429117 as Zaid",
+        "@pidgeon as Caliste",
+        "@sawzie as Myeongjun",
+        "@doctor_temmie as Brigitta"
+      ]
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "Ritual 1: Ingredient Hunt",
+      "postedAt": 1751757416192,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1391196178762432522",
+      "players": [
+        "@honeydewmelons as Isolde",
+        "@leplep as Zophiel",
+        "@_.squibbles._ as Kanon",
+        "@facinarose as Vivian",
+        "@enderten as Kit",
+        "@oleamollevampie as Isobel"
+      ]
+    },
+    {
+      "master": "@starfir54",
+      "title": "[Termina City] Old Friends, New Enemies, Same Old World",
+      "postedAt": 1751760298297,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1391208267186835516",
+      "players": [
+        "@leplep as Sienna",
+        "@oleamollevampie as Sable",
+        "@angrykitsu as Chloe",
+        "@sirgabite as Ezekiel",
+        "@2naf1sh as Guiying",
+        "@rastamufasa as Eurydice"
       ]
     }
   ]
