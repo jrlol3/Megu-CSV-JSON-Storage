@@ -1,5 +1,5 @@
 {
-  "timestamp": 1751792422030,
+  "timestamp": 1751878823785,
   "games": [
     {
       "title": "First Introductions",
@@ -13265,6 +13265,48 @@
       "time": "<t:1751911200:F>",
       "public": true,
       "creator": "= HAVE MERCY ="
+    },
+    {
+      "title": "Witch Hunt: Fire",
+      "postedAt": 1751832255191,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1391510076275036191",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1751843002:F>",
+      "public": true,
+      "creator": "zzTsuiho/Madrid"
+    },
+    {
+      "title": "The Celestial Archipelago: The Brightest Star Reborn",
+      "postedAt": 1751834960890,
+      "link": "https://discord.com/channels/1169852846083153941/1170183729856135250/1391521424799170562",
+      "pings": [],
+      "time": "<t:1751839231:F>",
+      "public": false,
+      "creator": "Esmon Stark"
+    },
+    {
+      "title": "[Hudal Academy]: Welcome to School",
+      "postedAt": 1751836695286,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1391528699383382037",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1752444000:F>",
+      "public": true,
+      "creator": "Chloe Fant"
+    },
+    {
+      "title": "Flame and Family (Reschedule)",
+      "postedAt": 1751850321066,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1391585850046939136",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1752260400:F>",
+      "public": true,
+      "creator": "Verge¹⁷ | Phos"
     }
   ]
 }
