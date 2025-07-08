@@ -1,5 +1,5 @@
 {
-  "timestamp": 1751878823785,
+  "timestamp": 1751965225146,
   "games": [
     {
       "title": "First Introductions",
@@ -13307,6 +13307,70 @@
       "time": "<t:1752260400:F>",
       "public": true,
       "creator": "Verge¹⁷ | Phos"
+    },
+    {
+      "title": "[Bahata Burning] Gold and Glory",
+      "postedAt": 1751953039172,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1392016681009807362",
+      "pings": [
+        "1170826784862908661"
+      ],
+      "time": "<t:1752015600:F>",
+      "public": true,
+      "creator": "Thiago the Dog"
+    },
+    {
+      "title": "[Bahata Burning] All is Fair",
+      "postedAt": 1751953142456,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1392017114214170766",
+      "pings": [
+        "1170826784862908661"
+      ],
+      "time": "<t:1752102000:F>",
+      "public": true,
+      "creator": "Thiago the Dog"
+    },
+    {
+      "title": "[Bahata Burning] Vasu the Valiant Pt. 1",
+      "postedAt": 1751953212864,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1392017409526992896",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1752188400:F>",
+      "public": true,
+      "creator": "Thiago the Dog"
+    },
+    {
+      "title": "[Bahata Burning] Vasu the Valiant Pt. 2",
+      "postedAt": 1751953280676,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1392017693950873660",
+      "pings": [
+        "1170826784862908661"
+      ],
+      "time": "<t:1752361200:F>",
+      "public": true,
+      "creator": "Thiago the Dog"
+    },
+    {
+      "title": "[Bahata Burning] [Behold, Bhavya] Snakes and Sinners",
+      "postedAt": 1751953358922,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1392018022138515517",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1752447600:F>",
+      "public": true,
+      "creator": "Thiago the Dog"
+    },
+    {
+      "title": "[Bahata Burning] [Darker Heart] Uncle Vivaan",
+      "postedAt": 1751953633161,
+      "link": "https://discord.com/channels/1169852846083153941/1170183729856135250/1392019172380381306",
+      "pings": [],
+      "time": "<t:1752267600:F>",
+      "public": false,
+      "creator": "Thiago the Dog"
     }
   ]
 }
