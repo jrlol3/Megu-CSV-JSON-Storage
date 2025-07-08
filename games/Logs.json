@@ -1,5 +1,5 @@
 {
-  "timestamp": 1751878823810,
+  "timestamp": 1751965225167,
   "logs": [
     {
       "master": "@desyov",
@@ -14433,7 +14433,7 @@
       "players": [
         "@the429117 as Koishi",
         "@doobledeedooble as Kasagi",
-        "@westfallorc as Tsumugi",
+        "@vampireorc as Tsumugi",
         "@vampiremommy as Yuzuki",
         "@speagle as Sol",
         "@serrayes as Kinmei"
@@ -15420,6 +15420,19 @@
         "@mutemissy as Mae",
         "@schwertaria as Benicio",
         "@starfir54 as Hui"
+      ]
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "Angna's Isolation",
+      "postedAt": 1751918546061,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1391872006416240875",
+      "players": [
+        "@madamezuri as Tyra",
+        "@doobledeedooble as Kiyo",
+        "@nikolaim. as Nara",
+        "@caelum_blue as Yukari",
+        "@mutemissy as Neishin"
       ]
     }
   ]
