@@ -1,5 +1,5 @@
 {
-  "timestamp": 1751965225167,
+  "timestamp": 1752051625850,
   "logs": [
     {
       "master": "@desyov",
@@ -15433,6 +15433,56 @@
         "@nikolaim. as Nara",
         "@caelum_blue as Yukari",
         "@mutemissy as Neishin"
+      ]
+    },
+    {
+      "master": "@madrid222",
+      "title": "BBA Fights: The Medalist",
+      "postedAt": 1752028020947,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1392331177368748135",
+      "players": [
+        "@Sylvaine | Path as Sylvaine",
+        "@Ci-Ci | Emgry as Ci-Ci",
+        "@Elijah-2615 | Lebleb as Elijah",
+        "@Neishin as Neishin",
+        "@Lochlann | Bancho as Lochlann",
+        "@Cyph as Cyph"
+      ]
+    },
+    {
+      "master": "@madamezuri",
+      "title": "[Bahata Burning] Gold and Glory",
+      "postedAt": 1752032461242,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1392349801315569717",
+      "players": [
+        "@doobledeedoobleas Kiyo",
+        "@jrlol3megu as Godric",
+        "@phosphophyllite0as Keiko",
+        "@sleepy_bernkastel as Morgia"
+      ]
+    },
+    {
+      "master": "@agentdj",
+      "title": "The Path of Bulwark | Farewell Nezmira: The Last Dragoon",
+      "postedAt": 1752041665296,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1392388405916209172",
+      "players": [
+        "@foxfacesuicide as Helios",
+        "@celesteias as Solana",
+        "@sussy_arata as Sayid",
+        "@the429117 as Zaid"
+      ]
+    },
+    {
+      "master": "@agentdj",
+      "title": "Farewell Nezmira: Offensive",
+      "postedAt": 1752045004147,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1392402410072440902",
+      "players": [
+        "@xavieremix as The Assistant",
+        "@sussy_arata as Nasser",
+        "@sirgabite as Simone",
+        "@.galebolg. as Caelan Blacklaw"
       ]
     }
   ]
