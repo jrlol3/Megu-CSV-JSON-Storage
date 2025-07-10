@@ -1,5 +1,5 @@
 {
-  "timestamp": 1752051625850,
+  "timestamp": 1752138022028,
   "logs": [
     {
       "master": "@desyov",
@@ -15483,6 +15483,61 @@
         "@sussy_arata as Nasser",
         "@sirgabite as Simone",
         "@.galebolg. as Caelan Blacklaw"
+      ]
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "Chaos Festival: the Maze",
+      "postedAt": 1752075640437,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1392530907985870918",
+      "players": [
+        "@oleamollevampie as Rue",
+        "@honeydewmelons as Isolde",
+        "@sawzie as Myeongjun SHin",
+        "@saltmammoth as Lynne-4",
+        "@seraphim as Esmon Stark",
+        "@pidgeon as Caliste"
+      ]
+    },
+    {
+      "master": "@missingpath",
+      "title": "The Smoky City: Vector to the Heavens",
+      "postedAt": 1752109051790,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1392671045357535384",
+      "players": [
+        "@rastamufasa as Basil",
+        "@mike_miguel_michael as Calibre",
+        "@seraphimas Esmon",
+        "@letiana as Erin",
+        "@emgry as Monique",
+        "@vittinhodosus as Lupo"
+      ]
+    },
+    {
+      "master": "@madrid222",
+      "title": "A Hunter's Kindness Repaid",
+      "postedAt": 1752113194169,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1392688419754475662",
+      "players": [
+        "@Zaizen「財前」| Farewell as Zaizen",
+        "@Isagani | Lebleb as Isagani",
+        "@Wraith 💎 | Olea as Wraith",
+        "@Adelphel Durand as Adelphel",
+        "@Alec¹⁵💡| Sleepy as Alec",
+        "@Rika ☆ 🪓 as Rika"
+      ]
+    },
+    {
+      "master": "@madamezuri",
+      "title": "[Bahata Burning] All is Fair",
+      "postedAt": 1752126619367,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1392744729116151811",
+      "players": [
+        "@doobledeedooble as Kiyo",
+        "@enderten as Kit",
+        "@mike_miguel_michael as Calibre",
+        "@_.squibbles._ as Charlies",
+        "@angrykitsu as Shiori"
       ]
     }
   ]
