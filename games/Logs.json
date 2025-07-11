@@ -1,5 +1,5 @@
 {
-  "timestamp": 1752138022028,
+  "timestamp": 1752224426229,
   "logs": [
     {
       "master": "@desyov",
@@ -15538,6 +15538,32 @@
         "@mike_miguel_michael as Calibre",
         "@_.squibbles._ as Charlies",
         "@angrykitsu as Shiori"
+      ]
+    },
+    {
+      "master": "@madamezuri",
+      "title": "[Bahata Burning] Vasu the Valiant, Part 1",
+      "postedAt": 1752199732528,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1393051387939786844",
+      "players": [
+        "@doobledeedooble as Madhuri",
+        "@katen_m as Ananda",
+        "@s4msepi0l as Fungee",
+        "@leplep as Sienna"
+      ]
+    },
+    {
+      "master": "@mike_miguel_michael",
+      "title": "[Palace Impulse] Dragon Slayer I",
+      "postedAt": 1752213180786,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1393107794021847191",
+      "players": [
+        "@desyov as Rika Carpenter",
+        "@rastamufasa as ~~Basil~~ Bedivere",
+        "@angrykitsu as Chloe Fant",
+        "@starfir54 as Rongshui Hui",
+        "@enderten as Wilhelm Bergmann",
+        "@galen876 as Colin Subar"
       ]
     }
   ]
