@@ -1,5 +1,5 @@
 {
-  "timestamp": 1752310826601,
+  "timestamp": 1752397223054,
   "games": [
     {
       "title": "First Introductions",
@@ -13516,6 +13516,39 @@
       "time": "<t:1752368400:F>",
       "public": true,
       "creator": "Mikael"
+    },
+    {
+      "title": "Witch Hunt: Bandits? Deja Vu!",
+      "postedAt": 1752363130855,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1393736730196054096",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1752377426:F>",
+      "public": true,
+      "creator": "zzOrion/Madrid"
+    },
+    {
+      "title": "[In the Halls of Avarice] Gout of Flame",
+      "postedAt": 1752365074355,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1393744881826009169",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1752775200:F>",
+      "public": true,
+      "creator": "Luo Kai | Brooms"
+    },
+    {
+      "title": "In the Depths",
+      "postedAt": 1752392556995,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1393860152373018624",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1752397200:F>",
+      "public": true,
+      "creator": "zzPeri⁸ | Aeh"
     }
   ]
 }
