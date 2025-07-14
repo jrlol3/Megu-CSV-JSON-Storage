@@ -1,5 +1,5 @@
 {
-  "timestamp": 1752397223087,
+  "timestamp": 1752483625404,
   "logs": [
     {
       "master": "@desyov",
@@ -15606,6 +15606,61 @@
         "@missingpath as Rin",
         "@brooms as Cyrus",
         "@nikolaim. as Noir"
+      ]
+    },
+    {
+      "master": "@agentdj",
+      "title": "Farewell Nezmira: Rebirth",
+      "postedAt": 1752397384212,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1393880399188332586",
+      "players": [
+        "@foxfacesuicide as Helios",
+        "@rastamufasa as Sloan",
+        "@sirgabite as Simone",
+        "@desyov as Faust",
+        "@doctor_temmie as Ophiuchus",
+        "@mike_miguel_michael as Calibre"
+      ]
+    },
+    {
+      "master": "@katen_m",
+      "title": "In the Depths",
+      "postedAt": 1752407535197,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1393922975505318018",
+      "players": [
+        "@pidgeon as Caliste Poe",
+        "@leplep as Isagani",
+        "@agentdj as Lyle Whitlock",
+        "@lenpendragon as Nanashi",
+        "@aznrcmp as Orizuma",
+        "@oleamollevampie as Wraith"
+      ]
+    },
+    {
+      "master": "@madrid222",
+      "title": "Witch Hunt: Bandits? Deja Vu!",
+      "postedAt": 1752420483710,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1393977285505187932",
+      "players": [
+        "@Wraith 💎| Olea as Sable",
+        "@Isagani | Leplep as Sienna",
+        "@Caliste | Pidgeon as Swarm",
+        "@Maximilian (Tasai) as Maximillian",
+        "@Dujom as Dujom",
+        "@mutemissy as Chime"
+      ]
+    },
+    {
+      "master": "@madamezuri",
+      "title": "[Bahata Burning] [Behold, Bhavya] Snakes and Sinners",
+      "postedAt": 1752462554375,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1394153742663942285",
+      "players": [
+        "@katen_m as Ananda",
+        "@madrid222 as Devendra",
+        "@brooms as Luo Kai",
+        "@sunny.something as Magnum",
+        "@aznrcmp as Sullivan"
       ]
     }
   ]
