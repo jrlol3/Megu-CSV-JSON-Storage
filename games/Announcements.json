@@ -1,5 +1,5 @@
 {
-  "timestamp": 1752397223054,
+  "timestamp": 1752483625377,
   "games": [
     {
       "title": "First Introductions",
@@ -13549,6 +13549,17 @@
       "time": "<t:1752397200:F>",
       "public": true,
       "creator": "zzPeri⁸ | Aeh"
+    },
+    {
+      "title": "The Copper Machine Project: Second Generation",
+      "postedAt": 1752460495628,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1394145107652907112",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1752463879:F>",
+      "public": true,
+      "creator": "Dr. Faust, Ward of Dawn 💊"
     }
   ]
 }
