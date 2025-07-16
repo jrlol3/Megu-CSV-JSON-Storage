@@ -1,5 +1,5 @@
 {
-  "timestamp": 1752570027194,
+  "timestamp": 1752656424259,
   "logs": [
     {
       "master": "@desyov",
@@ -15686,6 +15686,47 @@
         "@.squibbles.  .as Kanon",
         "@Isobel 🦇| Olea as Isobel",
         "@Vanille Kuylenberg 🍰²⁹ 🎧¹⁷ as Vanille"
+      ]
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "Song of Fox and Hound and Hare",
+      "postedAt": 1752607953494,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1394763590770098378",
+      "players": [
+        "@incognegro as Kviss",
+        "@vievinvalor as Sella",
+        "@missingpath as Ebb",
+        "@rastamufasa as Sloan",
+        "@emgry as Fuji",
+        "@sirgabite as Simone"
+      ]
+    },
+    {
+      "master": "@foxfacesuicide",
+      "title": "Farewell Nezmira: Extinction",
+      "postedAt": 1752623723562,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1394829735229390958",
+      "players": [
+        "Hive Five",
+        "@rastamufasa as Sloan",
+        "@sirgabite as Simone",
+        "@desyov as Faust",
+        "@celesteias as Jazz",
+        "@xavieremix as Ruby"
+      ]
+    },
+    {
+      "master": "@madamezuri",
+      "title": "[Bahata Burning] Vasu the Valiant, Pt. 2",
+      "postedAt": 1752639148132,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1394894430565306529",
+      "players": [
+        "@doobledeedooble as Kiyo",
+        "@lenpendragon as Izu",
+        "@mike_miguel_michael as Calibre",
+        "@xavieremix as Ruby",
+        "@nikolaim. as Noir"
       ]
     }
   ]
