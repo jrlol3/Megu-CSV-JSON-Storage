@@ -1,5 +1,5 @@
 {
-  "timestamp": 1752742826693,
+  "timestamp": 1752829223397,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -112,7 +112,7 @@
     "@seraphim": {
       "username": "@seraphim",
       "id": "108744783031185408",
-      "gameCount": 78,
+      "gameCount": 79,
       "tier": "GM: World Builder - T2"
     },
     "@sawzie": {
@@ -340,18 +340,24 @@
     "@brooms": {
       "username": "@brooms",
       "id": "140595221300772864",
-      "gameCount": 3,
+      "gameCount": 4,
       "tier": "GM: Apprentice - T0"
     },
     "@emgry": {
       "username": "@emgry",
       "id": "186680561501339651",
-      "gameCount": 1,
+      "gameCount": 2,
       "tier": "GM: Apprentice - T0"
     },
     "@katen_m": {
       "username": "@katen_m",
       "id": "404317967585640451",
+      "gameCount": 1,
+      "tier": "GM: Apprentice - T0"
+    },
+    "@speagle": {
+      "username": "@speagle",
+      "id": "250502333903929344",
       "gameCount": 1,
       "tier": "GM: Apprentice - T0"
     }
