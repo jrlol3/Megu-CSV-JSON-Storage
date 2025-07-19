@@ -1,5 +1,5 @@
 {
-  "timestamp": 1752829223397,
+  "timestamp": 1752915624963,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -358,7 +358,7 @@
     "@speagle": {
       "username": "@speagle",
       "id": "250502333903929344",
-      "gameCount": 1,
+      "gameCount": 2,
       "tier": "GM: Apprentice - T0"
     }
   }
