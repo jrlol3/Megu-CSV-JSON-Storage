@@ -1,5 +1,5 @@
 {
-  "timestamp": 1753002025509,
+  "timestamp": 1753088423879,
   "logs": [
     {
       "master": "@desyov",
@@ -15889,6 +15889,89 @@
         "@sawzie as MJ",
         "@rastamufasa as Basil",
         "@oleamollevampie as Wraith"
+      ]
+    },
+    {
+      "master": "@brooms",
+      "title": "A Rocky Foundation: Heisted By His Own Petard",
+      "postedAt": 1753009640640,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1396448388773318677",
+      "players": [
+        "@oleamollevampie as Sable Von Nausicaa",
+        "@foxfacesuicide as Jacomo “Jack” Seidita",
+        "@nikolaim. as Nova",
+        "@katen_m as Beryl",
+        "@agentdj as Arin Sylvester",
+        "@speagle as Luna"
+      ]
+    },
+    {
+      "master": "@starfir54",
+      "title": "[Termina City] When you Stare into the Abyss...",
+      "postedAt": 1753052010731,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1396626101815476324",
+      "players": [
+        "@facinarose as Cassidy",
+        "@caelum_blue as Curly",
+        "@schwertaria as Lisa",
+        "@oleamollevampie as Sable",
+        "@mutemissy as Chime",
+        "@nikolaim. as Dujom"
+      ]
+    },
+    {
+      "master": "@missingpath",
+      "title": "The Guide - Finale: Twelve Majestic Wings",
+      "postedAt": 1753055108399,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1396639094376763586",
+      "players": [
+        "@madrid222 as Valen",
+        "@leplep as Zophiel",
+        "@emgry as Monique",
+        "@desyov as Nai",
+        "@foxfacesuicide as Helios"
+      ]
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "[Warlord of Ishiyama] The Broken Wall",
+      "postedAt": 1753058211132,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1396652108182458451",
+      "players": [
+        "@vampireorc as Tsumugi",
+        "@seraphim as Kohaku",
+        "@madrid222 as Tsuiho",
+        "@vampiremommy as Kurayami",
+        "@the429117 as Koishi",
+        "@oleamollevampie as Wraith"
+      ]
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "The End of Hong Lian",
+      "postedAt": 1753058543408,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1396653501849010277",
+      "players": [
+        "@Seizui as Keith Walker",
+        "@2NA as Gyalwa",
+        "@Emgry as Monique",
+        "@Squid as Timothy",
+        "@Miguel as Calibre",
+        "@Desmon as Dr Faust"
+      ]
+    },
+    {
+      "master": "@solotic.",
+      "title": "Fall into the Abyss",
+      "postedAt": 1753071569846,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1396708138689892472",
+      "players": [
+        "@letiana as Saroja",
+        "@solaceinfire as Tzera",
+        "@jrlol3megu as Godric",
+        "@mike_miguel_michael as Calibre",
+        "@samikazuki as Anahi",
+        "@incognegro as Shuye"
       ]
     }
   ]
