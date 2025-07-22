@@ -1,5 +1,5 @@
 {
-  "timestamp": 1753088423879,
+  "timestamp": 1753174826490,
   "logs": [
     {
       "master": "@desyov",
@@ -15972,6 +15972,34 @@
         "@mike_miguel_michael as Calibre",
         "@samikazuki as Anahi",
         "@incognegro as Shuye"
+      ]
+    },
+    {
+      "master": "@arte_abstrata",
+      "title": "[Hypothermia] | 1 - The First Week",
+      "postedAt": 1753149117411,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1397033396751962173",
+      "players": [
+        "@Malek as Roland⁵ as Roland",
+        "@Maxilos | Matt as Maxilos",
+        "@Jane | InvisibleWhale/Pat as Jane",
+        "@Kazuhiko | Plast/Gabe as Kazuhiko",
+        "@MortVanSigil/Hangedman(Steve) as Mort",
+        "@Oliver | Rocktem as Oliver"
+      ]
+    },
+    {
+      "master": "@pidgeon",
+      "title": "Class Reunion",
+      "postedAt": 1753160291495,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1397080264257048664",
+      "players": [
+        "@mooshen Elvis Alden",
+        "@schwertaria Adelphel",
+        "@oleamollevampie Wraith",
+        "@phosphophyllite0 \"Fenn\"",
+        "@.galebolg. Cypher",
+        "@lenpendragon Nanashi"
       ]
     }
   ]
