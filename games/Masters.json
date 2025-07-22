@@ -1,5 +1,5 @@
 {
-  "timestamp": 1753088423892,
+  "timestamp": 1753174826510,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -75,9 +75,9 @@
     },
     "@rayhammer": {
       "username": "@rayhammer",
-      "id": "200273794969894912",
+      "id": null,
       "gameCount": 4,
-      "tier": "GM: Apprentice - T0"
+      "tier": null
     },
     "@topsick": {
       "username": "@topsick",
@@ -347,7 +347,7 @@
       "username": "@emgry",
       "id": "186680561501339651",
       "gameCount": 2,
-      "tier": "GM: Apprentice - T0"
+      "tier": "GM: Storyteller - T1"
     },
     "@katen_m": {
       "username": "@katen_m",
@@ -364,6 +364,12 @@
     "@pidgeon": {
       "username": "@pidgeon",
       "id": "153330975575769088",
+      "gameCount": 2,
+      "tier": "GM: Apprentice - T0"
+    },
+    "@arte_abstrata": {
+      "username": "@arte_abstrata",
+      "id": "351605715632390174",
       "gameCount": 1,
       "tier": "GM: Apprentice - T0"
     }
