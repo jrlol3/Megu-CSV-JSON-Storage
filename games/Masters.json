@@ -1,5 +1,5 @@
 {
-  "timestamp": 1753174826510,
+  "timestamp": 1753261225639,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -299,7 +299,7 @@
       "username": "@caelum_blue",
       "id": "886623433306288158",
       "gameCount": 4,
-      "tier": "GM: Apprentice - T0"
+      "tier": "GM: Storyteller - T1"
     },
     "@vievinvalor": {
       "username": "@vievinvalor",
@@ -352,7 +352,7 @@
     "@katen_m": {
       "username": "@katen_m",
       "id": "404317967585640451",
-      "gameCount": 2,
+      "gameCount": 3,
       "tier": "GM: Apprentice - T0"
     },
     "@speagle": {
