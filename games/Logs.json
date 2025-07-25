@@ -1,5 +1,5 @@
 {
-  "timestamp": 1753347624809,
+  "timestamp": 1753434025688,
   "logs": [
     {
       "master": "@desyov",
@@ -16025,6 +16025,89 @@
         "@lenpendragon as Izu",
         "@angrykitsu as Shiori",
         "@theelusivegin as Gin"
+      ]
+    },
+    {
+      "master": "@starfir54",
+      "title": "[Termina City] Into the Breach",
+      "postedAt": 1753375388820,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1397982447827681341",
+      "players": [
+        "@honeydewmelons as Isolde",
+        "@brooms as Cyrus",
+        "@.galebolg. as Caelan",
+        "@leplep as Elijah",
+        "@oleamollevampie as Rue",
+        "@seraphim as Esmon"
+      ]
+    },
+    {
+      "master": "@speagle",
+      "title": "[Termina City] State Of Affairs",
+      "postedAt": 1753392149121,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1398052745625473035",
+      "players": [
+        "@Elvis|Shing|Beck as elvis",
+        "@Mutt 🏜¹² | Caelum as mutt",
+        "@Crystalia as crystalia",
+        "@Wraith 💎| Olea as wraith",
+        "@Raine | Soph as raine"
+      ]
+    },
+    {
+      "master": "@arte_abstrata",
+      "title": "[Hypothermia] | 2 - Those who were left Behind",
+      "postedAt": 1753395131533,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1398065254768054323",
+      "players": [
+        "@mike_miguel_michael as Óscar",
+        "@MortVanSigil/Hangedman(Steve) as Mort (participated on the last mission)",
+        "@Malek as Roland⁵ as Roland (participated on the last mission)",
+        "@zzAtticus Blackburn | Matt as Atticus",
+        "@katen_m as Beryl",
+        "@Kelda | JVDragoon as Kelda"
+      ]
+    },
+    {
+      "master": "@mike_miguel_michael",
+      "title": "[Palace Impulse] Dragon Slayer II",
+      "postedAt": 1753417836568,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1398160486587170866",
+      "players": [
+        "@incognegro as Kviss Nergath",
+        "@letiana as Annelise Klein",
+        "@solotic. as Alexei Volkov",
+        "@lillie2071 as Sarah of Lances",
+        "@desyov as Rika Carpenter",
+        "@honeydewmelons as Johnathan Southworth"
+      ]
+    },
+    {
+      "master": "@mike_miguel_michael",
+      "title": "[Roses of Rebellion] Silent Sleep",
+      "postedAt": 1753420165930,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1398170256639393802",
+      "players": [
+        "@leplep as Sienna Von Nausicaa",
+        "@missingpath as Scale-01, Venus Nightingale",
+        "@emgry as Dr. Yvette Lavigne",
+        "@r10 as Merrick Wolfsgar",
+        "@oleamollevampie as Sable Von Nausicaa",
+        "@brooms as Sizz"
+      ]
+    },
+    {
+      "master": "@katen_m",
+      "title": "Even the Dead can Die",
+      "postedAt": 1753421010133,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1398173797483544787",
+      "players": [
+        "@schwertaria as Adelphel",
+        "@mutemissy as Mae",
+        "@caelum_blue as Mutt",
+        "@solcarona as Raine",
+        "@dragoneldester as Yumiko",
+        "@the_1spark as Zora"
       ]
     }
   ]
