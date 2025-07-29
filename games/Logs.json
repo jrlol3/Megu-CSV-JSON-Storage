@@ -1,5 +1,5 @@
 {
-  "timestamp": 1753693222730,
+  "timestamp": 1753779627459,
   "logs": [
     {
       "master": "@desyov",
@@ -16190,6 +16190,60 @@
         "@oleamollevampie Wraith",
         "@sussy_arata Lin",
         "@aznrcmp Orizuma"
+      ]
+    },
+    {
+      "master": "@xavieremix",
+      "title": "Didn't you say this was some old warehouse?",
+      "postedAt": 1753721168653,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1399432753564352522",
+      "players": [
+        "@doctor_temmieas Brigitta",
+        "@vievinvalor as Sella",
+        "@aznrcmp as Orizuma",
+        "@agentdj as Lyle",
+        "@caelum_blue as Yukari",
+        "@phosphophyllite0 as Fenn"
+      ]
+    },
+    {
+      "master": "@emgry",
+      "title": "Barbaric Book Bandits: Tavern Talk",
+      "postedAt": 1753725041477,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1399448997365813269",
+      "players": [
+        "@zzOrion/Madrid as Devendra Tharvani",
+        "@Elvis|Shing|Beck as Elvis",
+        "@zzHelios, the First | Farewell as Zaizen「財前」",
+        "@zzCaelan Blacklaw as Cypher Yuten",
+        "@zzOrizuma ⚙ {🐍} Sullivan 🛡 as Orizuma",
+        "@zzElijah-2615 | Leplep as Isagani"
+      ]
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "[Termina City] The Fault of the Stars",
+      "postedAt": 1753732756939,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1399481358358810715",
+      "players": [
+        "@.galebolg. as Caelan",
+        "@schwertaria as Tatsuya",
+        "@oleamollevampie as Wraith",
+        "@bancho_bancho as Lochlann",
+        "@seraphim as Esmon",
+        "@brooms as Cyrus"
+      ]
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "Voluspa 61",
+      "postedAt": 1753738671053,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1399506163950813269",
+      "players": [
+        "@doobledeedooble as Kiyo",
+        "@mutemissy as Neishin",
+        "@sleepy_bernkastel as Raia",
+        "@madamezuri as Tyra"
       ]
     }
   ]
