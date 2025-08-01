@@ -1,5 +1,5 @@
 {
-  "timestamp": 1753952427135,
+  "timestamp": 1754038825390,
   "logs": [
     {
       "master": "@desyov",
@@ -16244,6 +16244,74 @@
         "@mutemissy as Neishin",
         "@sleepy_bernkastel as Raia",
         "@madamezuri as Tyra"
+      ]
+    },
+    {
+      "master": "@speagle",
+      "title": "[Termina city]  A day on the beach",
+      "postedAt": 1753962448168,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1400444753199366297",
+      "players": [
+        "@zzYukari 🦊²² | Caelum as mutt",
+        "@Olivia Cloudwing | Len as Nanashi",
+        "@zzAeh as Ananda",
+        "@Sylvaine | Path as Rin",
+        "@Monique | Emgry as Hiya",
+        "@Raia³⁴🦊| Sleepy as Alec"
+      ]
+    },
+    {
+      "master": "@brooms",
+      "title": "[In the Halls of Avarice] Dark Shadow",
+      "postedAt": 1753987132790,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1400548288008159395",
+      "players": [
+        "@katen_m as Beryl",
+        "@pixypip as Vital",
+        "@the429117 as Shibana",
+        "@solcarona as Hibiki",
+        "@ironheidcross as Heywire"
+      ]
+    },
+    {
+      "master": "@speagle",
+      "title": "[Termina City]",
+      "postedAt": 1753991240288,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1400565516103581889",
+      "players": [
+        "@Alec¹⁶💡| Sleepy as alec",
+        "@Ananda¹⁶ | Aeh as Ananda",
+        "@Mae as mae",
+        "@Nanashi | Len as nanashi",
+        "@Mutt 🏜 | Caelum as mutt"
+      ]
+    },
+    {
+      "master": "@themattroid",
+      "title": "The Hunted (Lost and Found)",
+      "postedAt": 1753995298442,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1400582537235140638",
+      "players": [
+        "@lenpendragon as Olivia",
+        "@foxfacesuicide as Levius",
+        "@arte_abstrata as Niaouli",
+        "@mooshen as Shing",
+        "@corath16 as Corgaven",
+        "@xxk111322xx as Carine"
+      ]
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[ Death of an Autumn Leaf ] The Stranger",
+      "postedAt": 1754016729125,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1400672424034435185",
+      "players": [
+        "@sussy_arata Lin Shen",
+        "@phosphophyllite0 \"Fenn\"",
+        "@mooshen Elvis",
+        "@oleamollevampie Wraith",
+        "@jrlol3megu Teyac",
+        "@caelum_blue Mutt"
       ]
     }
   ]
