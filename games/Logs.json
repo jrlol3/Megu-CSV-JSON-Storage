@@ -1,5 +1,5 @@
 {
-  "timestamp": 1754816424918,
+  "timestamp": 1754902826851,
   "logs": [
     {
       "master": "@desyov",
@@ -16607,6 +16607,48 @@
         "@oleamollevampie as Rue",
         "@solotic. as Alexei",
         "@saltmammoth as Lynne"
+      ]
+    },
+    {
+      "master": "@brooms",
+      "title": "[In the Halls of Avarice] Lurkers in the Deep",
+      "postedAt": 1754825085481,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1404062916331700254",
+      "players": [
+        "@nikolaim. as Dujom",
+        "@mutemissy as Chime",
+        "@lenpendragon as Olivia",
+        "@malekou as Roland",
+        "@katen_m as Beryl",
+        "@agentdj as Arin"
+      ]
+    },
+    {
+      "master": "@corath16",
+      "title": "Hope Marches South Wolves in the trees",
+      "postedAt": 1754843858714,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1404141656978227282",
+      "players": [
+        "@mooshen as Lindsey",
+        "@.galebolg. as Evelyn",
+        "@solcarona as Percival",
+        "@bancho_bancho as Holt",
+        "@vievinvalor as Torva",
+        "@sirgabite as Ezekiel"
+      ]
+    },
+    {
+      "master": "@caelum_blue",
+      "title": "[Termina City] Through The Looking Glass",
+      "postedAt": 1754856333491,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1404193979985297568",
+      "players": [
+        "@.galebolg. as Caelan",
+        "@honeydewmelons as Isolde",
+        "@bancho_bancho as Lochlann",
+        "@2naf1sh as Gladi",
+        "@solcarona as Raine",
+        "@rastamufasa as Basil"
       ]
     }
   ]
