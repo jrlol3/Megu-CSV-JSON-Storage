@@ -1,5 +1,5 @@
 {
-  "timestamp": 1754816424943,
+  "timestamp": 1754902826876,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -298,7 +298,7 @@
     "@caelum_blue": {
       "username": "@caelum_blue",
       "id": "886623433306288158",
-      "gameCount": 5,
+      "gameCount": 6,
       "tier": "GM: Storyteller - T1"
     },
     "@vievinvalor": {
@@ -340,7 +340,7 @@
     "@brooms": {
       "username": "@brooms",
       "id": "140595221300772864",
-      "gameCount": 9,
+      "gameCount": 10,
       "tier": "GM: Apprentice - T0"
     },
     "@emgry": {
@@ -376,6 +376,12 @@
     "@themattroid": {
       "username": "@themattroid",
       "id": "193553881249087488",
+      "gameCount": 1,
+      "tier": "GM: Apprentice - T0"
+    },
+    "@corath16": {
+      "username": "@corath16",
+      "id": "185490926389559305",
       "gameCount": 1,
       "tier": "GM: Apprentice - T0"
     }
