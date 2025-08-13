@@ -1,5 +1,5 @@
 {
-  "timestamp": 1754989225513,
+  "timestamp": 1755075626543,
   "logs": [
     {
       "master": "@desyov",
@@ -16691,6 +16691,33 @@
         "@missingpath as Sylvaine",
         "@the_1spark as Lumio",
         "@madrid222 as Tsuiho"
+      ]
+    },
+    {
+      "master": "@sleepy_bernkastel",
+      "title": "A Night of Robbery",
+      "postedAt": 1755053795984,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1405022197709541448",
+      "players": [
+        "@mutemissy as Maria",
+        "@pidgeon as Phoebe",
+        "@2naf1sh as Guiying",
+        "@pixypip as Alira",
+        "@mooshen as PAS-C41",
+        "@bancho_bancho as Holt"
+      ]
+    },
+    {
+      "master": "@incognegro",
+      "title": "[Bahata Burning] A Routine Inspection",
+      "postedAt": 1755054308194,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1405024346073993257",
+      "players": [
+        "@missingpath as Rin",
+        "@emgry as Hiya",
+        "@katen_m as Ananda",
+        "@madrid222 as Devendra",
+        "@nut_wizard as Ranmaru"
       ]
     }
   ]
