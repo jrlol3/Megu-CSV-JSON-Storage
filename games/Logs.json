@@ -1,5 +1,5 @@
 {
-  "timestamp": 1755334827854,
+  "timestamp": 1755421227771,
   "logs": [
     {
       "master": "@desyov",
@@ -16852,6 +16852,124 @@
         "@Sable 💉| Olea as Sable",
         "@Nasaya Valsieve as Nasaya",
         "@Yuel Falkyne Welkheim as Yuel"
+      ]
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "[A Fitting Death] The Tale of Kuroikazuchi",
+      "postedAt": 1755336307497,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1406207136878301185",
+      "players": [
+        "@sleepy_bernkastel as Raia",
+        "@mutemissy as Neishin",
+        "@solaceinfire as Tzera",
+        "@enderten as Kit",
+        "@samikazuki as Datu Anahi",
+        "@mike_miguel_michael as Calibre"
+      ]
+    },
+    {
+      "master": "@emgry",
+      "title": "[Welcome to Mastrazs]: Proving Grounds!",
+      "postedAt": 1755362147509,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1406315517744124007",
+      "players": [
+        "@katen_m as Celestyn",
+        "@incognegro as Zenith",
+        "@missingpath as Gawain",
+        "@letiana as Estelle",
+        "@nut_wizard as Cordoba"
+      ]
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "[Termina City] Dracophobia",
+      "postedAt": 1755371209910,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1406353528208883916",
+      "players": [
+        "@brooms as Cyrus"
+      ]
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[ Death of an Autumn Leaf ] The Eternal Gallery.",
+      "postedAt": 1755384593635,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1406409663620055052",
+      "players": [
+        "@seraphim Esmon",
+        "@facinarose Cassidy",
+        "@oleamollevampie Wraith",
+        "@mooshen Elvis",
+        "@leplep Isagani",
+        "@solcarona Raine"
+      ]
+    },
+    {
+      "master": "@themattroid",
+      "title": "The Hunted [taken by the cart load]",
+      "postedAt": 1755393601602,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1406447445772341258",
+      "players": [
+        "@foxfacesuicide as Levius C. Kennedy",
+        "@rocktem as Oliver Bloom",
+        "@malekou as Roland Pierce",
+        "@aznrcmp as Sullivan",
+        "@vievinvalor as Torva",
+        "@xxk111322xx as Carine"
+      ]
+    },
+    {
+      "master": "@sirgabite",
+      "title": "[Mastrazs] Fishy Business",
+      "postedAt": 1755399279590,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1406471260979986502",
+      "players": [
+        "@rastamufasa Calliope Florence Maier",
+        "@desyov Callum Baudouin II",
+        "@hellion Rajke Kolev",
+        "@katen_m Celestyn Sokol",
+        "@the429117 Enlai",
+        "@bancho_bancho as Holt"
+      ]
+    },
+    {
+      "master": "@letiana",
+      "title": "The Divine Forge: Remade",
+      "postedAt": 1755399741636,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1406473198941241404",
+      "players": [
+        "@facinarose as Akiko",
+        "@solotic. as Noel",
+        "@brooms as Cyrus",
+        "@nikolaim.as Noir",
+        "@emgryas Hiya"
+      ]
+    },
+    {
+      "master": "@brooms",
+      "title": "What Lurks in the Hills",
+      "postedAt": 1755418435278,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1406551605758787605",
+      "players": [
+        "@katen_m as Celestyn",
+        "@agentdj as Oscar",
+        "@vievinvalor as Emrik",
+        "@schwertaria as Yuel",
+        "@solcarona as Hibiki",
+        "@pidgeon as Phoebe"
+      ]
+    },
+    {
+      "master": "@madrid222",
+      "title": "BBA Fights: The Singer",
+      "postedAt": 1755419164569,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1406554664626950185",
+      "players": [
+        "@Gawain | Path as Gawain",
+        "@Estelle as Estelle",
+        "@Calliope Maier | Radda as Calliope",
+        "@Callum ☆ II as Callum",
+        "@Azra | Medja as Azra"
       ]
     }
   ]
