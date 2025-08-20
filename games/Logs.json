@@ -1,5 +1,5 @@
 {
-  "timestamp": 1755594025895,
+  "timestamp": 1755680424405,
   "logs": [
     {
       "master": "@desyov",
@@ -17040,6 +17040,75 @@
         "@pidgeon as Phoebe (fyi you have a typo in the name of your signup)",
         "@brooms as Raphäel",
         "@agentdj as Oscar"
+      ]
+    },
+    {
+      "master": "@mike_miguel_michael",
+      "title": "[Hallowed sins] Scars Upon the Heart",
+      "postedAt": 1755615979508,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1407380166312988762",
+      "players": [
+        "@madamezuri as Tyra All-Mother",
+        "@doobledeedooble as Takaoka Kiyo",
+        "@2naf1sh as Sir Gabu, First Knight of Dryholde"
+      ]
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Eyes of Omoikane] Raiding the Vault of the 378 Pages",
+      "postedAt": 1755618378914,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1407390230151041086",
+      "players": [
+        "@vampireorc as Tsumugi",
+        "@foxfacesuicide as Zaizen",
+        "@emgry as Hiya",
+        "@schwertaria  Aria",
+        "@nut_wizard as Ranmaru",
+        "@katen_m as Ananda"
+      ]
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Susanoo's Wrath] : Crown the Emperor",
+      "postedAt": 1755645411825,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1407503614397649028",
+      "players": [
+        "@incognegro as Shuye",
+        "@2naf1sh as Gyalwa",
+        "@letiana as Saroja",
+        "@jrlol3megu as Godric",
+        "@angrykitsu as Shiori",
+        "@lenpendragon as Izu",
+        "@emgry as Hiya",
+        "@seraphim as Kohaku",
+        "@honeydewmelons as Isolde"
+      ]
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Musashi's Infinity] : Enter Masamune - The Taiko-Denka",
+      "postedAt": 1755646042992,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1407506261703917620",
+      "players": [
+        "@angrykitsu as Shiori",
+        "@phosphophyllite0 as Keiko",
+        "@lenpendragon as Izu",
+        "@enderten as Kit",
+        "@honeydewmelons as Marianne"
+      ]
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Reign of Iron] The First Conquest",
+      "postedAt": 1755659040103,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1407560775538708540",
+      "players": [
+        "@oleamollevampie Wraith",
+        "@phosphophyllite0 \"Fenn\"",
+        "@mutemissy Mae",
+        "@schwertaria Aria",
+        "@aznrcmp Orizuma",
+        "@galen876 Vanigad"
       ]
     }
   ]
