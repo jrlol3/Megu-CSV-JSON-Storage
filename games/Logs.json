@@ -1,5 +1,5 @@
 {
-  "timestamp": 1755680424405,
+  "timestamp": 1755766825863,
   "logs": [
     {
       "master": "@desyov",
@@ -17109,6 +17109,43 @@
         "@schwertaria Aria",
         "@aznrcmp Orizuma",
         "@galen876 Vanigad"
+      ]
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "My Dearest Children",
+      "postedAt": 1755707798393,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1407765282629357598",
+      "players": [
+        "@sleepy_bernkastel as Raia",
+        "@mutemissy as Neishin",
+        "@solaceinfire as Tzera"
+      ]
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "Pages of the Book, a Story of Sailors",
+      "postedAt": 1755708659080,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1407768892612542464",
+      "players": [
+        "@seraphim as Saga",
+        "@emgry as Fuji",
+        "@missingpath as Ebb",
+        "@flaahn as Taavi"
+      ]
+    },
+    {
+      "master": "@brooms",
+      "title": "[What Lurks in the Hills] The Hills Have Eyes",
+      "postedAt": 1755755467490,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1407965221313839215",
+      "players": [
+        "@schwertaria as Yuel",
+        "@katen_m as Celestyn",
+        "@seraphim as Nasaya",
+        "@galen876 as Burkhardt",
+        "@bakaiser as Bernard",
+        "@bancho_bancho as Holt"
       ]
     }
   ]
