@@ -1,5 +1,5 @@
 {
-  "timestamp": 1755766825863,
+  "timestamp": 1755853226392,
   "logs": [
     {
       "master": "@desyov",
@@ -17146,6 +17146,33 @@
         "@galen876 as Burkhardt",
         "@bakaiser as Bernard",
         "@bancho_bancho as Holt"
+      ]
+    },
+    {
+      "master": "@madamezuri",
+      "title": "[Bahata Burning] Long Live the King",
+      "postedAt": 1755835116554,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1408299293701574739",
+      "players": [
+        "@theworldweavingcloud as Khaal",
+        "@galen876 as Xing Wei",
+        "@doobledeedooble as Kiyo",
+        "@xavieremix as Ruby",
+        "@sleepy_bernkastel as Raia"
+      ]
+    },
+    {
+      "master": "@seraphim",
+      "title": "[Steps of Prosperity] Falling Petals upon Rivers of Blood Part 2",
+      "postedAt": 1755841660658,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1408326741663158304",
+      "players": [
+        "@desyov as Jiafei",
+        "@rastamufasa as Muchen",
+        "@lenpendragon as Baimei",
+        "@letiana as Nuying",
+        "@starfir54 as Hui",
+        "@schwertaria as Aria"
       ]
     }
   ]
