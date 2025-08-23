@@ -1,5 +1,5 @@
 {
-  "timestamp": 1755853226380,
+  "timestamp": 1755939630343,
   "games": [
     {
       "title": "First Introductions",
@@ -14859,7 +14859,7 @@
       "pings": [
         "1170826554914373652"
       ],
-      "time": "<t:1756076400:F>",
+      "time": "<t:1756162800:F>",
       "public": true,
       "creator": "zzKitsu"
     },
@@ -14903,7 +14903,7 @@
       "pings": [
         "1170826620869808248"
       ],
-      "time": "<t:1756389600:F>",
+      "time": "<t:1756404000:F>",
       "public": true,
       "creator": "==THEM_THAR_HILLS=="
     },
@@ -14928,6 +14928,17 @@
       "time": "<t:1755849619:F>",
       "public": true,
       "creator": "Lanying Jiafei 🦁 | Desm☆n"
+    },
+    {
+      "title": "[Winters call] A normal merchant trip",
+      "postedAt": 1755879594097,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1408485846038085723",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1755972000:F>",
+      "public": true,
+      "creator": "zznot centcom"
     }
   ]
 }
