@@ -1,5 +1,5 @@
 {
-  "timestamp": 1755853226392,
+  "timestamp": 1755939630388,
   "logs": [
     {
       "master": "@desyov",
@@ -17173,6 +17173,61 @@
         "@letiana as Nuying",
         "@starfir54 as Hui",
         "@schwertaria as Aria"
+      ]
+    },
+    {
+      "master": "@speagle",
+      "title": "[Termina City] The Obelisks Rise",
+      "postedAt": 1755881560078,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1408494091960062032",
+      "players": [
+        "@Basil | Radda as basil",
+        "@ZzGabite as ezekiel",
+        "@Frigg 🐐| Olea as sable",
+        "@Isagani | Leplep as sienna",
+        "@zzThéodore⁵🐆| Sleepy as alec",
+        "@mutemissy as mae"
+      ]
+    },
+    {
+      "master": "@emgry",
+      "title": "[Welcome to Mastrazs]: The Forest has Eyes",
+      "postedAt": 1755913094224,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1408626355754766427",
+      "players": [
+        "@incognegro as Zenith",
+        "@saltmammoth as Amaranth",
+        "@enderten as Bernhard",
+        "@malekou as Darius",
+        "@.galebolg. as Anais"
+      ]
+    },
+    {
+      "master": "@solotic.",
+      "title": "The Thundering Pact Saga - As Ravens Fly, Phoenix Rise",
+      "postedAt": 1755916246365,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1408639576792104990",
+      "players": [
+        "@samikazuki as Mei-Mei",
+        "@leplep as Sienna",
+        "@rastamufasa as Basil",
+        "@sirgabite as Ezekiel",
+        "@sawzie as Myeongjun",
+        "@aznrcmp as Orizuma"
+      ]
+    },
+    {
+      "master": "@brooms",
+      "title": "It Came from the Wasteveil",
+      "postedAt": 1755937801640,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1408729986168520784",
+      "players": [
+        "@oleamollevampie as Frigg",
+        "@sleepy_bernkastel as Theodore",
+        "@.galebolg. as Anais",
+        "@foxfacesuicide as Levius",
+        "@pidgeon as Phoebe",
+        "@sussy_arata as Rhys"
       ]
     }
   ]
