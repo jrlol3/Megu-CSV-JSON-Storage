@@ -1,5 +1,5 @@
 {
-  "timestamp": 1756026026410,
+  "timestamp": 1756112431082,
   "logs": [
     {
       "master": "@desyov",
@@ -17241,6 +17241,74 @@
         "@Gawain | Path as Gawain",
         "@Prof. Sigma | Malek as Prof Sigma",
         "@PAS-C41|Moosh PAS-C41"
+      ]
+    },
+    {
+      "master": "@speagle",
+      "title": "[Winters call] A normal merchant trip",
+      "postedAt": 1756063592689,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1409257592068378765",
+      "players": [
+        "@Sammy as Hamra",
+        "@Wraith 💎| Olea as Frigg",
+        "@zzVic as Victoria",
+        "@zzMervei ⚜ | Rose as Mervei",
+        "@NULL🤖₇ | χavier as Null",
+        "@MortVanSigil/Hangedman(Steve) as Mort"
+      ]
+    },
+    {
+      "master": "@sirgabite",
+      "title": "[Mastrazs] Buccaneer's Bounty",
+      "postedAt": 1756063947671,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1409259080970670200",
+      "players": [
+        "@rastamufasa as Calliope Florence Maier",
+        "@sleepy_bernkastel as Théodore Pascal",
+        "@honeydewmelons as Azra Yıldıran",
+        "@solotic. as Amelie d'Artois",
+        "@foxfacesuicide as Levius C. Kennedy",
+        "@nut_wizard as Córdoba"
+      ]
+    },
+    {
+      "master": "@brooms",
+      "title": "[What Lurks in the Hills] Catching Your Death",
+      "postedAt": 1756064198176,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1409260131665051678",
+      "players": [
+        "@captainnosnax as Zlata",
+        "@desyov as Callum",
+        "@the_1spark as Leopold",
+        "@caelum_blue as Curly",
+        "@foxfacesuicide as Levius",
+        "@katen_m as Celestyn"
+      ]
+    },
+    {
+      "master": "@missingpath",
+      "title": "Heirs of Blood: The Final Seal",
+      "postedAt": 1756082067469,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1409335080912158832",
+      "players": [
+        "@samikazuki as Anahi",
+        "@facinarose as Vivian",
+        "@emgry as Cici",
+        "@honeydewmelons as Isolde",
+        "@oleamollevampie as Isobel",
+        "@caelum_blue as Celine"
+      ]
+    },
+    {
+      "master": "@madamezuri",
+      "title": "[Bahata Burning] [Twisting Vines] The Death and Rebirth of a Plum",
+      "postedAt": 1756088711424,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1409362947678929078",
+      "players": [
+        "@letiana as Saroja",
+        "@galen876 as Xing Wei",
+        "@mutemissy as Neishin",
+        "@mike_miguel_michael as Calibre"
       ]
     }
   ]
