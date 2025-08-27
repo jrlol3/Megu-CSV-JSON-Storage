@@ -1,5 +1,5 @@
 {
-  "timestamp": 1756198830718,
+  "timestamp": 1756285227324,
   "logs": [
     {
       "master": "@desyov",
@@ -17351,6 +17351,34 @@
         "@schwertaria Yuel",
         "@galen876 Colin",
         "@bancho_bancho Holt"
+      ]
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "[On Puppet's Strings] - Desperation on the Road",
+      "postedAt": 1756234037361,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1409972488838054049",
+      "players": [
+        "@squidlover23 as Franz Alberic",
+        "@enderten as Bernhard Klausner",
+        "@samikazuki as Hamra",
+        "@oleamollevampie as Frigg Engstrom",
+        "@brooms as Raphael",
+        "@speagle as Luna"
+      ]
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Bliss in the Streets] Burnt Pizza.",
+      "postedAt": 1756264773111,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1410101403916959856",
+      "players": [
+        "@doctor_temmie Agrippa",
+        "@seraphim Nasaya",
+        "@bancho_bancho Holt",
+        "@solaceinfire Naomi",
+        "@angrykitsu Victoria",
+        "@schwertaria Yuel"
       ]
     }
   ]
