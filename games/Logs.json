@@ -1,5 +1,5 @@
 {
-  "timestamp": 1756371627148,
+  "timestamp": 1756458030436,
   "logs": [
     {
       "master": "@desyov",
@@ -17393,6 +17393,61 @@
         "@sussy_arata as Levan",
         "@katen_m as Peri Ozeyn",
         "@oleamollevampie as Frigg Engstrom"
+      ]
+    },
+    {
+      "master": "@brooms",
+      "title": "[In the Halls of Avarice] The House of Cards",
+      "postedAt": 1756421204837,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1410757526131052585",
+      "players": [
+        "@hejtan as Heinrich",
+        "@lenpendragon as Olivia",
+        "@sleepy_bernkastel as Alec",
+        "@sirgabite as Ezekiel",
+        "@mutemissy as Mae",
+        "@themattroid as Maxilos"
+      ]
+    },
+    {
+      "master": "@vampiremommy",
+      "title": "[Wulforh Rising] The stoking of fires",
+      "postedAt": 1756423071099,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1410765353801351263",
+      "players": [
+        "@leplep as Reginn",
+        "@saltmammoth as Amaranth",
+        "@mike_miguel_michael as Delphine",
+        "@honeydewmelons as Azra",
+        "@squidlover23 as Franz"
+      ]
+    },
+    {
+      "master": "@themattroid",
+      "title": "The Hunted [All eyes on you]",
+      "postedAt": 1756443076622,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1410849263046361219",
+      "players": [
+        "@malekou  | Malek as Roland",
+        "@bancho_bancho  | Bancho as Holt McLeod",
+        "@mike_miguel_michael as Oscar Serrano",
+        "@sleepy_bernkastel as Theodore Pascal",
+        "@solaceinfire as Naomi Sevalis",
+        "@bakaiser as Bernard Cooke"
+      ]
+    },
+    {
+      "master": "@seraphim",
+      "title": "Steps of Prosperity: Falling Petals upon Rivers of Blood",
+      "postedAt": 1756444379105,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1410854726056017940",
+      "players": [
+        "@desyov as Jiafei",
+        "@rastamufasa as Muchen",
+        "@lenpendragon as Baimei",
+        "@letiana as Nuying",
+        "@starfir54 as Hui",
+        "@schwertaria as Aria"
       ]
     }
   ]
