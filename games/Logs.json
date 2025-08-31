@@ -1,5 +1,5 @@
 {
-  "timestamp": 1756544430793,
+  "timestamp": 1756630832107,
   "logs": [
     {
       "master": "@desyov",
@@ -17488,6 +17488,76 @@
         "@aznrcmp as Lyssa",
         "@leplep as Reginn",
         "@bancho_bancho as Holt"
+      ]
+    },
+    {
+      "master": "@incognegro",
+      "title": "[Steps of Prosperity] Earn Your Stripes",
+      "postedAt": 1756567752106,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1411372189927735477",
+      "players": [
+        "@missingpath as Rin",
+        "@emgry as Hiya",
+        "@desyov as Jiafei",
+        "@samikazuki as Anahi",
+        "@seraphim as Kohaku",
+        "@2naf1sh as Gyalwa"
+      ]
+    },
+    {
+      "master": "@samikazuki",
+      "title": "A Spooky Midnight Snack",
+      "postedAt": 1756581896578,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1411431516143091865",
+      "players": [
+        "@desyov as Anki",
+        "@mike_miguel_michael as Óscar",
+        "@.galebolg. as Anais",
+        "@malekou as Roland",
+        "@katen_m as Celestyn",
+        "@pidgeon as Swarm"
+      ]
+    },
+    {
+      "master": "@themattroid",
+      "title": "The Hunter [Simon Caul]",
+      "postedAt": 1756585412891,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1411446264628908083",
+      "players": [
+        "@xxk111322xx as Carine Eyt",
+        "@angrykitsu as Victoria Kaur",
+        "@seraphim as Nasaya Valsieve",
+        "@foxfacesuicide as A'shibah",
+        "@sussy_arata as Levan",
+        "@pixypip as Vital Courtemanche"
+      ]
+    },
+    {
+      "master": "@seraphim",
+      "title": "The Midnight Lotus: The Spider Scours The Broken Web",
+      "postedAt": 1756587496447,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1411455003696304251",
+      "players": [
+        "@solcarona as Raine",
+        "@foxfacesuicide as Zaizen",
+        "@xavieremix as Ven & Vid",
+        "@mutemissy as Mae",
+        "@sleepy_bernkastel as Alec",
+        "@mooshen as Shing"
+      ]
+    },
+    {
+      "master": "@brooms",
+      "title": "Coastal Menace! Battle at the Vorlun Gulf",
+      "postedAt": 1756624194970,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1411608928457982034",
+      "players": [
+        "@sussy_arata as Rhys",
+        "@schwertaria as Yuel",
+        "@samikazuki as Hamra",
+        "@katen_m as Celestyn",
+        "@squidlover23 as Franz",
+        "@solcarona as Hibiki"
       ]
     }
   ]
