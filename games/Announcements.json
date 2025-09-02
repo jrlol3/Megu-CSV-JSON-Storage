@@ -1,5 +1,5 @@
 {
-  "timestamp": 1756717227536,
+  "timestamp": 1756803630394,
   "games": [
     {
       "title": "First Introductions",
@@ -15283,6 +15283,17 @@
       "time": "<t:1756764000:F>",
       "public": true,
       "creator": "zZ"
+    },
+    {
+      "title": "[Eyes in the Stars] The insatiable hunt",
+      "postedAt": 1756767049572,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1412208104086437981",
+      "pings": [
+        "1170826716571238410"
+      ],
+      "time": "<t:1757174400:F>",
+      "public": true,
+      "creator": "zzCaliste || Pidgeon"
     }
   ]
 }
