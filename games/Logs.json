@@ -1,5 +1,5 @@
 {
-  "timestamp": 1756890025445,
+  "timestamp": 1756976429068,
   "logs": [
     {
       "master": "@desyov",
@@ -17858,6 +17858,33 @@
         "@doctor_temmie as Ophiuchus",
         "@rastamufasa as Basil",
         "@2naf1sh as Gyalwa"
+      ]
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "End of Aldistir #1 - Jǫtnar Attack",
+      "postedAt": 1756927485039,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1412881019207680061",
+      "players": [
+        "@🌈@solcarona as Hibiki",
+        "@🌈@missingpath as Ebb",
+        "@🌈@emgry as Fuji",
+        "@🌈@lenpendragon as Nanashi",
+        "@🌈@speagle as Sol"
+      ]
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "[The Warlord of Ishiyama] No Rest for the Righteous",
+      "postedAt": 1756961603379,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1413024121897357397",
+      "players": [
+        "@phosphophyllite0 as Keiko",
+        "@galen876 as Xing Wei",
+        "@solaceinfire as Tzera",
+        "@oleamollevampie as Isobel",
+        "@lenpendragon as Izu",
+        "@mutemissy as Neishin"
       ]
     }
   ]
