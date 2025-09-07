@@ -1,5 +1,5 @@
 {
-  "timestamp": 1757149226677,
+  "timestamp": 1757235625808,
   "logs": [
     {
       "master": "@desyov",
@@ -17948,6 +17948,86 @@
         "@pidgeon as Swarm",
         "@xxk111322xx as Kylean",
         "@squidlover23 as Franz"
+      ]
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "[On Puppet's Strings] The High Walls",
+      "postedAt": 1757176365323,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1413924898778382521",
+      "players": [
+        "@samikazuki as Hamra",
+        "@enderten as Bernard",
+        "@squidlover23 as Franz",
+        "@nut_wizard as Cordoba",
+        "@missingpath as Gawain",
+        "@emgry as Alois"
+      ]
+    },
+    {
+      "master": "@speagle",
+      "title": "[Termina city] Home away from home",
+      "postedAt": 1757180771786,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1413943380823638221",
+      "players": [
+        "@Fernia as Mae",
+        "@Kawa/Crow²⁷🐦| Sleepy as Alec",
+        "@Beryl¹⁴ | Aeh as Beryl",
+        "@Carine Eyt as Carine Eyt",
+        "@Maxilos | Matt as Maxilos",
+        "@Levius C. Kennedy | Farewell as Levius"
+      ]
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "[The Warlord of Ishiyama] Dimming the Sun",
+      "postedAt": 1757183286657,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1413953928957136936",
+      "players": [
+        "@Rose as Akiko",
+        "@Emgry as Hiya",
+        "@Star as Hui",
+        "@Seraphim as Kohaku"
+      ]
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "End of Aldistir #2 - Magmadiver",
+      "postedAt": 1757207516255,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1414055555257077961",
+      "players": [
+        "@🌈 @rastamufasa as Sloan",
+        "@🌈 @sirgabite as Simone",
+        "@🌈 @incognegro as Kviss",
+        "@🌈 @facinarose as Akiko",
+        "@🌈 @phosphophyllite0 as Mokah"
+      ]
+    },
+    {
+      "master": "@madrid222",
+      "title": "BBA Fights: The Goats",
+      "postedAt": 1757210942315,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1414069925193973790",
+      "players": [
+        "@Delphine Fiore D'Myrdel as Delphine",
+        "@Leonardo (Not Really) | Brooms as Raphael",
+        "@Agrippa⚽³⁰⭐²⁵🪑⁵|Temmie as Agrippa",
+        "@Swarm || Pidgeon as Swarm",
+        "@Mikael D'Franz El Queritis as Kylean"
+      ]
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Eyes in the Stars] The insatiable hunt",
+      "postedAt": 1757211264446,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1414071276309315605",
+      "players": [
+        "@letiana Erin",
+        "@mooshen Elvis",
+        "@oleamollevampie Rue",
+        "@honeydewmelons Isolde",
+        "@mutemissy Fernia",
+        "@sleepy_bernkastel Kawa"
       ]
     }
   ]
