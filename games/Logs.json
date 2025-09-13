@@ -1,5 +1,5 @@
 {
-  "timestamp": 1757667625837,
+  "timestamp": 1757754029335,
   "logs": [
     {
       "master": "@desyov",
@@ -18433,6 +18433,87 @@
         "@caelum_blue as Sacha Astier",
         "@missingpath as Gawain",
         "@emgry as Alois"
+      ]
+    },
+    {
+      "master": "@xavieremix",
+      "title": "A Solution Awaiting A Problem",
+      "postedAt": 1757689937739,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1416078977616838807",
+      "players": [
+        "@katen_m as Beryl",
+        "@mooshen as Shing",
+        "@doobledeedooble as Despina",
+        "@pidgeon as Caliste",
+        "@the_1spark as Zora"
+      ]
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "End of Aldistir #1.11 - You Are (not) Alone",
+      "postedAt": 1757709822891,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1416162381989412954",
+      "players": [
+        "@sleepy_bernkastel as Raia",
+        "@phosphophyllite0 as Mokah",
+        "@solaceinfire as Tzera",
+        "@mutemissy as Neishin"
+      ]
+    },
+    {
+      "master": "@incognegro",
+      "title": "[The Three Tribulations] Bingchuan II",
+      "postedAt": 1757728500602,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1416240721987506327",
+      "players": [
+        "@desyov as Jiafei",
+        "@rastamufasa as Muchen",
+        "@sussy_arata as Lin Shen",
+        "@letiana as Saroja",
+        "@2naf1sh as Gyalwa",
+        "@schwertaria as Aria"
+      ]
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Eyes in the Stars] The Endless Hunt",
+      "postedAt": 1757742272286,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1416298484616925245",
+      "players": [
+        "@mutemissy Fernia",
+        "@mooshen Elvis",
+        "@oleamollevampie Rue",
+        "@schwertaria Adelphel",
+        "@bancho_bancho Lochlann",
+        "@.galebolg. Caelan"
+      ]
+    },
+    {
+      "master": "@pidgeon",
+      "title": "Sailors Tithe",
+      "postedAt": 1757742572772,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1416299744946557009",
+      "players": [
+        "@incognegro Zenith",
+        "@seraphim Onyx",
+        "@doctor_temmie Agrippa",
+        "@madrid222 Pierre",
+        "@nut_wizard Córdoba",
+        "@celesteias Ladora"
+      ]
+    },
+    {
+      "master": "@brooms",
+      "title": "[A Rocky Foundation] What Lies Beneath",
+      "postedAt": 1757745143864,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1416310528888012870",
+      "players": [
+        "@angrykitsu as Alexandra",
+        "@bancho_bancho as Holt",
+        "@katen_m as Beryl",
+        "@schwertaria as Benicio",
+        "@themattroid as Atticus",
+        "@lenpendragon as Asuka"
       ]
     }
   ]
