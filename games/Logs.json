@@ -1,5 +1,5 @@
 {
-  "timestamp": 1758272431350,
+  "timestamp": 1758358826865,
   "logs": [
     {
       "master": "@desyov",
@@ -18622,6 +18622,71 @@
         "@foxfacesuicide as Helios",
         "@squidlover23 as Little Timmy",
         "@katen_m as The Moonlight"
+      ]
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "I Feel Like a Monster",
+      "postedAt": 1758289129470,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1418592169891201045",
+      "players": [
+        "@DJ as Mikael",
+        "@Megu as Myffa",
+        "@Nut as Kxax",
+        "@Solace as Tzera",
+        "@Madrid as Valen",
+        "@Sleepy as Claire"
+      ]
+    },
+    {
+      "master": "@emgry",
+      "title": "[Welcome to Mastrazs]: You Poor Hungry Souls",
+      "postedAt": 1758336128854,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1418789299595382815",
+      "players": [
+        "@nut_wizard as Cordoba",
+        "@facinarose as Mervei",
+        "@speagle as Luna",
+        "@leplep as Reginn",
+        "@caelum as Sacha",
+        "@katen_m as Celestyn"
+      ]
+    },
+    {
+      "master": "@brooms",
+      "title": "[Fury of the Sea Spirits] Dire Straits",
+      "postedAt": 1758337026487,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1418793064540934214",
+      "players": [
+        "@rastamufasa as Calliope",
+        "@incognegro as Zenith",
+        "@aznrcmp as Lyssa",
+        "@squidlover23 as Franz",
+        "@caelum_blue as Sacha",
+        "@celesteias as Ladora"
+      ]
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "End of Aldistir #3.33 - You Can (not) Redo",
+      "postedAt": 1758355340015,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1418869877044940870",
+      "players": [
+        "@madamezuri as Tyra",
+        "@doobledeedooble as Kiyo",
+        "@galen876 as Vanigad",
+        "@missingpath as Ebb"
+      ]
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "End of Aldistir #2.22 - You Can (not) Advance",
+      "postedAt": 1758358018964,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1418881113371447346",
+      "players": [
+        "@madamezuri as Tyra",
+        "@doobledeedooble as Kiyo",
+        "@lenpendragon as Nanashi"
       ]
     }
   ]
