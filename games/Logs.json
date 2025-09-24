@@ -1,5 +1,5 @@
 {
-  "timestamp": 1758618029121,
+  "timestamp": 1758704428957,
   "logs": [
     {
       "master": "@desyov",
@@ -18781,6 +18781,34 @@
         "@theanomaly as Rook",
         "@oleamollevampie as Frigg",
         "@leplep as Reginn"
+      ]
+    },
+    {
+      "master": "@letiana",
+      "title": "[Fey Inquiries] Well-Known Stranger",
+      "postedAt": 1758652123481,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1420114677123383316",
+      "players": [
+        "@emgry as Ci-Ci",
+        "@schwertaria as Adelphel",
+        "@the429117 as Retti",
+        "@missingpath as Sylvaine",
+        "@saltmammoth as Lynne",
+        "@seraphim as Trif"
+      ]
+    },
+    {
+      "master": "@incognegro",
+      "title": "[The Three Tribulations] Bingchuan III",
+      "postedAt": 1758675507616,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1420212757294354452",
+      "players": [
+        "@desyov as Jiafei",
+        "@rastamufasa as Muchen",
+        "@sussy_arata as Lin Shen",
+        "@letiana as Saroja",
+        "@2naf1sh as Gyalwa",
+        "@schwertaria as Aria"
       ]
     }
   ]
