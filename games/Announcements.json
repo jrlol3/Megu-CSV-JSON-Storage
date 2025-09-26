@@ -1,5 +1,5 @@
 {
-  "timestamp": 1758790828718,
+  "timestamp": 1758877229996,
   "games": [
     {
       "title": "First Introductions",
@@ -16172,6 +16172,28 @@
       "time": "<t:1759273200:F>",
       "public": true,
       "creator": "==CRAB BATTLE=="
+    },
+    {
+      "title": "The Jailed Theurgist",
+      "postedAt": 1758821740767,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1420826103584653354",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1758837600:F>",
+      "public": true,
+      "creator": "zzShadowflame"
+    },
+    {
+      "title": "[Remade In Spite] Shared Fury",
+      "postedAt": 1758866042678,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1421011919266906152",
+      "pings": [
+        "1170826784862908661"
+      ],
+      "time": "<t:1759186800:F>",
+      "public": true,
+      "creator": "zzeti"
     }
   ]
 }
