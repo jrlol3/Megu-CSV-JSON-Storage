@@ -1,5 +1,5 @@
 {
-  "timestamp": 1758963629994,
+  "timestamp": 1759050033397,
   "games": [
     {
       "title": "First Introductions",
@@ -16238,6 +16238,39 @@
       "time": "<t:1758952811:F>",
       "public": true,
       "creator": "The C☆nductor 🚆"
+    },
+    {
+      "title": "[Welcome to Mastrazs]: Rimelz Conglomeration",
+      "postedAt": 1759015502921,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1421638800962093057",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1759255200:F>",
+      "public": true,
+      "creator": "Hiya Dai Salamin | Emgry"
+    },
+    {
+      "title": "[Welcome to Mastrazs]: Frozen Frenzy",
+      "postedAt": 1759016100813,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1421641308702773310",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1759514400:F>",
+      "public": true,
+      "creator": "Hiya Dai Salamin | Emgry"
+    },
+    {
+      "title": "[Welcome to Mastrazs]: Into the Decay",
+      "postedAt": 1759016716619,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1421643891580338288",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1759604400:F>",
+      "public": true,
+      "creator": "Hiya Dai Salamin | Emgry"
     }
   ]
 }
