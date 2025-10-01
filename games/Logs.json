@@ -1,5 +1,5 @@
 {
-  "timestamp": 1759222832212,
+  "timestamp": 1759309234940,
   "logs": [
     {
       "master": "@desyov",
@@ -19124,6 +19124,61 @@
         "@phosphophyllite0 as Mokah",
         "@angrykitsu as Shiori",
         "@letiana as Erin"
+      ]
+    },
+    {
+      "master": "@speagle",
+      "title": "[Termina city] A new song",
+      "postedAt": 1759256271075,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1422648655793487954",
+      "players": [
+        "@Atticus Blackburn | Matt as Maxilos",
+        "@zzAeh as beryl",
+        "@mutemissy as Mae",
+        "@Théodore⁹🐆| Sleepy as Alec",
+        "@Rue 📖 | Olea as Sable",
+        "@Kohaku Aiuchi as Sonam"
+      ]
+    },
+    {
+      "master": "@speagle",
+      "title": "[Winters call] Prison Break",
+      "postedAt": 1759256586943,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1422649980639776779",
+      "players": [
+        "@Akiko 🌤 | Rose as Mervei Retz-Yilogan",
+        "@Akali || Pidgeon as Akali Nubia",
+        "@Sienna von Nausicaa | Leplep as Reginn",
+        "@Rue 📖 | Olea as Frigg",
+        "@[Tessa] (Echo Rose) as Tessa",
+        "@Aile Forrester (Nikkimp) as Aile Forrester"
+      ]
+    },
+    {
+      "master": "@emgry",
+      "title": "[Welcome to Mastrazs]: Rimelz Conglomeration",
+      "postedAt": 1759280373608,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1422749749143932948",
+      "players": [
+        "@sleepy_bernkastel as Theo",
+        "@missingpath as Gawain",
+        "@sirgabite as Féng Líhuà「冯丽华」",
+        "@honeydewmelons as Azra",
+        "@rastamufasa as Calliope"
+      ]
+    },
+    {
+      "master": "@brooms",
+      "title": "[To Serve Crab] In Search of a Boulder Flavor",
+      "postedAt": 1759290719772,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1422793144100978730",
+      "players": [
+        "@celesteias as Ladora",
+        "@schwertaria as Yuel",
+        "@the429117 as Enlai",
+        "@echorose as Tessa",
+        "@galen876 as Burkhardt",
+        "@katen_m as Celestyn"
       ]
     }
   ]
