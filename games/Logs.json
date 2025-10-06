@@ -1,5 +1,5 @@
 {
-  "timestamp": 1759654833801,
+  "timestamp": 1759741230626,
   "logs": [
     {
       "master": "@desyov",
@@ -19298,6 +19298,47 @@
         "@sleepy_bernkastel as Théodore",
         "@letiana as Estelle",
         "@squidlover23 as Franz"
+      ]
+    },
+    {
+      "master": "@speagle",
+      "title": "Haven of Music",
+      "postedAt": 1759698835726,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1424504906479566888",
+      "players": [
+        "@Olivia & Cathal | Len as Nanashi Sakura",
+        "@Naomi as Aelina Van Deivoet",
+        "@zzVactioner as Kori Von Kleist",
+        "@==THE_CAVE== as Cyrus Sand",
+        "@Fenn | Phos as \"Fenn\"",
+        "@Zaid as The42 as Zaid,"
+      ]
+    },
+    {
+      "master": "@missingpath",
+      "title": "[Pawn's Liberation] Who Will Guide Their Way?",
+      "postedAt": 1759701481949,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1424516005543284907",
+      "players": [
+        "@madrid222 as Pierre",
+        "@emgry as Alois",
+        "@2naf1sh as Galavan",
+        "@mutemissy as Natalia",
+        "@solaceinfire as Naomi",
+        "@desyov as Callum"
+      ]
+    },
+    {
+      "master": "@missingpath",
+      "title": "Rook's Conquest: The Long Way Home",
+      "postedAt": 1759718921836,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1424589153730953271",
+      "players": [
+        "@angrykitsu as Victoria",
+        "@galen876 as Burkhardt",
+        "@sussy_arata as Rhys",
+        "@letiana as Estelle",
+        "@speagle as Keres"
       ]
     }
   ]
