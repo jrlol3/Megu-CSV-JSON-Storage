@@ -1,5 +1,5 @@
 {
-  "timestamp": 1759741230610,
+  "timestamp": 1759827629799,
   "games": [
     {
       "title": "First Introductions",
@@ -16430,6 +16430,17 @@
       "time": "<t:1759636869:F>",
       "public": false,
       "creator": "= Vict☆ry ="
+    },
+    {
+      "title": "Defector’s Wrath: Snitched",
+      "postedAt": 1759775331512,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1424825753060769964",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1759874400:F>",
+      "public": true,
+      "creator": "zzPierre/Madrid"
     }
   ]
 }
