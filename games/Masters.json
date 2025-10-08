@@ -1,5 +1,5 @@
 {
-  "timestamp": 1759827629833,
+  "timestamp": 1759914030459,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -112,7 +112,7 @@
     "@seraphim": {
       "username": "@seraphim",
       "id": "108744783031185408",
-      "gameCount": 86,
+      "gameCount": 87,
       "tier": "GM: World Builder - T2"
     },
     "@sawzie": {
@@ -250,8 +250,8 @@
     "@madrid222": {
       "username": "@madrid222",
       "id": "173539943426031616",
-      "gameCount": 19,
-      "tier": "GM: Apprentice - T0"
+      "gameCount": 20,
+      "tier": "GM: Storyteller - T1"
     },
     "@foxfacesuicide": {
       "username": "@foxfacesuicide",
@@ -298,7 +298,7 @@
     "@caelum_blue": {
       "username": "@caelum_blue",
       "id": "886623433306288158",
-      "gameCount": 7,
+      "gameCount": 8,
       "tier": "GM: Storyteller - T1"
     },
     "@vievinvalor": {
@@ -359,12 +359,12 @@
       "username": "@speagle",
       "id": "250502333903929344",
       "gameCount": 17,
-      "tier": "GM: Apprentice - T0"
+      "tier": "GM: Storyteller - T1"
     },
     "@pidgeon": {
       "username": "@pidgeon",
       "id": "153330975575769088",
-      "gameCount": 21,
+      "gameCount": 25,
       "tier": "GM: Storyteller - T1"
     },
     "@arte_abstrata": {
