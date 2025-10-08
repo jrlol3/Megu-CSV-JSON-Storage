@@ -1,5 +1,5 @@
 {
-  "timestamp": 1759827629815,
+  "timestamp": 1759914030447,
   "logs": [
     {
       "master": "@desyov",
@@ -19351,6 +19351,102 @@
         "@schwertaria as Tatsuya",
         "@brooms as Cyrus",
         "@rastamufasa as Percy"
+      ]
+    },
+    {
+      "master": "@caelum_blue",
+      "title": "Céline",
+      "postedAt": 1759877020575,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1425252267904335956",
+      "players": [
+        "@.galebolg. as Caelan",
+        "@vittinhodosus as Mel",
+        "@honeydewmelons as Isolde",
+        "@sleepy_bernkastel as Kawa",
+        "@solaceinfire as Saki",
+        "@mutemissy as Fernia"
+      ]
+    },
+    {
+      "master": "@madrid222",
+      "title": "Defector's Wrath: Snitched",
+      "postedAt": 1759886092124,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1425290316738596934",
+      "players": [
+        "@themattroid as Atticus",
+        "@schwertaria as Lisa",
+        "@pidgeon as Phoebe",
+        "@galen876 as Colin",
+        "@speagle as Sol"
+      ]
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Eyes in the Stars] Greed of the Sea",
+      "postedAt": 1759892823242,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1425318549093617734",
+      "players": [
+        "@vittinhodosus Melinda",
+        "@mutemissy Fernia",
+        "@xavieremix Assistant",
+        "@sleepy_bernkastel Kawa",
+        "@seraphim Esmon",
+        "@oleamollevampie Rue"
+      ]
+    },
+    {
+      "master": "@seraphim",
+      "title": "The Celestial Archipelago: A Galaxy Closest To You",
+      "postedAt": 1759893021512,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1425319380698267689",
+      "players": [
+        "@solotic. as Alexei",
+        "@oleamollevampie as Wraith",
+        "@leplep as Orpheus",
+        "@phosphophyllite0 as Fenn",
+        "@aznrcmp as Orizuma"
+      ]
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Eyes in the Stars] Marble is our Flesh",
+      "postedAt": 1759893489842,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1425321345016922174",
+      "players": [
+        "@rastamufasa Perseus",
+        "@foxfacesuicide Otani",
+        "@solotic. Alexei",
+        "@sussy_arata Lin Shen",
+        "@2naf1sh Gladiolus",
+        "@sirgabite Apollo"
+      ]
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Eyes in the Stars] Blades to Stained Cause",
+      "postedAt": 1759894534522,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1425325726722162740",
+      "players": [
+        "@lenpendragon Olivia",
+        "@foxfacesuicide Levius",
+        "@dragoneldester Crystalia",
+        "@aznrcmp Orizuma",
+        "@sussy_arata Levan",
+        "@ironheidcross Heywire"
+      ]
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Eyes in the Stars] The Forest that Screams",
+      "postedAt": 1759894818447,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1425326917590061238",
+      "players": [
+        "@seraphim Onyx",
+        "@letiana Royce",
+        "@the429117 Shibana",
+        "@celesteias Daisy",
+        "@echorose Tessa",
+        "@solcarona Califex"
       ]
     }
   ]
