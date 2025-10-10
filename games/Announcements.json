@@ -1,5 +1,5 @@
 {
-  "timestamp": 1760000430405,
+  "timestamp": 1760086832616,
   "games": [
     {
       "title": "First Introductions",
@@ -16518,6 +16518,17 @@
       "time": "<t:1759996785:F>",
       "public": true,
       "creator": "Fletcher ☆ 🔧"
+    },
+    {
+      "title": "BBA Fights: Music Man",
+      "postedAt": 1760036771487,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1425922311793541204",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1760133600:F>",
+      "public": true,
+      "creator": "zzMadrid"
     }
   ]
 }
