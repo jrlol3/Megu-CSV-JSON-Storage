@@ -1,5 +1,5 @@
 {
-  "timestamp": 1760000430420,
+  "timestamp": 1760086832622,
   "logs": [
     {
       "master": "@desyov",
@@ -19447,6 +19447,34 @@
         "@celesteias Daisy",
         "@echorose Tessa",
         "@solcarona Califex"
+      ]
+    },
+    {
+      "master": "@starfir54",
+      "title": "[Termina City] The Dread Star",
+      "postedAt": 1760030335720,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1425895318230138921",
+      "players": [
+        "@angrykitsu as Shiori",
+        "@phosphophyllite0 as Keiko",
+        "@brooms as Cyrus",
+        "@samikazuki as Anahi",
+        "@solaceinfire as Tzera",
+        "@sleepy_bernkastel as Claire"
+      ]
+    },
+    {
+      "master": "@brooms",
+      "title": "[What Lurks in the Hills] With the Sound of Music",
+      "postedAt": 1760045485477,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1425958860916785295",
+      "players": [
+        "@leplep as Reginn",
+        "@.galebolg. as Anais",
+        "@solaceinfire as Naomi",
+        "@katen_m as Celestyn",
+        "@mutemissy as Natalia",
+        "@the429117 as Shibana"
       ]
     }
   ]
