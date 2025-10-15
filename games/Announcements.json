@@ -1,5 +1,5 @@
 {
-  "timestamp": 1760432429279,
+  "timestamp": 1760518831777,
   "games": [
     {
       "title": "First Introductions",
@@ -16743,6 +16743,44 @@
       "time": "<t:1760889600:F>",
       "public": false,
       "creator": "Akali || Pidgeon"
+    },
+    {
+      "title": "[Termina city] Sisterly Bonds",
+      "postedAt": 1760451055013,
+      "link": "https://discord.com/channels/1169852846083153941/1170183729856135250/1427659942843908208",
+      "pings": [],
+      "time": "<t:1760767200:F>",
+      "public": false,
+      "creator": "The Trio | Speagle"
+    },
+    {
+      "title": "The Lost Parts",
+      "postedAt": 1760451750411,
+      "link": "https://discord.com/channels/1169852846083153941/1170183729856135250/1427662859554259026",
+      "pings": [],
+      "time": "<t:1761336000:F>",
+      "public": false,
+      "creator": "The Trio | Speagle"
+    },
+    {
+      "title": "Dropout Bandits!",
+      "postedAt": 1760477790971,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1427772081579495509",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1760484937:F>",
+      "public": true,
+      "creator": "zzPierre/Madrid"
+    },
+    {
+      "title": "The Strange Case of Cassidy Hertz",
+      "postedAt": 1760482104481,
+      "link": "https://discord.com/channels/1169852846083153941/1170183729856135250/1427790173751480332",
+      "pings": [],
+      "time": "<t:1760824800:F>",
+      "public": false,
+      "creator": "zzCalliope"
     }
   ]
 }
