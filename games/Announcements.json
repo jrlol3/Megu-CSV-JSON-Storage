@@ -1,5 +1,5 @@
 {
-  "timestamp": 1760518831777,
+  "timestamp": 1760691634534,
   "games": [
     {
       "title": "First Introductions",
@@ -16781,6 +16781,39 @@
       "time": "<t:1760824800:F>",
       "public": false,
       "creator": "zzCalliope"
+    },
+    {
+      "title": "[Welcome to Mastrazs]: An Admirer Without a Subject",
+      "postedAt": 1760588347221,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1428235788100960338",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1760821200:F>",
+      "public": true,
+      "creator": "Alois Wagner | Emgry"
+    },
+    {
+      "title": "[Termina City] : Drowning in Guilt and Lies",
+      "postedAt": 1760630568167,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1428412875583520858",
+      "pings": [
+        "1170826716571238410"
+      ],
+      "time": "<t:1760661000:F>",
+      "public": true,
+      "creator": "Edward🔑| Sammy"
+    },
+    {
+      "title": "Defector's Wrath: New Deputy In Town",
+      "postedAt": 1760643439075,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1428466860084695181",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1760839200:F>",
+      "public": true,
+      "creator": "zzMadrid"
     }
   ]
 }
