@@ -1,5 +1,5 @@
 {
-  "timestamp": 1760778034667,
+  "timestamp": 1760864431235,
   "logs": [
     {
       "master": "@desyov",
@@ -19627,6 +19627,48 @@
         "@brooms as Cyrus",
         "@mutemissy as Fernia",
         "@.galebolg. as Caelan"
+      ]
+    },
+    {
+      "master": "@letiana",
+      "title": "[Remade in Spite] Shared Fury",
+      "postedAt": 1760803138259,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1429136687010811946",
+      "players": [
+        "@sleepy_bernkastel as Claire",
+        "@nikolaim. As Noir",
+        "@solotic. as Noel",
+        "@madrid222 as Orion",
+        "@xavieremix as Ruby",
+        "@vittinhodosus as Lupo"
+      ]
+    },
+    {
+      "master": "@incognegro",
+      "title": "[Reclaim the Wastes] A New Settlement",
+      "postedAt": 1760817370691,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1429196382157406324",
+      "players": [
+        "@missingpath as Venus",
+        "@samikazuki as Moritz",
+        "@sleepy_bernkastel as Claire",
+        "@seraphim as Esmon",
+        "@jrlol3megu as Elara",
+        "@nikolaim. as Noir"
+      ]
+    },
+    {
+      "master": "@madrid222",
+      "title": "Defector's Wrath: New Deputy In Town",
+      "postedAt": 1760850850450,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1429336806444236801",
+      "players": [
+        "@themattroid as Atticus",
+        "@honeydewmelons as Johnathan",
+        "@missingpath as Venus",
+        "@desyov as Rika",
+        "@pidgeon as Phoebe",
+        "@phosphophyllite0 as Amber"
       ]
     }
   ]
