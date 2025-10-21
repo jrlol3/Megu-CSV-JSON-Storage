@@ -1,5 +1,5 @@
 {
-  "timestamp": 1760950833566,
+  "timestamp": 1761037231900,
   "logs": [
     {
       "master": "@desyov",
@@ -19761,6 +19761,46 @@
         "@leplep Elijiah",
         "@seraphim Esmon",
         "@sirgabite Apollo"
+      ]
+    },
+    {
+      "master": "@speagle",
+      "title": "[Winters call]",
+      "postedAt": 1760967780497,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1429827246608220282",
+      "players": [
+        "@Galavan as Galavan Riverstone",
+        "@Natalia as Natalia",
+        "@MortVanSigil/Steve as Mort vansigil",
+        "@baba(Kim) as Kim",
+        "@Ladora | Jazz as Ladora Cascella"
+      ]
+    },
+    {
+      "master": "@emgry",
+      "title": "[Welcome to Mastrazs]: An Admirer Without a Subject",
+      "postedAt": 1760999082776,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1429958537882243175",
+      "players": [
+        "@schwertaria as Yuel",
+        "@incognegro as Zenith",
+        "@celesteias as Ladora",
+        "@solotic. as Amelie",
+        "@hangedmantarot as Jaith",
+        "@the429117 as Lyrric"
+      ]
+    },
+    {
+      "master": "@emgry",
+      "title": "[Welcome to Mastrazs]: Sinner's Rock",
+      "postedAt": 1761001544192,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1429968861809348819",
+      "players": [
+        "@sleepy_bernkastel as Theodore",
+        "@mike_miguel_michael as Delphine",
+        "@solaceinfire as Naomi",
+        "@desyov as Callum",
+        "@nikkimp as Aile Forrester"
       ]
     }
   ]
