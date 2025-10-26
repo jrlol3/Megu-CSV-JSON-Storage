@@ -1,5 +1,5 @@
 {
-  "timestamp": 1761382833372,
+  "timestamp": 1761469236510,
   "games": [
     {
       "title": "First Introductions",
@@ -16658,7 +16658,7 @@
       "pings": [
         "1170826620869808248"
       ],
-      "time": "<t:1761523200:F>",
+      "time": "<t:1761516000:F>",
       "public": true,
       "creator": "= Vict☆ry ="
     },
@@ -17017,6 +17017,28 @@
       "time": "<t:1761453321:F>",
       "public": true,
       "creator": "zzEbb | Path"
+    },
+    {
+      "title": "[The Fury of the Sea Spirits] The Power of Wildfire",
+      "postedAt": 1761400402312,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1431641794017362092",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1762038000:F>",
+      "public": true,
+      "creator": "Cyrus | Brooms"
+    },
+    {
+      "title": "[A Rocky Foundation] Hole-y Mole-y",
+      "postedAt": 1761403465868,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1431654643502547004",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1762455600:F>",
+      "public": true,
+      "creator": "Cyrus | Brooms"
     }
   ]
 }
