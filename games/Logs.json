@@ -1,5 +1,5 @@
 {
-  "timestamp": 1761901232152,
+  "timestamp": 1761987634173,
   "logs": [
     {
       "master": "@desyov",
@@ -19979,6 +19979,44 @@
         "@honeydewmelons as Azra",
         "@flaahn Taavi",
         "@desyov as Callum"
+      ]
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Termina City] : The SS Dawnlight",
+      "postedAt": 1761942333063,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1433914816334135356",
+      "players": [
+        "@schwertaria as Tatsuya",
+        "@nikolaim. as Cyph"
+      ]
+    },
+    {
+      "master": "@emgry",
+      "title": "[Hallowed Harvest Festival]: A Pumpking who misses Spring",
+      "postedAt": 1761956411528,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1433973865695940770",
+      "players": [
+        "@madrid222 as Valen",
+        "@missingpath as Sylvaine",
+        "@letiana as Erin",
+        "@incognegro as Kviss",
+        "@xavieremix as Lock",
+        "@seraphim as Kohaku"
+      ]
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "[Grestaz] The Luxury of Freedom",
+      "postedAt": 1761970944879,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1434034822988300351",
+      "players": [
+        "@hellion Rajke",
+        "@missingpath Quincy",
+        "@pidgeon Akino",
+        "@the429117 Jaith",
+        "@sleepy_bernkastel Poppy",
+        "@theselfishmeme Lauren Faust"
       ]
     }
   ]
