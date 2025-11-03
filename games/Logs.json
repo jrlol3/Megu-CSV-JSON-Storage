@@ -1,5 +1,5 @@
 {
-  "timestamp": 1762074032769,
+  "timestamp": 1762160433856,
   "logs": [
     {
       "master": "@desyov",
@@ -20057,6 +20057,54 @@
         "@mutemissy as Natalia",
         "@sleepy_bernkastel as Theodore",
         "@bancho_bancho as Holt"
+      ]
+    },
+    {
+      "master": "@starfir54",
+      "title": "[Termina City] Rampant Growth",
+      "postedAt": 1762095454348,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1434557053552033904",
+      "players": [
+        "@sawzie as MJ",
+        "@phosphophyllite0 as Verge",
+        "@AgentDJ as Mikael",
+        "@mutemissy as Fernia",
+        "@saltmammoth as Lynne",
+        "@sleepy_bernkastel as Kawa"
+      ]
+    },
+    {
+      "master": "@missingpath",
+      "title": "[Heaven's Memory] Arrival to Heaven's Gates",
+      "postedAt": 1762130788846,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1434705257178468494",
+      "players": [
+        "@rastamufasa as Sloan",
+        "@sirgabite as Simone",
+        "@xavieremix as Ruby",
+        "@foxfacesuicide as Helios",
+        "@nikolaim. as Noir",
+        "@leplep as Elijah",
+        "@lenpendragon as Elaine",
+        "@seraphim as Kohaku",
+        "@madrid222 as Orion",
+        "@sleepy_bernkastel as Claire",
+        "@solotic. as Noel",
+        "@letiana as Erin"
+      ]
+    },
+    {
+      "master": "@foxfacesuicide",
+      "title": "[Broken Vortex][Act One] Grateful Dead",
+      "postedAt": 1762139247697,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1434740736170917899",
+      "players": [
+        "@missingpath as Ebb",
+        "@lenpendragon as Olivia",
+        "@.galebolg. as Anais",
+        "@oleamollevampie as Sable",
+        "@leplep as Sienna",
+        "@sussyarata as Levan"
       ]
     }
   ]
