@@ -1,5 +1,5 @@
 {
-  "timestamp": 1762419632302,
+  "timestamp": 1762506032500,
   "logs": [
     {
       "master": "@desyov",
@@ -20188,6 +20188,87 @@
         "@mutemissy as Chime",
         "@aznrcmp as Topal",
         "@pidgeon as Akino"
+      ]
+    },
+    {
+      "master": "@brooms",
+      "title": "[A Rocky Foundation] Hole-y Mole-y",
+      "postedAt": 1762467145717,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1436116040147800074",
+      "players": [
+        "@lenpendragon as Asuka",
+        "@honeydewmelons as Azra",
+        "@mooshen as Shing",
+        "@the429117 as Koishi",
+        "@themattroid as Atticus",
+        "@sussy_arata as Rhys"
+      ]
+    },
+    {
+      "master": "@letiana",
+      "title": "[Everlasting Storm] Brace for the Night",
+      "postedAt": 1762469235050,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1436124803445686363",
+      "players": [
+        "@rastamufasa as Perseus",
+        "@sirgabite as Apollo",
+        "@mutemissy as Fernia",
+        "@missingpath as Rin",
+        "@emgry as Hiya",
+        "@solaceinfire as Aelina"
+      ]
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "[Heaven's Memory] Ishiba",
+      "postedAt": 1762491107694,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1436216543964041420",
+      "players": [
+        "@celesteias as Daisy",
+        "@sleepy_bernkastel as Poppy",
+        "@pidgeon as Akino",
+        "@nikkimp as Juna",
+        "@xirozean as Ferry",
+        "@echorose as Tessa"
+      ]
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Eyes in the Stars] Fallen Masks",
+      "postedAt": 1762503301855,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1436267689982300160",
+      "players": [
+        "@oleamollevampie Wraith",
+        "@aznrcmp Orizuma",
+        "@phosphophyllite0 Fenn",
+        "@schwertaria Adelphel",
+        "@caelum_blue Céline",
+        "@agentdj Mikael"
+      ]
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Eyes in the Stars] Silence in the Library",
+      "postedAt": 1762503555639,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1436268754429542590",
+      "players": [
+        "@.galebolg. Cypher",
+        "@caelum_blue Céline",
+        "@mooshen Elvis",
+        "@oleamollevampie Wraith",
+        "@solaceinfire Saki",
+        "@mutemissy Fernia"
+      ]
+    },
+    {
+      "master": "@pidgeon",
+      "title": "EntroPRISM Recruitment Program",
+      "postedAt": 1762503679678,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1436269274686554153",
+      "players": [
+        "@sleepy_bernkastel Poppy",
+        "@schwertaria Yuel",
+        "@mutemissy Maria"
       ]
     }
   ]
