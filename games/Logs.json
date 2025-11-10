@@ -1,5 +1,5 @@
 {
-  "timestamp": 1762678829633,
+  "timestamp": 1762765231158,
   "logs": [
     {
       "master": "@desyov",
@@ -20295,6 +20295,45 @@
         "@sleepy_bernkastel as Caspian",
         "@mutemissy as Fernia",
         "@madrid222 as Tsuiho"
+      ]
+    },
+    {
+      "master": "@speagle",
+      "title": "The Jarl's Authority",
+      "postedAt": 1762712534502,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1437145275310411808",
+      "players": [
+        "@Freyr | Star as Freyr",
+        "@Isobel | Olea as Frigg",
+        "@Keeper Zophiel | Leplep as Reginn",
+        "@Azhtang | Galen as Burkhadt"
+      ]
+    },
+    {
+      "master": "@speagle",
+      "title": "[Heaven's Memory] In the name of Myself",
+      "postedAt": 1762712909741,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1437146849176715264",
+      "players": [
+        "@Topal {🐍} Orizuma as Topal",
+        "@Arata as Aston",
+        "@Azhtang | Galen as Azhtang Tenker",
+        "@Shadowflame as Zuozhi Xitian",
+        "@ASimpleHatter as Frederick Schmidt"
+      ]
+    },
+    {
+      "master": "@xxk111322xx",
+      "title": "[Bone Caves] A Clash With The Creator",
+      "postedAt": 1762741770943,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1437267901831970896",
+      "players": [
+        "@Delphine Fiore D'Myrdel as Delphine Fiore D'Myrdel",
+        "@Farewell as A'shibah",
+        "@zz as Amelia d'Artois",
+        "@Natalia as Natalia",
+        "@Lyssa {🐍} Orizuma as Lyssa 🪄",
+        "@Mort VanSigil/Steve as Mort VanSigil"
       ]
     }
   ]
