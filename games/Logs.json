@@ -1,5 +1,5 @@
 {
-  "timestamp": 1762938034572,
+  "timestamp": 1763024439692,
   "logs": [
     {
       "master": "@desyov",
@@ -20490,6 +20490,60 @@
         "@Garnier | Fluff as Garnier",
         "@Taavi | Flaahn as Taavi",
         "@Percival | Filke as Percival Alain Coeur De Pierre"
+      ]
+    },
+    {
+      "master": "@letiana",
+      "title": "[Heaven’s Memory] Our Sister",
+      "postedAt": 1762945997809,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1438124491392815264",
+      "players": [
+        "@pidgeon as Phoebe",
+        "@sleepy_bernkastel as Theodore",
+        "@leplep as Sienna",
+        "@galen876 as Waylen",
+        "@oleamollevampie as Sable"
+      ]
+    },
+    {
+      "master": "@desyov",
+      "title": "Steelbin Trials: The Heartbeat of the World",
+      "postedAt": 1762976982256,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1438254449582674051",
+      "players": [
+        "## Game Roster",
+        "@leplep as Elijah",
+        "@letiana as Erin",
+        "@oleamollevampie as Rue",
+        "@rastamufasa as Perceus",
+        "@incognegro as Kviss",
+        "@honeydewmelons as Isolde"
+      ]
+    },
+    {
+      "master": "@seraphim",
+      "title": "The Melody of Static: Clef",
+      "postedAt": 1762989796543,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1438308196598157404",
+      "players": [
+        "@oleamollevampie as Sable",
+        "@honeydewmelons as Azra",
+        "@solaceinfire as Naomi",
+        "@sleepy_bernkastel as Caspian",
+        "@mutemissy as Aerah"
+      ]
+    },
+    {
+      "master": "@seraphim",
+      "title": "The Mark of the Moth: The Layers of Fear",
+      "postedAt": 1763007033276,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1438380492696195134",
+      "players": [
+        "@oleamollevampie as Rue",
+        "@honeydewmelons as Isolde",
+        "@schwertaria as Adelphel",
+        "@incognegro as Kviss",
+        "@leplep as Elijah"
       ]
     }
   ]
