@@ -1,5 +1,5 @@
 {
-  "timestamp": 1762938034545,
+  "timestamp": 1763024439684,
   "games": [
     {
       "title": "First Introductions",
@@ -17615,6 +17615,81 @@
       "time": "<t:1763312400:F>",
       "public": true,
       "creator": "Mercury ☆"
+    },
+    {
+      "title": "[Sangang-Daan] Hollow Perfection",
+      "postedAt": 1762990291959,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1438310274523205764",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1763492400:F>",
+      "public": true,
+      "creator": "ZzPerseus | Radda"
+    },
+    {
+      "title": "[Sangang-Daan] Blood of the Earth",
+      "postedAt": 1762990649431,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1438311773869572137",
+      "pings": [
+        "1170826716571238410"
+      ],
+      "time": "<t:1763578800:F>",
+      "public": true,
+      "creator": "ZzPerseus | Radda"
+    },
+    {
+      "title": "[Lhodosian Farewell] In The Den of Lions",
+      "postedAt": 1762991185251,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1438314021261672468",
+      "pings": [
+        "1170826784862908661"
+      ],
+      "time": "<t:1763769600:F>",
+      "public": true,
+      "creator": "ZzPerseus | Radda"
+    },
+    {
+      "title": "[Termina City] A Burning Night Sky",
+      "postedAt": 1762991674050,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1438316071433146428",
+      "pings": [
+        "1170826716571238410"
+      ],
+      "time": "<t:1763838000:F>",
+      "public": true,
+      "creator": "ZzPerseus | Radda"
+    },
+    {
+      "title": "[Grestazs] The Loosening of Chains",
+      "postedAt": 1762992244089,
+      "link": "https://discord.com/channels/1169852846083153941/1170183729856135250/1438318462350131401",
+      "pings": [],
+      "time": "<t:1763861400:F>",
+      "public": false,
+      "creator": "ZzPerseus | Radda"
+    },
+    {
+      "title": "Defector's Wrath: To Do Something Right",
+      "postedAt": 1762997442331,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1438340265357086860",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1763420400:F>",
+      "public": true,
+      "creator": "zzTsuiho/Madrid"
+    },
+    {
+      "title": "[Heaven's Memory] [Lhodos Farewell] Snakes in the Garden",
+      "postedAt": 1762999568793,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1438349184385417318",
+      "pings": [
+        "1170826716571238410"
+      ],
+      "time": "<t:1763769600:F>",
+      "public": true,
+      "creator": "zzeti"
     }
   ]
 }
