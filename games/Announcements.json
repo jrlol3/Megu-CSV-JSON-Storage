@@ -1,5 +1,5 @@
 {
-  "timestamp": 1763197232969,
+  "timestamp": 1763283633701,
   "games": [
     {
       "title": "First Introductions",
@@ -17767,6 +17767,28 @@
       "time": "<t:1763352000:F>",
       "public": true,
       "creator": "Quincy | Path"
+    },
+    {
+      "title": "Stranded Fools",
+      "postedAt": 1763220046048,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1439273933017845820",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1763222314:F>",
+      "public": true,
+      "creator": "Enlai"
+    },
+    {
+      "title": "[Welcome to the Rot]: Arboreal Breakthrough",
+      "postedAt": 1763231635415,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1439322542346080357",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1763247600:F>",
+      "public": true,
+      "creator": "Fuji | Emgry"
     }
   ]
 }
