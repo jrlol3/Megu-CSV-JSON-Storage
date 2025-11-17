@@ -1,5 +1,5 @@
 {
-  "timestamp": 1763283633701,
+  "timestamp": 1763370035040,
   "games": [
     {
       "title": "First Introductions",
@@ -17789,6 +17789,15 @@
       "time": "<t:1763247600:F>",
       "public": true,
       "creator": "Fuji | Emgry"
+    },
+    {
+      "title": "Fox's Den",
+      "postedAt": 1763347673596,
+      "link": "https://discord.com/channels/1169852846083153941/1170183729856135250/1439809241752801281",
+      "pings": [],
+      "time": "<t:1763510400:F>",
+      "public": false,
+      "creator": "Estelle, Ward of Rocade"
     }
   ]
 }
