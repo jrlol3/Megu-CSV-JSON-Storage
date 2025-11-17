@@ -1,5 +1,5 @@
 {
-  "timestamp": 1763283633729,
+  "timestamp": 1763370035065,
   "logs": [
     {
       "master": "@desyov",
@@ -20677,6 +20677,70 @@
         "@schwertaria",
         "@agentdj",
         "@caelum_blue"
+      ]
+    },
+    {
+      "master": "@sirgabite",
+      "title": "Trails of Embers: Rocade Burning, Neuclain",
+      "postedAt": 1763303038160,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1439622027165175950",
+      "players": [
+        "@the429117 as Jaith Stolz",
+        "@indiwyn as Aster",
+        "@asimplehatter Frederick Schmidt",
+        "@pidgeon as Akino",
+        "@rastamufasa as Calliope",
+        "@mooshen as Lindsey Beck"
+      ]
+    },
+    {
+      "master": "@emgry",
+      "title": "[Welcome to The Rot]: Arboreal Breakthrough",
+      "postedAt": 1763310910142,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1439655044650766427",
+      "players": [
+        "@aznrcmp as Topal",
+        "@dragoneldester as Aijing",
+        "@mutemissy as Maria",
+        "@hellion as Rajke",
+        "@nikolaim. as Dujom"
+      ]
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "Aranova - Gen. 19, 26",
+      "postedAt": 1763330066831,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1439735393627934901",
+      "players": [
+        "@missingpath as Gawain",
+        "@nut_wizard as Cordoba",
+        "@lenpendragon as Asuka"
+      ]
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "[Heaven's Memory] Going Home 1",
+      "postedAt": 1763330643756,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1439737813426897076",
+      "players": [
+        "@xxk111322xx as Zuozhi Xitian",
+        "@solcarona as Percival",
+        "@sussy_arata as Aston",
+        "@hangedmantarot as Lyrric"
+      ]
+    },
+    {
+      "master": "@missingpath",
+      "title": "[Rook's Conquest] An Example of Freedom",
+      "postedAt": 1763369836864,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1439902201236557887",
+      "players": [
+        "@hellion as Rajke",
+        "@angrykitsu as Victoria",
+        "@madrid222 as Pierre",
+        "@desyov as Callum",
+        "@letiana as Estelle",
+        "@emgry as Alois"
       ]
     }
   ]
