@@ -1,5 +1,5 @@
 {
-  "timestamp": 1763370035065,
+  "timestamp": 1763456432405,
   "logs": [
     {
       "master": "@desyov",
@@ -20741,6 +20741,44 @@
         "@desyov as Callum",
         "@letiana as Estelle",
         "@emgry as Alois"
+      ]
+    },
+    {
+      "master": "@missingpath",
+      "title": "[Heaven's Memory] The Pilgrim's Long Swim",
+      "postedAt": 1763416831303,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1440099310200029368",
+      "players": [
+        "@lenpendragon as Asuka",
+        "@emgry as Fuji",
+        "@the429117 as Shibana",
+        "@foxfacesuicide as A'shibah",
+        "@seraphim as Nasaya"
+      ]
+    },
+    {
+      "master": "@madrid222",
+      "title": "Defector's Wrath: To Do Something Right",
+      "postedAt": 1763428393827,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1440147806940823654",
+      "players": [
+        "@oleamollevampie as Sable",
+        "@themattroid as Atticus",
+        "@mutemissy as Natalia",
+        "@sleepy_bernkastel as Theodore"
+      ]
+    },
+    {
+      "master": "@foxfacesuicide",
+      "title": "Trails of Ember: Rocade Burning, Lithos Outskirts",
+      "postedAt": 1763443083963,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1440209421837013044",
+      "players": [
+        "@honeydewmelons as Azra",
+        "@katen_m as Celestyn",
+        "@celesteias Ladora",
+        "@lenpendragon as Olivia",
+        "@sussy_arata as Rhys"
       ]
     }
   ]
