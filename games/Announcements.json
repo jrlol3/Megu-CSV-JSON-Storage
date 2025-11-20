@@ -1,5 +1,5 @@
 {
-  "timestamp": 1763542834727,
+  "timestamp": 1763629231751,
   "games": [
     {
       "title": "First Introductions",
@@ -17862,6 +17862,37 @@
         "1170826554914373652"
       ],
       "time": "<t:1763683200:F>",
+      "public": true,
+      "creator": "zzCaliste | Pidgeon"
+    },
+    {
+      "title": "EntroPRISM Recruitment Program²",
+      "postedAt": 1763611721833,
+      "link": "https://discord.com/channels/1169852846083153941/1170183729856135250/1440916740329574523",
+      "pings": [],
+      "time": "<t:1764529200:F>",
+      "public": false,
+      "creator": "zzCaliste | Pidgeon"
+    },
+    {
+      "title": "[Trials of Magic] Larimar enters the scene",
+      "postedAt": 1763614082117,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1440926640078061679",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1764212400:F>",
+      "public": true,
+      "creator": "zzCaliste | Pidgeon"
+    },
+    {
+      "title": "[Trials of Magic] Fluorite enters the scene",
+      "postedAt": 1763614697858,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1440929222683131906",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1764298800:F>",
       "public": true,
       "creator": "zzCaliste | Pidgeon"
     }
