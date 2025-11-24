@@ -1,5 +1,5 @@
 {
-  "timestamp": 1763888433988,
+  "timestamp": 1763974835404,
   "logs": [
     {
       "master": "@desyov",
@@ -21017,6 +21017,46 @@
         "@leplep as Reginn",
         "@pidgeon as Akali",
         "@oleamollevampie as Frigg"
+      ]
+    },
+    {
+      "master": "@emgry",
+      "title": "[Mastrazs]: Daermon, Z,R, Ecological Survey: Lower Drak Nest",
+      "postedAt": 1763933706051,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1442267240023195805",
+      "players": [
+        "@samikazuki as Hamra",
+        "@katen_m as Celestyn",
+        "@madrid222 as Pierre",
+        "@incognegro as Zenith",
+        "@sussy_arata as Rhys"
+      ]
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "[The Sound of Hooves] The Heartland of Leytik",
+      "postedAt": 1763939584839,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1442291897447088350",
+      "players": [
+        "@galen876 as Azhtang",
+        "@mutemissy as Chime",
+        "@nikolaim. As Dujom",
+        "@sleepy_bernkastel as Poppy",
+        "@aznrcmp as Topal",
+        "@xirozean as Zinnia"
+      ]
+    },
+    {
+      "master": "@missingpath",
+      "title": "[Heaven's Memory] The Northwind",
+      "postedAt": 1763965187307,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1442399281981034566",
+      "players": [
+        "@emgry as Fuji",
+        "@sussy_arata as Rhys",
+        "@aznrcmp as Lyssa",
+        "@oleamollevampie as Frigg",
+        "@lenpendragon as Asuka"
       ]
     }
   ]
