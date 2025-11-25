@@ -1,5 +1,5 @@
 {
-  "timestamp": 1763974835404,
+  "timestamp": 1764061238571,
   "logs": [
     {
       "master": "@desyov",
@@ -21057,6 +21057,61 @@
         "@aznrcmp as Lyssa",
         "@oleamollevampie as Frigg",
         "@lenpendragon as Asuka"
+      ]
+    },
+    {
+      "master": "@speagle",
+      "title": "[Heaven's Memory] In the name of Vanity",
+      "postedAt": 1763994969967,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1442524199511130112",
+      "players": [
+        "@Elara A. Fleiss | Megu as Teyac",
+        "@Victoria Kaur as Victoria Kaur",
+        "@Lyssa {🐍} Orizuma as Lyssa",
+        "@Caliste | Pidgeon as Akali Nubia",
+        "@Natalia as Natalia",
+        "@= In Memoriam = as Oscar Serrano"
+      ]
+    },
+    {
+      "master": "@speagle",
+      "title": "[Heaven's Memory] Guests to the field of the dead",
+      "postedAt": 1763995184323,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1442525098585362452",
+      "players": [
+        "@zzz | Jazz as Daisy Starbloom",
+        "@Timothy Maclain as Franz Alberic",
+        "@Lyssa {🐍} Orizuma as Lyssa",
+        "@Caliste | Pidgeon as Swarm",
+        "@Mort VanSigil/Steve as Mort van Sigil",
+        "@Rajke | Hellion as Rajke Kolev"
+      ]
+    },
+    {
+      "master": "@speagle",
+      "title": "[Heaven's Memory] In the name of Selflessness",
+      "postedAt": 1763995362070,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1442525844110311434",
+      "players": [
+        "@Dr. O'Riley | Phos as Verge Forrester",
+        "@Asuka | Len as Nanashi Sakura",
+        "@Caelan Blacklaw as Cypher Yuten",
+        "@Natalia as aerah",
+        "@Rhys Caldrith¹⁹ as Lin Shen",
+        "@Zora 🏍 ¹⁸  ~  Spark as Lumio, Idyll's Last Warden"
+      ]
+    },
+    {
+      "master": "@speagle",
+      "title": "[Heaven's Memory] In the name of Selfishness",
+      "postedAt": 1763995499296,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1442526419677614202",
+      "players": [
+        "@Saki/ Raven as arasaka saki sasaki",
+        "@Kawa/Crow²⁹🐦| Sleepy as Koishikawa Kawa Sasaki",
+        "@Lochlann Carlisle | Bancho as Lochlann Carlisle",
+        "@Caliste | Pidgeon as Caliste Poe",
+        "@Lyssa {🐍} Orizuma as Orizuma"
       ]
     }
   ]
