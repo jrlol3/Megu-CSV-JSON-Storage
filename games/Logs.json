@@ -1,5 +1,5 @@
 {
-  "timestamp": 1764061238571,
+  "timestamp": 1764147633558,
   "logs": [
     {
       "master": "@desyov",
@@ -21112,6 +21112,43 @@
         "@Lochlann Carlisle | Bancho as Lochlann Carlisle",
         "@Caliste | Pidgeon as Caliste Poe",
         "@Lyssa {🐍} Orizuma as Orizuma"
+      ]
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "Welcome to Nowhere",
+      "postedAt": 1764111754410,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1443014028967415982",
+      "players": [
+        "@incognegro as Kviss",
+        "@missingpath as Ebb"
+      ]
+    },
+    {
+      "master": "@madrid222",
+      "title": "BMA Grid: A Lesson To Learn",
+      "postedAt": 1764126216375,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1443074686844928020",
+      "players": [
+        "@emgry as Alois",
+        "@schwertaria as Yuel",
+        "@mutemissy as Natalia",
+        "@enderten as Bernhard",
+        "@oleamollevampie as Frigg"
+      ]
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "[Hudal Academy] Intense Study",
+      "postedAt": 1764133273348,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1443104285935276063",
+      "players": [
+        "@mooshen as Elvis",
+        "@caelum_blue as Celine",
+        "@phosphophyllite0 as Fenn",
+        "@bancho_bancho as Lochlainn",
+        "@sleepy_bernkastel as Kawa",
+        "@agentdj as Mikael"
       ]
     }
   ]
