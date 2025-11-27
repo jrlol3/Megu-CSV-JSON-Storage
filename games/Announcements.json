@@ -1,5 +1,5 @@
 {
-  "timestamp": 1764147633533,
+  "timestamp": 1764234034528,
   "games": [
     {
       "title": "First Introductions",
@@ -18052,6 +18052,17 @@
       "time": "<t:1764115422:F>",
       "public": false,
       "creator": "Desm☆n"
+    },
+    {
+      "title": "[Heaven's Memory]: Locusts of War II",
+      "postedAt": 1764193565826,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1443357170916917369",
+      "pings": [
+        "1170826784862908661"
+      ],
+      "time": "<t:1764205200:F>",
+      "public": true,
+      "creator": "Alois Wagner | Emgry"
     }
   ]
 }
