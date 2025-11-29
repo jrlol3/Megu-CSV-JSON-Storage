@@ -1,5 +1,5 @@
 {
-  "timestamp": 1764320435958,
+  "timestamp": 1764406834515,
   "logs": [
     {
       "master": "@desyov",
@@ -21162,6 +21162,48 @@
         "@the429117 as Zaid",
         "@desyov as Rika",
         "@missingpath as Venus"
+      ]
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Trials of Magic] Larimar enters the scene",
+      "postedAt": 1764399348835,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1444220287414440028",
+      "players": [
+        "@desyov Odette",
+        "@nikolaim. Noen",
+        "@angrykitsu Ishida",
+        "@missingpath Quincy",
+        "@letiana Riley",
+        "@mutemissy Maria"
+      ]
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Trials of Magic] Fluorite enters the scene",
+      "postedAt": 1764399600602,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1444221343401771162",
+      "players": [
+        "@solcarona Percival",
+        "@.galebolg. Evelyn",
+        "@rastamufasa Oswald",
+        "@sleepy_bernkastel Poppy",
+        "@mutemissy Maria",
+        "@xirozean Zinnia"
+      ]
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Eyes in the Stars] Bleeding Insanity",
+      "postedAt": 1764400247120,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1444224055094939718",
+      "players": [
+        "@rastamufasa Basil",
+        "@phosphophyllite0 Fenn",
+        "@solaceinfire Saki",
+        "@mooshen Elvis",
+        "@lenpendragon Nanashi Sakura",
+        "@.galebolg. Cypher"
       ]
     }
   ]
