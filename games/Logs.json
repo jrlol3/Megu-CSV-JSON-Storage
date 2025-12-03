@@ -1,5 +1,5 @@
 {
-  "timestamp": 1764666031501,
+  "timestamp": 1764752434826,
   "logs": [
     {
       "master": "@desyov",
@@ -21354,6 +21354,34 @@
         "@Mort VanSigil/Steve as Mort",
         "@==Which DM== as Naomi",
         "@Cypher Yuten as Anais"
+      ]
+    },
+    {
+      "master": "@speagle",
+      "title": "[Winters call] Walker in the Storm",
+      "postedAt": 1764707766228,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1445513883719696445",
+      "players": [
+        "@zzReginn | Leplep as Reginn",
+        "@Mort VanSigil/Steve as Mort Vansigil",
+        "@Rhys Caldrith¹⁹ as Rhys caldrith",
+        "@Azra | Medja as Azra Yildiran",
+        "@Heinrich (Hejtan) as Heinrich",
+        "@PAS-C41 | Moosh as PAS-C41"
+      ]
+    },
+    {
+      "master": "@missingpath",
+      "title": "[Heaven's Memory] The Scales of Law; Part 3",
+      "postedAt": 1764721638224,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1445572067087880263",
+      "players": [
+        "@rastamufasa as Sloan",
+        "@sirgabite as Simone",
+        "@incognegro as Kviss",
+        "@letiana as Erin",
+        "@desyov as Callum",
+        "@sleepy_bernkastel as Theodore"
       ]
     }
   ]
