@@ -1,5 +1,5 @@
 {
-  "timestamp": 1765184431015,
+  "timestamp": 1765270833023,
   "games": [
     {
       "title": "First Introductions",
@@ -18444,6 +18444,28 @@
       "time": "<t:1765078889:F>",
       "public": false,
       "creator": "Perseus | Radda"
+    },
+    {
+      "title": "[Sangang-Daan] Divine Craft",
+      "postedAt": 1765232214285,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1447713578302968032",
+      "pings": [
+        "1170826716571238410"
+      ],
+      "time": "<t:1765308600:F>",
+      "public": true,
+      "creator": "Sloan | Radda"
+    },
+    {
+      "title": "[Blaze] Bombshell",
+      "postedAt": 1765263047221,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1447842901009764384",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1765323000:F>",
+      "public": true,
+      "creator": "xxFarewell"
     }
   ]
 }
