@@ -1,5 +1,5 @@
 {
-  "timestamp": 1765270833076,
+  "timestamp": 1765357232866,
   "logs": [
     {
       "master": "@desyov",
@@ -21445,6 +21445,59 @@
         "@schwertaria as Benicio",
         "@.galebolg. as Anais",
         "@incognegro as Zenith"
+      ]
+    },
+    {
+      "master": "@pidgeon",
+      "title": "EntroPRISM Recruitment Program²",
+      "postedAt": 1765323985349,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1448098494043918479",
+      "players": [
+        "@missingpath Quincy",
+        "@desyov Odette",
+        "@sleepy_bernkastel Poppy",
+        "@mutemissy Maria"
+      ]
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Eyes in the Stars] Dead in the water",
+      "postedAt": 1765324305258,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1448099835839381586",
+      "players": [
+        "@schwertaria Adelphel",
+        "@agentdj Mikael",
+        "@rastamufasa Basil",
+        "@mutemissy Fernia",
+        "@lenpendragon Nanashi Sakura",
+        "@solaceinfire Saki"
+      ]
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Trials of Magic] Stolen Show",
+      "postedAt": 1765324506509,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1448100679947255933",
+      "players": [
+        "@indiwyn Aster",
+        "@mutemissy Maria",
+        "@missingpath Quincy",
+        "@sleepy_bernkastel Poppy",
+        "@hangedmantarot Lyrric",
+        "@emgry Valerie"
+      ]
+    },
+    {
+      "master": "@emgry",
+      "title": "[War on Eternity]: The Siege of Irro",
+      "postedAt": 1765329360376,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1448121038541033472",
+      "players": [
+        "@desyov as Callum",
+        "@rastamufasa as Calliope",
+        "@sleepy_bernkastel as Theo",
+        "@madrid222 as Pierre",
+        "@mike_miguel_michael as Delphine"
       ]
     }
   ]
