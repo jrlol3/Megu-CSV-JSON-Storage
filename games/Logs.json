@@ -1,5 +1,5 @@
 {
-  "timestamp": 1765804781978,
+  "timestamp": 1765875632385,
   "logs": [
     {
       "master": "@desyov",
@@ -21565,6 +21565,32 @@
         "@solotic. as Wen Tian",
         "@the429117 as Enlai",
         "@samikazuki as Mei-Mei"
+      ]
+    },
+    {
+      "master": "@incognegro",
+      "title": "The Junior Generation: Red Team",
+      "postedAt": 1765823336096,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1450192922879332544",
+      "players": [
+        "@aznrcmp as Topal",
+        "@celesteias as Ladora",
+        "@madrid222 as Devendra",
+        "@the429117 as Koishi"
+      ]
+    },
+    {
+      "master": "@missingpath",
+      "title": "[Heaven's Memory] The Eastwind",
+      "postedAt": 1765836477088,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1450248040194511090",
+      "players": [
+        "@emgry as Fuji",
+        "@hellion as Rajke",
+        "@sirgabite as Ezekiel",
+        "@rastamufasa as Calliope",
+        "@desyov as Callum",
+        "@the429117 as Shibana"
       ]
     }
   ]
