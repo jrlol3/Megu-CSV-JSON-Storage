@@ -1,5 +1,5 @@
 {
-  "timestamp": 1766134833804,
+  "timestamp": 1766221235012,
   "logs": [
     {
       "master": "@desyov",
@@ -21605,6 +21605,31 @@
         "@aznrcmp as Topal",
         "@desyov as Callum",
         "@seraphim as Nasaya"
+      ]
+    },
+    {
+      "master": "@starfir54",
+      "title": "An Overdue Reunion",
+      "postedAt": 1766164002670,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1451621782053322973",
+      "players": [
+        "@samikazuki as Ed",
+        "@seraphim as Trif",
+        "@oleamollevampie as Wraith",
+        "@leplep as Orpheus"
+      ]
+    },
+    {
+      "master": "@incognegro",
+      "title": "The Junior Generation: Green Team",
+      "postedAt": 1766173208407,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1451660393712976046",
+      "players": [
+        "@enderten as Bernhard",
+        "@nikolaim. as Noem",
+        "@ironheidcross as Heywire",
+        "@schwertaria as Aria",
+        "@billyscrannerx as Shadowflame"
       ]
     }
   ]
