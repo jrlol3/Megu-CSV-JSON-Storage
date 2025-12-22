@@ -1,5 +1,5 @@
 {
-  "timestamp": 1766307634594,
+  "timestamp": 1766394034510,
   "logs": [
     {
       "master": "@desyov",
@@ -21760,6 +21760,62 @@
         "@caelum_blue as Anri",
         "@honeydewmelons as Johnathan",
         "@biffmcmanly as Reynaud"
+      ]
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Eyes in the Stars] Palace of Pestilence",
+      "postedAt": 1766368098719,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1452477822927900752",
+      "players": [
+        "@missingpath Ebb",
+        "@mutemissy Fernia",
+        "@sleepy_bernkastel Kawa",
+        "@sussy_arata Lin Shen",
+        "@xavieremix The Assistant",
+        "@lenpendragon Nanashi Sakura"
+      ]
+    },
+    {
+      "master": "@letiana",
+      "title": "[Righteous Anger] Empty Cell",
+      "postedAt": 1766369867629,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1452485242274451477",
+      "players": [
+        "@solotic. as Noel",
+        "@rastamufasa as Perseus",
+        "@missingpath as Gawain",
+        "@sirgabite Apollo",
+        "@nut_wizard Córdoba",
+        "@madrid222 as Orion"
+      ]
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Eyes in the Stars] Catacombs of the Fallen.",
+      "postedAt": 1766370686363,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1452488676293738612",
+      "players": [
+        "@oleamollevampie Wraith",
+        "@mooshen Elvis",
+        "@phosphophyllite0 Fenn",
+        "@agentdj Mikael",
+        "@.galebolg. Cypher",
+        "@caelum_blue Céline"
+      ]
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Trials of Magic] Lurkers of the Night",
+      "postedAt": 1766371880511,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1452493684913344606",
+      "players": [
+        "@hangedmantarot Lyrric",
+        "@billyscrannerx Trina",
+        "@the429117 Jaith",
+        "@nikolaim. Sama",
+        "@aznrcmp Sullivan",
+        "@ironheidcross Kenji"
       ]
     }
   ]
