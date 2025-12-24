@@ -1,5 +1,5 @@
 {
-  "timestamp": 1766480431624,
+  "timestamp": 1766566832913,
   "games": [
     {
       "title": "First Introductions",
@@ -18861,6 +18861,17 @@
       "time": "<t:1766880000:F>",
       "public": true,
       "creator": "Phoebe [Future Pilot]"
+    },
+    {
+      "title": "[Heaven's Memory] Dreams of a Crying Fox",
+      "postedAt": 1766515754944,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1453097138023301173",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1767463200:F>",
+      "public": true,
+      "creator": "zzFant"
     }
   ]
 }
