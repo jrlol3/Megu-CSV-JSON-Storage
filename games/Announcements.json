@@ -1,5 +1,5 @@
 {
-  "timestamp": 1766566832913,
+  "timestamp": 1766653234089,
   "games": [
     {
       "title": "First Introductions",
@@ -18805,7 +18805,7 @@
       "pings": [
         "1170826716571238410"
       ],
-      "time": "<t:1766277000:F>",
+      "time": "<t:1767054600:F>",
       "public": true,
       "creator": "= 逆説 ="
     },
@@ -18872,6 +18872,28 @@
       "time": "<t:1767463200:F>",
       "public": true,
       "creator": "zzFant"
+    },
+    {
+      "title": "The gift thief and the gift giver",
+      "postedAt": 1766608382227,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1453485645006897326",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1766689200:F>",
+      "public": true,
+      "creator": "Keres | Speagle"
+    },
+    {
+      "title": "[Heaven's Memory] The Hunt for Mossclaw, Tyrant of the Forest",
+      "postedAt": 1766634946795,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1453597064880586918",
+      "pings": [
+        "1170826716571238410"
+      ],
+      "time": "<t:1766638800:F>",
+      "public": true,
+      "creator": "Zz The goat"
     }
   ]
 }
