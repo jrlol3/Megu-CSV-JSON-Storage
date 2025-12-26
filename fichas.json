@@ -9,24 +9,44 @@
     "consideredUpdates": 15,
     "appliedUpdates": 15,
     "failedUpdates": 0,
-    "duplicatesRemoved": 1,
-    "generatedAt": "2025-12-26T05:54:47.472Z"
+    "duplicatesRemovedSameUserName": 2,
+    "duplicatesRemovedSameSheetId": 0,
+    "generatedAt": "2025-12-26T06:20:42.690Z"
   },
   "failedUpdates": [],
-  "duplicatesRemoved": [
-    {
-      "sheetId": "1bEYN1KJQxaY6tCOaX6-Rrv2vt1S0iJ_WCbjofwcCqHk",
-      "removedUserId": "868114569749491733",
-      "removedUserName": "note_n_",
-      "removedCharacter": "Labirinto",
-      "removedSheet": "https://docs.google.com/spreadsheets/d/1bEYN1KJQxaY6tCOaX6-Rrv2vt1S0iJ_WCbjofwcCqHk/edit?usp=sharing",
-      "keptUserId": "868114569749491733",
-      "keptUserName": "note_n_",
-      "keptCharacter": "Labirinto",
-      "keptSheet": "https://docs.google.com/spreadsheets/d/1bEYN1KJQxaY6tCOaX6-Rrv2vt1S0iJ_WCbjofwcCqHk/edit?usp=sharing",
-      "reason": "older_timestamp"
-    }
-  ],
+  "duplicatesRemoved": {
+    "sameUserName": [
+      {
+        "type": "same_user_same_name",
+        "userId": "1378154671755231294",
+        "nameKey": "daenerys",
+        "removedCharacter": "Daenerys",
+        "removedSheetId": "1383nryDm00C8SfHBfk3emficbXpntZgdJTiDmqM9Kb0",
+        "removedSheet": "https://docs.google.com/spreadsheets/d/1383nryDm00C8SfHBfk3emficbXpntZgdJTiDmqM9Kb0/edit?usp=sharing",
+        "removedLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1443350197894778903",
+        "keptCharacter": "Daenerys",
+        "keptSheetId": "14YYltUJfIpiyMNCj3XVKzK-_jAu5rcsQxVqy0okpZ9s",
+        "keptSheet": "https://docs.google.com/spreadsheets/d/14YYltUJfIpiyMNCj3XVKzK-_jAu5rcsQxVqy0okpZ9s/edit?gid=1529965367#gid=1529965367",
+        "keptLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1444026591192813599",
+        "reason": "older_timestamp"
+      },
+      {
+        "type": "same_user_same_name",
+        "userId": "868114569749491733",
+        "nameKey": "labirinto",
+        "removedCharacter": "Labirinto",
+        "removedSheetId": "1bEYN1KJQxaY6tCOaX6-Rrv2vt1S0iJ_WCbjofwcCqHk",
+        "removedSheet": "https://docs.google.com/spreadsheets/d/1bEYN1KJQxaY6tCOaX6-Rrv2vt1S0iJ_WCbjofwcCqHk/edit?usp=sharing",
+        "removedLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1442665478454771732",
+        "keptCharacter": "Labirinto",
+        "keptSheetId": "1bEYN1KJQxaY6tCOaX6-Rrv2vt1S0iJ_WCbjofwcCqHk",
+        "keptSheet": "https://docs.google.com/spreadsheets/d/1bEYN1KJQxaY6tCOaX6-Rrv2vt1S0iJ_WCbjofwcCqHk/edit?usp=sharing",
+        "keptLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1443003217326768150",
+        "reason": "older_timestamp"
+      }
+    ],
+    "sameSheetId": []
+  },
   "byUserId": {
     "225005409264599040": [
       {
@@ -418,16 +438,6 @@
         "sheetBackupId": "1QCgEdOuKpEESGIaQ5rIvLaC5JnkOblpqqjuBUFWPYPU",
         "updateLink": "https://discord.com/channels/1293013661601763351/1404292215198715904/1445170666549809275",
         "updateMessageId": "1445170666549809275"
-      },
-      {
-        "name": "Daenerys",
-        "sheet": "https://docs.google.com/spreadsheets/d/1383nryDm00C8SfHBfk3emficbXpntZgdJTiDmqM9Kb0/edit?usp=sharing",
-        "sheetId": "1383nryDm00C8SfHBfk3emficbXpntZgdJTiDmqM9Kb0",
-        "userId": "1378154671755231294",
-        "userName": "mikael_092",
-        "createdAt": "2025-11-26T21:18:23.328Z",
-        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1443350197894778903",
-        "updatedAt": "2025-11-26T21:18:23.328Z"
       },
       {
         "name": "\"Z\"",
