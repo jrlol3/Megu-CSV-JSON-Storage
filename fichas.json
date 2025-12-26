@@ -9,9 +9,24 @@
     "consideredUpdates": 15,
     "appliedUpdates": 15,
     "failedUpdates": 0,
-    "generatedAt": "2025-12-26T05:33:46.788Z"
+    "duplicatesRemoved": 1,
+    "generatedAt": "2025-12-26T05:54:47.472Z"
   },
   "failedUpdates": [],
+  "duplicatesRemoved": [
+    {
+      "sheetId": "1bEYN1KJQxaY6tCOaX6-Rrv2vt1S0iJ_WCbjofwcCqHk",
+      "removedUserId": "868114569749491733",
+      "removedUserName": "note_n_",
+      "removedCharacter": "Labirinto",
+      "removedSheet": "https://docs.google.com/spreadsheets/d/1bEYN1KJQxaY6tCOaX6-Rrv2vt1S0iJ_WCbjofwcCqHk/edit?usp=sharing",
+      "keptUserId": "868114569749491733",
+      "keptUserName": "note_n_",
+      "keptCharacter": "Labirinto",
+      "keptSheet": "https://docs.google.com/spreadsheets/d/1bEYN1KJQxaY6tCOaX6-Rrv2vt1S0iJ_WCbjofwcCqHk/edit?usp=sharing",
+      "reason": "older_timestamp"
+    }
+  ],
   "byUserId": {
     "225005409264599040": [
       {
@@ -619,16 +634,6 @@
         "createdAt": "2025-11-25T22:19:36.714Z",
         "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1443003217326768150",
         "updatedAt": "2025-11-25T22:19:36.714Z"
-      },
-      {
-        "name": "Labirinto",
-        "sheet": "https://docs.google.com/spreadsheets/d/1bEYN1KJQxaY6tCOaX6-Rrv2vt1S0iJ_WCbjofwcCqHk/edit?usp=sharing",
-        "sheetId": "1bEYN1KJQxaY6tCOaX6-Rrv2vt1S0iJ_WCbjofwcCqHk",
-        "userId": "868114569749491733",
-        "userName": "note_n_",
-        "createdAt": "2025-11-24T23:57:33.492Z",
-        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1442665478454771732",
-        "updatedAt": "2025-11-24T23:57:33.492Z"
       }
     ],
     "925101493382680677": [
