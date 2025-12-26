@@ -1,0 +1,1065 @@
+{
+  "meta": {
+    "atlasGuildId": "1293013661601763351",
+    "fichasChannelId": "1404283081476669472",
+    "requestsChannelId": "1404292215198715904",
+    "scannedFichaMessages": 95,
+    "scannedRequestMessages": 34,
+    "foundFichas": 92,
+    "consideredUpdates": 15,
+    "appliedUpdates": 15,
+    "failedUpdates": 0,
+    "generatedAt": "2025-12-26T05:33:46.788Z"
+  },
+  "failedUpdates": [],
+  "byUserId": {
+    "225005409264599040": [
+      {
+        "name": "Elizardo",
+        "sheet": "https://docs.google.com/spreadsheets/d/1Sf39c8YdZdVkzhmR12EIQ-RGlMNodVvilyKyTC_oBzA/edit?usp=sharing",
+        "sheetId": "1Sf39c8YdZdVkzhmR12EIQ-RGlMNodVvilyKyTC_oBzA",
+        "userId": "225005409264599040",
+        "userName": "evertonton",
+        "createdAt": "2025-12-21T06:53:07.218Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1452192142586810409",
+        "updatedAt": "2025-12-21T06:53:07.218Z"
+      }
+    ],
+    "334684964895588353": [
+      {
+        "name": "Olga",
+        "sheet": "https://docs.google.com/spreadsheets/d/1qMGnIfNKxGeBx_37GoXkINMJmxMPeNY6bVeTWLWuOpo/edit?usp=drivesdk",
+        "sheetId": "1qMGnIfNKxGeBx_37GoXkINMJmxMPeNY6bVeTWLWuOpo",
+        "userId": "334684964895588353",
+        "userName": "maleck0222",
+        "createdAt": "2025-12-21T02:08:26.947Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1452120502737961030",
+        "updatedAt": "2025-12-21T02:08:26.947Z"
+      },
+      {
+        "name": "??? (O Caronte)",
+        "sheet": "https://docs.google.com/spreadsheets/d/1rhQ0awGQzdn6RyfpBh-TaDvj6d8nErCOOR0Y2bqBZaA/edit?usp=drivesdk",
+        "sheetId": "1rhQ0awGQzdn6RyfpBh-TaDvj6d8nErCOOR0Y2bqBZaA",
+        "userId": "334684964895588353",
+        "userName": "maleck0222",
+        "createdAt": "2025-12-10T00:13:14.978Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1448105245317267579",
+        "updatedAt": "2025-12-10T00:13:14.978Z"
+      },
+      {
+        "name": "Explater",
+        "sheet": "https://docs.google.com/spreadsheets/d/1ZdLsVttN4pvCLOSHC-LC-VH6b5pRlPwckyse9FEpv1g/edit?usp=drivesdk",
+        "sheetId": "1ZdLsVttN4pvCLOSHC-LC-VH6b5pRlPwckyse9FEpv1g",
+        "userId": "334684964895588353",
+        "userName": "maleck0222",
+        "createdAt": "2025-10-29T06:04:13.577Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1432973281127960586",
+        "updatedAt": "2025-10-29T06:04:13.577Z"
+      },
+      {
+        "name": "Kirara Hoshi",
+        "sheet": "https://docs.google.com/spreadsheets/d/14sgrhQ-HNbXVG8BO5msOokL8LhWa021ypa4J3iMmeY8/edit?usp=drivesdk",
+        "sheetId": "14sgrhQ-HNbXVG8BO5msOokL8LhWa021ypa4J3iMmeY8",
+        "userId": "334684964895588353",
+        "userName": "maleck0222",
+        "createdAt": "2025-10-18T22:09:41.929Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1429229983724998802",
+        "updatedAt": "2025-12-09T23:07:30.135Z",
+        "sheetBackup": "https://docs.google.com/spreadsheets/d/1PUAumvnqaH7Do3HiH3h3ty_PNqo988ht8wryz13eVls/edit?usp=drivesdk",
+        "sheetBackupId": "1PUAumvnqaH7Do3HiH3h3ty_PNqo988ht8wryz13eVls",
+        "updateLink": "https://discord.com/channels/1293013661601763351/1404292215198715904/1448088699446231070",
+        "updateMessageId": "1448088699446231070"
+      }
+    ],
+    "692052373144731709": [
+      {
+        "name": "Arthuryan",
+        "sheet": "https://docs.google.com/spreadsheets/d/1laf5og0-w3jcs1Z3lct-h4WWUweIpdhrCOJCBdVmImw/edit?usp=drivesdk",
+        "sheetId": "1laf5og0-w3jcs1Z3lct-h4WWUweIpdhrCOJCBdVmImw",
+        "userId": "692052373144731709",
+        "userName": "petitechar",
+        "createdAt": "2025-12-21T02:07:15.494Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1452120203042226286",
+        "updatedAt": "2025-12-21T02:07:15.494Z"
+      },
+      {
+        "name": "Val Blanc",
+        "sheet": "https://docs.google.com/spreadsheets/d/1Awq1mtkAw6nxeXAusDsrJTDemVo0UjmaogTWY64mS9w/edit?usp=sharing",
+        "sheetId": "1Awq1mtkAw6nxeXAusDsrJTDemVo0UjmaogTWY64mS9w",
+        "userId": "692052373144731709",
+        "userName": "petitechar",
+        "createdAt": "2025-12-07T07:28:04.829Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1447127510486745140",
+        "updatedAt": "2025-12-07T07:28:04.829Z"
+      },
+      {
+        "name": "Kemi",
+        "sheet": "https://docs.google.com/spreadsheets/d/1rD7IuYndrovfNZ8vhntDGRA2LvWPgXbf9ugXOS31O5Y/edit?usp=sharing",
+        "sheetId": "1rD7IuYndrovfNZ8vhntDGRA2LvWPgXbf9ugXOS31O5Y",
+        "userId": "692052373144731709",
+        "userName": "petitechar",
+        "createdAt": "2025-11-27T17:01:54.653Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1443648040979398808",
+        "updatedAt": "2025-12-02T05:44:08.083Z",
+        "sheetBackup": "https://docs.google.com/spreadsheets/d/18E_QXtekDOGRaxerW-UNKV4sIrQcknkVyDb5zcfEOaA/edit?usp=drive_link",
+        "sheetBackupId": "18E_QXtekDOGRaxerW-UNKV4sIrQcknkVyDb5zcfEOaA",
+        "updateLink": "https://discord.com/channels/1293013661601763351/1404292215198715904/1445289412350181427",
+        "updateMessageId": "1445289412350181427"
+      },
+      {
+        "name": "Circe",
+        "sheet": "https://docs.google.com/spreadsheets/d/14jtoC-VOnF7iIZpQqyFeD85n-KkfsuX2j6Shs5TsLmI/edit?usp=sharing",
+        "sheetId": "14jtoC-VOnF7iIZpQqyFeD85n-KkfsuX2j6Shs5TsLmI",
+        "userId": "692052373144731709",
+        "userName": "petitechar",
+        "createdAt": "2025-10-28T18:27:53.090Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1432798041064341645",
+        "updatedAt": "2025-12-02T20:09:27.509Z",
+        "sheetBackup": "https://docs.google.com/spreadsheets/d/1xFP-HnBSkNqpPUxuiYpfs5eoriPMRqiECrh-aVADnjI/edit?usp=sharing",
+        "sheetBackupId": "1xFP-HnBSkNqpPUxuiYpfs5eoriPMRqiECrh-aVADnjI",
+        "updateLink": "https://discord.com/channels/1293013661601763351/1404292215198715904/1445507178206203985",
+        "updateMessageId": "1445507178206203985"
+      },
+      {
+        "name": "Arme Glenstid Chase",
+        "sheet": "https://docs.google.com/spreadsheets/d/1udpad-YkbE3NgAqdOSB-9xGUjYQpMzfh17Y5GYU1ZYE/edit?usp=sharing",
+        "sheetId": "1udpad-YkbE3NgAqdOSB-9xGUjYQpMzfh17Y5GYU1ZYE",
+        "userId": "692052373144731709",
+        "userName": "petitechar",
+        "createdAt": "2025-10-08T01:43:22.970Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1425297492546814085",
+        "updatedAt": "2025-12-02T17:29:37.888Z",
+        "sheetBackup": "https://docs.google.com/spreadsheets/d/1N5K-f_v9-2wfg5WuYV8geFbqVA9IzcUsLvRphTtzFaM/edit?usp=sharing",
+        "sheetBackupId": "1N5K-f_v9-2wfg5WuYV8geFbqVA9IzcUsLvRphTtzFaM",
+        "updateLink": "https://discord.com/channels/1293013661601763351/1404292215198715904/1445466956420354110",
+        "updateMessageId": "1445466956420354110"
+      },
+      {
+        "name": "Belladonna Velarys",
+        "sheet": "https://docs.google.com/spreadsheets/d/1Xn8Uh6NIPuX0MPPFSx3_UabZ0T-Q-k2-YG-AXP2rm0k/edit?usp=sharing",
+        "sheetId": "1Xn8Uh6NIPuX0MPPFSx3_UabZ0T-Q-k2-YG-AXP2rm0k",
+        "userId": "692052373144731709",
+        "userName": "petitechar",
+        "createdAt": "2025-10-06T16:59:12.317Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1424803191081664647",
+        "updatedAt": "2025-12-02T02:47:01.908Z",
+        "sheetBackup": "https://docs.google.com/spreadsheets/d/1LD1A7mcHtTh-Y9bW9_e_UoK1lF9I0MvP_H6JSudpAHE/edit?usp=sharing",
+        "sheetBackupId": "1LD1A7mcHtTh-Y9bW9_e_UoK1lF9I0MvP_H6JSudpAHE",
+        "updateLink": "https://discord.com/channels/1293013661601763351/1404292215198715904/1445244842941616189",
+        "updateMessageId": "1445244842941616189"
+      }
+    ],
+    "1316557361615343626": [
+      {
+        "name": "Pawbert Lynxley",
+        "sheet": "https://docs.google.com/spreadsheets/d/1H4IvtQ73koGS--seFp6WB-X408d2lsiC7zSQRWMm34w/edit?usp=drivesdk",
+        "sheetId": "1H4IvtQ73koGS--seFp6WB-X408d2lsiC7zSQRWMm34w",
+        "userId": "1316557361615343626",
+        "userName": "nothing_10101",
+        "createdAt": "2025-12-15T17:05:00.863Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1450171803581419631",
+        "updatedAt": "2025-12-15T17:05:00.863Z"
+      },
+      {
+        "name": "Bendy",
+        "sheet": "https://docs.google.com/spreadsheets/d/1DzK4OlviYywVebQi8CiPc7Bgk5v0kmIy333KaK2p5ho/edit?usp=drivesdk",
+        "sheetId": "1DzK4OlviYywVebQi8CiPc7Bgk5v0kmIy333KaK2p5ho",
+        "userId": "1316557361615343626",
+        "userName": "nothing_10101",
+        "createdAt": "2025-11-23T16:57:30.807Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1442197382866538577",
+        "updatedAt": "2025-11-23T16:57:30.807Z"
+      },
+      {
+        "name": "Chico",
+        "sheet": "https://docs.google.com/spreadsheets/d/16U1hHLC704v0z_GRQkyEY4x1bCJXlczCsBLX_4tT0UY/edit?usp=drivesdk",
+        "sheetId": "16U1hHLC704v0z_GRQkyEY4x1bCJXlczCsBLX_4tT0UY",
+        "userId": "1316557361615343626",
+        "userName": "nothing_10101",
+        "createdAt": "2025-10-14T09:59:15.671Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1427596611613364278",
+        "updatedAt": "2025-10-14T09:59:15.671Z"
+      },
+      {
+        "name": "Kanaloaa Maka'u",
+        "sheet": "https://docs.google.com/spreadsheets/d/1rHJsaBasqSv3-HbXBiDKNODLGp_e4NaG-QOog-_aiT0/edit?usp=drivesdk",
+        "sheetId": "1rHJsaBasqSv3-HbXBiDKNODLGp_e4NaG-QOog-_aiT0",
+        "userId": "1316557361615343626",
+        "userName": "nothing_10101",
+        "createdAt": "2025-10-06T20:10:13.668Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1424851263471747102",
+        "updatedAt": "2025-10-06T20:10:13.668Z"
+      }
+    ],
+    "1318316460510023752": [
+      {
+        "name": "Caio Teles",
+        "sheet": "https://docs.google.com/spreadsheets/d/1ff-LZnaFs7hLcvAo5KRZnLJMncVuE0fxWbcRNvN-CXk/edit?usp=drivesdk",
+        "sheetId": "1ff-LZnaFs7hLcvAo5KRZnLJMncVuE0fxWbcRNvN-CXk",
+        "userId": "1318316460510023752",
+        "userName": "anfitriao1605",
+        "createdAt": "2025-12-11T13:26:05.955Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1448667160321724528",
+        "updatedAt": "2025-12-11T13:26:05.955Z"
+      },
+      {
+        "name": "Jonas Aguiar",
+        "sheet": "https://docs.google.com/spreadsheets/d/1qOXXKzXFIz61-mA88w0qZmtHsocEbxEPsCdnfZCL4xU/edit?usp=drivesdk",
+        "sheetId": "1qOXXKzXFIz61-mA88w0qZmtHsocEbxEPsCdnfZCL4xU",
+        "userId": "1318316460510023752",
+        "userName": "anfitriao1605",
+        "createdAt": "2025-11-23T13:08:12.748Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1442139677384642651",
+        "updatedAt": "2025-11-23T13:08:12.748Z"
+      },
+      {
+        "name": "Hakari Kinji",
+        "sheet": "https://docs.google.com/spreadsheets/d/1G2RON4egbdml5IE7etjKrfqtLPW1bwtseFrzaSYxUTE/edit?usp=drivesdk",
+        "sheetId": "1G2RON4egbdml5IE7etjKrfqtLPW1bwtseFrzaSYxUTE",
+        "userId": "1318316460510023752",
+        "userName": "anfitriao1605",
+        "createdAt": "2025-10-18T22:09:41.321Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1429229981174599690",
+        "updatedAt": "2025-10-18T22:09:41.321Z"
+      },
+      {
+        "name": "Jericho",
+        "sheet": "https://docs.google.com/spreadsheets/d/1Uz3oGPcpT_9lxYApciCV-ZgxJiv6Tlx_nlqzwlwynFA/edit?usp=drivesdk",
+        "sheetId": "1Uz3oGPcpT_9lxYApciCV-ZgxJiv6Tlx_nlqzwlwynFA",
+        "userId": "1318316460510023752",
+        "userName": "anfitriao1605",
+        "createdAt": "2025-10-18T16:06:08.359Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1429138490981093628",
+        "updatedAt": "2025-10-18T16:06:08.359Z"
+      }
+    ],
+    "929390411624091659": [
+      {
+        "name": "Peter Quill",
+        "sheet": "https://docs.google.com/spreadsheets/d/1VhzT44CpVJNL8uMu0WGiHQOWB-h6DSTPBOl4zx_U9E4/edit?usp=sharing",
+        "sheetId": "1VhzT44CpVJNL8uMu0WGiHQOWB-h6DSTPBOl4zx_U9E4",
+        "userId": "929390411624091659",
+        "userName": "sardas_s2",
+        "createdAt": "2025-12-10T11:35:41.051Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1448276985594773545",
+        "updatedAt": "2025-12-10T11:35:41.051Z"
+      },
+      {
+        "name": "Centurião",
+        "sheet": "https://docs.google.com/spreadsheets/d/1UUzGvU5f2ssLw1YKcUHLoy5VEEQ6u_1WRB5SEJ8UbFc/edit?usp=sharing",
+        "sheetId": "1UUzGvU5f2ssLw1YKcUHLoy5VEEQ6u_1WRB5SEJ8UbFc",
+        "userId": "929390411624091659",
+        "userName": "sardas_s2",
+        "createdAt": "2025-11-29T15:04:55.576Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1444343376567861258",
+        "updatedAt": "2025-11-29T15:04:55.576Z"
+      },
+      {
+        "name": "Regulus Cogheart",
+        "sheet": "https://docs.google.com/spreadsheets/d/1CjWqEkAU0UVdvVOAwKVzxIWjmN-9Ki9exKD90xrTMzs/edit?usp=sharing",
+        "sheetId": "1CjWqEkAU0UVdvVOAwKVzxIWjmN-9Ki9exKD90xrTMzs",
+        "userId": "929390411624091659",
+        "userName": "sardas_s2",
+        "createdAt": "2025-11-14T01:49:03.645Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1438707272468529344",
+        "updatedAt": "2025-11-14T01:49:03.645Z"
+      },
+      {
+        "name": "Gol D' Roger",
+        "sheet": "https://docs.google.com/spreadsheets/d/1bcf8IBZblaDkZrR-r_jqGwd7SRPAO8_xk2iPJkj0kPU/edit?usp=sharing",
+        "sheetId": "1bcf8IBZblaDkZrR-r_jqGwd7SRPAO8_xk2iPJkj0kPU",
+        "userId": "929390411624091659",
+        "userName": "sardas_s2",
+        "createdAt": "2025-10-19T15:34:57.735Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1429493032880701470",
+        "updatedAt": "2025-10-19T15:34:57.735Z"
+      },
+      {
+        "name": "Canute",
+        "sheet": "https://docs.google.com/spreadsheets/d/1MBTzOosEa2IHdExLZSbQrgLsLLZXv18Pb569RL7BoKI/edit?usp=sharing",
+        "sheetId": "1MBTzOosEa2IHdExLZSbQrgLsLLZXv18Pb569RL7BoKI",
+        "userId": "929390411624091659",
+        "userName": "sardas_s2",
+        "createdAt": "2025-10-13T23:30:39.737Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1427438419520393368",
+        "updatedAt": "2025-10-13T23:30:39.737Z"
+      },
+      {
+        "name": "Astolfo D'i Rivia",
+        "sheet": "https://docs.google.com/spreadsheets/d/1INRq2bpUeQUA5flF02OxnXx2HKIZCYPAgv3fSlWbJjg/edit?usp=sharing",
+        "sheetId": "1INRq2bpUeQUA5flF02OxnXx2HKIZCYPAgv3fSlWbJjg",
+        "userId": "929390411624091659",
+        "userName": "sardas_s2",
+        "createdAt": "2025-10-06T17:53:03.836Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1424816745054470319",
+        "updatedAt": "2025-10-06T17:53:03.836Z"
+      },
+      {
+        "name": "Tur D'e Vlan",
+        "sheet": "https://docs.google.com/spreadsheets/d/1eq8NCnhYMr1CtM5oVIOHUt8R5EUrbx3z5Pq5JucCgsw/edit?usp=sharing",
+        "sheetId": "1eq8NCnhYMr1CtM5oVIOHUt8R5EUrbx3z5Pq5JucCgsw",
+        "userId": "929390411624091659",
+        "userName": "sardas_s2",
+        "createdAt": "2025-10-06T05:18:21.796Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1424626818412974141",
+        "updatedAt": "2025-10-06T05:18:21.796Z"
+      }
+    ],
+    "1086314244649271296": [
+      {
+        "name": "Arthur",
+        "sheet": "https://docs.google.com/spreadsheets/d/188nFV5jTk0bpabDDgKSV_5zbC4oM6Ce4IjTbw_AU8KI/edit?usp=sharing",
+        "sheetId": "188nFV5jTk0bpabDDgKSV_5zbC4oM6Ce4IjTbw_AU8KI",
+        "userId": "1086314244649271296",
+        "userName": "mr.l1315",
+        "createdAt": "2025-12-08T18:10:02.567Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1447651453455044651",
+        "updatedAt": "2025-12-08T18:10:02.567Z"
+      },
+      {
+        "name": "Lúcifer Morningstar",
+        "sheet": "https://docs.google.com/spreadsheets/d/1C_rS3ImSJux9cEjFjVPWH52ESjODkB_idewoa4VmmoM/edit?usp=sharing",
+        "sheetId": "1C_rS3ImSJux9cEjFjVPWH52ESjODkB_idewoa4VmmoM",
+        "userId": "1086314244649271296",
+        "userName": "mr.l1315",
+        "createdAt": "2025-11-20T19:29:31.321Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1441148473478090816",
+        "updatedAt": "2025-11-20T19:29:31.321Z"
+      },
+      {
+        "name": "Hwei, O Visionário",
+        "sheet": "https://docs.google.com/spreadsheets/d/1giS1ysqVF2z9i-cj_pXB95taz5IlBDZ0jsXt3rcwDgI/edit?usp=sharing",
+        "sheetId": "1giS1ysqVF2z9i-cj_pXB95taz5IlBDZ0jsXt3rcwDgI",
+        "userId": "1086314244649271296",
+        "userName": "mr.l1315",
+        "createdAt": "2025-10-12T03:13:04.041Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1426769613856968715",
+        "updatedAt": "2025-10-12T03:13:04.041Z"
+      },
+      {
+        "name": "Daniel Clermont Martinez",
+        "sheet": "https://docs.google.com/spreadsheets/d/1rOL6bUnntnmkK5_9W323qgYrEsJOIG91_hN9WZXCq5U/edit?usp=sharing",
+        "sheetId": "1rOL6bUnntnmkK5_9W323qgYrEsJOIG91_hN9WZXCq5U",
+        "userId": "1086314244649271296",
+        "userName": "mr.l1315",
+        "createdAt": "2025-10-09T16:42:33.328Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1425886164614643712",
+        "updatedAt": "2025-10-09T16:42:33.328Z"
+      },
+      {
+        "name": "Crow",
+        "sheet": "https://docs.google.com/spreadsheets/d/1RBf-Z48dakP3X9GNc50gpPxa7cYc4JLu8jKJMiyrE7w/edit?usp=sharing",
+        "sheetId": "1RBf-Z48dakP3X9GNc50gpPxa7cYc4JLu8jKJMiyrE7w",
+        "userId": "1086314244649271296",
+        "userName": "mr.l1315",
+        "createdAt": "2025-10-07T01:09:13.989Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1424926510631882763",
+        "updatedAt": "2025-10-07T01:09:13.989Z"
+      }
+    ],
+    "757115209595748363": [
+      {
+        "name": "Cindy Lopes",
+        "sheet": "https://docs.google.com/spreadsheets/d/1O4KpdzR2zKOXisAASBKkQYjxxNyUr0dRq_VtU6gw5_w/edit?usp=drivesdk",
+        "sheetId": "1O4KpdzR2zKOXisAASBKkQYjxxNyUr0dRq_VtU6gw5_w",
+        "userId": "757115209595748363",
+        "userName": "astrix1_",
+        "createdAt": "2025-12-06T11:11:56.557Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1446821459371626579",
+        "updatedAt": "2025-12-06T11:11:56.557Z"
+      },
+      {
+        "name": "Jae Yoon",
+        "sheet": "https://docs.google.com/spreadsheets/d/1mO5fPflLtfB7f8JQ2yPRNxpNP5zYFuTpP8KRewFq8t0/edit?usp=drivesdk",
+        "sheetId": "1mO5fPflLtfB7f8JQ2yPRNxpNP5zYFuTpP8KRewFq8t0",
+        "userId": "757115209595748363",
+        "userName": "astrix1_",
+        "createdAt": "2025-11-24T22:19:16.633Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1442640745235218442",
+        "updatedAt": "2025-11-24T22:19:16.633Z"
+      }
+    ],
+    "1378154671755231294": [
+      {
+        "name": "Fenrir",
+        "sheet": "https://docs.google.com/spreadsheets/d/1WgurUGMxrhKRBHPF3tDnlLkAxGpCdzrQmmCITo1Vni8/edit?usp=sharing",
+        "sheetId": "1WgurUGMxrhKRBHPF3tDnlLkAxGpCdzrQmmCITo1Vni8",
+        "userId": "1378154671755231294",
+        "userName": "mikael_092",
+        "createdAt": "2025-12-05T15:49:04.306Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1446528813340164147",
+        "updatedAt": "2025-12-05T15:49:04.306Z"
+      },
+      {
+        "name": "Daenerys",
+        "sheet": "https://docs.google.com/spreadsheets/d/14YYltUJfIpiyMNCj3XVKzK-_jAu5rcsQxVqy0okpZ9s/edit?gid=1529965367#gid=1529965367",
+        "sheetId": "14YYltUJfIpiyMNCj3XVKzK-_jAu5rcsQxVqy0okpZ9s",
+        "userId": "1378154671755231294",
+        "userName": "mikael_092",
+        "createdAt": "2025-11-28T18:06:08.057Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1444026591192813599",
+        "updatedAt": "2025-12-01T21:52:16.878Z",
+        "sheetBackup": "https://docs.google.com/spreadsheets/d/1QCgEdOuKpEESGIaQ5rIvLaC5JnkOblpqqjuBUFWPYPU/edit?usp=sharing",
+        "sheetBackupId": "1QCgEdOuKpEESGIaQ5rIvLaC5JnkOblpqqjuBUFWPYPU",
+        "updateLink": "https://discord.com/channels/1293013661601763351/1404292215198715904/1445170666549809275",
+        "updateMessageId": "1445170666549809275"
+      },
+      {
+        "name": "Daenerys",
+        "sheet": "https://docs.google.com/spreadsheets/d/1383nryDm00C8SfHBfk3emficbXpntZgdJTiDmqM9Kb0/edit?usp=sharing",
+        "sheetId": "1383nryDm00C8SfHBfk3emficbXpntZgdJTiDmqM9Kb0",
+        "userId": "1378154671755231294",
+        "userName": "mikael_092",
+        "createdAt": "2025-11-26T21:18:23.328Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1443350197894778903",
+        "updatedAt": "2025-11-26T21:18:23.328Z"
+      },
+      {
+        "name": "\"Z\"",
+        "sheet": "https://docs.google.com/spreadsheets/d/1IPbvc9fxzO9S38lkaEfBasWrYsszJJmUx7oBmNBv-Ww/edit?usp=sharing",
+        "sheetId": "1IPbvc9fxzO9S38lkaEfBasWrYsszJJmUx7oBmNBv-Ww",
+        "userId": "1378154671755231294",
+        "userName": "mikael_092",
+        "createdAt": "2025-11-24T23:17:51.079Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1442655485890400346",
+        "updatedAt": "2025-11-24T23:17:51.079Z"
+      },
+      {
+        "name": "Itoshi Sae",
+        "sheet": "https://docs.google.com/spreadsheets/d/1sCgfgM2z2TKICt4KD10uMBfV21-BXeldfVK50EtKH6w/edit?usp=sharing",
+        "sheetId": "1sCgfgM2z2TKICt4KD10uMBfV21-BXeldfVK50EtKH6w",
+        "userId": "1378154671755231294",
+        "userName": "mikael_092",
+        "createdAt": "2025-11-24T12:46:31.269Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1442496606451798097",
+        "updatedAt": "2025-11-24T12:46:31.269Z"
+      },
+      {
+        "name": "Santino",
+        "sheet": "https://docs.google.com/spreadsheets/d/1IjsBZoz50byUvhEzrpY3uI9bToKDHx8hG_ovCk3spFs/edit?usp=sharing",
+        "sheetId": "1IjsBZoz50byUvhEzrpY3uI9bToKDHx8hG_ovCk3spFs",
+        "userId": "1378154671755231294",
+        "userName": "mikael_092",
+        "createdAt": "2025-11-15T16:21:57.578Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1439289332530937977",
+        "updatedAt": "2025-11-15T16:21:57.578Z"
+      },
+      {
+        "name": "Eliza",
+        "sheet": "https://docs.google.com/spreadsheets/d/1TJLGYe87BhWptckdU8ijci73tXykQtEKb0Xh90eMZG0/edit?usp=sharing",
+        "sheetId": "1TJLGYe87BhWptckdU8ijci73tXykQtEKb0Xh90eMZG0",
+        "userId": "1378154671755231294",
+        "userName": "mikael_092",
+        "createdAt": "2025-11-12T20:14:05.432Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1438260586587885716",
+        "updatedAt": "2025-11-12T20:14:05.432Z"
+      },
+      {
+        "name": "Excalibur",
+        "sheet": "https://docs.google.com/spreadsheets/d/1_-oYW85hef3XAMg8QypFKvW8ylaLPZ6iUvPbbAsZpVY/edit?usp=sharing",
+        "sheetId": "1_-oYW85hef3XAMg8QypFKvW8ylaLPZ6iUvPbbAsZpVY",
+        "userId": "1378154671755231294",
+        "userName": "mikael_092",
+        "createdAt": "2025-10-12T22:33:36.878Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1427061675143729225",
+        "updatedAt": "2025-10-12T22:33:36.878Z"
+      }
+    ],
+    "808137899337318411": [
+      {
+        "name": "Shiroe",
+        "sheet": "https://docs.google.com/spreadsheets/d/1ash6yDSh-ATsPgO14AK1wvgyK0pM3oiWCKd6LWsJys8/edit?usp=sharing",
+        "sheetId": "1ash6yDSh-ATsPgO14AK1wvgyK0pM3oiWCKd6LWsJys8",
+        "userId": "808137899337318411",
+        "userName": "vrumvruuuum",
+        "createdAt": "2025-12-05T03:53:32.777Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1446348745456226346",
+        "updatedAt": "2025-12-05T03:53:32.777Z"
+      },
+      {
+        "name": "Molay",
+        "sheet": "https://docs.google.com/spreadsheets/d/1lu1_bpbCTbK1_IGt00jy6N0QnPcmCbVsV6W_wgZe5UY/edit?usp=sharing",
+        "sheetId": "1lu1_bpbCTbK1_IGt00jy6N0QnPcmCbVsV6W_wgZe5UY",
+        "userId": "808137899337318411",
+        "userName": "vrumvruuuum",
+        "createdAt": "2025-11-24T00:04:14.572Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1442304772840624148",
+        "updatedAt": "2025-11-24T00:04:14.572Z"
+      },
+      {
+        "name": "Urek Mazino",
+        "sheet": "https://docs.google.com/spreadsheets/d/1VuCQPwAAzbJFG_mdSAJulCS2G5jKV-hwwdJmAcSqaVI/edit?usp=sharing",
+        "sheetId": "1VuCQPwAAzbJFG_mdSAJulCS2G5jKV-hwwdJmAcSqaVI",
+        "userId": "808137899337318411",
+        "userName": "vrumvruuuum",
+        "createdAt": "2025-10-23T12:25:38.210Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1430894939042091008",
+        "updatedAt": "2025-10-23T12:25:38.210Z"
+      },
+      {
+        "name": "Dionísio",
+        "sheet": "https://docs.google.com/spreadsheets/d/1gCUfnen6rpCIlUzjgXBon6N8aiAvIzPL1lJNuqk5goY/edit?usp=sharing",
+        "sheetId": "1gCUfnen6rpCIlUzjgXBon6N8aiAvIzPL1lJNuqk5goY",
+        "userId": "808137899337318411",
+        "userName": "vrumvruuuum",
+        "createdAt": "2025-10-06T13:44:47.602Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1424754265720623124",
+        "updatedAt": "2025-10-06T13:44:47.602Z"
+      },
+      {
+        "name": "Osíris",
+        "sheet": "https://docs.google.com/spreadsheets/d/1RGwRQ4NvAqTvx0DGgKqXmnoxB86znrpmb6yBmzIW_rw/edit?usp=sharing",
+        "sheetId": "1RGwRQ4NvAqTvx0DGgKqXmnoxB86znrpmb6yBmzIW_rw",
+        "userId": "808137899337318411",
+        "userName": "vrumvruuuum",
+        "createdAt": "2025-10-06T13:38:48.179Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1424752758191427655",
+        "updatedAt": "2025-10-06T13:38:48.179Z"
+      }
+    ],
+    "1381810231708881078": [
+      {
+        "name": "void",
+        "sheet": "https://docs.google.com/spreadsheets/d/19FACW2kogpoQkauSGohvHloTA4382uTvyh0Puid5iGo/edit?usp=drivesdk",
+        "sheetId": "19FACW2kogpoQkauSGohvHloTA4382uTvyh0Puid5iGo",
+        "userId": "1381810231708881078",
+        "userName": ".kalzito",
+        "createdAt": "2025-12-02T15:10:20.445Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1445431902763749458",
+        "updatedAt": "2025-12-02T15:10:20.445Z"
+      }
+    ],
+    "432587008477626368": [
+      {
+        "name": "Stella",
+        "sheet": "https://docs.google.com/spreadsheets/d/1_5bInX9XzlhAOge89RBLEVQBaFeHXV0Fu0ykrzyWjjE/edit?usp=sharing",
+        "sheetId": "1_5bInX9XzlhAOge89RBLEVQBaFeHXV0Fu0ykrzyWjjE",
+        "userId": "432587008477626368",
+        "userName": "tucuterio",
+        "createdAt": "2025-12-01T03:43:56.070Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1444896775109611531",
+        "updatedAt": "2025-12-01T03:43:56.070Z"
+      },
+      {
+        "name": "Ena",
+        "sheet": "https://docs.google.com/spreadsheets/d/1pBvz4IN68TAxJyMtSP20nj_hYEfYG73w10meg19N_0o/edit?usp=sharing>",
+        "sheetId": "1pBvz4IN68TAxJyMtSP20nj_hYEfYG73w10meg19N_0o",
+        "userId": "432587008477626368",
+        "userName": "tucuterio",
+        "createdAt": "2025-11-27T13:59:33.504Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1443602150474383472",
+        "updatedAt": "2025-12-02T07:23:10.258Z",
+        "sheetBackup": "https://docs.google.com/spreadsheets/d/12l10ESe3zpztrv6pyudRrsOHxeM6ADub0Xnm1E-PDIM/edit?usp=sharing",
+        "sheetBackupId": "12l10ESe3zpztrv6pyudRrsOHxeM6ADub0Xnm1E-PDIM",
+        "updateLink": "https://discord.com/channels/1293013661601763351/1404292215198715904/1445314335638294702",
+        "updateMessageId": "1445314335638294702"
+      },
+      {
+        "name": "Nylla",
+        "sheet": "https://docs.google.com/spreadsheets/d/1yZFt_tpWbwnwnychvDroSm5hI6djQP60CneQFZ4zzyo/edit?usp=sharing>",
+        "sheetId": "1yZFt_tpWbwnwnychvDroSm5hI6djQP60CneQFZ4zzyo",
+        "userId": "432587008477626368",
+        "userName": "tucuterio",
+        "createdAt": "2025-10-22T01:33:36.176Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1430368461472792727",
+        "updatedAt": "2025-12-02T07:24:30.958Z",
+        "sheetBackup": "https://docs.google.com/spreadsheets/d/1SggN_re2TTwjWWkJ4rBsosiNBcsVRoVjDQgBIWwGjmw/edit?usp=sharing",
+        "sheetBackupId": "1SggN_re2TTwjWWkJ4rBsosiNBcsVRoVjDQgBIWwGjmw",
+        "updateLink": "https://discord.com/channels/1293013661601763351/1404292215198715904/1445314674118627350",
+        "updateMessageId": "1445314674118627350"
+      }
+    ],
+    "323900172788563968": [
+      {
+        "name": "Amaya Tali",
+        "sheet": "https://docs.google.com/spreadsheets/d/1JyScvki4eExjbofbRyw5LCFn-SbDIioTPa3Y4a80DdQ/edit?gid=1529965367#gid=1529965367",
+        "sheetId": "1JyScvki4eExjbofbRyw5LCFn-SbDIioTPa3Y4a80DdQ",
+        "userId": "323900172788563968",
+        "userName": "alexalex.ander",
+        "createdAt": "2025-11-29T17:09:35.704Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1444374750498525246",
+        "updatedAt": "2025-12-02T15:30:17.248Z",
+        "sheetBackup": "https://docs.google.com/spreadsheets/d/198nPc7x5fMc6SZJOjQ6dL-1C1mnr_W-e-TO6wyItUsY/edit?gid=1529965367#gid=1529965367",
+        "sheetBackupId": "198nPc7x5fMc6SZJOjQ6dL-1C1mnr_W-e-TO6wyItUsY",
+        "updateLink": "https://discord.com/channels/1293013661601763351/1404292215198715904/1445436922519355523",
+        "updateMessageId": "1445436922519355523"
+      }
+    ],
+    "178906027914297344": [
+      {
+        "name": "Guinnevere Leonhart",
+        "sheet": "https://docs.google.com/spreadsheets/d/1DvCGYUay8PRloQqLJCKpMPlQr7Ye1FAHUoSkDzuqVgY/edit?usp=sharing",
+        "sheetId": "1DvCGYUay8PRloQqLJCKpMPlQr7Ye1FAHUoSkDzuqVgY",
+        "userId": "178906027914297344",
+        "userName": "vittinhodosus",
+        "createdAt": "2025-11-27T17:01:58.367Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1443648056556912680",
+        "updatedAt": "2025-11-27T17:01:58.367Z"
+      }
+    ],
+    "695416413254320139": [
+      {
+        "name": "Anthony Faust",
+        "sheet": "https://docs.google.com/spreadsheets/d/1S6YPJa116OOWPE2Ao9pLukkl2FdVGxsbRIVWnA9V-FE/edit?usp=sharing",
+        "sheetId": "1S6YPJa116OOWPE2Ao9pLukkl2FdVGxsbRIVWnA9V-FE",
+        "userId": "695416413254320139",
+        "userName": "cross3534",
+        "createdAt": "2025-11-25T22:32:15.479Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1443006399817978016",
+        "updatedAt": "2025-11-25T22:32:15.479Z"
+      }
+    ],
+    "868114569749491733": [
+      {
+        "name": "Labirinto",
+        "sheet": "https://docs.google.com/spreadsheets/d/1bEYN1KJQxaY6tCOaX6-Rrv2vt1S0iJ_WCbjofwcCqHk/edit?usp=sharing",
+        "sheetId": "1bEYN1KJQxaY6tCOaX6-Rrv2vt1S0iJ_WCbjofwcCqHk",
+        "userId": "868114569749491733",
+        "userName": "note_n_",
+        "createdAt": "2025-11-25T22:19:36.714Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1443003217326768150",
+        "updatedAt": "2025-11-25T22:19:36.714Z"
+      },
+      {
+        "name": "Labirinto",
+        "sheet": "https://docs.google.com/spreadsheets/d/1bEYN1KJQxaY6tCOaX6-Rrv2vt1S0iJ_WCbjofwcCqHk/edit?usp=sharing",
+        "sheetId": "1bEYN1KJQxaY6tCOaX6-Rrv2vt1S0iJ_WCbjofwcCqHk",
+        "userId": "868114569749491733",
+        "userName": "note_n_",
+        "createdAt": "2025-11-24T23:57:33.492Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1442665478454771732",
+        "updatedAt": "2025-11-24T23:57:33.492Z"
+      }
+    ],
+    "925101493382680677": [
+      {
+        "name": "Dalmo Magno",
+        "sheet": "https://docs.google.com/spreadsheets/d/185uVX7kn3OLlL7Z0gBw1pgoQYnMJXCIGvjEPcA7UMns/edit?usp=sharing",
+        "sheetId": "185uVX7kn3OLlL7Z0gBw1pgoQYnMJXCIGvjEPcA7UMns",
+        "userId": "925101493382680677",
+        "userName": "o_cara_russo",
+        "createdAt": "2025-11-25T18:37:41.351Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1442947368646344865",
+        "updatedAt": "2025-11-25T18:37:41.351Z"
+      }
+    ],
+    "687063282862915636": [
+      {
+        "name": "Sabrina Sombra de Salgueiro",
+        "sheet": "https://docs.google.com/spreadsheets/d/11PCTCF3z2mYhVpPbN9CwSCbSehuyPHWNkNWhZrTUvM0/edit?gid=1529965367#gid=1529965367",
+        "sheetId": "11PCTCF3z2mYhVpPbN9CwSCbSehuyPHWNkNWhZrTUvM0",
+        "userId": "687063282862915636",
+        "userName": "tanjil0l",
+        "createdAt": "2025-11-23T17:30:02.688Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1442205569648693522",
+        "updatedAt": "2025-11-23T17:30:02.688Z"
+      },
+      {
+        "name": "Bryde Sabine Tesla",
+        "sheet": "https://docs.google.com/spreadsheets/d/1FH505gFREUurYq2P0k2onP5z9rDt9Qq5daFsPoV6ev0/edit?usp=sharing",
+        "sheetId": "1FH505gFREUurYq2P0k2onP5z9rDt9Qq5daFsPoV6ev0",
+        "userId": "687063282862915636",
+        "userName": "tanjil0l",
+        "createdAt": "2025-10-06T14:54:22.167Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1424771775115432067",
+        "updatedAt": "2025-10-06T14:54:22.167Z"
+      }
+    ],
+    "1384233639721701457": [
+      {
+        "name": "Cup Head",
+        "sheet": "https://docs.google.com/spreadsheets/d/1CDo90yoYPkpGKdI2k_zBwNt7GLudxuhg9YW_zr4pKO4/edit?usp=drivesdk",
+        "sheetId": "1CDo90yoYPkpGKdI2k_zBwNt7GLudxuhg9YW_zr4pKO4",
+        "userId": "1384233639721701457",
+        "userName": "leozin_444.",
+        "createdAt": "2025-11-23T16:57:44.809Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1442197441595310322",
+        "updatedAt": "2025-12-06T13:53:09.839Z",
+        "sheetBackup": "https://docs.google.com/spreadsheets/d/1jlmrYvjoI3kdOe6OgDTN0qT9mhJanX1CAyalWpscz74/edit?usp=drivesdk",
+        "sheetBackupId": "1jlmrYvjoI3kdOe6OgDTN0qT9mhJanX1CAyalWpscz74",
+        "updateLink": "https://discord.com/channels/1293013661601763351/1404292215198715904/1446862032057143498",
+        "updateMessageId": "1446862032057143498"
+      },
+      {
+        "name": "Amaterasu Aurelian",
+        "sheet": "https://docs.google.com/spreadsheets/d/1x7D9tSdZw5PbpSPvx66cNbhh6T-NbbLlRT8QM06lz9o/edit?usp=drivesdk",
+        "sheetId": "1x7D9tSdZw5PbpSPvx66cNbhh6T-NbbLlRT8QM06lz9o",
+        "userId": "1384233639721701457",
+        "userName": "leozin_444.",
+        "createdAt": "2025-10-26T16:50:09.431Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1432048671364743259",
+        "updatedAt": "2025-10-26T16:50:09.431Z"
+      },
+      {
+        "name": "Elian Solaris",
+        "sheet": "https://docs.google.com/spreadsheets/d/1Yhl_BsGA2PwusyMz_vxPG1nTzZUm6zi0eZJ_UcHgcis/edit?usp=drivesdk",
+        "sheetId": "1Yhl_BsGA2PwusyMz_vxPG1nTzZUm6zi0eZJ_UcHgcis",
+        "userId": "1384233639721701457",
+        "userName": "leozin_444.",
+        "createdAt": "2025-10-07T17:19:39.917Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1425170727874597039",
+        "updatedAt": "2025-12-02T16:57:59.485Z",
+        "sheetBackup": "https://docs.google.com/spreadsheets/d/1ZM6hehjzFWyvyJoSzz-ado8S9Pg1jP8ey54xVftXab4/edit?usp=drivesdk",
+        "sheetBackupId": "1ZM6hehjzFWyvyJoSzz-ado8S9Pg1jP8ey54xVftXab4",
+        "updateLink": "https://discord.com/channels/1293013661601763351/1404292215198715904/1445458993941188690",
+        "updateMessageId": "1445458993941188690"
+      }
+    ],
+    "1342874782328295484": [
+      {
+        "name": "Traîtrise Beau",
+        "sheet": "https://docs.google.com/spreadsheets/d/1SJb_udHYDkeKKutFD3DCWxAoMtsbdX5aXCj9KXNlB94/edit?usp=drivesdk",
+        "sheetId": "1SJb_udHYDkeKKutFD3DCWxAoMtsbdX5aXCj9KXNlB94",
+        "userId": "1342874782328295484",
+        "userName": "d6lt2_eu",
+        "createdAt": "2025-11-22T00:53:43.705Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1441592450555838556",
+        "updatedAt": "2025-11-22T00:53:43.705Z"
+      }
+    ],
+    "1104939812567396362": [
+      {
+        "name": "Gran Cross",
+        "sheet": "https://docs.google.com/spreadsheets/d/1fE8tD5g7AYf_nE_Mz-C-6-5sJ_PwpLjnQ9UyEDHuAMY/edit?usp=sharing",
+        "sheetId": "1fE8tD5g7AYf_nE_Mz-C-6-5sJ_PwpLjnQ9UyEDHuAMY",
+        "userId": "1104939812567396362",
+        "userName": "lwz_0413",
+        "createdAt": "2025-11-19T22:30:26.872Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1440831617093468282",
+        "updatedAt": "2025-12-03T16:12:24.237Z",
+        "sheetBackup": "https://docs.google.com/spreadsheets/d/1nu2oGWaU3H_Q187sRzz31hAeXhCPvsYf0Nq_M4KRWi0/edit?usp=sharing",
+        "sheetBackupId": "1nu2oGWaU3H_Q187sRzz31hAeXhCPvsYf0Nq_M4KRWi0",
+        "updateLink": "https://discord.com/channels/1293013661601763351/1404292215198715904/1445809909345288212",
+        "updateMessageId": "1445809909345288212"
+      },
+      {
+        "name": "Jin Kaien",
+        "sheet": "https://docs.google.com/spreadsheets/d/1ztfr7yhBZDB0Ckl0Gc5GijBfxlSWpOiscEC_E6mmNeA/edit?usp=sharing",
+        "sheetId": "1ztfr7yhBZDB0Ckl0Gc5GijBfxlSWpOiscEC_E6mmNeA",
+        "userId": "1104939812567396362",
+        "userName": "lwz_0413",
+        "createdAt": "2025-10-12T17:34:10.383Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1426986318201622719",
+        "updatedAt": "2025-12-08T20:09:20.369Z",
+        "sheetBackup": "https://docs.google.com/spreadsheets/d/1cK5mDRmvYonnUpUA9Axgvfd9MigwsOvuXK8kMl_Phh0/edit?gid=1529965367#gid=1529965367",
+        "sheetBackupId": "1cK5mDRmvYonnUpUA9Axgvfd9MigwsOvuXK8kMl_Phh0",
+        "updateLink": "https://discord.com/channels/1293013661601763351/1404292215198715904/1447681475452342356",
+        "updateMessageId": "1447681475452342356"
+      },
+      {
+        "name": "Basara Hashibira",
+        "sheet": "https://docs.google.com/spreadsheets/d/1nf94T75ev0P94308wjVexKXOWMqIGafEM3bkpp0dLV4/edit?usp=sharing",
+        "sheetId": "1nf94T75ev0P94308wjVexKXOWMqIGafEM3bkpp0dLV4",
+        "userId": "1104939812567396362",
+        "userName": "lwz_0413",
+        "createdAt": "2025-10-07T04:51:47.098Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1424982517630632007",
+        "updatedAt": "2025-12-03T17:05:09.848Z",
+        "sheetBackup": "https://docs.google.com/spreadsheets/d/1wW8njNFlfUmES0HyeNkTK_FMmuZLQcAZzOgcn1VluDU/edit?usp=sharing",
+        "sheetBackupId": "1wW8njNFlfUmES0HyeNkTK_FMmuZLQcAZzOgcn1VluDU",
+        "updateLink": "https://discord.com/channels/1293013661601763351/1404292215198715904/1445823186880167966",
+        "updateMessageId": "1445823186880167966"
+      }
+    ],
+    "1428579656335884420": [
+      {
+        "name": "Cecinin.",
+        "sheet": "https://docs.google.com/spreadsheets/d/1VxxqLwGpgGCYJSPOcGAaqVE9_aDTQmfEg-kH4nAXSKg/edit?usp=drivesdk",
+        "sheetId": "1VxxqLwGpgGCYJSPOcGAaqVE9_aDTQmfEg-kH4nAXSKg",
+        "userId": "1428579656335884420",
+        "userName": "aluneinlove",
+        "createdAt": "2025-11-14T18:50:23.180Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1438964297467428987",
+        "updatedAt": "2025-11-14T18:50:23.180Z"
+      }
+    ],
+    "754354153337258024": [
+      {
+        "name": "Caox",
+        "sheet": "https://docs.google.com/spreadsheets/d/1-jswwedWxfZAETjZ7N8YYpAggODjwXFa4siyzhARqB4/edit?usp=drivesdk",
+        "sheetId": "1-jswwedWxfZAETjZ7N8YYpAggODjwXFa4siyzhARqB4",
+        "userId": "754354153337258024",
+        "userName": "saturn_2798",
+        "createdAt": "2025-11-14T12:25:48.114Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1438867513625542850",
+        "updatedAt": "2025-11-14T12:25:48.114Z"
+      },
+      {
+        "name": "Yone",
+        "sheet": "https://docs.google.com/spreadsheets/d/1PVsKjOtSRNvr6nB3qC_xLHT1UmnMU-uK7KAydg82jVs/edit?usp=drivesdk",
+        "sheetId": "1PVsKjOtSRNvr6nB3qC_xLHT1UmnMU-uK7KAydg82jVs",
+        "userId": "754354153337258024",
+        "userName": "saturn_2798",
+        "createdAt": "2025-10-21T22:12:17.195Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1430317798554468412",
+        "updatedAt": "2025-10-21T22:12:17.195Z"
+      },
+      {
+        "name": "Le Corve",
+        "sheet": "https://docs.google.com/spreadsheets/d/1XonraxqzJI3nQU-7OWBGnQv4cyypT9Ru9IfVkY5c-b8/edit?usp=drivesdk",
+        "sheetId": "1XonraxqzJI3nQU-7OWBGnQv4cyypT9Ru9IfVkY5c-b8",
+        "userId": "754354153337258024",
+        "userName": "saturn_2798",
+        "createdAt": "2025-10-11T01:40:18.909Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1426383884135960576",
+        "updatedAt": "2025-10-11T01:40:18.909Z"
+      },
+      {
+        "name": "Fiora Bachelard",
+        "sheet": "https://docs.google.com/spreadsheets/d/1CMgbT1CVmHQzcpCj51En2HqjQSagmnyMLFVJNaxD5ik/edit?usp=drivesdk",
+        "sheetId": "1CMgbT1CVmHQzcpCj51En2HqjQSagmnyMLFVJNaxD5ik",
+        "userId": "754354153337258024",
+        "userName": "saturn_2798",
+        "createdAt": "2025-10-06T14:46:03.538Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1424769683713691759",
+        "updatedAt": "2025-10-06T14:46:03.538Z"
+      }
+    ],
+    "834128896530186320": [
+      {
+        "name": "Abbadon",
+        "sheet": "https://docs.google.com/spreadsheets/d/1e2vakCApAluoLcTBlqnynKHiOiS47r-WWoMd3u0Iupw/edit?gid=1529965367#gid=1529965367",
+        "sheetId": "1e2vakCApAluoLcTBlqnynKHiOiS47r-WWoMd3u0Iupw",
+        "userId": "834128896530186320",
+        "userName": "__victor.__",
+        "createdAt": "2025-10-29T01:34:53.316Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1432905500080734298",
+        "updatedAt": "2025-10-29T01:34:53.316Z"
+      },
+      {
+        "name": "Asmodeus",
+        "sheet": "https://docs.google.com/spreadsheets/d/1m8eGZRZPJwjmIgqBZM5xd_Xu-c6Wa8tbhO2lu-4TWSE/edit?usp=sharing",
+        "sheetId": "1m8eGZRZPJwjmIgqBZM5xd_Xu-c6Wa8tbhO2lu-4TWSE",
+        "userId": "834128896530186320",
+        "userName": "__victor.__",
+        "createdAt": "2025-10-07T03:58:13.896Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1424969040484634624",
+        "updatedAt": "2025-10-07T03:58:13.896Z"
+      }
+    ],
+    "966453624953790484": [
+      {
+        "name": "Nakamali",
+        "sheet": "https://docs.google.com/spreadsheets/d/1F10ZZYtmWWH9l1ypHzLXcBU3Ym4VMjJNRlMyxVHG0Yg/edit?usp=sharing",
+        "sheetId": "1F10ZZYtmWWH9l1ypHzLXcBU3Ym4VMjJNRlMyxVHG0Yg",
+        "userId": "966453624953790484",
+        "userName": "nein7218",
+        "createdAt": "2025-10-24T10:23:22.892Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1431226560354193459",
+        "updatedAt": "2025-10-24T10:23:22.892Z"
+      },
+      {
+        "name": "Varus, Três Almas em um corpo",
+        "sheet": "https://docs.google.com/spreadsheets/d/1rs72Qc1ImF6fjT-YWOe14Ctc9qBf_uEusvonSG_Ibck/edit?usp=sharing",
+        "sheetId": "1rs72Qc1ImF6fjT-YWOe14Ctc9qBf_uEusvonSG_Ibck",
+        "userId": "966453624953790484",
+        "userName": "nein7218",
+        "createdAt": "2025-10-12T03:18:49.173Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1426771061445234729",
+        "updatedAt": "2025-10-12T03:18:49.173Z"
+      },
+      {
+        "name": "Cing Swan",
+        "sheet": "https://docs.google.com/spreadsheets/d/1OryT7IMLLL4ibJPJEhoHi5Kkpfyh6ksu-5vXENHeXoo/edit?usp=sharing",
+        "sheetId": "1OryT7IMLLL4ibJPJEhoHi5Kkpfyh6ksu-5vXENHeXoo",
+        "userId": "966453624953790484",
+        "userName": "nein7218",
+        "createdAt": "2025-10-09T01:55:35.503Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1425662952878510161",
+        "updatedAt": "2025-10-09T01:55:35.503Z"
+      },
+      {
+        "name": "Azrael Decopouille",
+        "sheet": "https://docs.google.com/spreadsheets/d/1aTLBcPXb3xx2TOaMUZs9Bdb6-N0Hvtg_QNs5MJLJGMs/edit?usp=sharing",
+        "sheetId": "1aTLBcPXb3xx2TOaMUZs9Bdb6-N0Hvtg_QNs5MJLJGMs",
+        "userId": "966453624953790484",
+        "userName": "nein7218",
+        "createdAt": "2025-10-06T18:27:02.661Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1424825296506585271",
+        "updatedAt": "2025-10-06T18:27:02.661Z"
+      }
+    ],
+    "1104890306593312891": [
+      {
+        "name": "Six",
+        "sheet": "https://docs.google.com/spreadsheets/d/1AmLlHf9jUhg7V4x-bD6myxiMWyyAIfAvSIp-Mx_6kTk/edit?usp=sharing",
+        "sheetId": "1AmLlHf9jUhg7V4x-bD6myxiMWyyAIfAvSIp-Mx_6kTk",
+        "userId": "1104890306593312891",
+        "userName": "tomatepequeno",
+        "createdAt": "2025-10-19T23:37:07.018Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1429614371088109619",
+        "updatedAt": "2025-10-19T23:37:07.018Z"
+      },
+      {
+        "name": "Eliora",
+        "sheet": "https://docs.google.com/spreadsheets/d/10zgAw4G0bSOSkAf6N4LSschItJM8bD7zfSWYhkmnT3w/edit?usp=sharing",
+        "sheetId": "10zgAw4G0bSOSkAf6N4LSschItJM8bD7zfSWYhkmnT3w",
+        "userId": "1104890306593312891",
+        "userName": "tomatepequeno",
+        "createdAt": "2025-10-12T18:49:39.998Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1427005316784066561",
+        "updatedAt": "2025-10-12T18:49:39.998Z"
+      },
+      {
+        "name": "Melusine",
+        "sheet": "https://docs.google.com/spreadsheets/d/1HQtC0s2_bfsxR_tP4hMXLWP3uSI3QQRD8hwNxm7HGp8/edit?usp=sharing",
+        "sheetId": "1HQtC0s2_bfsxR_tP4hMXLWP3uSI3QQRD8hwNxm7HGp8",
+        "userId": "1104890306593312891",
+        "userName": "tomatepequeno",
+        "createdAt": "2025-10-09T04:24:11.652Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1425700349917794376",
+        "updatedAt": "2025-10-09T04:24:11.652Z"
+      }
+    ],
+    "282973143772168192": [
+      {
+        "name": "Ilynav",
+        "sheet": "https://docs.google.com/spreadsheets/d/1r4TJxArFKbHcITuQ3J1Q9gpYT017CC6mEVvaiZanWNU/edit?usp=sharing",
+        "sheetId": "1r4TJxArFKbHcITuQ3J1Q9gpYT017CC6mEVvaiZanWNU",
+        "userId": "282973143772168192",
+        "userName": "kurogane9766",
+        "createdAt": "2025-10-19T05:44:58.090Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1429344556008083556",
+        "updatedAt": "2025-10-19T05:44:58.090Z"
+      }
+    ],
+    "995508293780901928": [
+      {
+        "name": "Nyx Kovariya",
+        "sheet": "https://docs.google.com/spreadsheets/d/1b0WAfzhPZ6bH9sqvR7vgSV5Y6CpqilWfPt7q4LMj6Wg/edit?usp=drivesdk",
+        "sheetId": "1b0WAfzhPZ6bH9sqvR7vgSV5Y6CpqilWfPt7q4LMj6Wg",
+        "userId": "995508293780901928",
+        "userName": "origami1603",
+        "createdAt": "2025-10-18T21:50:33.584Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1429225167216836639",
+        "updatedAt": "2025-10-18T21:50:33.584Z"
+      }
+    ],
+    "1309725005029969956": [
+      {
+        "name": "Belterie",
+        "sheet": "https://docs.google.com/spreadsheets/d/1n_kHtQUn5wFCDsmuSqAvuAZjLY7o4eHavElRbitOE6o/edit?usp=sharing",
+        "sheetId": "1n_kHtQUn5wFCDsmuSqAvuAZjLY7o4eHavElRbitOE6o",
+        "userId": "1309725005029969956",
+        "userName": "enako._.haibara.",
+        "createdAt": "2025-10-15T21:06:34.531Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1428126934629617896",
+        "updatedAt": "2025-10-15T21:06:34.531Z"
+      },
+      {
+        "name": "Zoltraak",
+        "sheet": "https://docs.google.com/spreadsheets/d/1ldL2RJ4JfnA_HcpaQhLeU2EwMzKduB7romd3IMcSAwI/edit?usp=sharing",
+        "sheetId": "1ldL2RJ4JfnA_HcpaQhLeU2EwMzKduB7romd3IMcSAwI",
+        "userId": "1309725005029969956",
+        "userName": "enako._.haibara.",
+        "createdAt": "2025-10-06T17:40:07.225Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1424813487711850710",
+        "updatedAt": "2025-10-06T17:40:07.225Z"
+      }
+    ],
+    "1270442274882588826": [
+      {
+        "name": "Lillia",
+        "sheet": "https://docs.google.com/spreadsheets/d/1xorCZ4nXacl0IfE4X7qNkQIEQBIJFAjZc0uWstS7k9I/edit?usp=drivesdk",
+        "sheetId": "1xorCZ4nXacl0IfE4X7qNkQIEQBIJFAjZc0uWstS7k9I",
+        "userId": "1270442274882588826",
+        "userName": "aluwunewe",
+        "createdAt": "2025-10-15T18:45:00.750Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1428091309129990175",
+        "updatedAt": "2025-10-15T18:45:00.750Z"
+      },
+      {
+        "name": "Nami Lunaris",
+        "sheet": "https://docs.google.com/spreadsheets/d/1tk3Qy50kkxtPSC-IXP1EsqBPxJYBx8PRiXvl5IwPrAc/edit?usp=drivesdk",
+        "sheetId": "1tk3Qy50kkxtPSC-IXP1EsqBPxJYBx8PRiXvl5IwPrAc",
+        "userId": "1270442274882588826",
+        "userName": "aluwunewe",
+        "createdAt": "2025-10-09T16:50:57.073Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1425888277474443274",
+        "updatedAt": "2025-10-09T16:50:57.073Z"
+      }
+    ],
+    "1403128893522575490": [
+      {
+        "name": "Leona \"Holliday\" Goose",
+        "sheet": "https://docs.google.com/spreadsheets/d/1dqXE_X4RtoNJkGv94jMkvmUmiEdjCPhrkDMpr6OmADY/edit?gid=1529965367#gid=1529965367",
+        "sheetId": "1dqXE_X4RtoNJkGv94jMkvmUmiEdjCPhrkDMpr6OmADY",
+        "userId": "1403128893522575490",
+        "userName": "entidadesporfavor",
+        "createdAt": "2025-10-15T08:11:00.706Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1427931757621018756",
+        "updatedAt": "2025-10-15T08:11:00.706Z"
+      }
+    ],
+    "668788395920588820": [
+      {
+        "name": "Master Yi",
+        "sheet": "https://docs.google.com/spreadsheets/d/1Hpgh31_NQgrSU4n4DcwaWgAZm-p924RFze0Tg80xwH4/edit?usp=sharing",
+        "sheetId": "1Hpgh31_NQgrSU4n4DcwaWgAZm-p924RFze0Tg80xwH4",
+        "userId": "668788395920588820",
+        "userName": "umacovinha",
+        "createdAt": "2025-10-12T04:01:10.040Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1426781718613983453",
+        "updatedAt": "2025-10-12T04:01:10.040Z"
+      },
+      {
+        "name": "Bryn Talleson",
+        "sheet": "https://docs.google.com/spreadsheets/d/1IE7IPc4RJREzCYmpKHfrlUu47I0krTy1dafLiOLzeug/edit?usp=sharing",
+        "sheetId": "1IE7IPc4RJREzCYmpKHfrlUu47I0krTy1dafLiOLzeug",
+        "userId": "668788395920588820",
+        "userName": "umacovinha",
+        "createdAt": "2025-10-07T20:40:26.078Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1425221253136121936",
+        "updatedAt": "2025-10-07T20:40:26.078Z"
+      },
+      {
+        "name": "Aion Veris",
+        "sheet": "https://docs.google.com/spreadsheets/d/1jVKDPoJmP6r5BRoOUbTVwmc8po7hgPy6_cR3Z9gSoOk/edit?usp=sharing",
+        "sheetId": "1jVKDPoJmP6r5BRoOUbTVwmc8po7hgPy6_cR3Z9gSoOk",
+        "userId": "668788395920588820",
+        "userName": "umacovinha",
+        "createdAt": "2025-10-06T11:20:33.538Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1424717967945367654",
+        "updatedAt": "2025-10-06T11:20:33.538Z"
+      }
+    ],
+    "856262810274234378": [
+      {
+        "name": "Bachira Tarin",
+        "sheet": "https://docs.google.com/spreadsheets/d/1TlxMBRkMorqCjWiwzOpW1Npmug20rhKC-fycCehSg4s/edit?gid=1529965367#gid=1529965367",
+        "sheetId": "1TlxMBRkMorqCjWiwzOpW1Npmug20rhKC-fycCehSg4s",
+        "userId": "856262810274234378",
+        "userName": "kiyos2",
+        "createdAt": "2025-10-07T18:35:54.988Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1425189917113454728",
+        "updatedAt": "2025-10-07T18:35:54.988Z"
+      }
+    ],
+    "451451784666415116": [
+      {
+        "name": "Janus Tintus",
+        "sheet": "https://docs.google.com/spreadsheets/d/1uSfFeqqs5INE5hFXVHH9dhyMpveAvifRrMu5CgjZTYY/edit?gid=1529965367#gid=1529965367",
+        "sheetId": "1uSfFeqqs5INE5hFXVHH9dhyMpveAvifRrMu5CgjZTYY",
+        "userId": "451451784666415116",
+        "userName": "mr.marllon",
+        "createdAt": "2025-10-07T04:04:43.014Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1424970672563814492",
+        "updatedAt": "2025-10-07T04:04:43.014Z"
+      },
+      {
+        "name": "Solaire de Astora",
+        "sheet": "https://docs.google.com/spreadsheets/d/1hqDJEM23SPO12Hs2Ey9f28qX9UajCrZfUzRpdqMqo7g/edit?gid=1529965367#gid=1529965367",
+        "sheetId": "1hqDJEM23SPO12Hs2Ey9f28qX9UajCrZfUzRpdqMqo7g",
+        "userId": "451451784666415116",
+        "userName": "mr.marllon",
+        "createdAt": "2025-10-06T19:01:55.720Z",
+        "creationLink": "https://discord.com/channels/1293013661601763351/1404283081476669472/1424834075432321065",
+        "updatedAt": "2025-12-05T17:05:27.768Z",
+        "sheetBackup": "https://docs.google.com/spreadsheets/d/1d0B2dUVSKXWjcjCgd6d7ZrLxcfvE0cIBa87VP1yDqI4/edit?gid=1529965367#gid=1529965367",
+        "sheetBackupId": "1d0B2dUVSKXWjcjCgd6d7ZrLxcfvE0cIBa87VP1yDqI4",
+        "updateLink": "https://discord.com/channels/1293013661601763351/1404292215198715904/1446548037773037722",
+        "updateMessageId": "1446548037773037722"
+      }
+    ]
+  }
+}
