@@ -1,5 +1,5 @@
 {
-  "timestamp": 1767517236915,
+  "timestamp": 1767603631840,
   "games": [
     {
       "title": "First Introductions",
@@ -19128,6 +19128,17 @@
       "time": "<t:1767556800:F>",
       "public": true,
       "creator": "Galavan Riverstone"
+    },
+    {
+      "title": "[Heaven's Memory]: Locusts of War III",
+      "postedAt": 1767552447502,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1457445341765959775",
+      "pings": [
+        "1170826784862908661"
+      ],
+      "time": "<t:1767574800:F>",
+      "public": true,
+      "creator": "Fuji | Emgry"
     }
   ]
 }
