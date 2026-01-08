@@ -1,5 +1,5 @@
 {
-  "timestamp": 1767776433423,
+  "timestamp": 1767862834840,
   "logs": [
     {
       "master": "@desyov",
@@ -22209,6 +22209,87 @@
         "@caelum_blue as Céline",
         "@incognegro as Kviss",
         "@samikazuki as Anahi"
+      ]
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "[Heaven's Memory] Dreams of a Crying Fox",
+      "postedAt": 1767800537733,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1458485907614077101",
+      "players": [
+        "@lenpendragon as Asuka",
+        "@galen876 as Waylen",
+        "@letiana as Royce",
+        "@caelum_blue as Anri",
+        "@solaceinfire as Naomi"
+      ]
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "[On Puppet's Strings] In from the Cold",
+      "postedAt": 1767800743459,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1458486770491457669",
+      "players": [
+        "@starfir54 as Freyr",
+        "@samikazuki as Hamra",
+        "@squidlover23 as Franz",
+        "@enderten as Bernhard",
+        "@honeydewmelons as Azra",
+        "@pidgeon as Akali"
+      ]
+    },
+    {
+      "master": "@madrid222",
+      "title": "Desire's Envy:  The Greatest Showman",
+      "postedAt": 1767839591127,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1458649709420744837",
+      "players": [
+        "@asimplehatter as Frederick",
+        "@enderten as Siwu",
+        "@billyscrannerx as Trina",
+        "@zacsper as Percy",
+        "@spiralhorizon as Reaver"
+      ]
+    },
+    {
+      "master": "@sleepy_bernkastel",
+      "title": "Natural Disaster: Dusty",
+      "postedAt": 1767842920969,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1458663675790626994",
+      "players": [
+        "@seraphim as Void",
+        "@sunny.something as Blue Bolt",
+        "@saltmammoth as Desiree",
+        "@emgry as Valerie",
+        "@solaceinfire as Melinoe",
+        "@caelum_blue as Mako"
+      ]
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Friendship is Madness] : The Puppeteer Redux Pt. 1",
+      "postedAt": 1767857566083,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1458725101850857566",
+      "players": [
+        "@mooshen as Shī kuǐlěi & Stagehand",
+        "@spiralhorizon as RVN-A77 \"Reaver\"",
+        "@letiana as Riley Knight",
+        "@desyov as Anki",
+        "@justuspotatoes as Honeycomb Goldthread"
+      ]
+    },
+    {
+      "master": "@foxfacesuicide",
+      "title": "[Broken Vortex][Act One] Out of the Woods",
+      "postedAt": 1767862785565,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1458746993945088010",
+      "players": [
+        "@sunny.something as Blue Bolt",
+        "@iamthorium as Bjorn",
+        "@spiralhorizon as Reaver",
+        "@hangedmantarot as Lyrric Dust",
+        "@han69 as Garmir Eidolon",
+        "@saltmammoth as Amaranth"
       ]
     }
   ]
