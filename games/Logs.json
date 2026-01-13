@@ -1,5 +1,5 @@
 {
-  "timestamp": 1768208435634,
+  "timestamp": 1768294831324,
   "logs": [
     {
       "master": "@desyov",
@@ -22416,6 +22416,47 @@
         "@madrid222 as Marcus",
         "@justuspotatoes as Honeycomb",
         "@indiwyn as Aster"
+      ]
+    },
+    {
+      "master": "@incognegro",
+      "title": "[Reclaim the Wastes] Storm the Snake's Nest",
+      "postedAt": 1768249119700,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1460367396752588984",
+      "players": [
+        "@xavieremix as Ruby",
+        "@missingpath as Venus",
+        "@samikazuki as Moritz",
+        "@solotic. as Noel",
+        "@oleamollevampie as Sable",
+        "@seraphim as Esmon"
+      ]
+    },
+    {
+      "master": "@missingpath",
+      "title": "[Heaven's Memory] A Seer's Rescue",
+      "postedAt": 1768259643228,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1460411535628439552",
+      "players": [
+        "@rastamufasa as Basil",
+        "@emgry as Fuji",
+        "@lenpendragon as Sakura",
+        "@katen_m as Beryl",
+        "@the_1spark as Lumio"
+      ]
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "[Grestazs] A New Kind of Freedom",
+      "postedAt": 1768262926139,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1460425305154912460",
+      "players": [
+        "@hellion as Rajke",
+        "@starfir54 as Freyjr",
+        "@samikazuki as Hamra",
+        "@leplep as Reginn",
+        "@pidgeon as Akali",
+        "@oleamollevampie as Frigg"
       ]
     }
   ]
