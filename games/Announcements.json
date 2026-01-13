@@ -1,5 +1,5 @@
 {
-  "timestamp": 1768208435605,
+  "timestamp": 1768294831290,
   "games": [
     {
       "title": "First Introductions",
@@ -19533,6 +19533,17 @@
       "time": "<t:1768604400:F>",
       "public": true,
       "creator": "zz/Madrid"
+    },
+    {
+      "title": "GaleForce Live! Secura Open?",
+      "postedAt": 1768260115941,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1460413518330335274",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1768273200:F>",
+      "public": true,
+      "creator": "Billy Scranner"
     }
   ]
 }
