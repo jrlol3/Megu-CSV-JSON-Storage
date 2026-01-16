@@ -1,5 +1,5 @@
 {
-  "timestamp": 1768467632565,
+  "timestamp": 1768554035753,
   "logs": [
     {
       "master": "@desyov",
@@ -22551,6 +22551,52 @@
         "@Ladora | Jazz  | Jazz as Ladora",
         "@ZzMikael | AgentDJ as Arin",
         "@Raine | Filke as Raine Levia"
+      ]
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "[Lhodosian Farewell] The 34th VS Pikeway",
+      "postedAt": 1768477781010,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1461326471800029361",
+      "players": [
+        "@seraphim as Esmon",
+        "@incognegro as Kviss",
+        "@enderten as Kit",
+        "@jrlol3megu as Elara",
+        "@xavieremix as Ruby",
+        "@missingpath as Venus"
+      ]
+    },
+    {
+      "master": "@brooms",
+      "title": "[A Rocky Foundation] A Mole Lotta Trouble",
+      "postedAt": 1768518340608,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1461496591084163275",
+      "players": [
+        "@emgry as Fuji",
+        "@themattroid as Atticus",
+        "@phosphophyllite0 as Verge",
+        "@paradigm.42 as Enlai",
+        "@foxfacesuicide as Zaizen",
+        "@katen_m as Beryl & co"
+      ]
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "[Lhodosian Farewell] The 34th VS Hidela",
+      "postedAt": 1768547104870,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1461617237143064619",
+      "players": [
+        "**__Saviors of Hidela Redux__**",
+        "@seraphim as Esmon",
+        "**__The couple__**",
+        "@solaceinfire as Tzera",
+        "@sleepy_bernkastel as Claire",
+        "**__Goetia's Finest__**",
+        "@themattroid as Atticus",
+        "@angrykitsu as Chloe",
+        "**__Cassius__**",
+        "@.galebolg. as Cassius"
       ]
     }
   ]
