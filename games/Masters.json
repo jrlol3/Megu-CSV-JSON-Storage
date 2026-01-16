@@ -1,5 +1,5 @@
 {
-  "timestamp": 1768467632579,
+  "timestamp": 1768554035772,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -226,7 +226,7 @@
     "@rastamufasa": {
       "username": "@rastamufasa",
       "id": "283019070578753536",
-      "gameCount": 45,
+      "gameCount": 47,
       "tier": "GM: Reality Shaper - T3"
     },
     "@ijiyiji": {
@@ -333,14 +333,14 @@
     },
     "@vampiremommy": {
       "username": "@vampiremommy",
-      "id": "186812413574774784",
+      "id": null,
       "gameCount": 4,
-      "tier": "GM: Apprentice - T0"
+      "tier": null
     },
     "@brooms": {
       "username": "@brooms",
       "id": "140595221300772864",
-      "gameCount": 33,
+      "gameCount": 34,
       "tier": "GM: Storyteller - T1"
     },
     "@emgry": {
