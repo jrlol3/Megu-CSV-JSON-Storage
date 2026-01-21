@@ -1,5 +1,5 @@
 {
-  "timestamp": 1768973099721,
+  "timestamp": 1768986033505,
   "games": [
     {
       "title": "First Introductions",
@@ -19815,6 +19815,17 @@
       "time": "<t:1769014800:F>",
       "public": true,
       "creator": "zzNotFarewell"
+    },
+    {
+      "title": "[Heaven’s Memory] Aranova - Revelation 17, 15-18",
+      "postedAt": 1768979748380,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1463431875547893866",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1769198400:F>",
+      "public": true,
+      "creator": "= Tokusou ="
     }
   ]
 }
