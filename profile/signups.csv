@@ -67,11 +67,11 @@ Abigail Byrne,1381764148249235589,1390423850264695040,f1e557ac-7d4d-472e-8971-61
 Absalom Kasand,210557304125259776,1457075429239296000,99b8fa20-58d7-4888-b0ea-ac01c4d3eaa4,https://i.imgur.com/4NuGyX3.png,,[owo](https://docs.google.com/spreadsheets/d/17_Lw2hlyyFMQR3J_WYz1iShow2_dcDC75QRR37iLzaY/edit?gid=0#gid=0),Arcanist 2 / Loremaster 1 / Spiritist 2,,5,"Stratford, Silverdale, Eurys",,"A 5'3"" Leirsin with long brown hair, wearing a simple dress shirt, a vest, and slacks.",Omen of Disaster,,,"- Stratford-born Leirsin studying with the Disciples of Wisdom
 - Likes to learn a wide array of studies, dipping into the healing arts along with studying the Stone of Wisdom itself
 - Sent to the Runewall as an attempt by the Beacon of Wisdom to find more knowledge after Silverdale closed its border, during this trip he got lost and somehow wound up on this weird boat?",Perseverance
-Adelphel Durand,95869822574809088,1459163205040340992,53809819-988f-44a5-bd61-fa49ca2be6ff,https://i.postimg.cc/wTzxjkKf/cached-Image.png,,https://docs.google.com/spreadsheets/d/1ndHlIeAhAsfyIXXFBLH72X_Bio8GqPcgrVvIIg7p9yA/edit?usp=sharing,"10 Guardian ☆
+Adelphel Durand,95869822574809088,1465738687563304960,53809819-988f-44a5-bd61-fa49ca2be6ff,https://i.postimg.cc/wTzxjkKf/cached-Image.png,,https://docs.google.com/spreadsheets/d/1ndHlIeAhAsfyIXXFBLH72X_Bio8GqPcgrVvIIg7p9yA/edit?usp=sharing,"10 Guardian ☆
 10 Spiritist☆
+10 Arcanist ☆
 1 Lightblade
-1 Empath
-8 Arcanist",,30,"Kor'Tarion, Alder Wilds",,"A man standing at about 5'11, medium length dark brown hair and a darker olive skin tone with hazel hued eyes, they have an odd faint glow about them in both eyes and body. Holding a genuinely young and kind expression that easily shifts to earnest one in times of hardship and danger. Their hands are somewhat bruised and rough from work and battle. They are very well acquainted to physical labor of many kinds for long hours just to get by during travels and it shows.",The Long Dream,"Heaven's Defender | Runic Plate
+1 Empath",,32,"Kor'Tarion, Alder Wilds",,"A man standing at about 5'11, medium length dark brown hair and a darker yet vibrant and lively olive skin tone with hazel hued eyes, they have a sun like radiance about them, a corona that glows vibrantly around both body and within his eyes. Holding a genuinely young and ever-loving kind expression that easily shifts to earnest one in times of hardship and danger. Their hands are somewhat bruised and rough from work and battle. They are very well acquainted to physical labor of many kinds for long hours just to get by during travels and it shows.",The Long Dream,"Heaven's Defender | Runic Plate
 1. Resistance to Dark
 (Villain buff)
 2. Immune to Shaken
@@ -314,7 +314,7 @@ Alexandra is an intense woman, with little patience for impropriety, and less fo
 * Two months ago, a confrontation with Charlotte Morgan caused a stir as Charlotte was briefly put under custody. This led to decommission of the ship and her being placed under leave.
 
 * With her ship donated to the Adventurer's Guild, she followed the ship and agreed to join on the condition that she is allowed to keep control of her ship.",Justice
-Alexei Volkov,384371410576998401,1425748396748046336,86f09bdb-0a43-45c5-b73c-f99fd492c408,https://i.imgur.com/jbgMzZA.png,,https://docs.google.com/spreadsheets/d/1TMNsiKWkap54YxUthwrwSaSI0aSXRPKlDi0zF3Qxyl0/edit?usp=sharing,Necromancer 10 | Entropist 10 | Spiritist 10 | Arcanist 2 | Tinkerer 1,,33,Dreadlan,,"Alexei is of average to thin stature and around 5'7'' tall. He's pale, his eyes eerily empty of any colour besides white and grey, and his black hair mirrors this scheme with long streaks of white already showing on the otherwise seemingly young man's black hair. Most notably, Alexei has a large scar that runs down his left cheek, neck and further down. Its not certain how large the scar is, as it eventually disappears under his Gnosis Academy uniform.",,,,"- Alexei attends Gnosis Academy and is on the Worldhelm as part of the school's new 'Exchange' program
+Alexei Volkov,384371410576998401,1465753067810066688,86f09bdb-0a43-45c5-b73c-f99fd492c408,https://i.imgur.com/jbgMzZA.png,,https://docs.google.com/spreadsheets/d/1TMNsiKWkap54YxUthwrwSaSI0aSXRPKlDi0zF3Qxyl0/edit?usp=sharing,Necromancer 10 | Entropist 10 | Spiritist 10 | Elementalist 6 | Arcanist 2 | Tinkerer 1,,39,Dreadlan,,"Alexei is of average to thin stature and around 5'7'' tall. He's pale, his eyes eerily empty of any colour besides white and grey, and his black hair mirrors this scheme with long streaks of white already showing on the otherwise seemingly young man's black hair. Most notably, Alexei has a large scar that runs down his left cheek, neck and further down. Its not certain how large the scar is, as it eventually disappears under his Gnosis Academy uniform.",,,,"- Alexei attends Gnosis Academy and is on the Worldhelm as part of the school's new 'Exchange' program
 - He has enjoyed a rather privileged life under his parents, who are both rather powerful spellcasters based out of Dreadlan
 - Past encounters with members of Ursakk's Hoard have made him particularly opposed to the organization, though since entering the academy, he hasn't really had a chance to enact his negative feelings toward them",Ambition
 Alice Aschenwald,178906027914297344,1444463125549154560,05d50f67-b447-4251-ba54-e3e42eec151e,https://i.imgur.com/YmvmTQd.jpeg,,[Behold all that is mine.](https://docs.google.com/spreadsheets/d/1QLFWuMBphkKEy0egcAjk4d9gg_TMVrYW-fpaNqo6NM8/edit?gid=0#gid=0),"Malefactor 2
@@ -420,9 +420,12 @@ Sharpshooter - 2",,7,"Suntower, Lhodos",,"A 5'7 polite-looking woman, often dres
 Annette,237438769840652291,1459026210742079488,1c1603f0-22e0-4631-9bb1-11f83dd84540,https://i.imgur.com/1izeje2.jpeg,https://discord.com/channels/1169852846083153941/1170111183869706362/1445084487028445447,https://docs.google.com/spreadsheets/d/1-gm5hB4OQE27MFiONZDESLqJGPcGaFyfSpDEEgbY5a8/edit?gid=0#gid=0,"Symbolist 2
 Floralist 4
 Wayfarer 3",,9,"Korala, Lhodos",,"Annette is a 5'4"" girl with dirty blonde hair, and light brown eyes. She carries a brown bag full of paints and other art supplies with her at all times. When she speaks she has a noticable french accent. She's accompanied by a small water elemental named Flaque, who sometimes rides in a waterproof container in her bag.",,,,"Annette Desjardins was born and raised in Korala. She attended the Acadamy of Korala from a young age, possessing the rare gift of magic. She took mainly to the arts, and as the college became more focused on the war, she faced pressure to train as a battlemage. She hated the idea of contributing to the war, and chose instead to flee the college as the demands from above became more threatening. Along with her familiar, a water elemental named Flaque, she was travelling through the countryside when she was caught in a realmstorm and brought into the Heaven's Sea.",Joy
-Anri,886623433306288158,1445132262042632192,308d4ba2-7b38-4439-97ae-e580f4d3af8f,https://i.pinimg.com/1200x/18/cc/0b/18cc0b468ad3a5f8bb4be2cec247fb0c.jpg,,https://docs.google.com/spreadsheets/d/1drr5NGTMBsucFRcM2oCZlZSlNHgqVF-YUIn4ZboU4B4/edit?gid=0#gid=0,"Arcanist 3
-Tinkerer 9
-Weaponmaster 1",#FFFFFF,13,"Kald Forest, Aldistir",杏梨,"Standing at just under 5 feet tall (not counting the ears), Anri is a white-and-grey-furred rabbit Yokai with distant silver eyes, blue markings on his cheeks, and a deceptively muscular build. Quiet and introspective to a fault, they always seem preoccupied with some question or other, often giving the impression that he does not notice-- or care-- about what's going on around him.",,,Tubalcain,"- Born to a family of Blacksmiths and Tubalcain devotees in a small village in the Kald forest
+Anri,886623433306288158,1465680000286982400,308d4ba2-7b38-4439-97ae-e580f4d3af8f,https://i.pinimg.com/1200x/18/cc/0b/18cc0b468ad3a5f8bb4be2cec247fb0c.jpg,,https://docs.google.com/spreadsheets/d/1drr5NGTMBsucFRcM2oCZlZSlNHgqVF-YUIn4ZboU4B4/edit?gid=0#gid=0,"Tinkerer ★
+Symbolist 6
+Arcanist 3
+Guardian 1",#FFFFFF,20,"Kald Forest, Aldistir",杏梨,"Standing at just under 5 feet tall (not counting the ears), Anri is a white-and-grey-furred rabbit Yokai with distant silver eyes, blue markings on his cheeks, and a deceptively muscular build. Quiet and introspective to a fault, they always seem preoccupied with some question or other, often giving the impression that he does not notice-- or care-- about what's going on around him.",,"- Magitech Hammer (Quantum Armament, Heavy Specialist)
+- Moon Rabbit's Guard (Heaven's Defender)
+- Stalwart Lantern (Composure)",Tubalcain,"- Born to a family of Blacksmiths and Tubalcain devotees in a small village in the Kald forest
 - An ald raid saw him taken from his home and separated from his family
 - Was seen as a high-value captive due to his smithing skill; exchanged captors often due to trades, leadership changes, and short-lived escapes
 - Eventually, gained freedom as a consequence of what he would one day learn - were the actions of Goldhearted.
@@ -1096,11 +1099,11 @@ Bird Watching Goggles- Resistance to damage from airborne enemies",Caladrius,"* 
 * After assisting a friend in avoiding some loan sharks, he found himself upon the worldhelm. 
 
 * Currently seeing the fae mage, Céline!",Innovation
-Cyrus Sand,140595221300772864,1464071442433048576,72f8831f-b969-4175-918c-e69013cbdea6,https://i.imgur.com/a4eqGVS.png,https://discord.com/channels/1169852846083153941/1170111183869706362/1360357141902524487,https://docs.google.com/spreadsheets/d/1vGFM5xofOjgpRKXF4ADvlIPN_bxYTGkWGeEcogHCzLo/edit?usp=sharing,"Guardian *Mastered*
+Cyrus Sand,140595221300772864,1465692522939420672,72f8831f-b969-4175-918c-e69013cbdea6,https://i.imgur.com/a4eqGVS.png,https://discord.com/channels/1169852846083153941/1170111183869706362/1360357141902524487,https://docs.google.com/spreadsheets/d/1vGFM5xofOjgpRKXF4ADvlIPN_bxYTGkWGeEcogHCzLo/edit?usp=sharing,"Guardian *Mastered*
 Chimerist *Mastered*
 Pilot *Mastered*
 Fury 2
-Mutant 2
+Tinkerer 2
 Symbolist 1",,35,"The Last Hold, Nezmira",Cyrus K'zzek,"A 6' tall teal-scaled Nezzim rarely seen out of a scarred and scuffed suit of well-worn bronze scale armor. His bearing is just as rough and unpolished as his mail, and his movements, while lacking in grace, show unswaying confidence.",,"- Scutum of the Sands: Runic Shield w/ Dual Resistance (Fire + Ice)
 - Defender of the Desert: Runic Shield w/ Earth's Bounty
 - Scarlet Shield: Runic Shield w/ decrease Protect damage by Bond Strength (before Affinities)
@@ -1112,10 +1115,10 @@ Symbolist 1",,35,"The Last Hold, Nezmira",Cyrus K'zzek,"A 6' tall teal-scaled Ne
 - Eventually became a shield-for-hire and monster hunter operating out of The Last Hold. He uses what he terms the ""testudo style"" of hand-to-hand combat, though it's more shield-to-hand.
 - Enjoys meat and booze perhaps a little too much.
 - Since arriving to Terra, he has undergone significant change. His time fighting in Termina City and assisting AGES has started to bear unusual fruit...",Resilience
-Céline Brighttail,886623433306288158,1458857262448906496,7316430b-a1be-47ce-acf9-51df7b3f408d,https://cdn.discordapp.com/attachments/937504200215130212/1339554192456683601/E9CuLKWWUAAv8EO.jpg?ex=67af248f&is=67add30f&hm=5aa8a897fec7db2521730ad1b2edf42b3932d533b30e0637ffd00cd37b9acdef&,,https://docs.google.com/spreadsheets/d/1K_2soMoHbsoXG97c7iIe_F_c2FuOs7xsiPbaYkFRa8c/edit?usp=drivesdk,"Arcanist ★
+Céline Brighttail,886623433306288158,1465679183526100992,7316430b-a1be-47ce-acf9-51df7b3f408d,https://cdn.discordapp.com/attachments/937504200215130212/1339554192456683601/E9CuLKWWUAAv8EO.jpg?ex=67af248f&is=67add30f&hm=5aa8a897fec7db2521730ad1b2edf42b3932d533b30e0637ffd00cd37b9acdef&,,https://docs.google.com/spreadsheets/d/1K_2soMoHbsoXG97c7iIe_F_c2FuOs7xsiPbaYkFRa8c/edit?usp=drivesdk,"Arcanist ★
 Entropist ★
 Wayfarer ★
-Loremaster 8",#051650,38,"Hudal Academy, Kor'tarion",,"""Many have told me that, when it comes to magic, the sky is the limit. I disagree. The sky is merely my starting point.""
+Loremaster ★",#051650,40,"Hudal Academy, Kor'tarion",,"""Many have told me that, when it comes to magic, the sky is the limit. I disagree. The sky is merely my starting point.""
 
 Céline is a rat-like fae with soft white fur, large rounded ears, and sharp violet eyes. She is most often seen wearing a set of deep blue scholar's robes along with a black mask and a matching hat. Standing just under 4ft tall-- which she insists is quite tall for her kind-- she sports a delicate frame, though her ears give a significant height boost to her silhouette.",Outcast Fairy (Weakness: Can't Lie or break her word),"- Stygian Deck (Damage Change: Poison)
 - Lovesick Bracelet (Arcane Regen +2, can spend value to form Bonds)
@@ -3431,10 +3434,10 @@ Floralist - 1",,9,Nezmira,,"A younger-looking man with loose-fitting linen, Msra
 - While he was treated better than most slaves due to the Romani house, he still was a slave and knew little beyond service.
 - Eventually was urged by his owner Sloan to join her with the Goldhearted on to the ship, which occurred on a mission.",Freedom
 Murdoc Allweather,210992769890648064,1195057910015856640,bc5dda08-cca2-4619-9c72-82aba6fdca63,https://media.discordapp.net/attachments/890130934702153798/1193701857080639508/87a028f84751079abbf4e1d1569fce7c.jpg?ex=663b65bc&is=663a143c&hm=3bb17e3632b102c72eafced6f5fe00a01555efa909f41f33ead11107bb21b4c0&,,https://docs.google.com/spreadsheets/d/1pcR4gZIr3uZYics1NyYFTMWVC8WrEMzztRXyvou-Xak/edit?usp=drivesdk,"Mutant [3], Sharpshooter [1], Darkblade [1]",,5,"Little Ottington, Lhodos",,"A tall, muscular man standing at 6 feet tall. He has long, messy black hair and brown eyes that are almost always accompanied by dark circles underneath. If he does transform, he grows to be nearly 7 feet tall, and shaggy black fur covers his new wolflike appearance.",,,,,Belonging
-Mutt,886623433306288158,1438140728780914688,eb2ad667-ba4e-4150-af41-210331ddc9eb,https://i.imgur.com/nxeLP56.png,,https://docs.google.com/spreadsheets/d/1qWYWIJJzmfEhgN_2LpRO9uKBw3m9J5MVIKiusF_EK3I/edit?usp=drivesdk,"Sharpshooter ★
-Rogue 3
-Wayfarer 1
-Tinkerer 1",,15,"Bazaar, Aranova",Mathias Castilho Teixeira,"A lean canine beastkin with black fur, blue eyes, and a lonely, taciturn aura. He sports a practical Drifter outfit, invariably along with a colorful poncho and a wide-brimmed hat.","Heirloom
+Mutt,886623433306288158,,eb2ad667-ba4e-4150-af41-210331ddc9eb,https://i.imgur.com/nxeLP56.png,,https://docs.google.com/spreadsheets/d/1qWYWIJJzmfEhgN_2LpRO9uKBw3m9J5MVIKiusF_EK3I/edit?usp=drivesdk,"Sharpshooter ★
+Rogue 5
+Tinkerer 3
+Wayfarer 1",,19,"Bazaar, Aranova",Mathias Castilho Teixeira,"A lean canine beastkin with black fur, blue eyes, and a lonely, taciturn aura. He sports a practical Drifter outfit, invariably along with a colorful poncho and a wide-brimmed hat.","Heirloom
 > __The Sinner__
 > Flaw: ""There's a lot of people who would like to take that rifle off your hands. Vigilantes, treasure hunters... And the ones loyal to the man whose corpse you pried it off of.""","**The Sinner** • Heirloom Firearm • Finisher
 **Insulated Garb** • Armor • Insulation
@@ -4584,7 +4587,7 @@ Martial Artist - 1",,5,"Tian Yin, Wujing Guo - Xuanwu City",N/A,"A 5'11"" tall p
 - Eventually had to run away as the Burning Pyre Sect decided they wanted her active participation after long enough
 
 - Lost her mentor in the scuffle and escaped, her cultivation gaining a massive boost from the manual her mentor gifted her releasing its power",Loss
-Shēnruì Er Xián (申瑞儿咸 ),84441917282062336,1461910634924081408,36737dba-72a5-4139-81ac-bebf016e8740,https://i.imgur.com/f9szClB.png,https://discord.com/channels/1169852846083153941/1170111183869706362/1452917652480852102,[Dude...](https://docs.google.com/spreadsheets/d/13nuImZ_8RqT18nPjh41EL1O_YgzD8d8T99jj5gD_Lfk/edit?usp=sharing),"Weaponmaster [4]
+Shēnruì Er Xián (申瑞儿咸 ),84441917282062336,1465734774466543616,36737dba-72a5-4139-81ac-bebf016e8740,https://i.imgur.com/iEVkGqO.png,https://discord.com/channels/1169852846083153941/1170111183869706362/1452917652480852102,[Dude...](https://docs.google.com/spreadsheets/d/13nuImZ_8RqT18nPjh41EL1O_YgzD8d8T99jj5gD_Lfk/edit?usp=sharing),"Weaponmaster [4]
 Martial Artist [2]
 Rogue [2]",,8,"Tian Yin, Wujing Guo, Xuanwu City",,"A lean, wiry man of about 5'8"". His long, dark brown hair falls in uneven layers, often partially obscuring half-lidded eyes that carry an amused, watchful glint. He keeps a perpetual slouch and a lazy grin. His clothing is worn and loosely fitted, often hanging open to reveal a scarred, well-defined torso marked by old cuts and burns, while his forearms are wrapped in bandages stained by age and use.",Qi Specialist (Fire),,,"- Born a Fire Qi prodigy in Xuanwu City, was relentlessly trained from childhood, treated as a resource rather than a son, and denied the freedom his older brother enjoyed.
 - The pressure and loss of a normal life burned him out; he deliberately stopped cultivating and vanished without warning, abandoning sect expectations and family ambition.
@@ -5407,10 +5410,10 @@ Yorick Medraut,247940619022893065,1325192187880673280,1c68b255-7a1d-4749-a1c3-70
 - Demon's Lash
 - Fox Garb",,,Vanity
 Yorik,444194335492276225,1241572702385602560,ca6f3633-51af-42b3-b6ad-b7f3e0a792b9,https://media.discordapp.net/attachments/1170110980546637915/1241541009968463942/image.png?ex=664a92ab&is=6649412b&hm=2af0a5ab6f981762e1877afb94433f7aa81c229ca9a253f294455e60d77020b0&=&format=webp&quality=lossless,,https://docs.google.com/spreadsheets/d/1Bu_TWAhMy__ukkrAC4-V54Bno1mXyLWxro9b816Yx6w/edit#gid=0,"Mutant 2, Guardian 1, Weaponmaster 2",,5,"Twin Peaks, Aldistir",,"6'5 wall of muscle with gorgeous long blonde hair. He often wears furs and leathers of slain beasts, the most striking being one of a large bear-like beast. His skin is littered with tattoos",,,,,Harmony
-Yuel F. Welkheim,95869822574809088,1451717498893369344,05e3e2cc-f17b-45fc-9e1a-3ebf6bda3c8c,https://i.imgur.com/U8g3xfG.png,,"[I stride along the path of excellence, a trail of hardship towards where true victory lies.](https://docs.google.com/spreadsheets/d/1xD1gAQkKe97uTia_wrAWK07trjQiDks7b61zJy5AVnA/edit?usp=sharing)","[10] Elementalist ☆
+Yuel F. Welkheim,95869822574809088,1465738950688899072,05e3e2cc-f17b-45fc-9e1a-3ebf6bda3c8c,https://i.imgur.com/U8g3xfG.png,,"[I stride along the path of excellence, a trail of hardship towards where true victory lies.](https://docs.google.com/spreadsheets/d/1xD1gAQkKe97uTia_wrAWK07trjQiDks7b61zJy5AVnA/edit?usp=sharing)","[10] Elementalist ☆
 [2] Entropist
 [3] Arcanist
-[2] Chimerist",,17,"Eurys, Cronis, Mastrazs",The Golden Witch,"A young man of not a very tall stature nor a wide one yet walks like the biggest person in the room or at the very least, like the one who is enjoying themself the most. Beautiful golden long hair and eyes blue like the sky with fair skin of a somewhat slender sort of build.",Inner Darkness,,The Soul Stone (Kuzunoha),"- Grew up in Cronis rather peacefully as a farming lad along with his friend Nasaya, whom he would share wonderous visual magic.
+[4] Chimerist",,19,"Eurys, Cronis, Mastrazs",The Golden Witch,"A young man of not a very tall stature nor a wide one yet walks like the biggest person in the room or at the very least, like the one who is enjoying themself the most. Beautiful golden long hair and eyes blue like the sky with fair skin of a somewhat slender sort of build.",Inner Darkness,,The Soul Stone (Kuzunoha),"- Grew up in Cronis rather peacefully as a farming lad along with his friend Nasaya, whom he would share wonderous visual magic.
 - Parents believed he was going to become a successor as he had connected to the Soul Stone along with the great magical prowess within him.
 - Along with his childhood friend Nasaya, who actually became a successor, traveled to Erdelkeith to learn from Soul Witches of the Coven and its practices.
 - Showed to be highly adept with learning, handling and understanding magic, becoming treated high favored with Soul Mages.
