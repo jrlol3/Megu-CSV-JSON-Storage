@@ -1,5 +1,5 @@
 {
-  "timestamp": 1769504436239,
+  "timestamp": 1769590836857,
   "logs": [
     {
       "master": "@desyov",
@@ -7221,7 +7221,7 @@
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1324483952358195222",
       "players": [
         "@sussy_arata as Keiji",
-        "@maribnuy as Carol",
+        "@mariposastreet as Carol",
         "@mssugarpop as Primrose",
         "@galen876 as Colin",
         "@enderten as Kit"
@@ -8659,7 +8659,7 @@
       "players": [
         "@agentdj as Lyle",
         "@leplep as Elijah",
-        "@maribnuy as Carol",
+        "@mariposastreet as Carol",
         "@r10 as Merrick",
         "@.fama as Emi",
         "@robibear as Web"
@@ -17277,7 +17277,7 @@
       "postedAt": 1756064198176,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1409260131665051678",
       "players": [
-        "@captainnosnax as Zlata",
+        "@mistresscookie87 as Zlata",
         "@desyov as Callum",
         "@the_1spark as Leopold",
         "@caelum_blue as Curly",
@@ -23396,6 +23396,59 @@
         "@enderten as Kit",
         "@letiana as Erin",
         "@xavieremix as Vista"
+      ]
+    },
+    {
+      "master": "@xavieremix",
+      "title": "The Winds Blew Up, Her Bow Dipped Down",
+      "postedAt": 1769531902570,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1465747778075365407",
+      "players": [
+        "@mooshen as Shi Kuilei",
+        "@redhaart as Alyx",
+        "@zacsper as Percy",
+        "@desyov as Anki",
+        "@letiana as Riley",
+        "@solcarona as Califex"
+      ]
+    },
+    {
+      "master": "@starfir54",
+      "title": "To Be Hunted",
+      "postedAt": 1769550757866,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1465826862918799412",
+      "players": [
+        "@seraphim as Esmon",
+        "@foxfacesuicide as Helios",
+        "@missingpath as Rin"
+      ]
+    },
+    {
+      "master": "@seraphim",
+      "title": "[The Melody of Static] For the Machine is Immortal",
+      "postedAt": 1769573384839,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1465921767322423349",
+      "players": [
+        "@missingpath as Quincy",
+        "@saltmammoth as Desiree",
+        "@solaceinfire as Melinoe",
+        "@nikolaim. as Sama",
+        "@pidgeon as Julia",
+        "@emgry as Valerie"
+      ]
+    },
+    {
+      "master": "@oleamollevampie",
+      "title": "Olea",
+      "postedAt": 1769582428237,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1465959698082693237",
+      "players": [
+        "@brooms as Paishan",
+        "@phosphophyllite0 as Annette",
+        "@enderten as Siwu",
+        "@angrykitsu as Miku",
+        "@honeydewmelons as Shenrui",
+        "@starfir54 as Vigo"
       ]
     }
   ]
