@@ -1,5 +1,5 @@
 {
-  "timestamp": 1769677240235,
+  "timestamp": 1769763640025,
   "games": [
     {
       "title": "First Introductions",
@@ -20087,6 +20087,59 @@
       "time": "<t:1769653830:F>",
       "public": true,
       "creator": "= Shiva ="
+    },
+    {
+      "title": "Ripplith Trials: Cigarettes from the Milk Store",
+      "postedAt": 1769749245647,
+      "link": "https://discord.com/channels/1169852846083153941/1170183729856135250/1466659381012729897",
+      "pings": [],
+      "time": "<t:1769749270:F>",
+      "public": false,
+      "creator": "= Papa Shark ☆ ="
+    },
+    {
+      "title": "[Eyes in the Stars] Nostalgic Fools",
+      "postedAt": 1769750812053,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1466665950995550292",
+      "pings": [
+        "1170826784862908661"
+      ],
+      "time": "<t:1771113600:F>",
+      "public": true,
+      "creator": "zzJulia | Pidgeon"
+    },
+    {
+      "title": "[Trials of Magic] Friendship is dead",
+      "postedAt": 1769751013279,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1466666794998825135",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1769835600:F>",
+      "public": true,
+      "creator": "zzJulia | Pidgeon"
+    },
+    {
+      "title": "[Trials of Magic] Friendship is Eternal",
+      "postedAt": 1769751213675,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1466667635520569355",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1769922000:F>",
+      "public": true,
+      "creator": "zzJulia | Pidgeon"
+    },
+    {
+      "title": "[Trials of Magic] A new interest",
+      "postedAt": 1769751456731,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1466668654971191296",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1769990400:F>",
+      "public": true,
+      "creator": "zzJulia | Pidgeon"
     }
   ]
 }
