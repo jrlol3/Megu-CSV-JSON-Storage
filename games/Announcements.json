@@ -1,5 +1,5 @@
 {
-  "timestamp": 1769763640025,
+  "timestamp": 1769850036393,
   "games": [
     {
       "title": "First Introductions",
@@ -20140,6 +20140,28 @@
       "time": "<t:1769990400:F>",
       "public": true,
       "creator": "zzJulia | Pidgeon"
+    },
+    {
+      "title": "[Fragments of Ambition] Right and Wrong",
+      "postedAt": 1769814076071,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1466931299519435015",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1771027200:F>",
+      "public": true,
+      "creator": "zzJulia | Pidgeon"
+    },
+    {
+      "title": "Pandora's Box: The Fear of Nature",
+      "postedAt": 1769814536751,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1466933231751532594",
+      "pings": [
+        "1170826784862908661"
+      ],
+      "time": "<t:1769817212:F>",
+      "public": true,
+      "creator": "Void"
     }
   ]
 }
