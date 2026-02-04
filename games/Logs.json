@@ -1,5 +1,5 @@
 {
-  "timestamp": 1770109234296,
+  "timestamp": 1770195637501,
   "logs": [
     {
       "master": "@desyov",
@@ -23626,6 +23626,34 @@
         "@brooms as Cyrus",
         "@nikolaim. as Noir",
         "@.galebolg. as Cypher"
+      ]
+    },
+    {
+      "master": "@missingpath",
+      "title": "[Isolation of Silverdale] Lostbrough",
+      "postedAt": 1770183264711,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1468479788908810371",
+      "players": [
+        "@solaceinfire as Naomi",
+        "@madrid222 as Pierre",
+        "@emgry as Alois",
+        "@samikazuki as Hamra",
+        "@lenpendragon as Olivia",
+        "@nikolaim. as Noen"
+      ]
+    },
+    {
+      "master": "@foxfacesuicide",
+      "title": "[Broken Vortex][Act One] Tonight You Belong To Me",
+      "postedAt": 1770192495297,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1468518504792723509",
+      "players": [
+        "@nikolaim. as Aven Elmhorn",
+        "@zacsper as Percival Blackwell",
+        "@redhaart as Alyx Fauxmont",
+        "@han69 as Renard Sinclair",
+        "@dragoneldester as Aijing Minli",
+        "@paradigm.42 as Jaith Stolz"
       ]
     }
   ]
