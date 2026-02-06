@@ -1,5 +1,5 @@
 {
-  "timestamp": 1770282037851,
+  "timestamp": 1770368437077,
   "logs": [
     {
       "master": "@desyov",
@@ -23738,6 +23738,47 @@
         "@.galebolg. Anais",
         "@mooshen PAS-C41",
         "@aznrcmp Topal"
+      ]
+    },
+    {
+      "master": "@brooms",
+      "title": "[A Peaceless Ocean] A Bad Moon on the Rise",
+      "postedAt": 1770330593451,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1469097730432303145",
+      "players": [
+        "@han69 as Absalom",
+        "@sherifmisho as Sienna",
+        "@mooshen as Shi",
+        "@asimplehatter as Patience",
+        "@spiralhorizon as Israfel"
+      ]
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "[Heaven's Memory] The First Trial of Ishiba",
+      "postedAt": 1770334180120,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1469112774012436675",
+      "players": [
+        "@spiralhorizon as Reaver",
+        "@brooms as Peishan",
+        "@foxfacesuicide as A'shibah",
+        "@seraphim as Nasaya",
+        "@enderten as Bernhard",
+        "@xirozean as Ferryz"
+      ]
+    },
+    {
+      "master": "@letiana",
+      "title": "[Isolation of Silverdale] Stratford’s Stand",
+      "postedAt": 1770349157735,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1469175594682941450",
+      "players": [
+        "@2naf1sh as Galavan",
+        "@hellion as Rajke",
+        "@sussy_arata as Rhys",
+        "@schwertaria as Yuel",
+        "@agentdj as Oscar",
+        "@honeydewmelons as Azra"
       ]
     }
   ]
