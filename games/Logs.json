@@ -1,5 +1,5 @@
 {
-  "timestamp": 1770886835569,
+  "timestamp": 1770973238396,
   "logs": [
     {
       "master": "@desyov",
@@ -23834,6 +23834,30 @@
         "@Garmir as Garmir",
         "@Ferry | Xiro Zean as Ferry",
         "@Frederick Schmidt // Hatter as Frederick"
+      ]
+    },
+    {
+      "master": "@sunny.something",
+      "title": "The Cold-Blooded Terrors of Silverdale",
+      "postedAt": 1770915172742,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1471549633690997002",
+      "players": [
+        "@dragoneldester as Aijing Minli",
+        "@hangedmantarot as Lyrric Dust",
+        "@ironheidcross as Kenji Midoriyama",
+        "@sussy_arata as Aston"
+      ]
+    },
+    {
+      "master": "@seraphim",
+      "title": "[The Barren North] Humans will Always Hunger",
+      "postedAt": 1770957232783,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1471726046289068095",
+      "players": [
+        "@themattroid as Maxilos",
+        "@mutemissy as Mae",
+        "@samikazuki as Edward",
+        "@leplep as Orpheus"
       ]
     }
   ]
