@@ -1,5 +1,5 @@
 {
-  "timestamp": 1771059632637,
+  "timestamp": 1771146034918,
   "logs": [
     {
       "master": "@desyov",
@@ -23858,6 +23858,71 @@
         "@mutemissy as Mae",
         "@samikazuki as Edward",
         "@leplep as Orpheus"
+      ]
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "[Heaven's Memory] Morningstar's Challenge: Dawnstar",
+      "postedAt": 1771081720819,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1472248186956546200",
+      "players": [
+        "@mooshen as Elvis",
+        "@paradigm.42 as Enlai",
+        "@squidlover23 as Timothy",
+        "@enderten as Kit",
+        "@solaceinfire as Saki",
+        "@phosphophyllite0 as Verge"
+      ]
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "[Heaven's Memory] Morningstar's Challenge: Hyacynthus Town",
+      "postedAt": 1771082978118,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1472253460450775114",
+      "players": [
+        "@madrid222 as Orion",
+        "@.galebolg. as Cypher",
+        "@caelum_blue as Céline",
+        "@agentdj as Mikael",
+        "@sussy_arata as Lin Shen",
+        "@rastamufasa as Sloan"
+      ]
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "[Heaven's Memory] Morningstar's Challenge: Tiamat's Domain",
+      "postedAt": 1771084610232,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1472260306033049620",
+      "players": [
+        "@lenpendragon as Asuka",
+        "@emgry as Fuji",
+        "@angrykitsu as Shiori",
+        "@sleepy_bernkastel as Caspian",
+        "@oleamollevampie as Rue",
+        "@brooms as Cyrus"
+      ]
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "[Heaven's Memory] Morningstar's Challenge: Old Ward",
+      "postedAt": 1771086067269,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1472266417289302171",
+      "players": [
+        "@saltmammoth as Lynne",
+        "@desyov as Faust",
+        "@foxfacesuicide as Helios",
+        "@galen876 as Xing Wei",
+        "@agentdj as Mikael",
+        "@oleamollevampie as Rue"
+      ]
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "Moth to a Flame",
+      "postedAt": 1771086274764,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1472267287586410576",
+      "players": [
+        "@incognegro as Kviss"
       ]
     }
   ]
