@@ -1,5 +1,5 @@
 {
-  "timestamp": 1771146034878,
+  "timestamp": 1771232438504,
   "games": [
     {
       "title": "First Introductions",
@@ -20627,6 +20627,28 @@
         "1170826716571238410"
       ],
       "time": "<t:1771639200:F>",
+      "public": true,
+      "creator": "==A Land in Mystery=="
+    },
+    {
+      "title": "[Heaven's Memory]: Locusts of War VI: Khusara II",
+      "postedAt": 1771175693075,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1472642335165776036",
+      "pings": [
+        "1170826784862908661"
+      ],
+      "time": "<t:1771200000:F>",
+      "public": true,
+      "creator": "Valerie Knight | Emgry"
+    },
+    {
+      "title": "[The Five Temples] Schism",
+      "postedAt": 1771188771864,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1472697191582666958",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1771272000:F>",
       "public": true,
       "creator": "==A Land in Mystery=="
     }
