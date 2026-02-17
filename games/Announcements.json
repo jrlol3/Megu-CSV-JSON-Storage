@@ -1,5 +1,5 @@
 {
-  "timestamp": 1771262122462,
+  "timestamp": 1771318834355,
   "games": [
     {
       "title": "First Introductions",
@@ -20693,6 +20693,39 @@
       "time": "<t:1771272000:F>",
       "public": false,
       "creator": "Zzeti"
+    },
+    {
+      "title": "[Trials of Magic] Field Tests",
+      "postedAt": 1771302163889,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1473172792206950523",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1771371000:F>",
+      "public": true,
+      "creator": "zzPhoebe | Pidgeon"
+    },
+    {
+      "title": "[Heaven's Memory] Ladon Day: The Hero's Journey",
+      "postedAt": 1771302577896,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1473174528678039633",
+      "pings": [
+        "1170826784862908661"
+      ],
+      "time": "<t:1771358400:F>",
+      "public": true,
+      "creator": "Perseus | Radda"
+    },
+    {
+      "title": "[Trials of Magic] Knight of Grief",
+      "postedAt": 1771304795585,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1473183830340010102",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1771729200:F>",
+      "public": true,
+      "creator": "zzPhoebe | Pidgeon"
     }
   ]
 }
