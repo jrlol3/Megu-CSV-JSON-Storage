@@ -1,5 +1,5 @@
 {
-  "timestamp": 1771651777222,
+  "timestamp": 1771652110129,
   "logs": [
     {
       "master": "@desyov",
@@ -29,7 +29,7 @@
       "masterId": "247940619022893065"
     },
     {
-      "master": null,
+      "master": "@tobro",
       "title": "Queen without a Kingdom",
       "postedAt": 1699591304297,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1172395646976794684",
@@ -84,7 +84,7 @@
       "masterId": "247940619022893065"
     },
     {
-      "master": null,
+      "master": "@tobro",
       "title": "Malfunctioning Magitech Machinery",
       "postedAt": 1700093491860,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1174501974281027675",
@@ -241,7 +241,7 @@
       "masterId": "247940619022893065"
     },
     {
-      "master": null,
+      "master": "@moofah",
       "title": "The Mystery of the Missing Merchant Meoko",
       "postedAt": 1701172450434,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1179027454543810581",
@@ -324,7 +324,7 @@
       "masterId": "247940619022893065"
     },
     {
-      "master": null,
+      "master": "@johnm0",
       "title": "An Oasis No Longer Safe",
       "postedAt": 1702276650097,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1183658803607113778",
@@ -407,7 +407,7 @@
       "masterId": "222732936909160449"
     },
     {
-      "master": null,
+      "master": "@johnm0",
       "title": "A Shadow Under the Sky",
       "postedAt": 1702599432561,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1185012651386994719",
@@ -462,7 +462,7 @@
       "masterId": "319372431221587968"
     },
     {
-      "master": null,
+      "master": "@johnm0",
       "title": "Drowning In Sand",
       "postedAt": 1703209360834,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1187570875982172161",
@@ -477,7 +477,7 @@
       "masterId": "312749945780174849"
     },
     {
-      "master": null,
+      "master": "@johnm0",
       "title": "A Screaming Night- The Self Proclaimed King",
       "postedAt": 1703583669785,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1189140841512583198",
@@ -490,7 +490,7 @@
       "masterId": "312749945780174849"
     },
     {
-      "master": null,
+      "master": "@johnm0",
       "title": "Burden of a Sole Survivor",
       "postedAt": 1703907732245,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1190500057984811028",
@@ -890,7 +890,7 @@
       "masterId": "210992769890648064"
     },
     {
-      "master": null,
+      "master": "@cursed6069",
       "title": "Fragments of Night",
       "postedAt": 1708368037951,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1209207936048439296",
@@ -1379,7 +1379,7 @@
       "masterId": "151914442035036160"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Bandits of the Aldar Wilds",
       "postedAt": 1710841360237,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1219581801605890100",
@@ -1517,7 +1517,7 @@
       "masterId": "181294303622987776"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Profane Ritual at Albury Peak",
       "postedAt": 1711344500600,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1221692125243248766",
@@ -1617,7 +1617,7 @@
       "masterId": "118899054179516417"
     },
     {
-      "master": null,
+      "master": "@cursed6069",
       "title": "Clarion Call, Part 1",
       "postedAt": 1711732687851,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1223320300582731856",
@@ -1642,7 +1642,7 @@
       "masterId": "594008151779573762"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Sins of the Father",
       "postedAt": 1711776870139,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1223505614530150460",
@@ -1657,7 +1657,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@snuggle_bun",
       "title": "Silver Spire Ascent - Part 1",
       "postedAt": 1711814288558,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1223662558754639962",
@@ -1686,7 +1686,7 @@
       "masterId": "181294303622987776"
     },
     {
-      "master": null,
+      "master": "@snuggle_bun",
       "title": "Silver Spire Ascent - Part 2",
       "postedAt": 1712002837937,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1224453392168915064",
@@ -1763,7 +1763,7 @@
       "masterId": "247940619022893065"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Shattered Shields of Eld",
       "postedAt": 1712208235709,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1225314892865732731",
@@ -1778,7 +1778,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@snuggle_bun",
       "title": "Silver Spire Ascent - Part 2 Continued",
       "postedAt": 1712264925476,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1225552666982354945",
@@ -1804,7 +1804,7 @@
       "masterId": "118899054179516417"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Burning Vengeance",
       "postedAt": 1712296583178,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1225685449008222229",
@@ -1834,7 +1834,7 @@
       "masterId": "409390729627041792"
     },
     {
-      "master": null,
+      "master": "@snuggle_bun",
       "title": "Silver Spire Ascent - Part 3",
       "postedAt": 1712420338300,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1226204515611709460",
@@ -1863,7 +1863,7 @@
       "masterId": "464911746088304650"
     },
     {
-      "master": null,
+      "master": "@xelenus",
       "title": "Reminiscence",
       "postedAt": 1712595121055,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1226937607620006061",
@@ -1877,7 +1877,7 @@
       "masterId": "310000719233155072"
     },
     {
-      "master": null,
+      "master": "@snuggle_bun",
       "title": "False God",
       "postedAt": 1712635835966,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1227108378334199889",
@@ -1919,7 +1919,7 @@
       "masterId": "173547590694993920"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Return to Tian Yin: Chains of Tangbawan",
       "postedAt": 1712986627977,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1228579706668847134",
@@ -1990,7 +1990,7 @@
       "masterId": "365605862615810049"
     },
     {
-      "master": null,
+      "master": "@snuggle_bun",
       "title": "The Sword of Arcturus",
       "postedAt": 1713252003472,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1229692772169023519",
@@ -2005,7 +2005,7 @@
       "masterId": "113527988775104512"
     },
     {
-      "master": null,
+      "master": "@snuggle_bun",
       "title": "Attack of the Mermen!?!",
       "postedAt": 1713388751075,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1230266333187280927",
@@ -2048,7 +2048,7 @@
       "masterId": "319372431221587968"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Infernal Eclipse",
       "postedAt": 1713603598670,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1231167469314506752",
@@ -2121,7 +2121,7 @@
       "masterId": "227988328119533568"
     },
     {
-      "master": null,
+      "master": "@cursed6069",
       "title": "A Lull In the Tide",
       "postedAt": 1714066421209,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1233108687741124638",
@@ -2135,7 +2135,7 @@
       "masterId": "321875283147751424"
     },
     {
-      "master": null,
+      "master": "@cursed6069",
       "title": "A Lull In the Tide",
       "postedAt": 1714066832714,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1233110413718061146",
@@ -2162,7 +2162,7 @@
       "masterId": "118899054179516417"
     },
     {
-      "master": null,
+      "master": "@snuggle_bun",
       "title": "Assassinating the Ashina",
       "postedAt": 1714121283244,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1233338795793977385",
@@ -2189,7 +2189,7 @@
       "masterId": "227988328119533568"
     },
     {
-      "master": null,
+      "master": "@snuggle_bun",
       "title": "Save the Princess! [Attack of Mermen Pt.2]",
       "postedAt": 1714193632658,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1233642251230642190",
@@ -2217,7 +2217,7 @@
       "masterId": "173547590694993920"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Hunt Tiem",
       "postedAt": 1714288330057,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1234039440909795393",
@@ -2541,7 +2541,7 @@
       "masterId": "319372431221587968"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Tragedy of Burning Soul",
       "postedAt": 1715394883899,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1238680664115511326",
@@ -2597,7 +2597,7 @@
       "masterId": "365605862615810049"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Manfiestation of Steel and Soul",
       "postedAt": 1715564512019,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1239392136018006056",
@@ -2648,7 +2648,7 @@
       "masterId": "555561965951647754"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "The Temple of Doom",
       "postedAt": 1715920420385,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1240884923900887175",
@@ -2663,7 +2663,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Hunt for the Sand Stalker",
       "postedAt": 1715920914625,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1240886996893958167",
@@ -2678,7 +2678,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Saving Private Owen",
       "postedAt": 1715921278497,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1240888523083616357",
@@ -2788,7 +2788,7 @@
       "masterId": "180873257480617984"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Tangbawan: Those without Rain",
       "postedAt": 1716656877171,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1243973847544234068",
@@ -2891,7 +2891,7 @@
       "masterId": "457645105122115615"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "The Vault of Akhenapep",
       "postedAt": 1716957843568,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1245236192107302925",
@@ -2906,7 +2906,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Darkest before the Dawn",
       "postedAt": 1716959607583,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1245243590922469410",
@@ -2949,7 +2949,7 @@
       "masterId": "227988328119533568"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "The City of Scales",
       "postedAt": 1717224541075,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1246354802527572101",
@@ -2964,7 +2964,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Into the Blood Hive",
       "postedAt": 1717225606252,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1246359270203850816",
@@ -2979,7 +2979,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Cutting the Hand that Feeds",
       "postedAt": 1717228304275,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1246370586532249642",
@@ -3097,7 +3097,7 @@
       "masterId": "365605862615810049"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Nezmiran Resistance: Wings of Liberty",
       "postedAt": 1718161953410,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1250286594833780744",
@@ -3112,7 +3112,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Breaking Chains: The Mage Hunters",
       "postedAt": 1718162859775,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1250290396404387862",
@@ -3127,7 +3127,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Tangbawan: Getting Ahead",
       "postedAt": 1718163292652,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1250292212021989379",
@@ -3288,7 +3288,7 @@
       "masterId": "118899054179516417"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "The Golden Pasta: Crumbles of The Past",
       "postedAt": 1719269727179,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1254932934784450665",
@@ -3371,7 +3371,7 @@
       "masterId": "457645105122115615"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "The Red Woods",
       "postedAt": 1720044167390,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1258181172459208716",
@@ -3722,7 +3722,7 @@
       "masterId": "308792711274692610"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "The Vaulted Butcher",
       "postedAt": 1722033096213,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1266523344577101867",
@@ -3891,7 +3891,7 @@
       "masterId": "118899054179516417"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "The Vaulted Beast",
       "postedAt": 1723760896168,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1273770262839427214",
@@ -3906,7 +3906,7 @@
       "masterId": "178906027914297344"
     },
     {
-      "master": null,
+      "master": "@istealyourzs",
       "title": "Shadows Beneath the Dunes",
       "postedAt": 1723901576128,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1274360317358641214",
@@ -3931,7 +3931,7 @@
       "masterId": "365605862615810049"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "Head uplifted, and with Ravenous hunger",
       "postedAt": 1724011824846,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1274822733997408389",
@@ -3974,7 +3974,7 @@
       "masterId": "181294303622987776"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "Enduring the Storm",
       "postedAt": 1724191509745,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1275576387087896576",
@@ -4013,7 +4013,7 @@
       "masterId": "227988328119533568"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "The Calm, oddly Silent",
       "postedAt": 1724540008146,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1277038095325200447",
@@ -4071,7 +4071,7 @@
       "masterId": "409390729627041792"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "Wings of Arrogance",
       "postedAt": 1724950214957,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1278758627393536011",
@@ -4086,7 +4086,7 @@
       "masterId": "142973642093887488"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Amihan: The Caretaker at the End of Time",
       "postedAt": 1724992727752,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1278936938979659789",
@@ -4114,7 +4114,7 @@
       "masterId": "118899054179516417"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Amihan: The Caretaker at the End of Time: Gaiden",
       "postedAt": 1725149656976,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1279595147851468823",
@@ -4129,7 +4129,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Amihan: The Caretaker at the End of Time: Gaiden: Redux",
       "postedAt": 1725152189285,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1279605769125499013",
@@ -4159,7 +4159,7 @@
       "masterId": "365605862615810049"
     },
     {
-      "master": null,
+      "master": "@snuggle_bun",
       "title": "Sunken City",
       "postedAt": 1725316382346,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1280294444738019459",
@@ -4172,7 +4172,7 @@
       "masterId": "113527988775104512"
     },
     {
-      "master": null,
+      "master": "@snuggle_bun",
       "title": "Sunken City",
       "postedAt": 1725318879493,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1280304918531539076",
@@ -4212,7 +4212,7 @@
       "masterId": "457645105122115615"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "A Tale of Metal and Venom",
       "postedAt": 1725751259399,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1282118451300798588",
@@ -4241,7 +4241,7 @@
       "masterId": "227988328119533568"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "An End to Respite",
       "postedAt": 1725784140682,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1282256365397741598",
@@ -4256,7 +4256,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@snuggle_bun",
       "title": "Sucken City Continued",
       "postedAt": 1725833181965,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1282462059447189524",
@@ -4296,7 +4296,7 @@
       "masterId": "365605862615810049"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "A Tale of Seven Swords: Fire and Wind",
       "postedAt": 1726128174076,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1283699346038198272",
@@ -4311,7 +4311,7 @@
       "masterId": "142973642093887488"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "Into The Vault: Part 1",
       "postedAt": 1726346381740,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1284614575316140054",
@@ -4380,7 +4380,7 @@
       "masterId": "457645105122115615"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "The Heart of Muraya",
       "postedAt": 1726633253799,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1285817803940827257",
@@ -4393,7 +4393,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "The Caretaker: Finale",
       "postedAt": 1726634240713,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1285821943358033921",
@@ -4418,7 +4418,7 @@
       "masterId": "118899054179516417"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "The Storm, Gathering new blood",
       "postedAt": 1726733522565,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1286238361626869783",
@@ -4433,7 +4433,7 @@
       "masterId": "142973642093887488"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "All Paths Lead to Muraya",
       "postedAt": 1726841053082,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1286689377304580098",
@@ -4569,7 +4569,7 @@
       "masterId": "365605862615810049"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "Project Bloodmoon: Thief in Midholde",
       "postedAt": 1726938166568,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1287096700787494953",
@@ -4622,7 +4622,7 @@
       "masterId": "319372431221587968"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Project Bloodmoon: Hudal Academy",
       "postedAt": 1727026977610,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1287469201296064664",
@@ -4681,7 +4681,7 @@
       "masterId": "181294303622987776"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "A Storm, Looming over the Spire",
       "postedAt": 1727156517357,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1288012530374934549",
@@ -4744,7 +4744,7 @@
       "masterId": "457645105122115615"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "The Golden Pasta: Austral Heist",
       "postedAt": 1727366954841,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1288895169156092057",
@@ -4759,7 +4759,7 @@
       "masterId": "178906027914297344"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Storm of Blood: Skuala",
       "postedAt": 1727432319472,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1289169328289222708",
@@ -4774,7 +4774,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "On Wings of Wisdom",
       "postedAt": 1727476387619,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1289354163494584370",
@@ -4788,7 +4788,7 @@
       "masterId": "142973642093887488"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Storm of Blood: The Last Hold",
       "postedAt": 1727499216299,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1289449913918427229",
@@ -4804,7 +4804,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "A Tale of Seven Swords: Innocence",
       "postedAt": 1727558220542,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1289697395650592768",
@@ -4819,7 +4819,7 @@
       "masterId": "142973642093887488"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "Into The Vault: Part 2",
       "postedAt": 1727634184574,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1290016011893866586",
@@ -4833,7 +4833,7 @@
       "masterId": "178906027914297344"
     },
     {
-      "master": null,
+      "master": "@snuggle_bun",
       "title": "Sunken City - The Evermist",
       "postedAt": 1727641936805,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1290048527107489927",
@@ -4901,7 +4901,7 @@
       "masterId": "365605862615810049"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Beneath the Sands: The Crimson Peaks",
       "postedAt": 1727950443382,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1291342497477296200",
@@ -4915,7 +4915,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Storm of Blood: Windhaven Pt.1",
       "postedAt": 1727952145977,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1291349638678581363",
@@ -4929,7 +4929,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "Thunder Bringer",
       "postedAt": 1728069464622,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1291841708740448278",
@@ -4958,7 +4958,7 @@
       "masterId": "409390729627041792"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "The City of Scales: AAAAAAAAAAAAAAAAA",
       "postedAt": 1728177719063,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1292295760775483434",
@@ -4978,7 +4978,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Seeds of Sampaguita",
       "postedAt": 1728179214370,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1292302032547479655",
@@ -5007,7 +5007,7 @@
       "masterId": "457645105122115615"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "Daemonic Whispers: Train Heist",
       "postedAt": 1728419535496,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1293310012407676968",
@@ -5033,7 +5033,7 @@
       "masterId": "457645105122115615"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "A Storm, of Weighed Scales",
       "postedAt": 1728452336281,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1293447588871405648",
@@ -5048,7 +5048,7 @@
       "masterId": "142973642093887488"
     },
     {
-      "master": null,
+      "master": "@snuggle_bun",
       "title": "Beta Testers",
       "postedAt": 1728456874480,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1293466623457497089",
@@ -5060,7 +5060,7 @@
       "masterId": "113527988775104512"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Beneath the Sands: Makkah Al'Qura",
       "postedAt": 1728457738891,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1293470249060007979",
@@ -5117,7 +5117,7 @@
       "masterId": "365605862615810049"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Storm of Blood: Windhaven Finale",
       "postedAt": 1728707962971,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1294519764919652352",
@@ -5132,7 +5132,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "Not here, not for us",
       "postedAt": 1728765100390,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1294759416624713808",
@@ -5147,7 +5147,7 @@
       "masterId": "142973642093887488"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "Warrior of the Mind",
       "postedAt": 1728765349284,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1294760460561678347",
@@ -5228,7 +5228,7 @@
       "masterId": "464911746088304650"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Tangbawan: The Blackhearted's Apprentice",
       "postedAt": 1729160895858,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1296419503139196950",
@@ -5243,7 +5243,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Amihan: Buds of Sampaguita",
       "postedAt": 1729161312377,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1296421250146500629",
@@ -5257,7 +5257,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Storm of Blood: The Suntouched Isles",
       "postedAt": 1729162049124,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1296424340287520829",
@@ -5273,7 +5273,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Samsara: Legacy of Layl",
       "postedAt": 1729163120849,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1296428835427975208",
@@ -5315,7 +5315,7 @@
       "masterId": "365605862615810049"
     },
     {
-      "master": null,
+      "master": "@snuggle_bun",
       "title": "Assassinate the Ashina - Return to Tian Yin",
       "postedAt": 1729288838952,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1296956135370133535",
@@ -5339,7 +5339,7 @@
       "masterId": "118899054179516417"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "The Inner Digital Sea",
       "postedAt": 1729354345859,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1297230891252187166",
@@ -5365,7 +5365,7 @@
       "masterId": "457645105122115615"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "Temporary Catastrophe License",
       "postedAt": 1729449648764,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1297630620608102451",
@@ -5430,7 +5430,7 @@
       "masterId": "299015281853071360"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "War of the Three Swords",
       "postedAt": 1729756042868,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1298915730623823883",
@@ -5473,7 +5473,7 @@
       "masterId": "118899054179516417"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "Pale Blue Dot",
       "postedAt": 1729975028549,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1299834223141716141",
@@ -5488,7 +5488,7 @@
       "masterId": "178906027914297344"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "Ancient Threat, Common Enemy",
       "postedAt": 1730051028623,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1300152990556225630",
@@ -5527,7 +5527,7 @@
       "masterId": "457645105122115615"
     },
     {
-      "master": null,
+      "master": "@cursed6069",
       "title": "Curiosities of Kor'tarion: Apples of Wrath",
       "postedAt": 1730269667232,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1301070027348250624",
@@ -5541,7 +5541,7 @@
       "masterId": "321875283147751424"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Take Your Heart: Noblesse Oblige",
       "postedAt": 1730394685689,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1301594392762519642",
@@ -5556,7 +5556,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Buds of Sampaguita 2: Corpse of the Mother Goddess",
       "postedAt": 1730395198316,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1301596542876123187",
@@ -5570,7 +5570,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "MOSQUITO HURRICANE",
       "postedAt": 1730395657492,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1301598468799991911",
@@ -5598,7 +5598,7 @@
       "masterId": "594008151779573762"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "The Horse and the Infantry",
       "postedAt": 1730563493604,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1302302424475897958",
@@ -5613,7 +5613,7 @@
       "masterId": "142973642093887488"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "Gimme the Danger",
       "postedAt": 1730563755168,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1302303521554567278",
@@ -5626,7 +5626,7 @@
       "masterId": "142973642093887488"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Take Your Heart: Mercy Upon Your Soul",
       "postedAt": 1730648262968,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1302657972958134293",
@@ -5760,7 +5760,7 @@
       "masterId": "181294303622987776"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Tangbawan: The Evil Within",
       "postedAt": 1731104881844,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1304573171336347798",
@@ -5774,7 +5774,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "AKYT: ICON of Past and Future",
       "postedAt": 1731105242724,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1304574684976648287",
@@ -5789,7 +5789,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@snuggle_bun",
       "title": "Assassinate the Ashina?",
       "postedAt": 1731105887377,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1304577388847304836",
@@ -5841,7 +5841,7 @@
       "masterId": "365605862615810049"
     },
     {
-      "master": null,
+      "master": "@cursed6069",
       "title": "Curiosities of Kor'tarion: Ends of the Earth",
       "postedAt": 1731337100022,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1305547164969205760",
@@ -5856,7 +5856,7 @@
       "masterId": "321875283147751424"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "[Utopian Resurgence] - God Games",
       "postedAt": 1731371820933,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1305692795025227908",
@@ -5942,7 +5942,7 @@
       "masterId": "181294303622987776"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "[Utopian Resurgence] - Masquerade / Why so Blue?",
       "postedAt": 1731545162402,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1306419841841889414",
@@ -6041,7 +6041,7 @@
       "masterId": "200273794969894912"
     },
     {
-      "master": null,
+      "master": "@snuggle_bun",
       "title": "Emperorestablisher",
       "postedAt": 1731928233595,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1308026558879105057",
@@ -6089,7 +6089,7 @@
       "masterId": "365605862615810049"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "[Utopia Resurgence] Whispers in da Club",
       "postedAt": 1731967354444,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1308190643612549221",
@@ -6137,7 +6137,7 @@
       "masterId": "181544205796114433"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "The Golden Pasta: Train High Yeast",
       "postedAt": 1732122277593,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1308840438395834412",
@@ -6152,7 +6152,7 @@
       "masterId": "178906027914297344"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "[Utopia Resurgence] [VOID SEC] Follow Up Attempt",
       "postedAt": 1732134107209,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1308890055401799822",
@@ -6181,7 +6181,7 @@
       "masterId": "145516833817100288"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Corrupted Light: Dark Salvation",
       "postedAt": 1732209855100,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1309207765083754636",
@@ -6196,7 +6196,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Warpath of Zalfira: Fall of the Black Obelisk",
       "postedAt": 1732211390981,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1309214207035707463",
@@ -6210,7 +6210,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Warpath of Zalfira: The Skarta Gambit",
       "postedAt": 1732211997243,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1309216749882970145",
@@ -6225,7 +6225,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@snuggle_bun",
       "title": "Nara Come Home",
       "postedAt": 1732238892837,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1309329558180204604",
@@ -6266,7 +6266,7 @@
       "masterId": "173547590694993920"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "Claire Come Home",
       "postedAt": 1732391161610,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1309968219704004792",
@@ -6280,7 +6280,7 @@
       "masterId": "178906027914297344"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "[Utopia Resurgence] [VOID SEC] Six Thousand Feet Under",
       "postedAt": 1732392918162,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1309975587217215613",
@@ -6497,7 +6497,7 @@
       "masterId": "365605862615810049"
     },
     {
-      "master": null,
+      "master": "@snuggle_bun",
       "title": "[Utopia Resurgence] [VOID SEC] B Corp: A Moving Company",
       "postedAt": 1732787596156,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1311630986706161685",
@@ -6511,7 +6511,7 @@
       "masterId": "113527988775104512"
     },
     {
-      "master": null,
+      "master": "@ijiyiji",
       "title": "Silver Rush Gunners: Shootout at Phobia",
       "postedAt": 1732820543669,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1311769178591723661",
@@ -6562,7 +6562,7 @@
       "masterId": "365605862615810049"
     },
     {
-      "master": null,
+      "master": "@snuggle_bun",
       "title": "Dangers of Tei Sei: Red Oni [3]",
       "postedAt": 1732913027354,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1312157083281522789",
@@ -6577,7 +6577,7 @@
       "masterId": "113527988775104512"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Black Sun: Withering Desert Rose",
       "postedAt": 1732928790905,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1312223200406671392",
@@ -6592,7 +6592,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "The Dating Scene of Sampaguita",
       "postedAt": 1732932805425,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1312240038523699303",
@@ -6620,7 +6620,7 @@
       "masterId": "181294303622987776"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "HaloHalo: Cold Storage",
       "postedAt": 1732944985664,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1312291126148857926",
@@ -6682,7 +6682,7 @@
       "masterId": "173547590694993920"
     },
     {
-      "master": null,
+      "master": "@snuggle_bun",
       "title": "[Dungeon] Mist Filled Caverns",
       "postedAt": 1733038522638,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1312683448653320304",
@@ -6735,7 +6735,7 @@
       "masterId": "365605862615810049"
     },
     {
-      "master": null,
+      "master": "@snuggle_bun",
       "title": "Gloom Tower [1]",
       "postedAt": 1733303430969,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1313794554725666816",
@@ -6749,7 +6749,7 @@
       "masterId": "113527988775104512"
     },
     {
-      "master": null,
+      "master": "@snuggle_bun",
       "title": "Gloom Tower [2]",
       "postedAt": 1733378363091,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1314108842824433685",
@@ -6762,7 +6762,7 @@
       "masterId": "113527988775104512"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "[Utopia Resurgence] Voices From the Void",
       "postedAt": 1733428424202,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1314318814342807552",
@@ -6776,7 +6776,7 @@
       "masterId": "178906027914297344"
     },
     {
-      "master": null,
+      "master": "@ijiyiji",
       "title": "Silver Rush Gunners: Highway Robbery",
       "postedAt": 1733448286503,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1314402122871345152",
@@ -6791,7 +6791,7 @@
       "masterId": "980973537739280384"
     },
     {
-      "master": null,
+      "master": "@snuggle_bun",
       "title": "Gloom Tower [3]",
       "postedAt": 1733464737742,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1314471124368883785",
@@ -6838,7 +6838,7 @@
       "masterId": "365605862615810049"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "RETCON - [Utopia Resurgence] [VOID SEC] Involuntary Asset Re-acquisition [19/11/2024]",
       "postedAt": 1733594224991,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1315014233255051325",
@@ -6852,7 +6852,7 @@
       "masterId": "178906027914297344"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "[Utopia Resurgence] Faster Than Light",
       "postedAt": 1733594240121,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1315014296714874990",
@@ -6917,7 +6917,7 @@
       "masterId": "457645105122115615"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "Vaulted Legacy: The Boy With The Red Sign",
       "postedAt": 1733783549416,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1315808317448388699",
@@ -6975,7 +6975,7 @@
       "masterId": "308792711274692610"
     },
     {
-      "master": null,
+      "master": "@ijiyiji",
       "title": "Terra Bike Repair",
       "postedAt": 1734064122620,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1316985126760091791",
@@ -6990,7 +6990,7 @@
       "masterId": "980973537739280384"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Tenzin: The Clock Tolls for Thee",
       "postedAt": 1734127033797,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1317248995361423493",
@@ -7002,7 +7002,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Terra: Night on the Town",
       "postedAt": 1734128207365,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1317253917662380072",
@@ -7013,7 +7013,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Flynn: No Way Back",
       "postedAt": 1734129234578,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1317258226106105898",
@@ -7028,7 +7028,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Amihan: The Blightmonk Sect",
       "postedAt": 1734130339120,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1317262858891034657",
@@ -7043,7 +7043,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Dao-nbad: Putting Down the Pestilence",
       "postedAt": 1734130884968,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1317265148343353354",
@@ -7355,7 +7355,7 @@
       "masterId": "181294303622987776"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "Vaulted Legacy: The Key",
       "postedAt": 1734728279888,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1319770804245757993",
@@ -7560,7 +7560,7 @@
       "masterId": "178284834978791425"
     },
     {
-      "master": null,
+      "master": "@phosphophyllite0",
       "title": "Phosphophyllite",
       "postedAt": 1735243143044,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1321930296840552489",
@@ -7633,7 +7633,7 @@
       "masterId": "66337541518790656"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "Vaulted Legacy: Perfect Vessel",
       "postedAt": 1735434216462,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1322731716842094652",
@@ -7753,7 +7753,7 @@
       "masterId": "457645105122115615"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "[Utopia Resurgence] Whispers in the Desert",
       "postedAt": 1735851062049,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1324480093954773134",
@@ -7809,7 +7809,7 @@
       "masterId": "247940619022893065"
     },
     {
-      "master": null,
+      "master": "@phosphophyllite0",
       "title": "In Search of a Better World",
       "postedAt": 1735947685860,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1324885363591745547",
@@ -7838,7 +7838,7 @@
       "masterId": "409390729627041792"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Amihan: The Unseeing Eye",
       "postedAt": 1736034864352,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1325251016689582100",
@@ -7853,7 +7853,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Eye of the Hurricane",
       "postedAt": 1736035593298,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1325254074110709822",
@@ -7863,7 +7863,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Legacy of Tangbawan: Dimalapitan [Savage]",
       "postedAt": 1736036351119,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1325257252642230394",
@@ -7894,7 +7894,7 @@
       "masterId": "118899054179516417"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Someday Love Will Find You",
       "postedAt": 1736043980381,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1325289252086353984",
@@ -7905,7 +7905,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "[Utopia Resurgence] Per Aspera",
       "postedAt": 1736087402495,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1325471377633050705",
@@ -7920,7 +7920,7 @@
       "masterId": "178906027914297344"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "Body & Soul",
       "postedAt": 1736124803060,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1325628246972305480",
@@ -7949,7 +7949,7 @@
       "masterId": "181544205796114433"
     },
     {
-      "master": null,
+      "master": "@faeriexing",
       "title": "Railway Rumble",
       "postedAt": 1736196293681,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1325928100369793028",
@@ -8007,7 +8007,7 @@
       "masterId": "283019070578753536"
     },
     {
-      "master": null,
+      "master": "@phosphophyllite0",
       "title": "Scars Never Fade",
       "postedAt": 1736374891353,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1326677193299984404",
@@ -8050,7 +8050,7 @@
       "masterId": "108744783031185408"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "The Beholder - Syntetic Shadow",
       "postedAt": 1736586487189,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1327564690561433611",
@@ -8184,7 +8184,7 @@
       "masterId": "169795599758131200"
     },
     {
-      "master": null,
+      "master": "@phosphophyllite0",
       "title": "Too Deep, Too Greedily",
       "postedAt": 1736937800590,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1329038205764243499",
@@ -8314,7 +8314,7 @@
       "masterId": "181593003008327680"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "The Beholder - Spectral Theorem",
       "postedAt": 1737196439762,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1330123017078181980",
@@ -8342,7 +8342,7 @@
       "masterId": "108744783031185408"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "[Utopia Resurgence] - Moon's Haunted",
       "postedAt": 1737240869986,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1330309370944421979",
@@ -8400,7 +8400,7 @@
       "masterId": "384371410576998401"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "The Beholder - It was Nobody",
       "postedAt": 1737369776243,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1330850042973786114",
@@ -8414,7 +8414,7 @@
       "masterId": "142973642093887488"
     },
     {
-      "master": null,
+      "master": "@phosphophyllite0",
       "title": "[Utopia Resurgence] Endless Hunt - Dead Silence",
       "postedAt": 1737421623149,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1331067504658874479",
@@ -8586,7 +8586,7 @@
       "masterId": "118899054179516417"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Terra: Kickstart My Heart",
       "postedAt": 1737749408807,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1332442337355370608",
@@ -8601,7 +8601,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Amihan: The Heart of Sampaguita",
       "postedAt": 1737750491247,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1332446877437657172",
@@ -8612,7 +8612,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Amihan: Flaming Telepaths",
       "postedAt": 1737755660323,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1332468558113804380",
@@ -8627,7 +8627,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Terra: The Ghost of Mt. Providence",
       "postedAt": 1737756872008,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1332473640289173504",
@@ -8642,7 +8642,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Kor'Tarion: Retracing Your Steps",
       "postedAt": 1737759046586,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1332482761130246187",
@@ -8656,7 +8656,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@phosphophyllite0",
       "title": "Yubel's 11",
       "postedAt": 1737764316170,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1332504863367495773",
@@ -8671,7 +8671,7 @@
       "masterId": "237438769840652291"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "Pulseforge Wars",
       "postedAt": 1737833899399,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1332796716583358575",
@@ -8716,7 +8716,7 @@
       "masterId": "169795599758131200"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "Cybele's Progeny",
       "postedAt": 1737843785394,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1332838181451862108",
@@ -8769,7 +8769,7 @@
       "masterId": "308792711274692610"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "Agnostic Plague",
       "postedAt": 1738013703877,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1333550871224520715",
@@ -8784,7 +8784,7 @@
       "masterId": "142973642093887488"
     },
     {
-      "master": null,
+      "master": "@wandering",
       "title": "Ships n Rats",
       "postedAt": 1738043147177,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1333674365375741984",
@@ -8843,7 +8843,7 @@
       "masterId": "365605862615810049"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "Welcome Among Us",
       "postedAt": 1738171902047,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1334214402441740340",
@@ -8853,7 +8853,7 @@
       "masterId": "178906027914297344"
     },
     {
-      "master": null,
+      "master": "@phosphophyllite0",
       "title": "Power within the Network",
       "postedAt": 1738193130034,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1334303439072657541",
@@ -8911,7 +8911,7 @@
       "masterId": "181593003008327680"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "Honorable Death",
       "postedAt": 1738368621500,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1335039503630598195",
@@ -8940,7 +8940,7 @@
       "masterId": "365605862615810049"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "Dirty Debt Drones Done Collecting",
       "postedAt": 1738445614272,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1335362434722168968",
@@ -9121,7 +9121,7 @@
       "masterId": "140811574737764352"
     },
     {
-      "master": null,
+      "master": "@faeriexing",
       "title": "The Pilgrimage of Sir Kaergrant",
       "postedAt": 1738780091222,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1336765332731461662",
@@ -9160,7 +9160,7 @@
       "masterId": "181593003008327680"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "The Victim I Appear To Be",
       "postedAt": 1738838824939,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1337011679795478579",
@@ -9254,7 +9254,7 @@
       "masterId": "319372431221587968"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "[The Beholder] Golden Road to Hell",
       "postedAt": 1739209410628,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1338566028833062933",
@@ -9327,7 +9327,7 @@
       "masterId": "308792711274692610"
     },
     {
-      "master": null,
+      "master": "@phosphophyllite0",
       "title": "Lights Out",
       "postedAt": 1739410190489,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1339408160607174767",
@@ -9342,7 +9342,7 @@
       "masterId": "237438769840652291"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "Remembrance of Screen Death",
       "postedAt": 1739448729802,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1339569806201983036",
@@ -9384,7 +9384,7 @@
       "masterId": "457645105122115615"
     },
     {
-      "master": null,
+      "master": "@phosphophyllite0",
       "title": "Flesh, Blood, and Ice",
       "postedAt": 1739554762969,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1340014541538590793",
@@ -9457,7 +9457,7 @@
       "masterId": "319372431221587968"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "Looking into the Link",
       "postedAt": 1739607686771,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1340236520052887584",
@@ -9516,7 +9516,7 @@
       "masterId": "169795599758131200"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "[Utopia Resurgence] Accretion",
       "postedAt": 1739657993107,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1340447520119066647",
@@ -9618,7 +9618,7 @@
       "masterId": "384371410576998401"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "Lurkers in the Link",
       "postedAt": 1739837183289,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1341199098216448084",
@@ -9691,7 +9691,7 @@
       "masterId": "178284834978791425"
     },
     {
-      "master": null,
+      "master": "@phosphophyllite0",
       "title": "Vengeance in a Pinch",
       "postedAt": 1739942607442,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1341641279163072666",
@@ -9718,7 +9718,7 @@
       "masterId": "108744783031185408"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "Baylore Treasure, Part 1",
       "postedAt": 1740034613166,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1342027179139141732",
@@ -9843,7 +9843,7 @@
       "masterId": "169795599758131200"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "All that Glitters",
       "postedAt": 1740256308497,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1342957036752867379",
@@ -9877,7 +9877,7 @@
       "masterId": "365605862615810049"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "Ignite your Dread | Pt.1 | Knights, Demons, Merchants and a Mall",
       "postedAt": 1740515054609,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1344042296605278248",
@@ -9921,7 +9921,7 @@
       "masterId": "308792711274692610"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "Baylore Treasure - Part 2: Plot Twist | Sign Up",
       "postedAt": 1740666969608,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1344679474293243975",
@@ -9936,7 +9936,7 @@
       "masterId": "142973642093887488"
     },
     {
-      "master": null,
+      "master": "@phosphophyllite0",
       "title": "Dead Gods and Desperate Men",
       "postedAt": 1740776222787,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1345137715338809435",
@@ -9981,7 +9981,7 @@
       "masterId": "181593003008327680"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "[U.R] Assimilation / Ascension Protocol",
       "postedAt": 1740878279991,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1345565774277775361",
@@ -10010,7 +10010,7 @@
       "masterId": "169795599758131200"
     },
     {
-      "master": null,
+      "master": "@phosphophyllite0",
       "title": "A Last Act of Desperation",
       "postedAt": 1741116660960,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1346565616529576067",
@@ -10055,7 +10055,7 @@
       "masterId": "299015281853071360"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "Pulseforge Wars: Against the Current",
       "postedAt": 1741133487554,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1346636192380096583",
@@ -10079,7 +10079,7 @@
       "masterId": "118899054179516417"
     },
     {
-      "master": null,
+      "master": "@phosphophyllite0",
       "title": "Cold Cold Cold",
       "postedAt": 1741240898354,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1347086705928306718",
@@ -10311,7 +10311,7 @@
       "masterId": "365605862615810049"
     },
     {
-      "master": null,
+      "master": "@phosphophyllite0",
       "title": "Penny's Shopping List",
       "postedAt": 1741820361783,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1349517151706415175",
@@ -10352,7 +10352,7 @@
       "masterId": "178284834978791425"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "Totality, Convergence, Divergence, Absolute",
       "postedAt": 1741848040008,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1349633242596380714",
@@ -10379,7 +10379,7 @@
       "masterId": "169795599758131200"
     },
     {
-      "master": null,
+      "master": "@phosphophyllite0",
       "title": "Ballad of the Squirrel and the Wolf",
       "postedAt": 1741897495141,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1349840672458539058",
@@ -10647,7 +10647,7 @@
       "masterId": "384371410576998401"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "[Utopia Resurgence] Edge of The Horizon",
       "postedAt": 1742083640232,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1350621421558042704",
@@ -10769,7 +10769,7 @@
       "masterId": "169795599758131200"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "[U.R.] [SKYFALL] And Baylore wept...",
       "postedAt": 1742210326676,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1351152783016984609",
@@ -10897,7 +10897,7 @@
       "masterId": "118899054179516417"
     },
     {
-      "master": null,
+      "master": "@phosphophyllite0",
       "title": "[U.R.] [Skyfall] Extinction Event",
       "postedAt": 1742409054525,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1351986308028956732",
@@ -10912,7 +10912,7 @@
       "masterId": "237438769840652291"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "...for his world was Conquered",
       "postedAt": 1742470380085,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1352243526070566974",
@@ -10943,7 +10943,7 @@
       "masterId": "384371410576998401"
     },
     {
-      "master": null,
+      "master": "@vievinvalor",
       "title": "Braving the Tunnel",
       "postedAt": 1742548427869,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1352570882203193366",
@@ -11096,7 +11096,7 @@
       "masterId": "365605862615810049"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "Paying What's Due",
       "postedAt": 1743033101162,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1354603749334712513",
@@ -11148,7 +11148,7 @@
       "masterId": "169795599758131200"
     },
     {
-      "master": null,
+      "master": "@vievinvalor",
       "title": "Spirit Beasts of a Kind Flock Together",
       "postedAt": 1743177378419,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1355208892010860735",
@@ -11162,7 +11162,7 @@
       "masterId": "169054863978790913"
     },
     {
-      "master": null,
+      "master": "@phosphophyllite0",
       "title": "Ain't no Rest for the Wicked",
       "postedAt": 1743186182918,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1355245820756103360",
@@ -11267,7 +11267,7 @@
       "masterId": "283019070578753536"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "Is it Luna time? I think it's Luna time.",
       "postedAt": 1743271268054,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1355602693682630880",
@@ -11469,7 +11469,7 @@
       "masterId": "409390729627041792"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "Don't Forget, Subject #500",
       "postedAt": 1743512956007,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1356616406430646283",
@@ -11484,7 +11484,7 @@
       "masterId": "142973642093887488"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "Steel to Flesh Ratio",
       "postedAt": 1743513068376,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1356616877740396718",
@@ -11526,7 +11526,7 @@
       "masterId": "108744783031185408"
     },
     {
-      "master": null,
+      "master": "@vievinvalor",
       "title": "She Set Her Empty Sight On Them",
       "postedAt": 1743759647769,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1357651106674770042",
@@ -11607,7 +11607,7 @@
       "masterId": "108744783031185408"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "Waves crashing against the Radio",
       "postedAt": 1743954993530,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1358470446181388348",
@@ -11665,7 +11665,7 @@
       "masterId": "886623433306288158"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "Contractualy Obligated Execution",
       "postedAt": 1743980207116,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1358576199626002484",
@@ -11822,7 +11822,7 @@
       "masterId": "365605862615810049"
     },
     {
-      "master": null,
+      "master": "@phosphophyllite0",
       "title": "Cleaning Up Your Mess",
       "postedAt": 1744267077480,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1359779421141073980",
@@ -11866,7 +11866,7 @@
       "masterId": "108744783031185408"
     },
     {
-      "master": null,
+      "master": "@phosphophyllite0",
       "title": "Food for the Wolf",
       "postedAt": 1744344523498,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1360104253284286486",
@@ -11881,7 +11881,7 @@
       "masterId": "237438769840652291"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "The Gate of Blasphemy",
       "postedAt": 1744367825460,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1360201988796842075",
@@ -11896,7 +11896,7 @@
       "masterId": "142973642093887488"
     },
     {
-      "master": null,
+      "master": "@phosphophyllite0",
       "title": "Lunar Remnants",
       "postedAt": 1744396899795,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1360323935396171838",
@@ -11922,7 +11922,7 @@
       "masterId": "118899054179516417"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "[The Gate of Blasphemy] - Liberty Desert",
       "postedAt": 1744471812444,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1360638141819781230",
@@ -12022,7 +12022,7 @@
       "masterId": "118899054179516417"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "[The Gate of Blasphemy] - Soul Desert",
       "postedAt": 1744531393347,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1360888042239426732",
@@ -12195,7 +12195,7 @@
       "masterId": "384371410576998401"
     },
     {
-      "master": null,
+      "master": "@vievinvalor",
       "title": "The Frightful Werewolf",
       "postedAt": 1744930809051,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1362563313124249741",
@@ -12209,7 +12209,7 @@
       "masterId": "169054863978790913"
     },
     {
-      "master": null,
+      "master": "@phosphophyllite0",
       "title": "Hunger of the Conqueror",
       "postedAt": 1744945391090,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1362624474629017853",
@@ -12353,7 +12353,7 @@
       "masterId": "384371410576998401"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "The Second Baylorefall",
       "postedAt": 1745061606634,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1363111917950079118",
@@ -12368,7 +12368,7 @@
       "masterId": "142973642093887488"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "Aranova: A Dangerous Delve",
       "postedAt": 1745110482410,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1363316917812727848",
@@ -12382,7 +12382,7 @@
       "masterId": "178906027914297344"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "Aranova: Into The Broken Storm",
       "postedAt": 1745110821364,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1363318339488841980",
@@ -12456,7 +12456,7 @@
       "masterId": "178284834978791425"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "Aranova: Railway Ruckus",
       "postedAt": 1745198172482,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1363684716632608911",
@@ -12526,7 +12526,7 @@
       "masterId": "181294303622987776"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "[Termina City] Operation C: Foothold",
       "postedAt": 1745339081110,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1364275730254663691",
@@ -12541,7 +12541,7 @@
       "masterId": "142973642093887488"
     },
     {
-      "master": null,
+      "master": "@phosphophyllite0",
       "title": "[Termina City] Fight the Easter Bunny",
       "postedAt": 1745344855997,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1364299951886307338",
@@ -12675,7 +12675,7 @@
       "masterId": "491765200727310337"
     },
     {
-      "master": null,
+      "master": "@vievinvalor",
       "title": "Full Cure To An Empty Poison",
       "postedAt": 1745539822709,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1365117701546184734",
@@ -12763,7 +12763,7 @@
       "masterId": "178284834978791425"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "[Termina City] Operation S: Recon",
       "postedAt": 1745655334884,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1365602194723835985",
@@ -12778,7 +12778,7 @@
       "masterId": "142973642093887488"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "[Termina City] Operation C: Fair Play",
       "postedAt": 1745699324569,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1365786700835586121",
@@ -12975,7 +12975,7 @@
       "masterId": "178284834978791425"
     },
     {
-      "master": null,
+      "master": "@phosphophyllite0",
       "title": "The Howling of Madmen",
       "postedAt": 1745907618781,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1366660350082154546",
@@ -13139,7 +13139,7 @@
       "masterId": "319372431221587968"
     },
     {
-      "master": null,
+      "master": "@phosphophyllite0",
       "title": "Burning For You",
       "postedAt": 1746136928629,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1367622145294864500",
@@ -13182,7 +13182,7 @@
       "masterId": "181195525914230784"
     },
     {
-      "master": null,
+      "master": "@vievinvalor",
       "title": "The Empty Glass",
       "postedAt": 1746212534103,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1367939257637011638",
@@ -13241,7 +13241,7 @@
       "masterId": "365605862615810049"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "Termina City] Operation S: Syntropy Funneler",
       "postedAt": 1746262494243,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1368148805651927092",
@@ -13296,7 +13296,7 @@
       "masterId": "194955560276197377"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "[Termina City] First Wave",
       "postedAt": 1746395331523,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1368705965586780230",
@@ -13310,7 +13310,7 @@
       "masterId": "142973642093887488"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "[Termina City] Operation S: Hunt",
       "postedAt": 1746395728081,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1368707628871581850",
@@ -13400,7 +13400,7 @@
       "masterId": "491765200727310337"
     },
     {
-      "master": null,
+      "master": "@phosphophyllite0",
       "title": "The Feast",
       "postedAt": 1746559099581,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1369392858607517788",
@@ -13519,7 +13519,7 @@
       "masterId": "491765200727310337"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "[Termina City]  Domain of the Night",
       "postedAt": 1746903927769,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1370839172855631952",
@@ -13562,7 +13562,7 @@
       "masterId": "365605862615810049"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "[Aranova] Cain",
       "postedAt": 1746970974186,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1371120385910902794",
@@ -13682,7 +13682,7 @@
       "masterId": "108744783031185408"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "[Termina City] A weapon deserves rest",
       "postedAt": 1747174747752,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1371975074193608764",
@@ -13697,7 +13697,7 @@
       "masterId": "142973642093887488"
     },
     {
-      "master": null,
+      "master": "@vievinvalor",
       "title": "Gathering the Empty Nest",
       "postedAt": 1747175499439,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1371978226997530845",
@@ -13725,7 +13725,7 @@
       "masterId": "319372431221587968"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "[Termina City] Second Wave",
       "postedAt": 1747202818301,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1372092810609557586",
@@ -13771,7 +13771,7 @@
       "masterId": "106596968976957440"
     },
     {
-      "master": null,
+      "master": "@gabrielthefool",
       "title": "[Termina City] Snarky Shark Sharky",
       "postedAt": 1747321664471,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1372591287576039505",
@@ -13827,7 +13827,7 @@
       "masterId": "365605862615810049"
     },
     {
-      "master": null,
+      "master": "@phosphophyllite0",
       "title": "Where There's Smoke",
       "postedAt": 1747347656978,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1372700308051853332",
@@ -13842,7 +13842,7 @@
       "masterId": "237438769840652291"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Nezmira: Curse of the Black Sun",
       "postedAt": 1747357461361,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1372741430614822992",
@@ -13858,7 +13858,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Nezmira: Return of the First Icon",
       "postedAt": 1747358151686,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1372744326047600702",
@@ -13871,7 +13871,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Nezmira: Corpse of the False Dragonlord",
       "postedAt": 1747358823571,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1372747144137805925",
@@ -13886,7 +13886,7 @@
       "masterId": "124671590775390208"
     },
     {
-      "master": null,
+      "master": "@theelusivegin",
       "title": "Nezmira: Rite of Patricide",
       "postedAt": 1747359694180,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1372750795736486110",
@@ -14220,7 +14220,7 @@
       "masterId": "457645105122115615"
     },
     {
-      "master": null,
+      "master": "@vievinvalor",
       "title": "[Empty Sight] The Empty Assault",
       "postedAt": 1747946112309,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1375210411640619111",
@@ -14248,7 +14248,7 @@
       "masterId": "132288834560983040"
     },
     {
-      "master": null,
+      "master": "@phosphophyllite0",
       "title": "Sticky Situation",
       "postedAt": 1748032666851,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1375573447702351992",
@@ -14278,7 +14278,7 @@
       "masterId": "491765200727310337"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "[Aranova] Shadow and Blood",
       "postedAt": 1748105926250,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1375880719892480090",
@@ -14450,7 +14450,7 @@
       "masterId": "491765200727310337"
     },
     {
-      "master": null,
+      "master": "@phosphophyllite0",
       "title": "Hole in your Soul",
       "postedAt": 1748384817084,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1377050472833089567",
@@ -14523,7 +14523,7 @@
       "masterId": "181593003008327680"
     },
     {
-      "master": null,
+      "master": "@phosphophyllite0",
       "title": "Dead Man Walking",
       "postedAt": 1748555744686,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1377767395157872782",
@@ -14596,7 +14596,7 @@
       "masterId": "457645105122115615"
     },
     {
-      "master": null,
+      "master": "@vampiremommy",
       "title": "Zenith crucible: the shadowed hand",
       "postedAt": 1748685969272,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1378313596660088885",
@@ -14930,7 +14930,7 @@
       "masterId": "365605862615810049"
     },
     {
-      "master": null,
+      "master": "@phosphophyllite0",
       "title": "Walking on a Dream",
       "postedAt": 1749171242381,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1380348979602133012",
@@ -15182,7 +15182,7 @@
       "masterId": "108744783031185408"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "[Aranova] The Chromatic Carp Fishing Festival: Prologue",
       "postedAt": 1749597514059,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1382136892606386337",
@@ -15254,7 +15254,7 @@
       "masterId": "173547590694993920"
     },
     {
-      "master": null,
+      "master": "@phosphophyllite0",
       "title": "Heart of Fire",
       "postedAt": 1749765725360,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1382842421938753556",
@@ -15383,7 +15383,7 @@
       "masterId": "118899054179516417"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "[Mandate of Steel] The Royal Parade",
       "postedAt": 1750013527938,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1383881781282865182",
@@ -15772,7 +15772,7 @@
       "masterId": "365605862615810049"
     },
     {
-      "master": null,
+      "master": "@vievinvalor",
       "title": "Real World Summer: Hunt For The Right!",
       "postedAt": 1750804013505,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1387197318058610708",
@@ -16062,7 +16062,7 @@
       "masterId": "457645105122115615"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "[Aranova] A Deal Gone Wrong",
       "postedAt": 1751128568726,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1388558601320140861",
@@ -16078,7 +16078,7 @@
       "masterId": "178906027914297344"
     },
     {
-      "master": null,
+      "master": "@vittinhodosus",
       "title": "[Aranova] Good Ol' Defiance",
       "postedAt": 1751128938849,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1388560153728520326",
@@ -16185,7 +16185,7 @@
       "masterId": "181593003008327680"
     },
     {
-      "master": null,
+      "master": "@vampiremommy",
       "title": "[Dreaded Seas] - Belay the sneaky Bilge-rats!",
       "postedAt": 1751329370589,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1389400825377329242",
@@ -16314,7 +16314,7 @@
       "masterId": "365605862615810049"
     },
     {
-      "master": null,
+      "master": "@vampiremommy",
       "title": "[Dreaded seas] Protecting the Booty",
       "postedAt": 1751501854397,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1390124274903158814",
@@ -16359,7 +16359,7 @@
       "masterId": "181593003008327680"
     },
     {
-      "master": null,
+      "master": "@phosphophyllite0",
       "title": "[Bahata Burning] Pick Your Poison",
       "postedAt": 1751582149296,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1390461056119476498",
@@ -16432,7 +16432,7 @@
       "masterId": "319372431221587968"
     },
     {
-      "master": null,
+      "master": "@vievinvalor",
       "title": "Chaos Incursion: Quiet in the Library!",
       "postedAt": 1751748985662,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1391160818556473446",
@@ -16737,7 +16737,7 @@
       "masterId": "178284834978791425"
     },
     {
-      "master": null,
+      "master": "@phosphophyllite0",
       "title": "Flame and Family",
       "postedAt": 1752271592515,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1393352790570438747",
@@ -16841,7 +16841,7 @@
       "masterId": "457645105122115615"
     },
     {
-      "master": null,
+      "master": "@vievinvalor",
       "title": "Real World Summer: Race For World First!",
       "postedAt": 1752493186788,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1394282224316055594",
@@ -17350,7 +17350,7 @@
       "masterId": "153330975575769088"
     },
     {
-      "master": null,
+      "master": "@vievinvalor",
       "title": "Real World Summer: Chilling the Beasts",
       "postedAt": 1753511545632,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1398553530889142332",
@@ -17786,7 +17786,7 @@
       "masterId": "140595221300772864"
     },
     {
-      "master": null,
+      "master": "@vievinvalor",
       "title": "Real World Summer: T(h)read With Caution",
       "postedAt": 1754740040711,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1403706212712976448",
@@ -18306,7 +18306,7 @@
       "masterId": "250502333903929344"
     },
     {
-      "master": null,
+      "master": "@vievinvalor",
       "title": "When It Rains, It Pours",
       "postedAt": 1755591304908,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1407276673539375155",
@@ -18715,7 +18715,7 @@
       "masterId": "140595221300772864"
     },
     {
-      "master": null,
+      "master": "@vampiremommy",
       "title": "[Wulforh Rising] The stoking of fires",
       "postedAt": 1756423071099,
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1410765353801351263",
