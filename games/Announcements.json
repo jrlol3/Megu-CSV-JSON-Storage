@@ -1,5 +1,5 @@
 {
-  "timestamp": 1771639739692,
+  "timestamp": 1771651321732,
   "games": [
     {
       "title": "First Introductions",
@@ -20886,6 +20886,17 @@
       "time": "<t:1772582400:F>",
       "public": false,
       "creator": "-=Wisdom=-"
+    },
+    {
+      "title": "[Trials of Magic] The Raid",
+      "postedAt": 1771651223314,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1474636853549469947",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1771894800:F>",
+      "public": true,
+      "creator": "Caliste | Pidgeon"
     }
   ]
 }
