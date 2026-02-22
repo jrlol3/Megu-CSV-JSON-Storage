@@ -1,5 +1,5 @@
 {
-  "timestamp": 1771664437471,
+  "timestamp": 1771750847373,
   "logs": [
     {
       "master": "@desyov",
@@ -25812,6 +25812,21 @@
         "@.galebolg. as Anais"
       ],
       "masterId": "108744783031185408"
+    },
+    {
+      "master": "@letiana",
+      "title": "[Heaven’s Memory] Home Invasion",
+      "postedAt": 1771694771757,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1474819508958138409",
+      "players": [
+        "@seraphim as Onyx",
+        "@redhaart as Alyx",
+        "@aznrcmp as Topal",
+        "@foxfacesuicide as A'shibah",
+        "@zacsper as Percy",
+        "@sussy_arata as Levan"
+      ],
+      "masterId": "299015281853071360"
     }
   ]
 }
