@@ -1,5 +1,5 @@
 {
-  "timestamp": 1771837235285,
+  "timestamp": 1771923639733,
   "logs": [
     {
       "master": "@desyov",
@@ -25827,6 +25827,63 @@
         "@sussy_arata as Levan"
       ],
       "masterId": "299015281853071360"
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "[Heaven's Memory] Going Home 7",
+      "postedAt": 1771840078420,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1475428969275986041",
+      "players": [
+        "@rastamufasa as Basil",
+        "@paradigm.42 as Enlai",
+        "@brooms as Cyrus",
+        "@solaceinfire as Saki",
+        "@mutemissy as Aerah",
+        "@pidgeon as Phoebe"
+      ],
+      "masterId": "365605862615810049"
+    },
+    {
+      "master": "@incognegro",
+      "title": "[The Art of War] The Challenge of Might",
+      "postedAt": 1771885291862,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1475618608196616243",
+      "players": [
+        "@schwertaria as Aria",
+        "@sussy_arata as Lin Shen",
+        "@rastamufasa as Muchen",
+        "@letiana as Saroja",
+        "@2naf1sh as Gyalwa"
+      ],
+      "masterId": "118899054179516417"
+    },
+    {
+      "master": "@incognegro",
+      "title": "The Three Tribulations: Dalisay",
+      "postedAt": 1771885483226,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1475619410835406979",
+      "players": [
+        "@samikazuki as Anahi",
+        "@mike_miguel_michael as Calibre",
+        "@enderten as Kit",
+        "@facinarose as Vivian"
+      ],
+      "masterId": "118899054179516417"
+    },
+    {
+      "master": "@schwertaria",
+      "title": "Good Soldiers and their Orders",
+      "postedAt": 1771898991135,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1475676067112026145",
+      "players": [
+        "@honeydewmelons Shēnruì Er Xián (申瑞儿咸 )",
+        "@mooshen Artemis Anderson",
+        "@spiralhorizon Captain Israfel",
+        "@han69 Taiki Ibuki",
+        "@solcarona Ai Xianyu",
+        "@seraphim Void"
+      ],
+      "masterId": "95869822574809088"
     }
   ]
 }
