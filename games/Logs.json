@@ -1,5 +1,5 @@
 {
-  "timestamp": 1771923639733,
+  "timestamp": 1772010045187,
   "logs": [
     {
       "master": "@desyov",
@@ -25884,6 +25884,21 @@
         "@seraphim Void"
       ],
       "masterId": "95869822574809088"
+    },
+    {
+      "master": "@katen_m",
+      "title": "Stirring in the Sands",
+      "postedAt": 1771979860526,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1476015257922310155",
+      "players": [
+        "@solotic. as Amelie",
+        "@han69 as Garmir",
+        "@hangedmantarot as Lyrric",
+        "@brooms as Peishan",
+        "@schwertaria as Yuel",
+        "@dragoneldester as Yumiko"
+      ],
+      "masterId": "404317967585640451"
     }
   ]
 }
