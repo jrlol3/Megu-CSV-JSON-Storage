@@ -1,5 +1,5 @@
 {
-  "timestamp": 1771923639746,
+  "timestamp": 1772010045198,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -239,6 +239,13 @@
       "tier": "GM: Storyteller - T1",
       "inGuild": true
     },
+    "@katen_m": {
+      "username": "@katen_m",
+      "id": "404317967585640451",
+      "gameCount": 9,
+      "tier": "GM: Apprentice - T0",
+      "inGuild": true
+    },
     "@saruno": {
       "username": "@saruno",
       "id": "140811574737764352",
@@ -251,13 +258,6 @@
       "id": "594008151779573762",
       "gameCount": 8,
       "tier": "GM: Storyteller - T1",
-      "inGuild": true
-    },
-    "@katen_m": {
-      "username": "@katen_m",
-      "id": "404317967585640451",
-      "gameCount": 8,
-      "tier": "GM: Apprentice - T0",
       "inGuild": true
     },
     "@doobledeedooble": {
@@ -309,13 +309,6 @@
       "tier": null,
       "inGuild": false
     },
-    "@leplep": {
-      "username": "@leplep",
-      "id": "106596968976957440",
-      "gameCount": 4,
-      "tier": "GM: Apprentice - T0",
-      "inGuild": true
-    },
     "@sirgabite": {
       "username": "@sirgabite",
       "id": "80826834912018432",
@@ -342,6 +335,13 @@
       "id": "66337541518790656",
       "gameCount": 4,
       "tier": "GM: Storyteller - T1",
+      "inGuild": true
+    },
+    "@leplep": {
+      "username": "@leplep",
+      "id": "106596968976957440",
+      "gameCount": 4,
+      "tier": "GM: Apprentice - T0",
       "inGuild": true
     },
     "@sunny.something": {
