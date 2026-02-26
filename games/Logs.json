@@ -1,5 +1,5 @@
 {
-  "timestamp": 1772010045187,
+  "timestamp": 1772096437017,
   "logs": [
     {
       "master": "@desyov",
@@ -25899,6 +25899,47 @@
         "@dragoneldester as Yumiko"
       ],
       "masterId": "404317967585640451"
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "The Shadows Out Of Time",
+      "postedAt": 1772020946136,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1476187583460671643",
+      "players": [
+        "@caelum_blue as Céline",
+        "@.galebolg. as Cypher"
+      ],
+      "masterId": "365605862615810049"
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "[The Five Temples] Schism",
+      "postedAt": 1772058919021,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1476346853284118682",
+      "players": [
+        "@nikolaim. as Dujom",
+        "@mutemissy as Chime",
+        "@2naf1sh as Gyalwa",
+        "@seraphim as Sonam",
+        "@oleamollevampie as Frigg",
+        "@saltmammoth as Amaranth"
+      ],
+      "masterId": "169795599758131200"
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "[Heaven's Memory] A Fox's Dream of a Better Tomorrow",
+      "postedAt": 1772059304972,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1476348472079679669",
+      "players": [
+        "@enderten as Bernhard",
+        "@oleamollevampie as Wraith",
+        "@phosphophyllite0 as Verge",
+        "@starfir54 as Tomiko",
+        "@lenpendragon as Sakura",
+        "@solaceinfire as Naomi"
+      ],
+      "masterId": "169795599758131200"
     }
   ]
 }
