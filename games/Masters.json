@@ -1,5 +1,5 @@
 {
-  "timestamp": 1772096437030,
+  "timestamp": 1772182835852,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -106,19 +106,19 @@
       "tier": "GM: Storyteller - T1",
       "inGuild": true
     },
+    "@brooms": {
+      "username": "@brooms",
+      "id": "140595221300772864",
+      "gameCount": 42,
+      "tier": "GM: Storyteller - T1",
+      "inGuild": true
+    },
     "@vittinhodosus": {
       "username": "@vittinhodosus",
       "id": "178906027914297344",
       "gameCount": 42,
       "tier": null,
       "inGuild": false
-    },
-    "@brooms": {
-      "username": "@brooms",
-      "id": "140595221300772864",
-      "gameCount": 41,
-      "tier": "GM: Storyteller - T1",
-      "inGuild": true
     },
     "@xavieremix": {
       "username": "@xavieremix",
