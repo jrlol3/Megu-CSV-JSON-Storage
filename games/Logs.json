@@ -1,5 +1,5 @@
 {
-  "timestamp": 1772096437017,
+  "timestamp": 1772182835839,
   "logs": [
     {
       "master": "@desyov",
@@ -25940,6 +25940,20 @@
         "@solaceinfire as Naomi"
       ],
       "masterId": "169795599758131200"
+    },
+    {
+      "master": "@brooms",
+      "title": "[A Consequence of Permanence] The Eyes Have It",
+      "postedAt": 1772146035980,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1476712248293462049",
+      "players": [
+        "@dragoneldester as Yumiko",
+        "@solcarona as Hibiki",
+        "@seraphim as Onyx",
+        "@phos0947 as Annette",
+        "@spiralhorizon as Reaver"
+      ],
+      "masterId": "140595221300772864"
     }
   ]
 }
