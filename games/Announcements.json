@@ -1,5 +1,5 @@
 {
-  "timestamp": 1772182835804,
+  "timestamp": 1772269239246,
   "games": [
     {
       "title": "First Introductions",
@@ -21225,6 +21225,72 @@
       "time": "<t:1772211600:F>",
       "public": true,
       "creator": ".Teisei. | Sammy"
+    },
+    {
+      "title": "[Heaven's Memory] Chapter 1, The Knight that Fell",
+      "postedAt": 1772259046689,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1477186249562525757",
+      "pings": [
+        "1170826784862908661"
+      ],
+      "time": "<t:1772503200:F>",
+      "public": true,
+      "creator": "ZzPerseus | Radda"
+    },
+    {
+      "title": "[Heaven's Memory] Chapter 2, The Sword Lost in Space and Time",
+      "postedAt": 1772259385837,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1477187672052338800",
+      "pings": [
+        "1170826784862908661"
+      ],
+      "time": "<t:1772564400:F>",
+      "public": true,
+      "creator": "ZzPerseus | Radda"
+    },
+    {
+      "title": "[Heaven's Memory] Chapter 3, The Divine Spark of Draconic Fire",
+      "postedAt": 1772259713555,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1477189046601125888",
+      "pings": [
+        "1170826784862908661"
+      ],
+      "time": "<t:1772676000:F>",
+      "public": true,
+      "creator": "ZzPerseus | Radda"
+    },
+    {
+      "title": "[Heaven's Memory] Chapter 4, The Flower of Ladon",
+      "postedAt": 1772260231538,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1477191219179163791",
+      "pings": [
+        "1170826784862908661"
+      ],
+      "time": "<t:1772751600:F>",
+      "public": true,
+      "creator": "ZzPerseus | Radda"
+    },
+    {
+      "title": "[Heaven's Memory] Chapter 5, A Dream Ending",
+      "postedAt": 1772260770448,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1477193479531532288",
+      "pings": [
+        "1170826784862908661"
+      ],
+      "time": "<t:1772906400:F>",
+      "public": true,
+      "creator": "ZzPerseus | Radda"
+    },
+    {
+      "title": "[Heaven's Memory] Chapter 6, Fantasy Lives On",
+      "postedAt": 1772261163674,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1477195128841048074",
+      "pings": [
+        "1170826784862908661"
+      ],
+      "time": "<t:1773007200:F>",
+      "public": true,
+      "creator": "ZzPerseus | Radda"
     }
   ]
 }
