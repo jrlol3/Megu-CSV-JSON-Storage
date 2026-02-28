@@ -1,5 +1,5 @@
 {
-  "timestamp": 1772182835839,
+  "timestamp": 1772269239283,
   "logs": [
     {
       "master": "@desyov",
@@ -25954,6 +25954,73 @@
         "@spiralhorizon as Reaver"
       ],
       "masterId": "140595221300772864"
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "[Lhodosian Farewell] The Great Siege of Caldera",
+      "postedAt": 1772253837648,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1477164401261019218",
+      "players": [
+        "@solotic. as Noel",
+        "@seraphim as Esmon",
+        "@incognegro as Kviss",
+        "@.galebolg. as Cassius",
+        "@aznrcmp as Orizuma",
+        "@phosphophyllite0 as Liz",
+        "@xavieremix as Ruby",
+        "@lenpendragon as Elaine",
+        "@saltmammoth as Lynne"
+      ],
+      "masterId": "283019070578753536"
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "[Lhodosian Farewell] And Then it Was Tomorrow",
+      "postedAt": 1772254349130,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1477166546571755613",
+      "players": [
+        "@xavieremix as Ruby",
+        "@agentdj as Kurso",
+        "@jrlol3megu as Elara",
+        "@samikazuki as Moritz",
+        "@seraphim as Esmon",
+        "@incognegro as Kviss",
+        "@themattroid as Atticus",
+        "@sleepy_bernkastel as Claire",
+        "@mike_miguel_michael as Calibre"
+      ],
+      "masterId": "283019070578753536"
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "[Heaven's Memory] Ladon Day: The Hero's Journey",
+      "postedAt": 1772255179235,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1477170028284477460",
+      "players": [
+        "@sleepy_bernkastel as Theodore",
+        "@lenpendragon as Sakura",
+        "@missingpath as Gawain",
+        "@agentdj as Mikael",
+        "@caelum_blue as Celine",
+        "@sirgabite as Apollo"
+      ],
+      "masterId": "283019070578753536"
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "[Heaven's Memory] Prologue: The Heights of Knowledge",
+      "postedAt": 1772257660127,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1477180433899851878",
+      "players": [
+        "@letiana as Erin",
+        "@seraphim as Kohaku",
+        "@sussy_arata as Rhys",
+        "@desyov as Dr. Faust",
+        "@saltmammoth as Lynne",
+        "@schwertaria- Yuel",
+        "@.galebolg. as Cypher"
+      ],
+      "masterId": "283019070578753536"
     }
   ]
 }
