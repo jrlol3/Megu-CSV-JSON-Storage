@@ -1,5 +1,5 @@
 {
-  "timestamp": 1772355638302,
+  "timestamp": 1772442039376,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -57,19 +57,19 @@
       "tier": "GM: Storyteller - T1",
       "inGuild": true
     },
+    "@missingpath": {
+      "username": "@missingpath",
+      "id": "181544205796114433",
+      "gameCount": 59,
+      "tier": "GM: Reality Shaper - T3",
+      "inGuild": true
+    },
     "@gabrielthefool": {
       "username": "@gabrielthefool",
       "id": "142973642093887488",
       "gameCount": 59,
       "tier": null,
       "inGuild": false
-    },
-    "@missingpath": {
-      "username": "@missingpath",
-      "id": "181544205796114433",
-      "gameCount": 58,
-      "tier": "GM: Reality Shaper - T3",
-      "inGuild": true
     },
     "@rastamufasa": {
       "username": "@rastamufasa",
@@ -92,6 +92,13 @@
       "tier": null,
       "inGuild": false
     },
+    "@brooms": {
+      "username": "@brooms",
+      "id": "140595221300772864",
+      "gameCount": 43,
+      "tier": "GM: Storyteller - T1",
+      "inGuild": true
+    },
     "@starfir54": {
       "username": "@starfir54",
       "id": "491765200727310337",
@@ -106,13 +113,6 @@
       "tier": "GM: Storyteller - T1",
       "inGuild": true
     },
-    "@brooms": {
-      "username": "@brooms",
-      "id": "140595221300772864",
-      "gameCount": 42,
-      "tier": "GM: Storyteller - T1",
-      "inGuild": true
-    },
     "@vittinhodosus": {
       "username": "@vittinhodosus",
       "id": "178906027914297344",
@@ -120,18 +120,18 @@
       "tier": null,
       "inGuild": false
     },
+    "@letiana": {
+      "username": "@letiana",
+      "id": "299015281853071360",
+      "gameCount": 40,
+      "tier": "GM: World Builder - T2",
+      "inGuild": true
+    },
     "@xavieremix": {
       "username": "@xavieremix",
       "id": "181294303622987776",
       "gameCount": 40,
       "tier": "GM: Storyteller - T1",
-      "inGuild": true
-    },
-    "@letiana": {
-      "username": "@letiana",
-      "id": "299015281853071360",
-      "gameCount": 39,
-      "tier": "GM: World Builder - T2",
       "inGuild": true
     },
     "@mike_miguel_michael": {
