@@ -1,5 +1,5 @@
 {
-  "timestamp": 1772355638285,
+  "timestamp": 1772442039368,
   "logs": [
     {
       "master": "@desyov",
@@ -26021,6 +26021,49 @@
         "@.galebolg. as Cypher"
       ],
       "masterId": "283019070578753536"
+    },
+    {
+      "master": "@letiana",
+      "title": "[Teacher’s Pet] It’s a Simple Reaction",
+      "postedAt": 1772385758690,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1477717718215033094",
+      "players": [
+        "@honeydewmelons as Azra",
+        "@oleamollevampie as Frigg",
+        "@redhaart as Alyx",
+        "@zacsper as Percy",
+        "@spiralhorizon as Reaver"
+      ],
+      "masterId": "299015281853071360"
+    },
+    {
+      "master": "@brooms",
+      "title": "[A Peaceless Ocean] Fool's Rush In",
+      "postedAt": 1772405745557,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1477801549211107348",
+      "players": [
+        "@zacsper as Dante",
+        "@redhaart as Emile",
+        "@han69 as Absalom",
+        "@oleamollevampie as Fenja",
+        "@sherifmisho as Alysone",
+        "@schwertaria as Tenzin"
+      ],
+      "masterId": "140595221300772864"
+    },
+    {
+      "master": "@missingpath",
+      "title": "[Silverdale] Feed the World",
+      "postedAt": 1772412216018,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1477828688291696765",
+      "players": [
+        "@sleepy_bernkastel as Theodore",
+        "@solaceinfire as Naomi",
+        "@incognegro as Zenith",
+        "@saltmammoth as Amaranth",
+        "@honeydewmelons as Azra"
+      ],
+      "masterId": "181544205796114433"
     }
   ]
 }
