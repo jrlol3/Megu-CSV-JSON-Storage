@@ -1,5 +1,5 @@
 {
-  "timestamp": 1772528440551,
+  "timestamp": 1772614835905,
   "logs": [
     {
       "master": "@desyov",
@@ -26064,6 +26064,79 @@
         "@honeydewmelons as Azra"
       ],
       "masterId": "181544205796114433"
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "[Heaven's Memory] Chapter 1, The Knight that Fell",
+      "postedAt": 1772535259762,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1478344771159326761",
+      "players": [
+        "@caelum_blue as Celine",
+        "@lenpendragon as Sakura",
+        "@.galebolg. as Cypher",
+        "@agentdj as Mikael",
+        "@missingpath as Gawain",
+        "@phos0947 as Verge"
+      ],
+      "masterId": "283019070578753536"
+    },
+    {
+      "master": "@missingpath",
+      "title": "[Domain of Tiamat] The Chains that Bind",
+      "postedAt": 1772598940483,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1478611867462271148",
+      "players": [
+        "@emgry as Fuji",
+        "@lenpendragon as Sakura",
+        "@incognegro as Kviss",
+        "@rastamufasa as Sloan",
+        "@letiana as Erin-31",
+        "@desyov as Anki"
+      ],
+      "masterId": "181544205796114433"
+    },
+    {
+      "master": "@sunny.something",
+      "title": "[Cold-Blooded] The Cold Roads of Silverdale",
+      "postedAt": 1772603872615,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1478632554322989110",
+      "players": [
+        "@zatikin as Rene",
+        "@ironheidcross as Kenji",
+        "@hangedmantarot as Ray Midnight",
+        "@saltmammoth as Jing"
+      ],
+      "masterId": "181195525914230784"
+    },
+    {
+      "master": "@seraphim",
+      "title": "[The Barren North | The Horrors of Smoke and Coal] A Harmless Deal",
+      "postedAt": 1772606288892,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1478642688923537420",
+      "players": [
+        "@sleepy_bernkastel as Alec",
+        "@mutemissy as Mae",
+        "@schwertaria as Yuel",
+        "@samikazuki as Edward Lowell Jr.",
+        "@nikolaim. as Noen",
+        "@.galebolg. as Anais"
+      ],
+      "masterId": "108744783031185408"
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "[Heaven's Memory] Chapter 2, The Sword Lost in Space and Time",
+      "postedAt": 1772610679020,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1478661102454964351",
+      "players": [
+        "@sirgabite as Apollo",
+        "@lenpendragon as Sakura",
+        "@mutemissy as Natalia",
+        "@angrykitsu as Kori",
+        "@missingpath as Gawain",
+        "@sleepy_bernkastel as Theodore"
+      ],
+      "masterId": "283019070578753536"
     }
   ]
 }
