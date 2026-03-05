@@ -1,5 +1,5 @@
 {
-  "timestamp": 1772614835905,
+  "timestamp": 1772701239220,
   "logs": [
     {
       "master": "@desyov",
@@ -26137,6 +26137,27 @@
         "@sleepy_bernkastel as Theodore"
       ],
       "masterId": "283019070578753536"
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "[Heaven's Memory] Going Home 8",
+      "postedAt": 1772615961879,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1478683260371599523",
+      "players": [
+        "@desyov as Callum",
+        "@billyscrannerx as Shadowflame",
+        "@paradigm.42 as Enlai",
+        "@nikolaim. as Noir",
+        "@.galebolg. as Cypher",
+        "@galen876 as Xing Wei",
+        "@letiana as Erin",
+        "@caelum_blue as Anri",
+        "@lenpendragon as Asuka",
+        "@mutemissy as Aerah",
+        "@brooms as Cyrus",
+        "@rastamufasa as Basil"
+      ],
+      "masterId": "365605862615810049"
     }
   ]
 }
