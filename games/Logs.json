@@ -1,5 +1,5 @@
 {
-  "timestamp": 1772701239220,
+  "timestamp": 1772787638772,
   "logs": [
     {
       "master": "@desyov",
@@ -26158,6 +26158,36 @@
         "@rastamufasa as Basil"
       ],
       "masterId": "365605862615810049"
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "[Heaven's Memory] Chapter 3, The Divine Spark of Draconic Fire",
+      "postedAt": 1772753446744,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1479259913690677411",
+      "players": [
+        "@caelum_blue as Celine",
+        "@brooms as Cyrus",
+        "@.galebolg. as Cypher",
+        "@agentdj as Mikael",
+        "@galen876 as Xing Wei",
+        "@phos0947 as Verge"
+      ],
+      "masterId": "283019070578753536"
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "[Heaven's Memory] Chapter 4, The Flower of Ladon",
+      "postedAt": 1772774442501,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1479347976278118562",
+      "players": [
+        "@galen876 as Xing Wei",
+        "@angrykitsu as Victoria",
+        "@.galebolg. as Cypher",
+        "@incognegro as Kviss",
+        "@sleepy_bernkastel as Theodore",
+        "@2naf1sh as Gladiolus"
+      ],
+      "masterId": "283019070578753536"
     }
   ]
 }
