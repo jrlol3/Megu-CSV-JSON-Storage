@@ -1,5 +1,5 @@
 {
-  "timestamp": 1772787638737,
+  "timestamp": 1772874038339,
   "games": [
     {
       "title": "First Introductions",
@@ -21346,6 +21346,28 @@
       "time": "<t:1772589600:F>",
       "public": true,
       "creator": "zzVoid"
+    },
+    {
+      "title": "A Foolish Artist's Return",
+      "postedAt": 1772813855425,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1479513286062899484",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1772852400:F>",
+      "public": true,
+      "creator": "zzSleepy"
+    },
+    {
+      "title": "Heaven's Memory: Eighth Floor, The Ledger + Ninth Floor, The Equity",
+      "postedAt": 1772841280922,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1479628316934672436",
+      "pings": [
+        "1170826784862908661"
+      ],
+      "time": "<t:1772854253:F>",
+      "public": true,
+      "creator": "= Zenit ☆ ="
     }
   ]
 }
