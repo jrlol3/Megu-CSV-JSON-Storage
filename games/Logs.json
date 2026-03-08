@@ -1,5 +1,5 @@
 {
-  "timestamp": 1772874038362,
+  "timestamp": 1772960438627,
   "logs": [
     {
       "master": "@desyov",
@@ -26188,6 +26188,21 @@
         "@2naf1sh as Gladiolus"
       ],
       "masterId": "283019070578753536"
+    },
+    {
+      "master": "@seraphim",
+      "title": "[Weakness of the Flesh] Do You See Me?",
+      "postedAt": 1772952415979,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1480094451149049978",
+      "players": [
+        "@zatikin as Rene",
+        "@pidgeon as Julia",
+        "@niorno. as Deckard",
+        "@madrid222 as Marcus",
+        "@schwertaria as Tenzin",
+        "@leplep as Adelheid"
+      ],
+      "masterId": "108744783031185408"
     }
   ]
 }
