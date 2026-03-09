@@ -1,5 +1,5 @@
 {
-  "timestamp": 1772960438654,
+  "timestamp": 1773046837230,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -64,19 +64,19 @@
       "tier": "GM: Reality Shaper - T3",
       "inGuild": true
     },
+    "@rastamufasa": {
+      "username": "@rastamufasa",
+      "id": "283019070578753536",
+      "gameCount": 59,
+      "tier": "GM: Reality Shaper - T3",
+      "inGuild": true
+    },
     "@gabrielthefool": {
       "username": "@gabrielthefool",
       "id": "142973642093887488",
       "gameCount": 59,
       "tier": null,
       "inGuild": false
-    },
-    "@rastamufasa": {
-      "username": "@rastamufasa",
-      "id": "283019070578753536",
-      "gameCount": 58,
-      "tier": "GM: Reality Shaper - T3",
-      "inGuild": true
     },
     "@samikazuki": {
       "username": "@samikazuki",
@@ -281,19 +281,19 @@
       "tier": "GM: Apprentice - T0",
       "inGuild": true
     },
+    "@sunny.something": {
+      "username": "@sunny.something",
+      "id": "181195525914230784",
+      "gameCount": 6,
+      "tier": "GM: Apprentice - T0",
+      "inGuild": true
+    },
     "@cursed6069": {
       "username": "@cursed6069",
       "id": "321875283147751424",
       "gameCount": 6,
       "tier": null,
       "inGuild": false
-    },
-    "@sunny.something": {
-      "username": "@sunny.something",
-      "id": "181195525914230784",
-      "gameCount": 5,
-      "tier": "GM: Apprentice - T0",
-      "inGuild": true
     },
     "@yoshimage": {
       "username": "@yoshimage",
