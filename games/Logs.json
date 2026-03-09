@@ -1,5 +1,5 @@
 {
-  "timestamp": 1772960438627,
+  "timestamp": 1773046837220,
   "logs": [
     {
       "master": "@desyov",
@@ -26203,6 +26203,34 @@
         "@leplep as Adelheid"
       ],
       "masterId": "108744783031185408"
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "[Heaven's Memory] Chapter 5, A Dream Ending",
+      "postedAt": 1772962974050,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1480138734908473458",
+      "players": [
+        "@.galebolg. as Cypher",
+        "@agentdj as Mikael",
+        "@caelum_blue as Celine",
+        "@paradigm.42 as Enlai",
+        "@sirgabite as Apollo",
+        "@sleepy_bernkastel as Théodore"
+      ],
+      "masterId": "283019070578753536"
+    },
+    {
+      "master": "@sunny.something",
+      "title": "[Cold-Blooded] Footsteps in the Snow",
+      "postedAt": 1773027223298,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1480408215786094724",
+      "players": [
+        "@hangedmantarot as Lyrric Dust",
+        "@sussy_arataas Aston",
+        "@han69 as Absalom Kasand",
+        "@fluffbet as Garnier"
+      ],
+      "masterId": "181195525914230784"
     }
   ]
 }
