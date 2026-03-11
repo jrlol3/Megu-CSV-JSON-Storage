@@ -1,5 +1,5 @@
 {
-  "timestamp": 1773133238446,
+  "timestamp": 1773219643061,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -90,7 +90,7 @@
       "id": "181593003008327680",
       "gameCount": 53,
       "tier": null,
-      "inGuild": false
+      "inGuild": true
     },
     "@brooms": {
       "username": "@brooms",
