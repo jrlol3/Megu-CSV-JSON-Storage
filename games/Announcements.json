@@ -1,5 +1,5 @@
 {
-  "timestamp": 1773306034343,
+  "timestamp": 1773392439048,
   "games": [
     {
       "title": "First Introductions",
@@ -21456,6 +21456,17 @@
       "time": "<t:1773280800:F>",
       "public": true,
       "creator": "SPEC - Datu Anahi 🌿| Sammy"
+    },
+    {
+      "title": "(Envious Desire) Any Publicity is Good Publicity",
+      "postedAt": 1773358633475,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1481798250817126461",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1773698400:F>",
+      "public": true,
+      "creator": "Madrid"
     }
   ]
 }
