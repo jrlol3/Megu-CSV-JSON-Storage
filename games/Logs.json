@@ -1,5 +1,5 @@
 {
-  "timestamp": 1773392439083,
+  "timestamp": 1773478842592,
   "logs": [
     {
       "master": "@desyov",
@@ -26395,6 +26395,21 @@
         "@aznrcmp as Sullivan"
       ],
       "masterId": "193553881249087488"
+    },
+    {
+      "master": "@seraphim",
+      "title": "[The Horrors of Smoke and Coal] A Ghost, Nothing More.",
+      "postedAt": 1773461410743,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1482229329923670228",
+      "players": [
+        "@sussy_arata as Aston",
+        "@angrykitsu as Mika",
+        "@xavieremix as NULL",
+        "@solaceinfire as Melinoe",
+        "@zatikin as Rene",
+        "@mooshen as PAS-C41"
+      ],
+      "masterId": "108744783031185408"
     }
   ]
 }
