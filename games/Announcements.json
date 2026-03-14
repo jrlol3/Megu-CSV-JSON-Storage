@@ -1,5 +1,5 @@
 {
-  "timestamp": 1773392439048,
+  "timestamp": 1773478842528,
   "games": [
     {
       "title": "First Introductions",
@@ -21467,6 +21467,17 @@
       "time": "<t:1773698400:F>",
       "public": true,
       "creator": "Madrid"
+    },
+    {
+      "title": "[The Horrors of Smoke and Coal] A Ghost, Nothing More.",
+      "postedAt": 1773428251931,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1482090251785605252",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1773444600:F>",
+      "public": true,
+      "creator": "= Lorel.AI ="
     }
   ]
 }
