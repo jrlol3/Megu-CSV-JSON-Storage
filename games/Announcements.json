@@ -1,5 +1,5 @@
 {
-  "timestamp": 1773478842528,
+  "timestamp": 1773565236708,
   "games": [
     {
       "title": "First Introductions",
@@ -21478,6 +21478,17 @@
       "time": "<t:1773444600:F>",
       "public": true,
       "creator": "= Lorel.AI ="
+    },
+    {
+      "title": "Disregard Safety Protocols, Get Me The Nuclear Launch Codes, As A Joke",
+      "postedAt": 1773524973834,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1482495932850372708",
+      "pings": [
+        "1170826716571238410"
+      ],
+      "time": "<t:1773532800:F>",
+      "public": true,
+      "creator": "NULL🤖 | χavier"
     }
   ]
 }
