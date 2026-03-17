@@ -1,5 +1,5 @@
 {
-  "timestamp": 1773651640443,
+  "timestamp": 1773738041428,
   "logs": [
     {
       "master": "@desyov",
@@ -26425,6 +26425,65 @@
         "@oleamollevampie as Wraith"
       ],
       "masterId": "108744783031185408"
+    },
+    {
+      "master": "@xavieremix",
+      "title": "Disregard Safety Protocols, Get Me The Nuclear Launch Codes, As A Joke",
+      "postedAt": 1773685411239,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1483168856099913930",
+      "players": [
+        "@biffmcmanly as Reynaud",
+        "@mutemissy as Mae",
+        "@seraphim as Onyx",
+        "@samikazuki as Edward",
+        "@vittinhodosus as Melinda",
+        "@pidgeon as Caliste"
+      ],
+      "masterId": "181294303622987776"
+    },
+    {
+      "master": "@madrid222",
+      "title": "(Envious Desire) Any Publicity is Good Publicity",
+      "postedAt": 1773707025834,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1483259514282311690",
+      "players": [
+        "@missingpath as Felicity",
+        "@lenpendragon as Felicia",
+        "@leplep as Adelaide",
+        "@oleamollevampie as Fenja",
+        "@dawnhellion as Sheetal"
+      ],
+      "masterId": "173539943426031616"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Eyes in the Stars] Nostalgic Fools",
+      "postedAt": 1773709333263,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1483269192341000275",
+      "players": [
+        "@sirgabite Apollo",
+        "@rastamufasa Perseus",
+        "@schwertaria Adelphel",
+        "@caelum_blue Celine",
+        "@mooshen Elvis",
+        "@phos0947 Fenn"
+      ],
+      "masterId": "153330975575769088"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Fragments of Ambition] Right and Wrong",
+      "postedAt": 1773710120376,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1483272493732069639",
+      "players": [
+        "@letiana Estelle",
+        "@desyov Callum",
+        "@emgry Alois",
+        "@hellion Rajke",
+        "@rastamufasa Calliope",
+        "@paradigm.42 Jaith"
+      ],
+      "masterId": "153330975575769088"
     }
   ]
 }
