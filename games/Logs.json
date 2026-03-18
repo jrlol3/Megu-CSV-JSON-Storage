@@ -1,5 +1,5 @@
 {
-  "timestamp": 1773738041428,
+  "timestamp": 1773824440925,
   "logs": [
     {
       "master": "@desyov",
@@ -26484,6 +26484,34 @@
         "@paradigm.42 Jaith"
       ],
       "masterId": "153330975575769088"
+    },
+    {
+      "master": "@paradigm.42",
+      "title": "[Welcome Respite] A Wild Goose Chase",
+      "postedAt": 1773746355641,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1483424475449000139",
+      "players": [
+        "@mooshen as Lindsey Beck",
+        "@phos0947 as Danny",
+        "@nikkimp as Senna Florenz",
+        "@s1lv3r_r4ng3r_pr1m3 as Gerard de Montagne",
+        "@ironheidcross as Sierra"
+      ],
+      "masterId": "465582019150217226"
+    },
+    {
+      "master": "@incognegro",
+      "title": "The Tale of Slumbering Moose",
+      "postedAt": 1773814175150,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1483708931086876782",
+      "players": [
+        "@emgry as Gabriela",
+        "@desyov as Heron",
+        "@angrykitsu as Sara",
+        "@letiana as Metzli",
+        "@squidlover23 as Victor"
+      ],
+      "masterId": "118899054179516417"
     }
   ]
 }
