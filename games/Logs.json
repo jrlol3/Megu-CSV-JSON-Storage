@@ -1,5 +1,5 @@
 {
-  "timestamp": 1773824440925,
+  "timestamp": 1773910835387,
   "logs": [
     {
       "master": "@desyov",
@@ -26512,6 +26512,47 @@
         "@squidlover23 as Victor"
       ],
       "masterId": "118899054179516417"
+    },
+    {
+      "master": "@galen876",
+      "title": "A Plague Upon Ye!",
+      "postedAt": 1773880102774,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1483985451583930419",
+      "players": [
+        "@leplep as Adelaide",
+        "@lefender as Mikkel",
+        "@angrykitsu as Sara Langley",
+        "@ironheidcross as Sierra",
+        "@_.squibbles._ as Ádhán"
+      ],
+      "masterId": "413926319886303233"
+    },
+    {
+      "master": "@incognegro",
+      "title": "Rest for the Wicked",
+      "postedAt": 1773895156313,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1484048590702903346",
+      "players": [
+        "@zacsper as Axel",
+        "@redhaart as Isolde",
+        "@madrid222 as Dr. Henry",
+        "@enderten as John",
+        "@han69 as Dustin"
+      ],
+      "masterId": "118899054179516417"
+    },
+    {
+      "master": "@seraphim",
+      "title": "[The Holy Water Palace] The Ordinary World.",
+      "postedAt": 1773897255889,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1484057396962922638",
+      "players": [
+        "@leplep as Adelaide",
+        "@aznrcmp as Orizuma",
+        "@saltmammoth as Jing",
+        "@mutemissy as Viliana"
+      ],
+      "masterId": "108744783031185408"
     }
   ]
 }
