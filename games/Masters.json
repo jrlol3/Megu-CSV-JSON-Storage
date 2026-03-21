@@ -1,5 +1,5 @@
 {
-  "timestamp": 1773910835399,
+  "timestamp": 1774083639317,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -22,13 +22,6 @@
       "tier": "GM: World Builder - T2",
       "inGuild": true
     },
-    "@angrykitsu": {
-      "username": "@angrykitsu",
-      "id": "169795599758131200",
-      "gameCount": 97,
-      "tier": "GM: Storyteller - T1",
-      "inGuild": true
-    },
     "@incognegro": {
       "username": "@incognegro",
       "id": "118899054179516417",
@@ -36,16 +29,23 @@
       "tier": "GM: Reality Shaper - T3",
       "inGuild": true
     },
-    "@madamezuri": {
-      "username": "@madamezuri",
-      "id": "457645105122115615",
-      "gameCount": 72,
-      "tier": null,
+    "@angrykitsu": {
+      "username": "@angrykitsu",
+      "id": "169795599758131200",
+      "gameCount": 97,
+      "tier": "GM: Storyteller - T1",
       "inGuild": true
     },
     "@theelusivegin": {
       "username": "@theelusivegin",
       "id": "124671590775390208",
+      "gameCount": 72,
+      "tier": null,
+      "inGuild": true
+    },
+    "@madamezuri": {
+      "username": "@madamezuri",
+      "id": "457645105122115615",
       "gameCount": 72,
       "tier": null,
       "inGuild": true
@@ -60,7 +60,7 @@
     "@missingpath": {
       "username": "@missingpath",
       "id": "181544205796114433",
-      "gameCount": 61,
+      "gameCount": 62,
       "tier": "GM: Reality Shaper - T3",
       "inGuild": true
     },
@@ -155,16 +155,16 @@
       "tier": null,
       "inGuild": false
     },
-    "@solotic.": {
-      "username": "@solotic.",
-      "id": "384371410576998401",
+    "@madrid222": {
+      "username": "@madrid222",
+      "id": "173539943426031616",
       "gameCount": 32,
       "tier": "GM: Storyteller - T1",
       "inGuild": true
     },
-    "@madrid222": {
-      "username": "@madrid222",
-      "id": "173539943426031616",
+    "@solotic.": {
+      "username": "@solotic.",
+      "id": "384371410576998401",
       "gameCount": 32,
       "tier": "GM: Storyteller - T1",
       "inGuild": true
@@ -232,18 +232,18 @@
       "tier": "GM: Storyteller - T1",
       "inGuild": true
     },
-    "@katen_m": {
-      "username": "@katen_m",
-      "id": "404317967585640451",
-      "gameCount": 9,
-      "tier": "GM: Apprentice - T0",
-      "inGuild": true
-    },
     "@jrlol3megu": {
       "username": "@jrlol3megu",
       "id": "464911746088304650",
       "gameCount": 9,
       "tier": null,
+      "inGuild": true
+    },
+    "@katen_m": {
+      "username": "@katen_m",
+      "id": "404317967585640451",
+      "gameCount": 9,
+      "tier": "GM: Apprentice - T0",
       "inGuild": true
     },
     "@saruno": {
@@ -316,9 +316,9 @@
       "tier": null,
       "inGuild": false
     },
-    "@paradigm.42": {
-      "username": "@paradigm.42",
-      "id": "465582019150217226",
+    "@leplep": {
+      "username": "@leplep",
+      "id": "106596968976957440",
       "gameCount": 4,
       "tier": "GM: Apprentice - T0",
       "inGuild": true
@@ -337,6 +337,13 @@
       "tier": null,
       "inGuild": true
     },
+    "@paradigm.42": {
+      "username": "@paradigm.42",
+      "id": "465582019150217226",
+      "gameCount": 4,
+      "tier": "GM: Apprentice - T0",
+      "inGuild": true
+    },
     "@facinarose": {
       "username": "@facinarose",
       "id": "194955560276197377",
@@ -349,13 +356,6 @@
       "id": "66337541518790656",
       "gameCount": 4,
       "tier": "GM: Storyteller - T1",
-      "inGuild": true
-    },
-    "@leplep": {
-      "username": "@leplep",
-      "id": "106596968976957440",
-      "gameCount": 4,
-      "tier": "GM: Apprentice - T0",
       "inGuild": true
     },
     "@vampiremommy": {
@@ -426,6 +426,13 @@
       "id": "95869822574809088",
       "gameCount": 1,
       "tier": "GM: Apprentice - T0",
+      "inGuild": true
+    },
+    "@phos0947": {
+      "username": "@phos0947",
+      "id": "1473745047332847791",
+      "gameCount": 1,
+      "tier": "GM: Storyteller - T1",
       "inGuild": true
     },
     "@saltmammoth": {
