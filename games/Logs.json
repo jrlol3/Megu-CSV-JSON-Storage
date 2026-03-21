@@ -1,5 +1,5 @@
 {
-  "timestamp": 1773910835387,
+  "timestamp": 1774083639253,
   "logs": [
     {
       "master": "@desyov",
@@ -26553,6 +26553,35 @@
         "@mutemissy as Viliana"
       ],
       "masterId": "108744783031185408"
+    },
+    {
+      "master": "@phos0947",
+      "title": "Welcome to Deadstone: All that Glitters",
+      "postedAt": 1773964485929,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1484339380188479685",
+      "players": [
+        "@leplep -Adelaide",
+        "@han69 -Dustin",
+        "@s1lv3r_r4ng3r_pr1m3 -Cassidy",
+        "@nikkimp -Senna",
+        "@doctor_temmie -Agrippa",
+        "@honeydewmelons as Rowan"
+      ],
+      "masterId": "1473745047332847791"
+    },
+    {
+      "master": "@missingpath",
+      "title": "[AVALON] Chaos's Fizzy Surprise",
+      "postedAt": 1774029764708,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1484613179232485456",
+      "players": [
+        "@emgry as Valerie Knight",
+        "@rastamufasa as Henrik Nagy",
+        "@xirozean as Strabo Brightfeathers",
+        "@angrykitsu as Sara Langley",
+        "@agentdj as Cecil Wagner"
+      ],
+      "masterId": "181544205796114433"
     }
   ]
 }
