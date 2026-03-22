@@ -1,5 +1,5 @@
 {
-  "timestamp": 1774083639253,
+  "timestamp": 1774170038857,
   "logs": [
     {
       "master": "@desyov",
@@ -26582,6 +26582,21 @@
         "@agentdj as Cecil Wagner"
       ],
       "masterId": "181544205796114433"
+    },
+    {
+      "master": "@nikolaim.",
+      "title": "[Fade into Myist] The Once Empty Chamber",
+      "postedAt": 1774112995915,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1484962276216672428",
+      "players": [
+        "@mutemissy  as Viliana",
+        "@letiana as Viola",
+        "@honeydewmelons as Rowan",
+        "@seraphim as Coraline",
+        "@asimplehatter as Patience",
+        "@missingpath as Felicity"
+      ],
+      "masterId": "419689143443128321"
     }
   ]
 }
