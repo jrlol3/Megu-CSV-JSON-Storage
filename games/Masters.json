@@ -1,5 +1,5 @@
 {
-  "timestamp": 1774170038873,
+  "timestamp": 1774256439960,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -148,19 +148,19 @@
       "tier": "GM: Storyteller - T1",
       "inGuild": true
     },
+    "@madrid222": {
+      "username": "@madrid222",
+      "id": "173539943426031616",
+      "gameCount": 33,
+      "tier": "GM: Storyteller - T1",
+      "inGuild": true
+    },
     "@phosphophyllite0": {
       "username": "@phosphophyllite0",
       "id": "237438769840652291",
       "gameCount": 33,
       "tier": null,
       "inGuild": false
-    },
-    "@madrid222": {
-      "username": "@madrid222",
-      "id": "173539943426031616",
-      "gameCount": 32,
-      "tier": "GM: Storyteller - T1",
-      "inGuild": true
     },
     "@solotic.": {
       "username": "@solotic.",
@@ -295,6 +295,13 @@
       "tier": null,
       "inGuild": false
     },
+    "@paradigm.42": {
+      "username": "@paradigm.42",
+      "id": "465582019150217226",
+      "gameCount": 5,
+      "tier": "GM: Apprentice - T0",
+      "inGuild": true
+    },
     "@yoshimage": {
       "username": "@yoshimage",
       "id": "180873257480617984",
@@ -335,13 +342,6 @@
       "id": "200273794969894912",
       "gameCount": 4,
       "tier": null,
-      "inGuild": true
-    },
-    "@paradigm.42": {
-      "username": "@paradigm.42",
-      "id": "465582019150217226",
-      "gameCount": 4,
-      "tier": "GM: Apprentice - T0",
       "inGuild": true
     },
     "@facinarose": {
@@ -445,6 +445,13 @@
     "@topsick": {
       "username": "@topsick",
       "id": "210992769890648064",
+      "gameCount": 1,
+      "tier": "GM: Apprentice - T0",
+      "inGuild": true
+    },
+    "@xirozean": {
+      "username": "@xirozean",
+      "id": "194579940992221187",
       "gameCount": 1,
       "tier": "GM: Apprentice - T0",
       "inGuild": true
