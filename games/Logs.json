@@ -1,5 +1,5 @@
 {
-  "timestamp": 1774170038857,
+  "timestamp": 1774256439947,
   "logs": [
     {
       "master": "@desyov",
@@ -26597,6 +26597,48 @@
         "@missingpath as Felicity"
       ],
       "masterId": "419689143443128321"
+    },
+    {
+      "master": "@xirozean",
+      "title": "[Cottontail Incidents] Bees on the Loose!",
+      "postedAt": 1774190738640,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1485288352839241758",
+      "players": [
+        "@zzRococo {🐍} Orizuma as Rocco",
+        "@Fenja (Fen-ya) | Olea as Fenja",
+        "@Ádhán | squibbles as Adhan",
+        "@zzHan as Taiki Ibuki",
+        "@Nikki as Nikki Lovebloom",
+        "@zzArzen Algonst as Arzen Algonst"
+      ],
+      "masterId": "194579940992221187"
+    },
+    {
+      "master": "@paradigm.42",
+      "title": "[Welcome Respite] An OTHERworldly Performance",
+      "postedAt": 1774226530872,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1485438476340957214",
+      "players": [
+        "@aznrcmp as Topal",
+        "@han69 as Renard",
+        "@dragoneldester as Crystalia",
+        "@vittinhodosus as Alice Aschenwald"
+      ],
+      "masterId": "465582019150217226"
+    },
+    {
+      "master": "@madrid222",
+      "title": "(Need More ZENIT!) The Rushed Train Heist",
+      "postedAt": 1774230958842,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1485457048593236199",
+      "players": [
+        "@enderten as John",
+        "@emgry as Gabriela",
+        "@honeydewmelons as Rowan",
+        "@.galebolg. as Arzen",
+        "@squidlover23 as Victor"
+      ],
+      "masterId": "173539943426031616"
     }
   ]
 }
