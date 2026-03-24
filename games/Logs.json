@@ -1,5 +1,5 @@
 {
-  "timestamp": 1774256439947,
+  "timestamp": 1774342836502,
   "logs": [
     {
       "master": "@desyov",
@@ -26639,6 +26639,36 @@
         "@squidlover23 as Victor"
       ],
       "masterId": "173539943426031616"
+    },
+    {
+      "master": "@themattroid",
+      "title": "[Fade into Myist] Trouble in Veyrhold",
+      "postedAt": 1774293401284,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1485718951177752666",
+      "players": [
+        "@Billy Scranner as Maria",
+        "@Ray Midnight/Tarot as Shaw",
+        "@zzTopal {🐍} Orizuma as Elias",
+        "@Felicia | Len as Felisha",
+        "@Ádhán | squibbles as Victor Cassidy",
+        "@zzArzen Algonst as Arzen"
+      ],
+      "masterId": "193553881249087488"
+    },
+    {
+      "master": "@themattroid",
+      "title": "Rotting in the Roots [Any port in a storm]",
+      "postedAt": 1774295635363,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1485728321583976600",
+      "players": [
+        "@xirozean as Strabo",
+        "@leplep as Adelaide Cartwright",
+        "@missingpath as Felicity Rehnisfel",
+        "@mutemissy as Viliana",
+        "@oleamollevampie as Fenja",
+        "@_.squibbles._ as Adhan"
+      ],
+      "masterId": "193553881249087488"
     }
   ]
 }
