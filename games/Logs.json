@@ -1,5 +1,5 @@
 {
-  "timestamp": 1774342836502,
+  "timestamp": 1774429237271,
   "logs": [
     {
       "master": "@desyov",
@@ -26669,6 +26669,34 @@
         "@_.squibbles._ as Adhan"
       ],
       "masterId": "193553881249087488"
+    },
+    {
+      "master": "@incognegro",
+      "title": "The head of a Chicken",
+      "postedAt": 1774386490645,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1486109396256686251",
+      "players": [
+        "@saltmammoth as Jing",
+        "@desyov as Jiafei",
+        "@rastamufasa as Gwendoline",
+        "@seraphim as Caroline",
+        "@leplep as Adelaide",
+        "@jackalmuerto as Shay"
+      ],
+      "masterId": "118899054179516417"
+    },
+    {
+      "master": "@sunny.something",
+      "title": "[Cold-Blooded] Snowcloak",
+      "postedAt": 1774396616870,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1486151868722708563",
+      "players": [
+        "@zatikin as René le Sanctuaire",
+        "@han69 as Absalom Kasand",
+        "@sussy_arata as Aston",
+        "@hangedmantarot as Lyrric Dust"
+      ],
+      "masterId": "181195525914230784"
     }
   ]
 }
