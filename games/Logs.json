@@ -1,5 +1,5 @@
 {
-  "timestamp": 1774429237271,
+  "timestamp": 1774515638738,
   "logs": [
     {
       "master": "@desyov",
@@ -26697,6 +26697,39 @@
         "@hangedmantarot as Lyrric Dust"
       ],
       "masterId": "181195525914230784"
+    },
+    {
+      "master": "@seraphim",
+      "title": "[The Once Great Sects] Prelude",
+      "postedAt": 1774487492269,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1486533027772371033",
+      "players": [
+        "@lenpendragon as Lin Baimei",
+        "@katen_m as Beryl (But not Beryl probably)",
+        "@saltmammoth as Jing",
+        "@sussy_arata as Lin Shen",
+        "@rastamufasa as Muchen",
+        "@honeydewmelons as Shenrui",
+        "@sirgabite as Féng Líhuà",
+        "@schwertaria as Yuel",
+        "@enderten as Siwu",
+        "@letiana as Saroja",
+        "@aznrcmp as Topal"
+      ],
+      "masterId": "108744783031185408"
+    },
+    {
+      "master": "@r10",
+      "title": "[Drums of War] Hungry Like The Wolf",
+      "postedAt": 1774491666891,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1486550537406124254",
+      "players": [
+        "@angrykitsu as Sara",
+        "@han69 as Dustin",
+        "@emgry as Gabriela",
+        "@desyov as Heron"
+      ],
+      "masterId": "132288834560983040"
     }
   ]
 }
