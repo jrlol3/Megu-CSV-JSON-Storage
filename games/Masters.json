@@ -1,5 +1,5 @@
 {
-  "timestamp": 1774515638752,
+  "timestamp": 1774602036061,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -18,7 +18,7 @@
     "@seraphim": {
       "username": "@seraphim",
       "id": "108744783031185408",
-      "gameCount": 108,
+      "gameCount": 109,
       "tier": "GM: World Builder - T2",
       "inGuild": true
     },
@@ -120,18 +120,18 @@
       "tier": null,
       "inGuild": true
     },
+    "@letiana": {
+      "username": "@letiana",
+      "id": "299015281853071360",
+      "gameCount": 41,
+      "tier": "GM: World Builder - T2",
+      "inGuild": true
+    },
     "@xavieremix": {
       "username": "@xavieremix",
       "id": "181294303622987776",
       "gameCount": 41,
       "tier": "GM: Storyteller - T1",
-      "inGuild": true
-    },
-    "@letiana": {
-      "username": "@letiana",
-      "id": "299015281853071360",
-      "gameCount": 40,
-      "tier": "GM: World Builder - T2",
       "inGuild": true
     },
     "@mike_miguel_michael": {
@@ -372,6 +372,13 @@
       "tier": "GM: Apprentice - T0",
       "inGuild": true
     },
+    "@r10": {
+      "username": "@r10",
+      "id": "132288834560983040",
+      "gameCount": 3,
+      "tier": "GM: Apprentice - T0",
+      "inGuild": true
+    },
     "@ijiyiji": {
       "username": "@ijiyiji",
       "id": "980973537739280384",
@@ -396,13 +403,6 @@
     "@corath16": {
       "username": "@corath16",
       "id": "185490926389559305",
-      "gameCount": 2,
-      "tier": "GM: Apprentice - T0",
-      "inGuild": true
-    },
-    "@r10": {
-      "username": "@r10",
-      "id": "132288834560983040",
       "gameCount": 2,
       "tier": "GM: Apprentice - T0",
       "inGuild": true
