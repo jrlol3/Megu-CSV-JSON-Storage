@@ -1,5 +1,5 @@
 {
-  "timestamp": 1774515638738,
+  "timestamp": 1774602036048,
   "logs": [
     {
       "master": "@desyov",
@@ -26730,6 +26730,48 @@
         "@desyov as Heron"
       ],
       "masterId": "132288834560983040"
+    },
+    {
+      "master": "@letiana",
+      "title": "[Righteous Anger] Champion’s Trial",
+      "postedAt": 1774580847287,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1486924587097915422",
+      "players": [
+        "@solotic. as Noel",
+        "@missingpath as Gawain",
+        "@samikazuki as Anahi",
+        "@sirgabite aas Apollo",
+        "@rastamufasa as Perseus",
+        "@madrid222 as Orion"
+      ],
+      "masterId": "299015281853071360"
+    },
+    {
+      "master": "@r10",
+      "title": "[Drums of War] Lets Go To the Hop",
+      "postedAt": 1774581880249,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1486928919654436865",
+      "players": [
+        "@zacsper as Axel",
+        "@redhaart as Isolde",
+        "@letiana as Metzli",
+        "@samikazuki as Ook Nii-Suu",
+        "@asimplehatter as Patience"
+      ],
+      "masterId": "132288834560983040"
+    },
+    {
+      "master": "@seraphim",
+      "title": "[The Once Great Sects] A Humble Disagreement",
+      "postedAt": 1774582565510,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1486931793847521280",
+      "players": [
+        "@han69 as Taiki",
+        "@desyov as Jiafei",
+        "@solotic. as Nathan",
+        "@saltmammoth as Jing"
+      ],
+      "masterId": "108744783031185408"
     }
   ]
 }
