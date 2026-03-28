@@ -1,5 +1,5 @@
 {
-  "timestamp": 1774602036061,
+  "timestamp": 1774688438960,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -32,7 +32,7 @@
     "@angrykitsu": {
       "username": "@angrykitsu",
       "id": "169795599758131200",
-      "gameCount": 97,
+      "gameCount": 98,
       "tier": "GM: Storyteller - T1",
       "inGuild": true
     },
@@ -204,19 +204,19 @@
       "tier": "GM: Apprentice - T0",
       "inGuild": true
     },
+    "@sleepy_bernkastel": {
+      "username": "@sleepy_bernkastel",
+      "id": "308792711274692610",
+      "gameCount": 15,
+      "tier": "GM: Storyteller - T1",
+      "inGuild": true
+    },
     "@vievinvalor": {
       "username": "@vievinvalor",
       "id": "169054863978790913",
       "gameCount": 14,
       "tier": null,
       "inGuild": false
-    },
-    "@sleepy_bernkastel": {
-      "username": "@sleepy_bernkastel",
-      "id": "308792711274692610",
-      "gameCount": 12,
-      "tier": "GM: Storyteller - T1",
-      "inGuild": true
     },
     "@caelum_blue": {
       "username": "@caelum_blue",
