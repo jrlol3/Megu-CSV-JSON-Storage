@@ -1,5 +1,5 @@
 {
-  "timestamp": 1774602036048,
+  "timestamp": 1774688438910,
   "logs": [
     {
       "master": "@desyov",
@@ -26772,6 +26772,64 @@
         "@saltmammoth as Jing"
       ],
       "masterId": "108744783031185408"
+    },
+    {
+      "master": "@sleepy_bernkastel",
+      "title": "A Foolish Artist's Return",
+      "postedAt": 1774638045011,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1487164491740217345",
+      "players": [
+        "@agentdj as Oscar",
+        "@asimplehatter as Frederick",
+        "@han69 as Absalom",
+        "@solaceinfire as Melinoe",
+        "@themattroid as Satsuki",
+        "@sunny.something as Blue Bolt"
+      ],
+      "masterId": "308792711274692610"
+    },
+    {
+      "master": "@sleepy_bernkastel",
+      "title": "Meijuku: An Adventure!",
+      "postedAt": 1774639383227,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1487170104625074348",
+      "players": [
+        "@solcarona as Ai Xianyu",
+        "@agentdj as Cecil",
+        "@rastamufasa as Gwendoline",
+        "@.galebolg. as Arzen",
+        "@iamthorium as Gadget",
+        "@sirgabite as Mordred"
+      ],
+      "masterId": "308792711274692610"
+    },
+    {
+      "master": "@sleepy_bernkastel",
+      "title": "[AVALON] Pre-Tournament Warm Ups, Food Fight!",
+      "postedAt": 1774639894004,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1487172246979084419",
+      "players": [
+        "@madrid222 as Marcus",
+        "@mooshen as Lindsey",
+        "@doctor_temmie as Agrippa",
+        "@caelum_blue as Morgana",
+        "@solcarona as Caellica"
+      ],
+      "masterId": "308792711274692610"
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "The Dawning of the Storm Pt. 1",
+      "postedAt": 1774651603540,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1487221360332898505",
+      "players": [
+        "@schwertaria as Tsuru Inoue",
+        "@katen_m as Takane Ichiro",
+        "@sussy_arata as Ishikawa Shishiro",
+        "@galen876 Uto Masahide Miyabi",
+        "@fluffbet  Akiyama Takano"
+      ],
+      "masterId": "169795599758131200"
     }
   ]
 }
