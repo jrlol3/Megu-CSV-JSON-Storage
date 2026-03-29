@@ -1,5 +1,5 @@
 {
-  "timestamp": 1774688438878,
+  "timestamp": 1774774843248,
   "games": [
     {
       "title": "First Introductions",
@@ -21997,6 +21997,28 @@
         "1170826554914373652"
       ],
       "time": "<t:1774911600:F>",
+      "public": true,
+      "creator": "==- Its just a job -=="
+    },
+    {
+      "title": "[Fragments of Ambition] Incarnation of Desire",
+      "postedAt": 1774722740840,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1487519731794837646",
+      "pings": [
+        "1170826716571238410"
+      ],
+      "time": "<t:1775257200:F>",
+      "public": true,
+      "creator": "==- Its just a job -=="
+    },
+    {
+      "title": "[Trials of Magic] A new gems debut",
+      "postedAt": 1774722986077,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1487520760393109725",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1775340000:F>",
       "public": true,
       "creator": "==- Its just a job -=="
     }
