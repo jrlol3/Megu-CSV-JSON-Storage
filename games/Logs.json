@@ -1,5 +1,5 @@
 {
-  "timestamp": 1774688438910,
+  "timestamp": 1774774843272,
   "logs": [
     {
       "master": "@desyov",
@@ -26830,6 +26830,35 @@
         "@fluffbet  Akiyama Takano"
       ],
       "masterId": "169795599758131200"
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "The Dawning of the Storm Pt. 2",
+      "postedAt": 1774713898689,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1487482645125402824",
+      "players": [
+        "@Lep as Midori",
+        "@Olea as Chieko Miyashiro",
+        "@Solace as Mizuki",
+        "@Sleepy as Asahi",
+        "@Sunny as Irobe Akinaga"
+      ],
+      "masterId": "169795599758131200"
+    },
+    {
+      "master": "@themattroid",
+      "title": "[A Crimson Trail] Welcome to Brindlewatch",
+      "postedAt": 1774756924462,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1487663108297326663",
+      "players": [
+        "@zz As Nathan",
+        "@Basil | Rastamufasa as Hendrik",
+        "@Fernia as Viliana",
+        "@Amaranth & Quicktongue as Loveno",
+        "@Rowan | Medja as Rowan",
+        "@Kit | EnderTen as John"
+      ],
+      "masterId": "193553881249087488"
     }
   ]
 }
