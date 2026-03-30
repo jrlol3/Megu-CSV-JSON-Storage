@@ -1,5 +1,5 @@
 {
-  "timestamp": 1774774843272,
+  "timestamp": 1774861239379,
   "logs": [
     {
       "master": "@desyov",
@@ -26859,6 +26859,202 @@
         "@Kit | EnderTen as John"
       ],
       "masterId": "193553881249087488"
+    },
+    {
+      "master": "@caelum_blue",
+      "title": "Firwood: a Prelude to Spring",
+      "postedAt": 1774821061818,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1487932119866151013",
+      "players": [
+        "TEAM FIRWOOD:",
+        "@.galebolg. as Arzen Algonst",
+        "@2naf1sh as \"Old Bat\" Gojko",
+        "@solcarona as Caelica Ronara",
+        "@nut_wizard as Quill of Iburri",
+        "",
+        "TEAM GOLDHEARTED:",
+        "@han69 as Taiki Ibuki",
+        "@honeydewmelons as Rowan Vale"
+      ],
+      "masterId": "886623433306288158"
+    },
+    {
+      "master": "@caelum_blue",
+      "title": "Firwood: Of Flags & Flowers",
+      "postedAt": 1774822392265,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1487937700165193738",
+      "players": [
+        "@schwertaria as Féin",
+        "@iamthorium as Gadget",
+        "@obscurepersona as Rasho",
+        "@xirozean as Strabo",
+        "@han69 as Taiki",
+        "@jackalmuerto as Shay"
+      ],
+      "masterId": "886623433306288158"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Trials of Magic] Field Tests",
+      "postedAt": 1774828756174,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1487964392334295190",
+      "players": [
+        "@saltmammoth Desiree",
+        "@solaceinfire Melinoe",
+        "@sussy_arata Aston",
+        "@spiralhorizon Mithreign",
+        "@ironheidcross Kenji",
+        "@honeydewmelons Shenrui"
+      ],
+      "masterId": "153330975575769088"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Fragments of Ambition] The Desire for Justice",
+      "postedAt": 1774829026339,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1487965525488173166",
+      "players": [
+        "@flaahn Taavi",
+        "@redhaart Alyx",
+        "@desyov Callum",
+        "@zacsper Percy",
+        "@caelum_blue Mutt",
+        "@fluffbet Garnier"
+      ],
+      "masterId": "153330975575769088"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Trials of Magic] Knight of Grief",
+      "postedAt": 1774829426083,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1487967202136166551",
+      "players": [
+        "@sleepy_bernkastel Poppy",
+        "@mutemissy Maria",
+        "@oleamollevampie Frigg",
+        "@mooshen PAS-C41",
+        "@foxfacesuicide Levius",
+        "@phos0947 Annette"
+      ],
+      "masterId": "153330975575769088"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Trials of Magic] The Raid",
+      "postedAt": 1774829673483,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1487968239806972006",
+      "players": [
+        "@sunny.something Blue Bolt",
+        "@mooshen Artemis",
+        "@hangedmantarot Ray",
+        "@spiralhorizon Mithreign",
+        "@solcarona Ai Xianyu",
+        "@han69 Taiki"
+      ],
+      "masterId": "153330975575769088"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Eyes in the Stars] Faulty Connections",
+      "postedAt": 1774830018995,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1487969688989470851",
+      "players": [
+        "@angrykitsu Izumi Shiori",
+        "@phos0947 \"Fenn\"",
+        "@aznrcmp Orizuma",
+        "@mutemissy Fernia",
+        "@xavieremix Vista",
+        "@oleamollevampie Wraith"
+      ],
+      "masterId": "153330975575769088"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Eyes in the Stars] Stained Honor",
+      "postedAt": 1774830724704,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1487972648947417239",
+      "players": [
+        "@missingpath Ebb",
+        "@galen876 Waylen",
+        "@enderten Bernhard",
+        "@hangedmantarot Mort"
+      ],
+      "masterId": "153330975575769088"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Eyes in the Stars] Fertile Fields",
+      "postedAt": 1774831357132,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1487975301542838437",
+      "players": [
+        "@mutemissy Fernia",
+        "@mooshen Elvis",
+        "@oleamollevampie Wraith",
+        "@phos0947 \"Fenn\"",
+        "@sleepy_bernkastel Kawa",
+        "@solaceinfire Saki"
+      ],
+      "masterId": "153330975575769088"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Cry of Nature] Rage against change",
+      "postedAt": 1774831708480,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1487976775202902046",
+      "players": [
+        "@oleamollevampie Wraith",
+        "@aznrcmp Orizuma",
+        "@paradigm.42 Retti",
+        "@nikolaim. Cyph",
+        "@squidlover23 Timothy",
+        "@leplep Orpheus"
+      ],
+      "masterId": "153330975575769088"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Fragments of Desire] The Spark",
+      "postedAt": 1774832962462,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1487982034784882688",
+      "players": [
+        "@phos0947 Danny",
+        "@leplep Adelaide",
+        "@doctor_temmie Agrippa",
+        "@vittinhodosus Alice",
+        "@oleamollevampie Fenja",
+        "@angrykitsu Mika"
+      ],
+      "masterId": "153330975575769088"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Trials of Magic] \"FRIEND\"ship is magic",
+      "postedAt": 1774834236517,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1487987378558730300",
+      "players": [
+        "@mutemissy Maria",
+        "@sleepy_bernkastel Poppy",
+        "@mooshen PAS-C41",
+        "@seraphim Void",
+        "@sussy_arata Aston",
+        "@solaceinfire Melinoe"
+      ],
+      "masterId": "153330975575769088"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Fade into Myist] Greeting the Maw. Facing the hound.",
+      "postedAt": 1774834749406,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1487989529770987540",
+      "players": [
+        "@rastamufasa Henrik",
+        "@agentdj Cecil",
+        "@sussy_arata Nora",
+        "@phos0947 Petra",
+        "@leplep Adelaide",
+        "@sirgabite Mordred"
+      ],
+      "masterId": "153330975575769088"
     }
   ]
 }
