@@ -1,5 +1,5 @@
 {
-  "timestamp": 1774947640354,
+  "timestamp": 1775034041145,
   "logs": [
     {
       "master": "@desyov",
@@ -27055,6 +27055,437 @@
         "@sirgabite Mordred"
       ],
       "masterId": "153330975575769088"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Termina City] Fianna's Sforzato",
+      "postedAt": 1774986343135,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1488625359954903202",
+      "players": [
+        "@sawzie as MJ",
+        "@.galebolg. as Cypher",
+        "@sleepy_bernkastel as Kawa",
+        "@solaceinfire as Saki",
+        "@rastamufasa as Basil"
+      ],
+      "masterId": "173547590694993920"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Musashi's Infinity] : Finding Loose Threads",
+      "postedAt": 1774986553619,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1488626242789048363",
+      "players": [
+        "@angrykitsu as Shiori",
+        "@phosphophyllite0 as Keiko",
+        "@seraphim aphim as Kohaku",
+        "@galen876 as Xing Wei",
+        "@starfir54 as Tomiko",
+        "@katen_m as Beryl/Zhen/Elliot"
+      ],
+      "masterId": "173547590694993920"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Musashi's Infinity] The Race Against Time",
+      "postedAt": 1774986901426,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1488627701597212672",
+      "players": [
+        "@angrykitsu as Shiori",
+        "@phosphophyllite0 as Keiko",
+        "@xavieremix as Vista",
+        "@madrid222 as Tsuihou",
+        "@seraphim as Kohaku",
+        "@solotic. as Noel"
+      ],
+      "masterId": "173547590694993920"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Friendship is Madness] : Teamwork Makes...",
+      "postedAt": 1774990053779,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1488640923524005969",
+      "players": [
+        "@han69 as Renard",
+        "@spiralhorizon as Mithreign",
+        "@honeydewmelons as Shenrui",
+        "@pidgeon as Julia",
+        "@mooshen as Shi Kuilei"
+      ],
+      "masterId": "173547590694993920"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Termina City] : Disco Dioscuri",
+      "postedAt": 1774990555353,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1488643027277713511",
+      "players": [
+        "@sleepy_bernkastel as Kawa",
+        "@solaceinfire as Saki",
+        "@mutemissy as Fernia",
+        "@nikolaim. as Cyph",
+        "@schwertaria as Tatsuya",
+        "@squidlover23 as Timothy"
+      ],
+      "masterId": "173547590694993920"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Termina City] : Weapon of Last Resort",
+      "postedAt": 1774991145505,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1488645502554603713",
+      "players": [
+        "@sleepy_bernkastel as Kawa",
+        "@solaceinfire as Saki",
+        "@mutemissy as Fernia",
+        "@enderten as Kit",
+        "@rastamufasa as Basil"
+      ],
+      "masterId": "173547590694993920"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Termina City] : Blossoming. Withering. Forgiveness.",
+      "postedAt": 1774991572766,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1488647294617391217",
+      "players": [
+        "@mutemissy as Fernia",
+        "@sleepy_bernkastel as Kawa",
+        "@solaceinfire as Saki",
+        "@rastamufasa as Basil",
+        "@enderten as Kit",
+        "@nikolaim. as Cyph"
+      ],
+      "masterId": "173547590694993920"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Musashi's Infinity] : A Shogun's Gambit",
+      "postedAt": 1774992012890,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1488649140630982819",
+      "players": [
+        "@angrykitsu as Shiori",
+        "@xavieremix as Vista",
+        "@madrid222 as Tsuihou",
+        "@oleamollevampie as Rue",
+        "@honeydewmelons as Isolde"
+      ],
+      "masterId": "173547590694993920"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Musashi's Infinity] : Imouto to Iori",
+      "postedAt": 1774993025833,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1488653389222121702",
+      "players": [
+        "@angrykitsu as Shiori",
+        "@phosphophyllite0 as Keiko",
+        "@paradigm.42 as Enlai",
+        "@starfir54 as Tomiko"
+      ],
+      "masterId": "173547590694993920"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Uzume's Grace] : Inviting the Host",
+      "postedAt": 1774993459740,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1488655209159725136",
+      "players": [
+        "@lenpendragon as Izu",
+        "@paradigm.42 as Enlai",
+        "@facinarose as Akiko",
+        "@nikolaim. as Cyph",
+        "@squidlover23 as Timothy",
+        "@aznrcmp as Orizuma"
+      ],
+      "masterId": "173547590694993920"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Uzume's Grace] : Parade of 1000 Lights - Capital to Purity",
+      "postedAt": 1775000846126,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1488686189908070500",
+      "players": [
+        "@lenpendragon as Izu",
+        "@paradigm.42 as Enlai",
+        "@emgry as Hiya",
+        "@honeydewmelons as Isolde",
+        "@madrid222 as Orion"
+      ],
+      "masterId": "173547590694993920"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Uzume's Grace] : Parade of 1000 Lights - Road to Murata",
+      "postedAt": 1775001203658,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1488687689505968278",
+      "players": [
+        "@honeydewmelons as Isolde",
+        "@.galebolg. as Cypher",
+        "@madrid222 as Tsuihou",
+        "@lenpendragon as Izu",
+        "@starfir54 as Star"
+      ],
+      "masterId": "173547590694993920"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Uzume's Grace] : The Crane Who Caught The Ox",
+      "postedAt": 1775001430343,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1488688640291897508",
+      "players": [
+        "@seraphim as Kohaku",
+        "@lenpendragon as Izu",
+        "@aznrcmp as Orizume",
+        "@sleepy_bernkastel as Caspain (Water guy #1)",
+        "@solaceinfire as Aelina (Water guy #2)",
+        "@saltmammoth as Lynne-4"
+      ],
+      "masterId": "173547590694993920"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Friendship is Madness] ...the Dream Work!",
+      "postedAt": 1775001656919,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1488689590620524644",
+      "players": [
+        "@mooshen as Shi",
+        "@pidgeon as Swarm",
+        "@honeydewmelons as Shenrui",
+        "@spiralhorizon as Mithreign",
+        "@han69 as Renard"
+      ],
+      "masterId": "173547590694993920"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Sweet Sins] Always Room For Dessert",
+      "postedAt": 1775002325497,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1488692394839769343",
+      "players": [
+        "@seraphim as Onyx",
+        "@letiana as Royce",
+        "@desyov as Anki",
+        "@han69 as Garmir",
+        "@mutemissy as Natalia"
+      ],
+      "masterId": "173547590694993920"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "A guide to those lost in the dark",
+      "postedAt": 1775003145489,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1488695834135498933",
+      "players": [
+        "@rastamufasa Henrik",
+        "@letiana Viola",
+        "@sirgabite Mordred",
+        "@iamthorium Gadget",
+        "@madrid222 Dr. Henry Calvin",
+        "@honeydewmelons Rowan"
+      ],
+      "masterId": "153330975575769088"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Uzume's Grace] : Parade of 1000 Lights - Hanae's Happy Birthday",
+      "postedAt": 1775003169762,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1488695935943970958",
+      "players": [
+        "@madrid222 as Tsuihou",
+        "@facinarose as Akiko",
+        "@missingpath as Rin",
+        "@_.squibbles._ as Kanon",
+        "@solaceinfire as Naomi (if you get training :D)",
+        "@oleamollevampie as Rue (Merchant prio)"
+      ],
+      "masterId": "173547590694993920"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "The Prized Picture",
+      "postedAt": 1775003924500,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1488699101544579283",
+      "players": [
+        "@sussy_arata Nora",
+        "@phos0947 Petra",
+        "@jackalmuerto Shay",
+        "@samikazuki Ook",
+        "@missingpath Felicity",
+        "@seraphim Coraline"
+      ],
+      "masterId": "153330975575769088"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Termina City] The Final Wave - Grand Migration",
+      "postedAt": 1775004298214,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1488700669014835290",
+      "players": [
+        "@sirgabite Ezekiel",
+        "@han69 Garmir",
+        "@spiralhorizon RVN-H1 \"Reaver\"",
+        "@saltmammoth Amaranth",
+        "@asimplehatter Frederick",
+        "@aznrcmp Sullivan"
+      ],
+      "masterId": "153330975575769088"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "Wolves Crusade",
+      "postedAt": 1775004604381,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1488701953172312157",
+      "players": [
+        "@samikazuki Ook",
+        "@missingpath Felicity",
+        "@hellion Corvin",
+        "@oleamollevampie Chieko",
+        "@leplep Anzai",
+        "@han69 Eusebiu"
+      ],
+      "masterId": "153330975575769088"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Friendship is Madness] : Enter! Pop n' Socket",
+      "postedAt": 1775005261802,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1488704710595706890",
+      "players": [
+        "@honeydewmelons as Shenrui",
+        "@han69 as Renard",
+        "@enderten as Siwu",
+        "@xirozean as Zinnia"
+      ],
+      "masterId": "173547590694993920"
+    },
+    {
+      "master": "@starfir54",
+      "title": "[Termina City] The Final Wave",
+      "postedAt": 1775006677977,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1488710650464043108",
+      "players": [
+        "@rastamufasta as Basil",
+        "@enderten as Kit",
+        "@brooms as Cyrus",
+        "@sleepybernkastel as Kawa",
+        "@solaceinfire as Saki",
+        "@mutemissy as Fernia",
+        "@schwertaria as Tatsuya",
+        "@lenpendragon as Elaine",
+        "@2naf1sh as Gladi"
+      ],
+      "masterId": "491765200727310337"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Uzume's Grace] : Parade of 1000 Lights - Journey to Meijuku - Pt. 1",
+      "postedAt": 1775007113757,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1488712478257975396",
+      "players": [
+        "@themattroid as Satsuki",
+        "@hangedmantarot as Ray",
+        "@obscurepersona as Zaid",
+        "@nikolaim. as Dujom",
+        "@zatikin as René"
+      ],
+      "masterId": "173547590694993920"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Termina City] The Final Wave - Ace Up Our Sleeve",
+      "postedAt": 1775008472905,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1488718178937999361",
+      "players": [
+        "@nikolaim. as Cyph",
+        "@leplep as Orpheus",
+        "@squidlover23 as Timothy",
+        "@desyov as Faust",
+        "@_.squibbles._ as Stock",
+        "@paradigm.42 as Retti"
+      ],
+      "masterId": "173547590694993920"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Uzume's Grace] : Parade of 1000 Lights - Journey to Meijuku Pt. 2",
+      "postedAt": 1775008691891,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1488719097431851170",
+      "players": [
+        "@themattroid as Satsuki",
+        "@hangedmantarot as Ray",
+        "@obscurepersona as Zaid",
+        "@nikolaim. as Dujom",
+        "@zatikin as René"
+      ],
+      "masterId": "173547590694993920"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Termina City] : A Shark Out of Water",
+      "postedAt": 1775008890997,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1488719932542816366",
+      "players": [
+        "@schwertaria as Tatsuya",
+        "@nikolaim. as Cyph"
+      ],
+      "masterId": "173547590694993920"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Friendship is Madness] : Tense Negotiations",
+      "postedAt": 1775010586928,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1488727045792989215",
+      "players": [
+        "@lenpendragon as Olivia",
+        "@aznrcmp as Lyssa",
+        "@katen_m as Celestyn",
+        "@sleepy_bernkastel as Théodore"
+      ],
+      "masterId": "173547590694993920"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Termina City] Island of Aeaea",
+      "postedAt": 1775010782392,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1488727865628557322",
+      "players": [
+        "@schwertaria Tatsuya",
+        "@nikolaim. Cyph",
+        "@foxfacesuicide Icarus",
+        "@the_1spark Zora",
+        "@sussy_arata Lin Shen",
+        "@seraphim Trif"
+      ],
+      "masterId": "173547590694993920"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Heavenly Tribulation] A Fox's Lone Truth",
+      "postedAt": 1775010945067,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1488728547936829534",
+      "players": [
+        "@missingpath as Rin",
+        "@emgry as Hiya",
+        "@lenpendragon as Izu",
+        "@seraphim as Kohaku"
+      ],
+      "masterId": "173547590694993920"
+    },
+    {
+      "master": "@xirozean",
+      "title": "[Cottontail Incidents] The Harvest",
+      "postedAt": 1775015687095,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1488748437443711137",
+      "players": [
+        "@Shay | Rusty as Leslie Shay",
+        "@zzikkimp as Juna Azelhart",
+        "@Kenji as About to get folded as Sierra",
+        "@zzÁdhán | squibbles as Ádhán",
+        "@Agrippa⚽⁴⁶⭐³¹🪑⁹|Temmie as Agrippa Molide",
+        "@zzThe Squeaker as Arzen Algonst"
+      ],
+      "masterId": "194579940992221187"
     }
   ]
 }
