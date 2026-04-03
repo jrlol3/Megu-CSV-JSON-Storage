@@ -1,5 +1,5 @@
 {
-  "timestamp": 1775120444712,
+  "timestamp": 1775206843836,
   "logs": [
     {
       "master": "@desyov",
@@ -27486,6 +27486,21 @@
         "@zzThe Squeaker as Arzen Algonst"
       ],
       "masterId": "194579940992221187"
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "Get Yo Paper Up",
+      "postedAt": 1775190923806,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1489483433481863209",
+      "players": [
+        "@r10 as Sirius Proudmoore",
+        "@seraphim as Coraline",
+        "@pidgeon as Julia",
+        "@sussy_arata as Ishikawa",
+        "@sirgabite as Mordred",
+        "@emgry as Rachael"
+      ],
+      "masterId": "283019070578753536"
     }
   ]
 }
