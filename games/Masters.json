@@ -1,5 +1,5 @@
 {
-  "timestamp": 1775206843851,
+  "timestamp": 1775293241007,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -113,18 +113,18 @@
       "tier": "GM: Storyteller - T1",
       "inGuild": true
     },
+    "@letiana": {
+      "username": "@letiana",
+      "id": "299015281853071360",
+      "gameCount": 42,
+      "tier": "GM: World Builder - T2",
+      "inGuild": true
+    },
     "@vittinhodosus": {
       "username": "@vittinhodosus",
       "id": "178906027914297344",
       "gameCount": 42,
       "tier": null,
-      "inGuild": true
-    },
-    "@letiana": {
-      "username": "@letiana",
-      "id": "299015281853071360",
-      "gameCount": 41,
-      "tier": "GM: World Builder - T2",
       "inGuild": true
     },
     "@xavieremix": {
