@@ -1,5 +1,5 @@
 {
-  "timestamp": 1775293240985,
+  "timestamp": 1775379642636,
   "logs": [
     {
       "master": "@desyov",
@@ -27516,6 +27516,21 @@
         "@han69 as Garmir"
       ],
       "masterId": "299015281853071360"
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "[The Fault In the Stars] Now’s Original Sin",
+      "postedAt": 1775307372800,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1489971855963062362",
+      "players": [
+        "@xirozean as Ferry",
+        "@incognegro as Kviss",
+        "@missingpath as Ebb",
+        "@saltmammoth as Amaranth",
+        "@desyov as Anki",
+        "@paradigm.42 as Enlai"
+      ],
+      "masterId": "365605862615810049"
     }
   ]
 }
