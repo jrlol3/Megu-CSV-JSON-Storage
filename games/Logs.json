@@ -1,5 +1,5 @@
 {
-  "timestamp": 1775379642636,
+  "timestamp": 1775466041692,
   "logs": [
     {
       "master": "@desyov",
@@ -27531,6 +27531,19 @@
         "@paradigm.42 as Enlai"
       ],
       "masterId": "365605862615810049"
+    },
+    {
+      "master": "@incognegro",
+      "title": "[The Once Great Sects] [Reach Heaven Through Violence] Pools: Lipika Vs Bao Lei",
+      "postedAt": 1775445815276,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1490552525793919167",
+      "players": [
+        "@madrid222 as Tsuiho",
+        "@missingpath as Rin",
+        "@emgry as Hiya",
+        "@_.squibbles._ as Kanon"
+      ],
+      "masterId": "118899054179516417"
     }
   ]
 }
