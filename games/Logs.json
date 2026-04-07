@@ -1,5 +1,5 @@
 {
-  "timestamp": 1775466041692,
+  "timestamp": 1775552440050,
   "logs": [
     {
       "master": "@desyov",
@@ -27544,6 +27544,81 @@
         "@_.squibbles._ as Kanon"
       ],
       "masterId": "118899054179516417"
+    },
+    {
+      "master": "@galen876",
+      "title": "[The Once Great Sects] Qi Condensation Realm Northwest Bracket",
+      "postedAt": 1775514808746,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1490841905381249096",
+      "players": [
+        "@doctor_temmie as Agrippa",
+        "@sherifmisho as Alysone",
+        "@sleepy_bernkastel as Asahi",
+        "@r10 as Sirius",
+        "@solcarona as Xianyu",
+        "@han69 as Taiki"
+      ],
+      "masterId": "413926319886303233"
+    },
+    {
+      "master": "@xirozean",
+      "title": "[Cottontail Incidents] The Lost Farmers",
+      "postedAt": 1775543017223,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1490960220308902018",
+      "players": [
+        "@lenpendragon as Felicia Rehinsfel",
+        "@solcarona as Caellica Ronara",
+        "@jvdragoon as Dira",
+        "@phos0947 as Petra",
+        "@samikazuki as Ook Nii-Suu",
+        "@rastamufasa as Gwendoline of Hearthome"
+      ],
+      "masterId": "194579940992221187"
+    },
+    {
+      "master": "@xirozean",
+      "title": "[To Find A Cure] The Court Of Owls",
+      "postedAt": 1775544491577,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1490966404197781526",
+      "players": [
+        "@Henrik | Radda ඞ as Gwendoline of Hearthome",
+        "@Xianyu | Filke as Caellica",
+        "@Gadget 🦊 | Thorium as Gadget",
+        "@zzmoosh as Lindsey Beck",
+        "@Sullivan {🐍} Orizuma as Rococo",
+        "@zzCórdoba | nut as Quill, of Iburri"
+      ],
+      "masterId": "194579940992221187"
+    },
+    {
+      "master": "@xirozean",
+      "title": "[The Fellowship's Challenge] Enmity",
+      "postedAt": 1775546391921,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1490974374818353223",
+      "players": [
+        "@ZzCharlotte as Charlotte",
+        "@zzHan as Taiki Ibuki",
+        "@Xianyu | Filke as Caellica",
+        "@zzRasho 🦦- Jace as Rasho Tenderfoot",
+        "@Kanon | squibbles as Ádhán",
+        "@Arzen Algonst as Arzen Algonst"
+      ],
+      "masterId": "194579940992221187"
+    },
+    {
+      "master": "@xirozean",
+      "title": "[Catching A Fox's Tail] A Summer Dream",
+      "postedAt": 1775547587752,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1490979390497230901",
+      "players": [
+        "@Arzen Algonst as Arzen Algonst",
+        "@Ook 🧿| Sammy as Ook Nii-Suu",
+        "@Shay | Rusty as Leslie Shay",
+        "@Octavia & Syl-liam as Octavia Zene",
+        "@ZzCharlotte as Charlotte",
+        "@zzRasho 🦦- Jace as Rasho Tenderfoot"
+      ],
+      "masterId": "194579940992221187"
     }
   ]
 }
