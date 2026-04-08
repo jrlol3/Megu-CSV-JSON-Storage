@@ -1,5 +1,5 @@
 {
-  "timestamp": 1775552440050,
+  "timestamp": 1775638843376,
   "logs": [
     {
       "master": "@desyov",
@@ -27619,6 +27619,35 @@
         "@zzRasho 🦦- Jace as Rasho Tenderfoot"
       ],
       "masterId": "194579940992221187"
+    },
+    {
+      "master": "@phos0947",
+      "title": "Deal or No Deal",
+      "postedAt": 1775598689156,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1491193725320171580",
+      "players": [
+        "@han69 as Dustin",
+        "@billyscrannerx",
+        "@nikkimp as Senna",
+        "@jackalmuerto as Shay",
+        "@oleamollevampie as Chieko"
+      ],
+      "masterId": "1473745047332847791"
+    },
+    {
+      "master": "@letiana",
+      "title": "[Heaven’s Memory] Home Bound Part 2",
+      "postedAt": 1775603868896,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1491215450724503572",
+      "players": [
+        "@seraphim as Onyx",
+        "@aznrcmp as Topal",
+        "@sunny.something as Bluebolt",
+        "@celesteias as Ladora",
+        "@han69 as Renard",
+        "@solaceinfire aas Melinoe"
+      ],
+      "masterId": "299015281853071360"
     }
   ]
 }
