@@ -1,5 +1,5 @@
 {
-  "timestamp": 1775638843376,
+  "timestamp": 1775725239233,
   "logs": [
     {
       "master": "@desyov",
@@ -27648,6 +27648,21 @@
         "@solaceinfire aas Melinoe"
       ],
       "masterId": "299015281853071360"
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "Foxhunt",
+      "postedAt": 1775720159776,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1491703210027520010",
+      "players": [
+        "@desyov as Abbadon",
+        "@seraphim as Coraline",
+        "@aznrcmp as Rococo",
+        "@xirozean as Strabo",
+        "@r10 as Sirius Proudmoore",
+        "@niorno. as Charlotte"
+      ],
+      "masterId": "283019070578753536"
     }
   ]
 }
