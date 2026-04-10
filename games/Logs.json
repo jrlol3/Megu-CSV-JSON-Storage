@@ -1,5 +1,5 @@
 {
-  "timestamp": 1775725239233,
+  "timestamp": 1775811641060,
   "logs": [
     {
       "master": "@desyov",
@@ -27663,6 +27663,19 @@
         "@niorno. as Charlotte"
       ],
       "masterId": "283019070578753536"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[The 84th Terra] : Inicting Incidents",
+      "postedAt": 1775782359251,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1491964093534572585",
+      "players": [
+        "@[@oleamollevampie as Fenja",
+        "@seraphim as Void",
+        "@angrykitsu as Mika",
+        "@honeydewmelons as Shenrui"
+      ],
+      "masterId": "173547590694993920"
     }
   ]
 }
