@@ -1,5 +1,5 @@
 {
-  "timestamp": 1775898039336,
+  "timestamp": 1775984444908,
   "logs": [
     {
       "master": "@desyov",
@@ -27676,6 +27676,21 @@
         "@honeydewmelons as Shenrui"
       ],
       "masterId": "173547590694993920"
+    },
+    {
+      "master": "@themattroid",
+      "title": "[A Crimson Trail] Caught up in the wrong crowd",
+      "postedAt": 1775934185693,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1492600899787292855",
+      "players": [
+        "@Shēnruì | Medja as Rowan",
+        "@Henrik | Radda as Henrik",
+        "@= ☆ = as Abbadon",
+        "@zzHan as Eusebiu",
+        "@ZZFelicity | Path as Felicity",
+        "@zzNoraOnTheCouch as Nora"
+      ],
+      "masterId": "193553881249087488"
     }
   ]
 }
