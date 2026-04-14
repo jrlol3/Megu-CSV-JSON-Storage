@@ -1,5 +1,5 @@
 {
-  "timestamp": 1776070844286,
+  "timestamp": 1776157250852,
   "logs": [
     {
       "master": "@desyov",
@@ -27704,6 +27704,36 @@
         "@seraphim as Void",
         "@missingpath as Quincy",
         "@xirozean as Zinniav"
+      ],
+      "masterId": "299015281853071360"
+    },
+    {
+      "master": "@letiana",
+      "title": "[King’s Crusade] Toll Men",
+      "postedAt": 1776123500738,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1493394944637800489",
+      "players": [
+        "@seraphim as Coraline",
+        "@solotic. as Nathan",
+        "@billyscrannerx as Octavia",
+        "@rastamufasa as Gwen",
+        "@schwertaria as Féin",
+        "@asimplehatter as Patience"
+      ],
+      "masterId": "299015281853071360"
+    },
+    {
+      "master": "@letiana",
+      "title": "Grown from What’s Left Behind",
+      "postedAt": 1776124930492,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1493400941460848780",
+      "players": [
+        "@incognegro as Zenith",
+        "@celesteias as Ladora",
+        "@emgry as Alois",
+        "@solaceinfire as Naomi",
+        "@honeydewmelons as Azra",
+        "@saltmammoth as Amaranth"
       ],
       "masterId": "299015281853071360"
     }
