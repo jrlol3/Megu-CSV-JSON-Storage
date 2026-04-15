@@ -1,5 +1,5 @@
 {
-  "timestamp": 1776157250839,
+  "timestamp": 1776243646424,
   "games": [
     {
       "title": "First Introductions",
@@ -22433,6 +22433,28 @@
       "time": "<t:1776301200:F>",
       "public": true,
       "creator": "Ferry | Xiro Zean"
+    },
+    {
+      "title": "Aranova: The Wound Of Eminence, Prelude",
+      "postedAt": 1776195307085,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1493696122286375032",
+      "pings": [
+        "1170826716571238410"
+      ],
+      "time": "<t:1776205873:F>",
+      "public": true,
+      "creator": "Gyalwa"
+    },
+    {
+      "title": "[End of Aspiration] The Executioner",
+      "postedAt": 1776229984148,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1493841568430428262",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1776233533:F>",
+      "public": true,
+      "creator": "zzPidgeon"
     }
   ]
 }
