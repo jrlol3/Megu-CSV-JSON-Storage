@@ -1,5 +1,5 @@
 {
-  "timestamp": 1776157250852,
+  "timestamp": 1776243646482,
   "logs": [
     {
       "master": "@desyov",
@@ -27736,6 +27736,20 @@
         "@saltmammoth as Amaranth"
       ],
       "masterId": "299015281853071360"
+    },
+    {
+      "master": "@incognegro",
+      "title": "Snake Eyes",
+      "postedAt": 1776226102213,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1493825286414794889",
+      "players": [
+        "@desyov as Heron",
+        "@letiana as Metzli",
+        "@billyscrannerx as Octavia",
+        "@samikazuki as Ook",
+        "@jackalmuerto as Shay"
+      ],
+      "masterId": "118899054179516417"
     }
   ]
 }
