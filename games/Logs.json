@@ -1,5 +1,5 @@
 {
-  "timestamp": 1776243646482,
+  "timestamp": 1776330042753,
   "logs": [
     {
       "master": "@desyov",
@@ -27748,6 +27748,35 @@
         "@billyscrannerx as Octavia",
         "@samikazuki as Ook",
         "@jackalmuerto as Shay"
+      ],
+      "masterId": "118899054179516417"
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "Aranova: The Wound Of Eminence, Prelude",
+      "postedAt": 1776286339625,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1494077940433031218",
+      "players": [
+        "@nut_wizard as Cordoba",
+        "@lenpendragon as Asuka",
+        "@fluffbet as Garnier",
+        "@biffmcmanly as Reynaud",
+        "@nikkimp as Aile",
+        "@caelum_blue as Mutt"
+      ],
+      "masterId": "365605862615810049"
+    },
+    {
+      "master": "@incognegro",
+      "title": "[The Jade Road] Neel Village",
+      "postedAt": 1776298532860,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1494129082567495811",
+      "players": [
+        "@2naf1sh as Gyalwa",
+        "@honeydewmelons as Shenrui",
+        "@oleamollevampie as Fenja",
+        "@brooms as Peishan",
+        "@nikolaim. as Dujom"
       ],
       "masterId": "118899054179516417"
     }
