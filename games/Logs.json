@@ -1,5 +1,5 @@
 {
-  "timestamp": 1776416447166,
+  "timestamp": 1776502840393,
   "logs": [
     {
       "master": "@desyov",
@@ -27779,6 +27779,19 @@
         "@nikolaim. as Dujom"
       ],
       "masterId": "118899054179516417"
+    },
+    {
+      "master": "@nikolaim.",
+      "title": "[Blood on the Street] Lost in the Alley",
+      "postedAt": 1776489467708,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1494929921363939328",
+      "players": [
+        "@sleepy_bernkastel as Asahi",
+        "@mutemissy as Viliana",
+        "@niorno. as Azik",
+        "@aznrcmp as Elias"
+      ],
+      "masterId": "419689143443128321"
     }
   ]
 }
