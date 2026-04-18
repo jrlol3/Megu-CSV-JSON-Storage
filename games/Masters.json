@@ -1,5 +1,5 @@
 {
-  "timestamp": 1776416447176,
+  "timestamp": 1776502840403,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -239,6 +239,13 @@
       "tier": null,
       "inGuild": true
     },
+    "@nikolaim.": {
+      "username": "@nikolaim.",
+      "id": "419689143443128321",
+      "gameCount": 9,
+      "tier": "GM: Storyteller - T1",
+      "inGuild": true
+    },
     "@katen_m": {
       "username": "@katen_m",
       "id": "404317967585640451",
@@ -251,13 +258,6 @@
       "id": "140811574737764352",
       "gameCount": 8,
       "tier": "GM: Apprentice - T0",
-      "inGuild": true
-    },
-    "@nikolaim.": {
-      "username": "@nikolaim.",
-      "id": "419689143443128321",
-      "gameCount": 8,
-      "tier": "GM: Storyteller - T1",
       "inGuild": true
     },
     "@nut_wizard": {
