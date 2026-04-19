@@ -1,5 +1,5 @@
 {
-  "timestamp": 1776502840381,
+  "timestamp": 1776589243641,
   "games": [
     {
       "title": "First Introductions",
@@ -22601,6 +22601,26 @@
       "time": "<t:1777071600:F>",
       "public": true,
       "creator": "zzCaliste | Pidgeon"
+    },
+    {
+      "title": "Time to Wake Up",
+      "postedAt": 1776564942620,
+      "link": "https://discord.com/channels/1169852846083153941/1170183729856135250/1495246486089240626",
+      "pings": [],
+      "time": "<t:1777406400:F>",
+      "public": false,
+      "creator": "Henrik | Radda"
+    },
+    {
+      "title": "To Uphold The Code",
+      "postedAt": 1776584296482,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1495327662070173726",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1776603600:F>",
+      "public": true,
+      "creator": "Strabo | Xiro Zean"
     }
   ]
 }
