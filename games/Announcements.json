@@ -1,5 +1,5 @@
 {
-  "timestamp": 1776762042517,
+  "timestamp": 1776848444496,
   "games": [
     {
       "title": "First Introductions",
@@ -22670,6 +22670,17 @@
       "time": "<t:1776814200:F>",
       "public": false,
       "creator": "Ook 🧿  | Sammy"
+    },
+    {
+      "title": "[The Art of War] The Challenge of Faith",
+      "postedAt": 1776796597547,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1496218117276176495",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1776985200:F>",
+      "public": true,
+      "creator": "Kviss"
     }
   ]
 }
