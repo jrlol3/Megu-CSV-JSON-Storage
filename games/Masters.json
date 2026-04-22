@@ -1,5 +1,5 @@
 {
-  "timestamp": 1776762042555,
+  "timestamp": 1776848444532,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -64,16 +64,16 @@
       "tier": null,
       "inGuild": true
     },
-    "@rastamufasa": {
-      "username": "@rastamufasa",
-      "id": "283019070578753536",
-      "gameCount": 62,
-      "tier": "GM: Reality Shaper - T3",
-      "inGuild": true
-    },
     "@missingpath": {
       "username": "@missingpath",
       "id": "181544205796114433",
+      "gameCount": 63,
+      "tier": "GM: Reality Shaper - T3",
+      "inGuild": true
+    },
+    "@rastamufasa": {
+      "username": "@rastamufasa",
+      "id": "283019070578753536",
       "gameCount": 62,
       "tier": "GM: Reality Shaper - T3",
       "inGuild": true
