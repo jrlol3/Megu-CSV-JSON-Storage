@@ -1,5 +1,5 @@
 {
-  "timestamp": 1776848444496,
+  "timestamp": 1776934842940,
   "games": [
     {
       "title": "First Introductions",
@@ -22681,6 +22681,17 @@
       "time": "<t:1776985200:F>",
       "public": true,
       "creator": "Kviss"
+    },
+    {
+      "title": "[Heaven's Memory] Bishop's Virtue",
+      "postedAt": 1776898686606,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1496646309824958535",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1777334400:F>",
+      "public": true,
+      "creator": "Quincy | Path"
     }
   ]
 }
