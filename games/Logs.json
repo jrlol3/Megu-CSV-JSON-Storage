@@ -1,5 +1,5 @@
 {
-  "timestamp": 1776848444522,
+  "timestamp": 1776934842950,
   "logs": [
     {
       "master": "@desyov",
@@ -27806,6 +27806,65 @@
         "@seraphim as Nasaya"
       ],
       "masterId": "181544205796114433"
+    },
+    {
+      "master": "@caelum_blue",
+      "title": "[The Wolven Storm] A Rock And A Hard Place",
+      "postedAt": 1776866627929,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1496511845987516556",
+      "players": [
+        "@.galebolg. as Arzen Algonst",
+        "@2naf1sh as \"Old Bat\" Gojko",
+        "@iamthorium as Gadget",
+        "@obscurepersona as Rasho Tenderfoot",
+        "@agentdj as Cecil Wagner",
+        "@hangedmantarot as Shaw Jaeger"
+      ],
+      "masterId": "886623433306288158"
+    },
+    {
+      "master": "@caelum_blue",
+      "title": "[O, Kin Of Mine] A Short Étude",
+      "postedAt": 1776867397782,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1496515074985295974",
+      "players": [
+        "@nut_wizard as Quill of Iburri",
+        "@samikazuki as Ook Nii-Suu",
+        "@jvdragoon as Dira",
+        "@_.squibbles._ as Ádhán",
+        "@sleepy_bernkastel as Asahi",
+        "@fluffbet as Takano Akiyama"
+      ],
+      "masterId": "886623433306288158"
+    },
+    {
+      "master": "@phos0947",
+      "title": "[The Rising Standard] Treacherous Pathways",
+      "postedAt": 1776900200560,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1496652659808145539",
+      "players": [
+        "@han69 as Dustin",
+        "@squidlover63 as Victor",
+        "@iamthorium as Gadget",
+        "@niorno as Azik",
+        "@theladoflads as Alan",
+        "@solotic as Nathan"
+      ],
+      "masterId": "1473745047332847791"
+    },
+    {
+      "master": "@r10",
+      "title": "[Drums of War] We Didn't Start the Fire",
+      "postedAt": 1776915417982,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1496716486302240842",
+      "players": [
+        "@Patience//Hatter as Patience",
+        "@Gabriela | Emgry as Gabriela",
+        "@Mizuki as 観月 as Mizuki",
+        "@Bedivere⁵📚| Sleepy as Bedivere",
+        "@Rasho | Jace The Traveller as Rasho"
+      ],
+      "masterId": "132288834560983040"
     }
   ]
 }
