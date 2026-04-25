@@ -1,5 +1,5 @@
 {
-  "timestamp": 1777021243729,
+  "timestamp": 1777107647961,
   "logs": [
     {
       "master": "@desyov",
@@ -27863,6 +27863,32 @@
         "@Mizuki as 観月 as Mizuki",
         "@Bedivere⁵📚| Sleepy as Bedivere",
         "@Rasho | Jace The Traveller as Rasho"
+      ],
+      "masterId": "132288834560983040"
+    },
+    {
+      "master": "@incognegro",
+      "title": "[The Art of War] The Challenge of Faith",
+      "postedAt": 1777072737853,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1497376333666455735",
+      "players": [
+        "@schwertaria as Aria",
+        "@themattroid as Haruka",
+        "@enderten as Siwu",
+        "@honeydewmelons as Shenrui"
+      ],
+      "masterId": "118899054179516417"
+    },
+    {
+      "master": "@r10",
+      "title": "[Drums of War] Smoke on the Water",
+      "postedAt": 1777083977047,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1497423474262544428",
+      "players": [
+        "@Nathan Porumbel as Nathan",
+        "@xxMetztli as Metzli",
+        "@Rococo {🐍} Orizuma as Rococo",
+        "@ROSS | Galen as Reflections"
       ],
       "masterId": "132288834560983040"
     }
