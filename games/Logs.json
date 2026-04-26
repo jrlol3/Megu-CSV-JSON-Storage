@@ -1,5 +1,5 @@
 {
-  "timestamp": 1777107647961,
+  "timestamp": 1777194054282,
   "logs": [
     {
       "master": "@desyov",
@@ -6112,7 +6112,7 @@
         "@lillie2071 as Daphy",
         "@mssugarpop As Alder",
         "@dragoneldester As Yumiko",
-        "@crushnebuloid As dastan",
+        "@deleted_user_f500d391e0b5 As dastan",
         "@squidlover23 as Timothy",
         "@phosphophyllite0 as Liz",
         "@mike_miguel_michael As Calibre",
@@ -20609,7 +20609,7 @@
         "@celesteias as Ladora",
         "@schwertaria as Yuel",
         "@paradigm.42 as Enlai",
-        "@echorose as Tessa",
+        "@viarosie as Tessa",
         "@galen876 as Burkhardt",
         "@katen_m as Celestyn"
       ],
@@ -20940,7 +20940,7 @@
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1426368417404944494",
       "players": [
         "@mooshen as PAS-C41",
-        "@echorose as Luka",
+        "@viarosie as Luka",
         "@schwertaria as Yuel",
         "@themattroid as Satsuki"
       ],
@@ -21739,7 +21739,7 @@
         "@pidgeon as Akino",
         "@nikkimp as Juna",
         "@xirozean as Ferry",
-        "@echorose as Tessa"
+        "@viarosie as Tessa"
       ],
       "masterId": "169795599758131200"
     },
@@ -27891,6 +27891,21 @@
         "@ROSS | Galen as Reflections"
       ],
       "masterId": "132288834560983040"
+    },
+    {
+      "master": "@xirozean",
+      "title": "[Cottontail Incidents] The Second Harvest",
+      "postedAt": 1777193010989,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1497880795761610883",
+      "players": [
+        "@Cecil Wagner as Cecil Wagner",
+        "@Yuel Falkyne Welkheim as Féin of Lionheart's Reach",
+        "@Cassidy/Gerard (Silver) as Cassidy Price",
+        "@Sakura | Len as Felicia Rehinsfel",
+        "@= Eve's Dead Husband = as Gojko",
+        "@zzHan as Taiki Ibuki"
+      ],
+      "masterId": "194579940992221187"
     }
   ]
 }
