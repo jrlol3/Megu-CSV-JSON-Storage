@@ -1,5 +1,5 @@
 {
-  "timestamp": 1777280445022,
+  "timestamp": 1777366839674,
   "logs": [
     {
       "master": "@desyov",
@@ -28071,6 +28071,94 @@
         "@squidlover23 as Franz"
       ],
       "masterId": "283019070578753536"
+    },
+    {
+      "master": "@xirozean",
+      "title": "[Homecoming] The Singing Pools",
+      "postedAt": 1777289060476,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1498283656509132820",
+      "players": [
+        "@Dira | JVDragoon as Dira",
+        "@Ook | Sammy as Ook Nii-Suu",
+        "@zzArzen Algonst as Arzen Algonst",
+        "@ZzÁdhán | squibbles as Ádhán",
+        "@Rococo {🐍} Orizuma as Rococo"
+      ],
+      "masterId": "194579940992221187"
+    },
+    {
+      "master": "@xirozean",
+      "title": "[Café Cuties] Welcome to Polecat Burrow",
+      "postedAt": 1777289937273,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1498287334062555236",
+      "players": [
+        "@Rasho | Jace The Traveller as Rasho Tenderfoot",
+        "@Mizuki as Mizuki",
+        "@mutemissy as Selene",
+        "@Mutt | Caelum as Morgana",
+        "@zzittin as Dr. Dorian",
+        "@Shay | Rusty as Leslie Shay"
+      ],
+      "masterId": "194579940992221187"
+    },
+    {
+      "master": "@xirozean",
+      "title": "A Cavernous Ruckus",
+      "postedAt": 1777291133339,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1498292350726701210",
+      "players": [
+        "@-= Grestazs =- as Gwendoline of Hearthome",
+        "@Féin of Lionheart's Reach as Féin of Lionheart's Reach",
+        "@zzArzen Algonst as Arzen Algonst",
+        "@zzGadget 🦊 | Thorium as Gadget",
+        "@Garnier | Fluff as Takano Akiyama",
+        "@ROSS | Galen as Uto Masahide Miyabi"
+      ],
+      "masterId": "194579940992221187"
+    },
+    {
+      "master": "@xirozean",
+      "title": "[Café Cuties] Running on Empty",
+      "postedAt": 1777291849648,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1498295355144671362",
+      "players": [
+        "@ZzÁdhán | squibbles as Ádhán",
+        "@Caellica | Filke as Caellica Ronara",
+        "@Shay | Rusty as Leslie Shay",
+        "@zzGadget 🦊 | Thorium as Gadget",
+        "@Charlotte as Charlotte",
+        "@zzHan as Taiki Ibuki"
+      ],
+      "masterId": "194579940992221187"
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "Bitch Better Have My Money",
+      "postedAt": 1777336926623,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1498484421680955514",
+      "players": [
+        "@zacsper as Axel",
+        "@redhaart as Isolde",
+        "@emgry as Gabriela",
+        "@niorno. as Azik",
+        "@oleamollevampie as Chieko",
+        "@mooshen as Artemis"
+      ],
+      "masterId": "283019070578753536"
+    },
+    {
+      "master": "@missingpath",
+      "title": "[Heaven's Memory] Bishop's Virtue",
+      "postedAt": 1777348061190,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1498531123439996938",
+      "players": [
+        "@letiana as Meztli",
+        "@themattroid as Palamedes",
+        "@sleepy_bernkastel as Ser Bedivere",
+        "@hangedmantarot as Shaw",
+        "@nut_wizard as Quill"
+      ],
+      "masterId": "181544205796114433"
     }
   ]
 }
