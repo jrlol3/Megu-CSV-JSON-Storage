@@ -1,5 +1,5 @@
 {
-  "timestamp": 1777366839674,
+  "timestamp": 1777453244862,
   "logs": [
     {
       "master": "@desyov",
@@ -28159,6 +28159,20 @@
         "@nut_wizard as Quill"
       ],
       "masterId": "181544205796114433"
+    },
+    {
+      "master": "@madrid222",
+      "title": "[Ignite The Spark] The Poisoned Vessel",
+      "postedAt": 1777419264501,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1498829771772264449",
+      "players": [
+        "@missingpath as Felicity",
+        "@lenpendragon as Felicia",
+        "@aarong9324 as Corwin",
+        "@jackalmuerto as Shay",
+        "@vittinhodosus as Dorian"
+      ],
+      "masterId": "173539943426031616"
     }
   ]
 }
