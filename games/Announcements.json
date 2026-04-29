@@ -1,5 +1,5 @@
 {
-  "timestamp": 1777366839653,
+  "timestamp": 1777453244831,
   "games": [
     {
       "title": "First Introductions",
@@ -22822,6 +22822,17 @@
       "time": "<t:1777572000:F>",
       "public": true,
       "creator": "= The Rising Standard ="
+    },
+    {
+      "title": "The Wolfen Storm: Galvanite Mines",
+      "postedAt": 1777397045833,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1498736579923939469",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1777471200:F>",
+      "public": true,
+      "creator": "Crystalia"
     }
   ]
 }
