@@ -1,5 +1,5 @@
 {
-  "timestamp": 1777453244862,
+  "timestamp": 1777539645235,
   "logs": [
     {
       "master": "@desyov",
@@ -28173,6 +28173,47 @@
         "@vittinhodosus as Dorian"
       ],
       "masterId": "173539943426031616"
+    },
+    {
+      "master": "@dragoneldester",
+      "title": "The Wolfen Storm - Galvanite Mines",
+      "postedAt": 1777489812425,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1499125671211962379",
+      "players": [
+        "@Felicia | Len",
+        "@Laura Schlächter || Potato",
+        "@Ádhán | squibbles",
+        "@Senna (Nikkimp)",
+        "@Shay | Rusty"
+      ],
+      "masterId": "409390729627041792"
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "To All Of My Children - IV",
+      "postedAt": 1777498839583,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1499163533856997567",
+      "players": [
+        "@mutemissy as Natalia",
+        "@sleepy_bernkastel as Poppy",
+        "@samikazuki as Anahi",
+        "@nut_wizard as Cordoba",
+        "@lenpendragon as Asuka"
+      ],
+      "masterId": "365605862615810049"
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "[The Fault Is In The Stars] Tomorrow's Expedition",
+      "postedAt": 1777499450867,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1499166097767796970",
+      "players": [
+        "@missingpath as Ebb",
+        "@doctor_temmie as Baaxee",
+        "@honeydewmelons as Isolde",
+        "@agentdj as Mikael"
+      ],
+      "masterId": "365605862615810049"
     }
   ]
 }
