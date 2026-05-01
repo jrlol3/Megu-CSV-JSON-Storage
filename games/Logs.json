@@ -1,5 +1,5 @@
 {
-  "timestamp": 1777539645235,
+  "timestamp": 1777626042568,
   "logs": [
     {
       "master": "@desyov",
@@ -28214,6 +28214,35 @@
         "@agentdj as Mikael"
       ],
       "masterId": "365605862615810049"
+    },
+    {
+      "master": "@phos0947",
+      "title": "[The Wolven Storm] Little Leaf Village",
+      "postedAt": 1777583449386,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1499518413091901581",
+      "players": [
+        "@kategeeper as Clarissa",
+        "@aarong9324 as Corwin",
+        "@jvdragoon as Dira",
+        "@Nikkimp as Juna",
+        "@oleamollevampie as Mara",
+        "@sherifmisho as Sienna"
+      ],
+      "masterId": "1473745047332847791"
+    },
+    {
+      "master": "@incognegro",
+      "title": "Into Sui Jie",
+      "postedAt": 1777593902186,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1499562255313010821",
+      "players": [
+        "@rastamufasa as Muchen",
+        "@honeydewmelons as Shenrui",
+        "@2naf1sh as Gyalwa",
+        "@schwertaria as Aria",
+        "@sussy_arata as Lin Shen"
+      ],
+      "masterId": "118899054179516417"
     }
   ]
 }
