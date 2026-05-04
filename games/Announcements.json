@@ -1,5 +1,5 @@
 {
-  "timestamp": 1777798843450,
+  "timestamp": 1777885242610,
   "games": [
     {
       "title": "First Introductions",
@@ -22786,7 +22786,7 @@
       "pings": [
         "1170826554914373652"
       ],
-      "time": "<t:1777510800:F>",
+      "time": "<t:1778115600:F>",
       "public": true,
       "creator": "Kitsu (Being a Magical Samurai)"
     },
@@ -23010,6 +23010,26 @@
       "time": "<t:1778374800:F>",
       "public": true,
       "creator": "zzCaliste | Pidgeon"
+    },
+    {
+      "title": "[King's Crusade] Nagging Worries",
+      "postedAt": 1777822282294,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1500520150913253720",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1778108400:F>",
+      "public": true,
+      "creator": "ZZeti with her Novela again"
+    },
+    {
+      "title": "Kaiway Trials: The Heroic Cooperative Program",
+      "postedAt": 1777840810159,
+      "link": "https://discord.com/channels/1169852846083153941/1170183729856135250/1500597862411665498",
+      "pings": [],
+      "time": "<t:1777852800:F>",
+      "public": false,
+      "creator": "Callum Baud☆uin II"
     }
   ]
 }
