@@ -1,5 +1,5 @@
 {
-  "timestamp": 1778058042792,
+  "timestamp": 1778144441737,
   "games": [
     {
       "title": "First Introductions",
@@ -23070,6 +23070,17 @@
       "time": "<t:1778194800:F>",
       "public": true,
       "creator": "zzSleepy"
+    },
+    {
+      "title": "[Cold Blooded] Burning Hatred",
+      "postedAt": 1778100180387,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1501685739996577812",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1778110200:F>",
+      "public": true,
+      "creator": "zunny"
     }
   ]
 }
