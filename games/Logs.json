@@ -1,5 +1,5 @@
 {
-  "timestamp": 1778144441768,
+  "timestamp": 1778230842981,
   "logs": [
     {
       "master": "@desyov",
@@ -28299,6 +28299,20 @@
         "@nut_wizard as Quill"
       ],
       "masterId": "118899054179516417"
+    },
+    {
+      "master": "@sunny.something",
+      "title": "[Cold-Blooded] Burning Hatred",
+      "postedAt": 1778164385646,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1501955036371091586",
+      "players": [
+        "@hangedmantarot as Lyrric Dust",
+        "@han69 as Absalom Kasand",
+        "@phos0947 as Annette",
+        "@sussy_arata as Aston",
+        "@and @ironheidcross as Kenji"
+      ],
+      "masterId": "181195525914230784"
     }
   ]
 }
