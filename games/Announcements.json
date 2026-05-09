@@ -1,5 +1,5 @@
 {
-  "timestamp": 1778230842951,
+  "timestamp": 1778317243962,
   "games": [
     {
       "title": "First Introductions",
@@ -23092,6 +23092,15 @@
       "time": "<t:1778331600:F>",
       "public": true,
       "creator": "zzCaelum, fuctional zombie"
+    },
+    {
+      "title": "[Scales of Law] Who Will You Become?",
+      "postedAt": 1778262984472,
+      "link": "https://discord.com/channels/1169852846083153941/1170183729856135250/1502368589821382767",
+      "pings": [],
+      "time": "<t:1778536800:F>",
+      "public": false,
+      "creator": "zzFelicity | Path"
     }
   ]
 }
