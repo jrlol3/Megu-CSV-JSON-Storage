@@ -1,5 +1,5 @@
 {
-  "timestamp": 1778317243982,
+  "timestamp": 1778403646667,
   "logs": [
     {
       "master": "@desyov",
@@ -28313,6 +28313,105 @@
         "@and @ironheidcross as Kenji"
       ],
       "masterId": "181195525914230784"
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "[Child's Play] Jude 1:6",
+      "postedAt": 1778324996161,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1502628685696602142",
+      "players": [
+        "@facinarose as Vivian",
+        "@caelum_blue as Céline",
+        "@.galebolg. as Cypher",
+        "@doctor_temmie as Baaxee",
+        "@xavieremix as Vista",
+        "@nikkimp as Aile"
+      ],
+      "masterId": "365605862615810049"
+    },
+    {
+      "master": "@nikolaim.",
+      "title": "[Blood on the Street] Wheeled Away",
+      "postedAt": 1778338539056,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1502685488715268217",
+      "players": [
+        "@mutemissy as Viliana",
+        "@han69 as Michael",
+        "@hangedmantarotas Shaw",
+        "@vittinhodosus as De'Angelo"
+      ],
+      "masterId": "419689143443128321"
+    },
+    {
+      "master": "@caelum_blue",
+      "title": "[Little Troubles] Wolf In The Woods!",
+      "postedAt": 1778348147334,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1502725788753989765",
+      "players": [
+        "@schwertaria as **Féin Faolán**",
+        "@fluffbet as **Sybil**",
+        "@agentdj as **Cassius Mordred**",
+        "@sleepy_bernkastel as **Ser Bedivere the Grey Wolf**",
+        "@sussy_arata as **Ishikawa Shishirō**",
+        "@billyscrannerx as **Estrella Von Gilded**"
+      ],
+      "masterId": "886623433306288158"
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "[Slithering Eels] Reclaiming the Trail",
+      "postedAt": 1778349227558,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1502730319542096074",
+      "players": [
+        "@sussy_arata as Ishikawa Shishiro",
+        "@solaceinfire as Mizuki",
+        "@sleepy_bernkastel as Asahi",
+        "@phos0947 as Petra",
+        "@han69 as Dustin",
+        "@jackalmuerto as Leslie Shay"
+      ],
+      "masterId": "169795599758131200"
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "[The Shadow of Mugetsu] The Cherry Blossom Festival",
+      "postedAt": 1778349438702,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1502731205144215722",
+      "players": [
+        "@oleamollevampie as Chieko Miyashiro",
+        "@leplep as Anzai Midori",
+        "@schwertaria as Tsuru Inoue",
+        "@katen_m as Kaneko Ichiro",
+        "@mutemissy as Selene"
+      ],
+      "masterId": "169795599758131200"
+    },
+    {
+      "master": "@xavieremix",
+      "title": "[Abyssum Adivitas] Early Access",
+      "postedAt": 1778365963706,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1502800516034330705",
+      "players": [
+        "@sleepy_bernkastel as Theodore",
+        "@han69 as Garmir",
+        "@mutemissy as Natalia",
+        "@xirozean as Ferry"
+      ],
+      "masterId": "181294303622987776"
+    },
+    {
+      "master": "@sleepy_bernkastel",
+      "title": "[AVALON] Warm-Up Round: Windsor Housecraft Company",
+      "postedAt": 1778366092092,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1502801054524506232",
+      "players": [
+        "@sussy_arata as Aston",
+        "@angrykitsu as Mika",
+        "@oleamollevampie as Fenja",
+        "@honeydewmelons as Shēnruì",
+        "@lenpendragon as Felicia"
+      ],
+      "masterId": "308792711274692610"
     }
   ]
 }
