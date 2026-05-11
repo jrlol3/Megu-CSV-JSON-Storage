@@ -1,5 +1,5 @@
 {
-  "timestamp": 1778403646667,
+  "timestamp": 1778490043490,
   "logs": [
     {
       "master": "@desyov",
@@ -28412,6 +28412,20 @@
         "@lenpendragon as Felicia"
       ],
       "masterId": "308792711274692610"
+    },
+    {
+      "master": "@incognegro",
+      "title": "Daily Bread",
+      "postedAt": 1778468104407,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1503228925185097729",
+      "players": [
+        "@angrykitsu as Sara",
+        "@madrid222 as Henry",
+        "@soggy_saltine as Loveno",
+        "@jackalmuerto as Shay",
+        "@sleepy_bernkastel as Bedivere"
+      ],
+      "masterId": "118899054179516417"
     }
   ]
 }
