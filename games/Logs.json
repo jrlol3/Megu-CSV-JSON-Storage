@@ -1,5 +1,5 @@
 {
-  "timestamp": 1778490043490,
+  "timestamp": 1778576447787,
   "logs": [
     {
       "master": "@desyov",
@@ -28426,6 +28426,59 @@
         "@sleepy_bernkastel as Bedivere"
       ],
       "masterId": "118899054179516417"
+    },
+    {
+      "master": "@missingpath",
+      "title": "[Scales of Law] Who Will You Become",
+      "postedAt": 1778544580628,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1503549689704742982",
+      "players": [
+        "@sleepy_bernkastel as Theodore"
+      ],
+      "masterId": "181544205796114433"
+    },
+    {
+      "master": "@emgry",
+      "title": "[Legacy of Soul]: A Gift from the North",
+      "postedAt": 1778563752314,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1503630101584023582",
+      "players": [
+        "@pidgeon as Akali",
+        "@incognegro as Zenith",
+        "@seraphim as Nasaya",
+        "@schwertaria as Yuel",
+        "@enderten as Bernhard",
+        "@desyov as Callum"
+      ],
+      "masterId": "186680561501339651"
+    },
+    {
+      "master": "@xavieremix",
+      "title": "[The Wolven Storm] Scordisci Delta",
+      "postedAt": 1778564352257,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1503632617927348357",
+      "players": [
+        "@han69 as Taiki",
+        "@missingpath as Felicity",
+        "@dragoneldester as Yumiko",
+        "@madrid222 as Marcus",
+        "@flaahn as Taavi"
+      ],
+      "masterId": "181294303622987776"
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "[Child's Play] 1 Enoch 5-7",
+      "postedAt": 1778573427002,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1503670680166600837",
+      "players": [
+        "@nikkimp as Aile",
+        "@doctor_temmie as Baaxee",
+        "@facinarose as Vivian",
+        "@caelum_blue as Céline",
+        "@.galebolg. as Cypher"
+      ],
+      "masterId": "365605862615810049"
     }
   ]
 }
