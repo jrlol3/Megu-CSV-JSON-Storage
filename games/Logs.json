@@ -1,5 +1,5 @@
 {
-  "timestamp": 1778662842016,
+  "timestamp": 1778749243354,
   "logs": [
     {
       "master": "@desyov",
@@ -28479,6 +28479,21 @@
         "@.galebolg. as Cypher"
       ],
       "masterId": "365605862615810049"
+    },
+    {
+      "master": "@iamthorium",
+      "title": "[The 84th Terra] Lost at Sea",
+      "postedAt": 1778735675832,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1504351201083392000",
+      "players": [
+        "@.galebolg. as Evelyn Antonov",
+        "@mooshen as Lindsey Beck",
+        "@jrlol3megu as Marlo",
+        "@ironheidcross as Maxwell",
+        "@solcarona as Percival Alain Coeur de Pierre",
+        "@enderten as Tilly Howard"
+      ],
+      "masterId": "220960630692118528"
     }
   ]
 }
