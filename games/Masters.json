@@ -1,5 +1,5 @@
 {
-  "timestamp": 1778662842044,
+  "timestamp": 1778749243365,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -441,6 +441,13 @@
       "gameCount": 2,
       "tier": null,
       "inGuild": false
+    },
+    "@iamthorium": {
+      "username": "@iamthorium",
+      "id": "220960630692118528",
+      "gameCount": 1,
+      "tier": "GM: Apprentice - T0",
+      "inGuild": true
     },
     "@schwertaria": {
       "username": "@schwertaria",
