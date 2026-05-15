@@ -1,5 +1,5 @@
 {
-  "timestamp": 1778749243365,
+  "timestamp": 1778835640780,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -32,7 +32,7 @@
     "@angrykitsu": {
       "username": "@angrykitsu",
       "id": "169795599758131200",
-      "gameCount": 101,
+      "gameCount": 102,
       "tier": "GM: Storyteller - T1",
       "inGuild": true
     },
@@ -452,6 +452,13 @@
     "@schwertaria": {
       "username": "@schwertaria",
       "id": "95869822574809088",
+      "gameCount": 1,
+      "tier": "GM: Apprentice - T0",
+      "inGuild": true
+    },
+    "@hangedmantarot": {
+      "username": "@hangedmantarot",
+      "id": "276027404839813120",
       "gameCount": 1,
       "tier": "GM: Apprentice - T0",
       "inGuild": true
