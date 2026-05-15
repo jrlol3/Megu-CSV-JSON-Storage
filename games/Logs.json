@@ -1,5 +1,5 @@
 {
-  "timestamp": 1778749243354,
+  "timestamp": 1778835640769,
   "logs": [
     {
       "master": "@desyov",
@@ -28494,6 +28494,35 @@
         "@enderten as Tilly Howard"
       ],
       "masterId": "220960630692118528"
+    },
+    {
+      "master": "@hangedmantarot",
+      "title": "Troubles in a Mine-Unwelcome guests",
+      "postedAt": 1778777632736,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1504527181093797928",
+      "players": [
+        "@Deputy Sheriff Sara Langley As Sara Langely",
+        "@Palamedes | Matt as Palamedes",
+        "@Nettie | Jazz As Nettie",
+        "@Isolde Reed (Tee) as Isolde",
+        "@Axel Reed | Zacsper as Axel Reed",
+        "@Dustin | Han as Dustin Ryder"
+      ],
+      "masterId": "276027404839813120"
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "Court of the Ito",
+      "postedAt": 1778805817662,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1504645397241397278",
+      "players": [
+        "@oleamollevampie as Chieko Miyashiro",
+        "@galen876 as Uto Masahide Miyabi",
+        "@sussy_arata as Ishikawa Shishiro",
+        "@schwertaria as Tsuru Inoue",
+        "@missingpath as Sylvaine Corinth"
+      ],
+      "masterId": "169795599758131200"
     }
   ]
 }
