@@ -1,5 +1,5 @@
 {
-  "timestamp": 1778922041018,
+  "timestamp": 1779008453578,
   "logs": [
     {
       "master": "@desyov",
@@ -20609,7 +20609,7 @@
         "@celesteias as Ladora",
         "@schwertaria as Yuel",
         "@paradigm.42 as Enlai",
-        "@viarosie as Tessa",
+        "@viafayerose as Tessa",
         "@galen876 as Burkhardt",
         "@katen_m as Celestyn"
       ],
@@ -20940,7 +20940,7 @@
       "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1426368417404944494",
       "players": [
         "@mooshen as PAS-C41",
-        "@viarosie as Luka",
+        "@viafayerose as Luka",
         "@schwertaria as Yuel",
         "@themattroid as Satsuki"
       ],
@@ -21739,7 +21739,7 @@
         "@pidgeon as Akino",
         "@nikkimp as Juna",
         "@xirozean as Ferry",
-        "@viarosie as Tessa"
+        "@viafayerose as Tessa"
       ],
       "masterId": "169795599758131200"
     },
@@ -28523,6 +28523,49 @@
         "@missingpath as Sylvaine Corinth"
       ],
       "masterId": "169795599758131200"
+    },
+    {
+      "master": "@madrid222",
+      "title": "Envious Desire: A Rival?",
+      "postedAt": 1778980658437,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1505378732603609148",
+      "players": [
+        "@2naf1sh as Gojko",
+        "@Olea as Fenja",
+        "@samikazuki as Ook",
+        "@honeydewmelons as Shenrui",
+        "@solaceinfire as Melinoe",
+        "@leplep as Adelaide"
+      ],
+      "masterId": "173539943426031616"
+    },
+    {
+      "master": "@enderten",
+      "title": "Frozen Stirrings I",
+      "postedAt": 1778986555385,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1505403466196193423",
+      "players": [
+        "@xirozean as Strabo",
+        "@desyov as Abaddon",
+        "@solotic. as Nathan",
+        "@letiana as Antigone",
+        "@billyscrannerx as Estrella"
+      ],
+      "masterId": "206900071055228930"
+    },
+    {
+      "master": "@madrid222",
+      "title": "(Need More ZENIT!) Fraizer Reach Massacure",
+      "postedAt": 1778991303002,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1505423379144900801",
+      "players": [
+        "@celesteias as Nettie",
+        "@mooshen as Artemis",
+        "@angrykitsu as Sara",
+        "@sleepy_bernkastel Bedivere",
+        "@someperson2094 as Astrid"
+      ],
+      "masterId": "173539943426031616"
     }
   ]
 }
