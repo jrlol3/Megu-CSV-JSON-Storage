@@ -1,5 +1,5 @@
 {
-  "timestamp": 1779008453571,
+  "timestamp": 1779094844213,
   "games": [
     {
       "title": "First Introductions",
@@ -23271,6 +23271,72 @@
       "time": "<t:1779145200:F>",
       "public": false,
       "creator": "Tilly | Ender"
+    },
+    {
+      "title": "Duel At Heaven's Gates! - Rhea Squad's Challenge",
+      "postedAt": 1779057613524,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1505701505632702694",
+      "pings": [
+        "1170826716571238410"
+      ],
+      "time": "<t:1779060600:F>",
+      "public": true,
+      "creator": "zzCaelum"
+    },
+    {
+      "title": "[Fragment of Ambition] Rampant Flame",
+      "postedAt": 1779064102842,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1505728723805012098",
+      "pings": [
+        "1170826716571238410"
+      ],
+      "time": "<t:1779490800:F>",
+      "public": true,
+      "creator": "Horizon | Pidgeon"
+    },
+    {
+      "title": "[The Crimson Light] The Trail",
+      "postedAt": 1779064424929,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1505730074736066600",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1779318000:F>",
+      "public": true,
+      "creator": "Horizon | Pidgeon"
+    },
+    {
+      "title": "[Trials of Magic] Justice and Betrayal",
+      "postedAt": 1779064613975,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1505730867652333639",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1779555600:F>",
+      "public": true,
+      "creator": "Horizon | Pidgeon"
+    },
+    {
+      "title": "[A Crimson Trail] The Sweet Taste of Revenge",
+      "postedAt": 1779065981920,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1505736605229649970",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1779490800:F>",
+      "public": true,
+      "creator": "zzMatt"
+    },
+    {
+      "title": "[End of Aspiration] Dressed in Thorns",
+      "postedAt": 1779066796906,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1505740023528423655",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1779231600:F>",
+      "public": true,
+      "creator": "Horizon | Pidgeon"
     }
   ]
 }
