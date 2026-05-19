@@ -1,5 +1,5 @@
 {
-  "timestamp": 1779094844228,
+  "timestamp": 1779181255704,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -67,14 +67,14 @@
     "@missingpath": {
       "username": "@missingpath",
       "id": "181544205796114433",
-      "gameCount": 66,
+      "gameCount": 67,
       "tier": "GM: Reality Shaper - T3",
       "inGuild": true
     },
     "@rastamufasa": {
       "username": "@rastamufasa",
       "id": "283019070578753536",
-      "gameCount": 64,
+      "gameCount": 65,
       "tier": "GM: Reality Shaper - T3",
       "inGuild": true
     },
@@ -400,6 +400,13 @@
       "tier": null,
       "inGuild": false
     },
+    "@enderten": {
+      "username": "@enderten",
+      "id": "206900071055228930",
+      "gameCount": 2,
+      "tier": "GM: Apprentice - T0",
+      "inGuild": true
+    },
     "@arte_abstrata": {
       "username": "@arte_abstrata",
       "id": "351605715632390174",
@@ -459,13 +466,6 @@
     "@soggy_saltine": {
       "username": "@soggy_saltine",
       "id": "560244151258578964",
-      "gameCount": 1,
-      "tier": "GM: Apprentice - T0",
-      "inGuild": true
-    },
-    "@enderten": {
-      "username": "@enderten",
-      "id": "206900071055228930",
       "gameCount": 1,
       "tier": "GM: Apprentice - T0",
       "inGuild": true
