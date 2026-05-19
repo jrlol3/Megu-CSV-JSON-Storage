@@ -1,5 +1,5 @@
 {
-  "timestamp": 1779094844220,
+  "timestamp": 1779181255687,
   "logs": [
     {
       "master": "@desyov",
@@ -28566,6 +28566,50 @@
         "@someperson2094 as Astrid"
       ],
       "masterId": "173539943426031616"
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "Time to Wake Up",
+      "postedAt": 1779145080201,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1506068367466037279",
+      "players": [
+        "@sleepy_bernkastel as Bedivere",
+        "@sirgabite as Mordred",
+        "@emgry as Rachael",
+        "@2naf1sh as Gwydion",
+        "@caelum_blue as Morgana",
+        "@themattroid as Palamedes",
+        "@soggy_saltine as Lindwa"
+      ],
+      "masterId": "283019070578753536"
+    },
+    {
+      "master": "@missingpath",
+      "title": "[Pawn's Liberation] To Fund a Kingdom",
+      "postedAt": 1779155508029,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1506112104946728980",
+      "players": [
+        "@madrid222 as Pierre",
+        "@incognegro as Zenith",
+        "@biffmcmanly as Reynaud",
+        "@caelum_blue as Mutt",
+        "@hellion as Rajke"
+      ],
+      "masterId": "181544205796114433"
+    },
+    {
+      "master": "@enderten",
+      "title": "Frozen Stirrings II",
+      "postedAt": 1779163127636,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1506144063894847560",
+      "players": [
+        "@xirozean as Strabo",
+        "@desyov as Abaddon",
+        "@solotic. as Nathan",
+        "@letiana as Antigone",
+        "@billyscrannerx as Estrella"
+      ],
+      "masterId": "206900071055228930"
     }
   ]
 }
