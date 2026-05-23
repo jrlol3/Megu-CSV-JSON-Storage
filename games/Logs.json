@@ -1,5 +1,5 @@
 {
-  "timestamp": 1779440444025,
+  "timestamp": 1779526844408,
   "logs": [
     {
       "master": "@desyov",
@@ -28610,6 +28610,48 @@
         "@billyscrannerx as Estrella"
       ],
       "masterId": "206900071055228930"
+    },
+    {
+      "master": "@caelum_blue",
+      "title": "[Flowers For The Brave] Buried Truths",
+      "postedAt": 1779472221305,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1507440496706977963",
+      "players": [
+        "@2naf1sh as Gojko",
+        "@samikazuki as Ook",
+        "@solcarona as Caelica",
+        "@schwertaria as Féin",
+        "@rastamufasa as Gwen"
+      ],
+      "masterId": "886623433306288158"
+    },
+    {
+      "master": "@caelum_blue",
+      "title": "Duel At Heaven's Door! - Rhea Squad's Challenge",
+      "postedAt": 1779473050432,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1507443974317801613",
+      "players": [
+        "@.galebolg. as Anais Penelle",
+        "@solcarona as Raine Levia",
+        "@asimplehatter as Frederick Schmidt",
+        "@fluffbet as Garnier",
+        "@nikolaim. as Noen",
+        "@mutemissy as Natalia"
+      ],
+      "masterId": "886623433306288158"
+    },
+    {
+      "master": "@seraphim",
+      "title": "[The Once Great Sects] The Lies for the Faultless Lion",
+      "postedAt": 1779485793649,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1507497423243575426",
+      "players": [
+        "@honeydewmelons as Shenrui",
+        "@soggy_saltine as Jing",
+        "@caelum_blue as Katsura",
+        "@angrykitsu as Sara"
+      ],
+      "masterId": "108744783031185408"
     }
   ]
 }
