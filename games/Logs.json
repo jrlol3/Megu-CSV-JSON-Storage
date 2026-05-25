@@ -1,5 +1,5 @@
 {
-  "timestamp": 1779613247372,
+  "timestamp": 1779699646843,
   "logs": [
     {
       "master": "@desyov",
@@ -28652,6 +28652,33 @@
         "@angrykitsu as Sara"
       ],
       "masterId": "108744783031185408"
+    },
+    {
+      "master": "@letiana",
+      "title": "Blood is Thicker",
+      "postedAt": 1779676173732,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1508295935187353820",
+      "players": [
+        "@zacsper as Percy",
+        "@redhaart as Alyx",
+        "@spiralhorizon as Reaver",
+        "@han69 as Garmir",
+        "@ironheidcross as Maxwell",
+        "@honeydewmelons as Azra"
+      ],
+      "masterId": "299015281853071360"
+    },
+    {
+      "master": "@incognegro",
+      "title": "[Divine Echoes] The Jade Ledger",
+      "postedAt": 1779682630549,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1508323017040593027",
+      "players": [
+        "@honeydewmelons as Shenrui",
+        "@enderten as Siwu",
+        "@sirgabite as Lihua"
+      ],
+      "masterId": "118899054179516417"
     }
   ]
 }
