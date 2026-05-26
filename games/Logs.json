@@ -1,5 +1,5 @@
 {
-  "timestamp": 1779699646843,
+  "timestamp": 1779786044695,
   "logs": [
     {
       "master": "@desyov",
@@ -28679,6 +28679,16 @@
         "@sirgabite as Lihua"
       ],
       "masterId": "118899054179516417"
+    },
+    {
+      "master": "@seraphim",
+      "title": "[The Once Great Sects] Petals of Deception",
+      "postedAt": 1779754866803,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1508625997849952297",
+      "players": [
+        "@madrid222 as Tsuiho"
+      ],
+      "masterId": "108744783031185408"
     }
   ]
 }
