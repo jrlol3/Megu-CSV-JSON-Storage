@@ -1,5 +1,5 @@
 {
-  "timestamp": 1779786044695,
+  "timestamp": 1779872442967,
   "logs": [
     {
       "master": "@desyov",
@@ -28689,6 +28689,34 @@
         "@madrid222 as Tsuiho"
       ],
       "masterId": "108744783031185408"
+    },
+    {
+      "master": "@madrid222",
+      "title": "(Ignite The Spark) The Pyre",
+      "postedAt": 1779833486138,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1508955751241224324",
+      "players": [
+        "@missingpath as Felicity",
+        "@lenpendragon as Felicia",
+        "@oleamollevampie as Fenja",
+        "@han69 as Absalom"
+      ],
+      "masterId": "173539943426031616"
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "[The Fault Is In The Stars] All In A Day's Work",
+      "postedAt": 1779872232750,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1509118266310791178",
+      "players": [
+        "@incognegro as Kviss",
+        "@missingpath as Ebb",
+        "@celesteias as Ladora",
+        "@katen_m as Beryl",
+        "@nikkimp as Aile",
+        "@galen876 as Burkhardt"
+      ],
+      "masterId": "365605862615810049"
     }
   ]
 }
