@@ -1,5 +1,5 @@
 {
-  "timestamp": 1780045240349,
+  "timestamp": 1780131644156,
   "logs": [
     {
       "master": "@desyov",
@@ -28717,6 +28717,36 @@
         "@galen876 as Burkhardt"
       ],
       "masterId": "365605862615810049"
+    },
+    {
+      "master": "@xavieremix",
+      "title": "Obligate Symbiosis",
+      "postedAt": 1780077904913,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1509980917886750750",
+      "players": [
+        "@angrykitsu as Liberation",
+        "@seraphim as Coraline",
+        "@celesteias as Nettie",
+        "@kategeeper as Merlin",
+        "@schwertaria as Tsuru",
+        "@enderten as Tilly"
+      ],
+      "masterId": "181294303622987776"
+    },
+    {
+      "master": "@seraphim",
+      "title": "[The Barren North] A Pinkie Promise",
+      "postedAt": 1780085250440,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1510011727260156137",
+      "players": [
+        "@nikolaim. as Noen",
+        "@mutemissy as Natalia",
+        "@leplep as Reginn",
+        "@2naf1sh as Galavan",
+        "@sleepy_bernkastel as Theodore",
+        "@asimplehatter as Frederick"
+      ],
+      "masterId": "108744783031185408"
     }
   ]
 }
