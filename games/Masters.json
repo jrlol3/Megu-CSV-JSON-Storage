@@ -1,5 +1,5 @@
 {
-  "timestamp": 1780045240358,
+  "timestamp": 1780131644166,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -18,7 +18,7 @@
     "@seraphim": {
       "username": "@seraphim",
       "id": "108744783031185408",
-      "gameCount": 111,
+      "gameCount": 112,
       "tier": "GM: World Builder - T2",
       "inGuild": true
     },
@@ -106,6 +106,13 @@
       "tier": "GM: Storyteller - T1",
       "inGuild": true
     },
+    "@xavieremix": {
+      "username": "@xavieremix",
+      "id": "181294303622987776",
+      "gameCount": 44,
+      "tier": "GM: Storyteller - T1",
+      "inGuild": true
+    },
     "@brooms": {
       "username": "@brooms",
       "id": "140595221300772864",
@@ -116,13 +123,6 @@
     "@mercurialcomet": {
       "username": "@mercurialcomet",
       "id": "227988328119533568",
-      "gameCount": 43,
-      "tier": "GM: Storyteller - T1",
-      "inGuild": true
-    },
-    "@xavieremix": {
-      "username": "@xavieremix",
-      "id": "181294303622987776",
       "gameCount": 43,
       "tier": "GM: Storyteller - T1",
       "inGuild": true
