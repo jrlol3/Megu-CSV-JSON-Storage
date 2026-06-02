@@ -1,5 +1,5 @@
 {
-  "timestamp": 1780304447673,
+  "timestamp": 1780390843228,
   "logs": [
     {
       "master": "@desyov",
@@ -28747,6 +28747,20 @@
         "@asimplehatter as Frederick"
       ],
       "masterId": "108744783031185408"
+    },
+    {
+      "master": "@madrid222",
+      "title": "A Debt Repaid",
+      "postedAt": 1780364714470,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1511183884359041195",
+      "players": [
+        "@asimplehatter as Patience",
+        "@iamthorium as Silas",
+        "@2naf1sh as Gwydion",
+        "@kategeeper as Merlin",
+        "@han69 as Michael"
+      ],
+      "masterId": "173539943426031616"
     }
   ]
 }
