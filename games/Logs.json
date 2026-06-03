@@ -1,5 +1,5 @@
 {
-  "timestamp": 1780390843228,
+  "timestamp": 1780477243731,
   "logs": [
     {
       "master": "@desyov",
@@ -28761,6 +28761,49 @@
         "@han69 as Michael"
       ],
       "masterId": "173539943426031616"
+    },
+    {
+      "master": "@emgry",
+      "title": "[Mastrazs]: Daermon, Z,R, Ecological Survey: Bubblebeam Propulsion",
+      "postedAt": 1780440582011,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1511502095889469573",
+      "players": [
+        "@nut_wizard as Cordoba",
+        "@samikazuki as Hamra",
+        "@starfir54 as Freyr",
+        "@incognegro as Zenith",
+        "@katen_m as Celestyn",
+        "@angrykitsu as Victoria"
+      ],
+      "masterId": "186680561501339651"
+    },
+    {
+      "master": "@letiana",
+      "title": "[The Wolven Storm] C. Silk Road",
+      "postedAt": 1780441797994,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1511507196091957349",
+      "players": [
+        "@niorno. as Charlotte",
+        "@vittinhodosus as Alice",
+        "@rastamufasa as Gwendoline",
+        "@aznrcmp as Rococo",
+        "@iamthorium as Gadget"
+      ],
+      "masterId": "299015281853071360"
+    },
+    {
+      "master": "@letiana",
+      "title": "[King's Crusade] Nagging Worries",
+      "postedAt": 1780442524477,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1511510243182645388",
+      "players": [
+        "@caelum_blue as Morgana",
+        "@starfir54 as Rose",
+        "@pidgeon as Horizon",
+        "@desyov as Abaddon",
+        "@emgry as Rachel"
+      ],
+      "masterId": "299015281853071360"
     }
   ]
 }
