@@ -1,5 +1,5 @@
 {
-  "timestamp": 1780477243731,
+  "timestamp": 1780563645581,
   "logs": [
     {
       "master": "@desyov",
@@ -28804,6 +28804,21 @@
         "@emgry as Rachel"
       ],
       "masterId": "299015281853071360"
+    },
+    {
+      "master": "@xavieremix",
+      "title": "Exit Code 0",
+      "postedAt": 1780521696182,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1511842313381609532",
+      "players": [
+        "@niorno. as Azik",
+        "@iamthorium as Silas",
+        "@desyov as Abaddon",
+        "@someperson2094 as Selene",
+        "@alterluck as Carnot",
+        "@xirozean as Strabo"
+      ],
+      "masterId": "181294303622987776"
     }
   ]
 }
