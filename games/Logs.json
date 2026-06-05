@@ -1,5 +1,5 @@
 {
-  "timestamp": 1780563645581,
+  "timestamp": 1780650045570,
   "logs": [
     {
       "master": "@desyov",
@@ -28819,6 +28819,20 @@
         "@xirozean as Strabo"
       ],
       "masterId": "181294303622987776"
+    },
+    {
+      "master": "@caelum_blue",
+      "title": "[Catching a Fox's Tail] A Violet Moon",
+      "postedAt": 1780598483568,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1512164383021727764",
+      "players": [
+        "@oleamollevampie as Mara Zofia Jedvaj",
+        "@agentdj as Cassius Mordred",
+        "@seraphim as Cole Grant",
+        "@kategeeper as Merlin Orien",
+        "@han69 as Michael Adder"
+      ],
+      "masterId": "886623433306288158"
     }
   ]
 }
