@@ -1,5 +1,5 @@
 {
-  "timestamp": 1780650045570,
+  "timestamp": 1780736447335,
   "logs": [
     {
       "master": "@desyov",
@@ -28833,6 +28833,34 @@
         "@han69 as Michael Adder"
       ],
       "masterId": "886623433306288158"
+    },
+    {
+      "master": "@incognegro",
+      "title": "Alpha Strike",
+      "postedAt": 1780684144119,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1512523669413429421",
+      "players": [
+        "@iamthorium as Bjorn",
+        "@emgry as Gabriela",
+        "@madrid222 as Calvin",
+        "@samikazuki as Ook",
+        "@letiana as Metzli"
+      ],
+      "masterId": "118899054179516417"
+    },
+    {
+      "master": "@incognegro",
+      "title": "Omega Strike: Northern Defense",
+      "postedAt": 1780723196391,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1512687466514223214",
+      "players": [
+        "@iamthorium as Bjorn",
+        "@angrykitsu as Sara",
+        "@samikazuki as Ook",
+        "@r10 as Sirius",
+        "@nut_wizard as Quill"
+      ],
+      "masterId": "118899054179516417"
     }
   ]
 }
