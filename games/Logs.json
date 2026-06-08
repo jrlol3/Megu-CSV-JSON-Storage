@@ -1,5 +1,5 @@
 {
-  "timestamp": 1780822844771,
+  "timestamp": 1780909245932,
   "logs": [
     {
       "master": "@desyov",
@@ -28861,6 +28861,21 @@
         "@nut_wizard as Quill"
       ],
       "masterId": "118899054179516417"
+    },
+    {
+      "master": "@schwertaria",
+      "title": "[A Primed Match] Dog Days",
+      "postedAt": 1780850992384,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1513223481758715985",
+      "players": [
+        "@mutemissy Selene",
+        "@someperson2094 Selene Harte",
+        "Evelyn Antonov",
+        "@han69 Michael Adder",
+        "@anthonyyyyy8239 Vera Thorne",
+        "@solaceinfire Mizuki"
+      ],
+      "masterId": "95869822574809088"
     }
   ]
 }
