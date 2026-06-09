@@ -1,5 +1,5 @@
 {
-  "timestamp": 1780909245863,
+  "timestamp": 1780995648976,
   "games": [
     {
       "title": "First Introductions",
@@ -23766,6 +23766,28 @@
       "time": "<t:1781305200:F>",
       "public": false,
       "creator": "Dominic"
+    },
+    {
+      "title": "[Haunted Hosts] A Bitter Tea",
+      "postedAt": 1780958543472,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1513674583717183649",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1781132400:F>",
+      "public": true,
+      "creator": "zzzTarot"
+    },
+    {
+      "title": "[The Shadow of Mugetsu] Preventable Tragedies",
+      "postedAt": 1780962623969,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1513691698562072689",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1781145000:F>",
+      "public": true,
+      "creator": "==Grief=="
     }
   ]
 }
