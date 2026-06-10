@@ -1,5 +1,5 @@
 {
-  "timestamp": 1780995648976,
+  "timestamp": 1781082048592,
   "games": [
     {
       "title": "First Introductions",
@@ -23788,6 +23788,17 @@
       "time": "<t:1781145000:F>",
       "public": true,
       "creator": "==Grief=="
+    },
+    {
+      "title": "[The Once Great Sects] A Rule of Strength",
+      "postedAt": 1781057760755,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1514090731164143697",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1781058663:F>",
+      "public": true,
+      "creator": "Cole Grant"
     }
   ]
 }
