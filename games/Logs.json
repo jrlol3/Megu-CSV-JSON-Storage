@@ -1,5 +1,5 @@
 {
-  "timestamp": 1780995648984,
+  "timestamp": 1781082048623,
   "logs": [
     {
       "master": "@desyov",
@@ -28876,6 +28876,34 @@
         "@solaceinfire Mizuki"
       ],
       "masterId": "95869822574809088"
+    },
+    {
+      "master": "@iamthorium",
+      "title": "[AVALON] Put On The Gloves",
+      "postedAt": 1781027710197,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1513964689988649054",
+      "players": [
+        "@someperson2094 as Astrid Engstrom",
+        "@aznrcmp as Elias (and Eugene)",
+        "@kategeeper as Merlin Orien",
+        "@sleepy_bernkastel as Ser Bedivere",
+        "@seraphim as Cole Grant",
+        "@dragonead as Bai Ziyun"
+      ],
+      "masterId": "220960630692118528"
+    },
+    {
+      "master": "@seraphim",
+      "title": "[The Once Great Sects] A Rule of Strength",
+      "postedAt": 1781069634625,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1514140533784842354",
+      "players": [
+        "@sirgabite as Feng",
+        "@enderten as Siwu",
+        "@honeydewmelons as Shenrui",
+        "@iamthorium as Bjorn"
+      ],
+      "masterId": "108744783031185408"
     }
   ]
 }
