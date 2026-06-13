@@ -1,5 +1,5 @@
 {
-  "timestamp": 1781168448263,
+  "timestamp": 1781341242031,
   "logs": [
     {
       "master": "@desyov",
@@ -28904,6 +28904,21 @@
         "@iamthorium as Bjorn"
       ],
       "masterId": "108744783031185408"
+    },
+    {
+      "master": "@hangedmantarot",
+      "title": "[Haunted Hosts] A Bitter Tea",
+      "postedAt": 1781272093003,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1514989705769517127",
+      "players": [
+        "@Nettie | Jazz  As Nettie",
+        "@Dustin | Han  As Dustin",
+        "@Cole Grant As Cole Grant",
+        "@Selene as ᵀʰᵉ Shredspire As Selene",
+        "@Bedivere⁹📚| Sleepy As Bedivere",
+        "@Mizuki as Mizuki"
+      ],
+      "masterId": "276027404839813120"
     }
   ]
 }
