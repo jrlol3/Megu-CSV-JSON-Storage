@@ -1,5 +1,5 @@
 {
-  "timestamp": 1781341242047,
+  "timestamp": 1781427647481,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -25,7 +25,7 @@
     "@incognegro": {
       "username": "@incognegro",
       "id": "118899054179516417",
-      "gameCount": 108,
+      "gameCount": 109,
       "tier": "GM: Reality Shaper - T3",
       "inGuild": true
     },
@@ -176,18 +176,18 @@
       "tier": null,
       "inGuild": true
     },
+    "@themattroid": {
+      "username": "@themattroid",
+      "id": "193553881249087488",
+      "gameCount": 29,
+      "tier": "GM: Storyteller - T1",
+      "inGuild": true
+    },
     "@emgry": {
       "username": "@emgry",
       "id": "186680561501339651",
       "gameCount": 29,
       "tier": "GM: World Builder - T2",
-      "inGuild": true
-    },
-    "@themattroid": {
-      "username": "@themattroid",
-      "id": "193553881249087488",
-      "gameCount": 24,
-      "tier": "GM: Storyteller - T1",
       "inGuild": true
     },
     "@snuggle_bun": {
@@ -302,6 +302,13 @@
       "tier": null,
       "inGuild": true
     },
+    "@r10": {
+      "username": "@r10",
+      "id": "132288834560983040",
+      "gameCount": 6,
+      "tier": "GM: Apprentice - T0",
+      "inGuild": true
+    },
     "@paradigm.42": {
       "username": "@paradigm.42",
       "id": "465582019150217226",
@@ -314,13 +321,6 @@
       "id": "180873257480617984",
       "gameCount": 5,
       "tier": "GM: Storyteller - T1",
-      "inGuild": true
-    },
-    "@r10": {
-      "username": "@r10",
-      "id": "132288834560983040",
-      "gameCount": 5,
-      "tier": "GM: Apprentice - T0",
       "inGuild": true
     },
     "@doctor_temmie": {
