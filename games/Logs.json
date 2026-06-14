@@ -1,5 +1,5 @@
 {
-  "timestamp": 1781341242031,
+  "timestamp": 1781427647469,
   "logs": [
     {
       "master": "@desyov",
@@ -28919,6 +28919,111 @@
         "@Mizuki as Mizuki"
       ],
       "masterId": "276027404839813120"
+    },
+    {
+      "master": "@incognegro",
+      "title": "Frontier Boomin",
+      "postedAt": 1781372026539,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1515408857399164980",
+      "players": [
+        "@angrykitsu as Sara",
+        "@letiana as Metzli",
+        "@desyov as Heron",
+        "@emgry as Gabriela",
+        "@leplep as Adelaide",
+        "@seraphim as Cole"
+      ],
+      "masterId": "118899054179516417"
+    },
+    {
+      "master": "@r10",
+      "title": "[Drums of War] We're Not Going To Take It",
+      "postedAt": 1781401567207,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1515532759941120091",
+      "players": [
+        "@emgry as Gabriela",
+        "@desyov as Heron",
+        "@zacsper as Axel",
+        "@redhaart as Isolde",
+        "@samikazuki as Ook Nii-Suu",
+        "@letiana as Metztli"
+      ],
+      "masterId": "132288834560983040"
+    },
+    {
+      "master": "@themattroid",
+      "title": "The Secrets of the Askew Family",
+      "postedAt": 1781404286193,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1515544164195106908",
+      "players": [
+        "@nikkimp as Aile",
+        "@desyov as Callum",
+        "@solaceinfire as Naomi",
+        "@biffmcmanly as Reynaud",
+        "@galen876 as Waylen",
+        "@xirozean as Ferry"
+      ],
+      "masterId": "193553881249087488"
+    },
+    {
+      "master": "@themattroid",
+      "title": "[A Crimson Trail] A Blood Racketeer",
+      "postedAt": 1781404969622,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1515547030704095262",
+      "players": [
+        "@Metztli as Viola",
+        "@Perseus Akalakos | Radda as Henrik",
+        "@It's stellaris baby as Nora",
+        "@De'Angelo | Vittin as Dr. Dorian",
+        "@Dr. Henry Calvin as Dr. Henry Calvin",
+        "@Krynn | Daniel/ICH as Krynn"
+      ],
+      "masterId": "193553881249087488"
+    },
+    {
+      "master": "@themattroid",
+      "title": "[Smoke and Shadow] A new fixation",
+      "postedAt": 1781405588928,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1515549628261732402",
+      "players": [
+        "@mutemissy as Viliana",
+        "@Rowan | Medja as Rowan",
+        "@moosh as Chance",
+        "@Mara | Olea as Mara",
+        "@Galebolg As Arzen",
+        "@Her☆n Caladrius ☀️ as Abaddon"
+      ],
+      "masterId": "193553881249087488"
+    },
+    {
+      "master": "@themattroid",
+      "title": "[A Crimson Trail] Back at their old tricks",
+      "postedAt": 1781405996896,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1515551339403546765",
+      "players": [
+        "@Mara | Olea as Mara",
+        "@Corvin | Hellion as Corvin",
+        "@Astrid | SomePerson as Astrid",
+        "@=Bitter Tea= as Shaw",
+        "@zz as Nathan",
+        "@De'Angelo | Vittin as De'Angelo"
+      ],
+      "masterId": "193553881249087488"
+    },
+    {
+      "master": "@themattroid",
+      "title": "[A Crimson Trail] The Sweet Taste of Revenge",
+      "postedAt": 1781406645301,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1515554059011096657",
+      "players": [
+        "@Mara | Olea as Mara",
+        "@Metztli as Viola",
+        "@De'Angelo | Vittin as DeAngelo",
+        "@Perseus Akalakos | Radda as Henrik",
+        "@Astrid | SomePerson as Astrid",
+        "@zzSiwu | Ender as Tilly"
+      ],
+      "masterId": "193553881249087488"
     }
   ]
 }
