@@ -1,5 +1,5 @@
 {
-  "timestamp": 1781514040584,
+  "timestamp": 1781600445027,
   "logs": [
     {
       "master": "@desyov",
@@ -29024,6 +29024,20 @@
         "@zzSiwu | Ender as Tilly"
       ],
       "masterId": "193553881249087488"
+    },
+    {
+      "master": "@missingpath",
+      "title": "[Pawn's Liberation] Setting the Stage",
+      "postedAt": 1781574765816,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1516259207559778335",
+      "players": [
+        "@madrid222 as Pierre",
+        "@hangedmantarot as Mort",
+        "@lenpendragon as Olivia",
+        "@schwertaria as Yuel",
+        "@caelum_blue as Mutt"
+      ],
+      "masterId": "181544205796114433"
     }
   ]
 }
