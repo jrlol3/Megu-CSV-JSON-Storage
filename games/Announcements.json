@@ -1,5 +1,5 @@
 {
-  "timestamp": 1781686841750,
+  "timestamp": 1781773244462,
   "games": [
     {
       "title": "First Introductions",
@@ -23907,6 +23907,26 @@
       "time": "<t:1781827200:F>",
       "public": true,
       "creator": "Nikolai M."
+    },
+    {
+      "title": "[The Epic of Arcadia] The Whim of Gods",
+      "postedAt": 1781721094028,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1516872952564420801",
+      "pings": [
+        "1170826784862908661"
+      ],
+      "time": "<t:1782082800:F>",
+      "public": true,
+      "creator": "Henrik | Radda"
+    },
+    {
+      "title": "[The Epic of Arcadia] The Festival of Heroes",
+      "postedAt": 1781721467242,
+      "link": "https://discord.com/channels/1169852846083153941/1170183729856135250/1516874517937651794",
+      "pings": [],
+      "time": "<t:1782165600:F>",
+      "public": false,
+      "creator": "Felicity | Path"
     }
   ]
 }
