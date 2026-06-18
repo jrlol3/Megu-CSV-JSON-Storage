@@ -1,5 +1,5 @@
 {
-  "timestamp": 1781686841768,
+  "timestamp": 1781773244550,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -25,7 +25,7 @@
     "@incognegro": {
       "username": "@incognegro",
       "id": "118899054179516417",
-      "gameCount": 109,
+      "gameCount": 110,
       "tier": "GM: Reality Shaper - T3",
       "inGuild": true
     },
@@ -33,7 +33,7 @@
       "username": "@angrykitsu",
       "id": "169795599758131200",
       "gameCount": 102,
-      "tier": "GM: Storyteller - T1",
+      "tier": "GM: World Builder - T2",
       "inGuild": true
     },
     "@pidgeon": {
