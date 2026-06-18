@@ -1,5 +1,5 @@
 {
-  "timestamp": 1781686841757,
+  "timestamp": 1781773244518,
   "logs": [
     {
       "master": "@desyov",
@@ -29052,6 +29052,21 @@
         "@sirgabite as Feng"
       ],
       "masterId": "181544205796114433"
+    },
+    {
+      "master": "@incognegro",
+      "title": "Powder and Brimstone",
+      "postedAt": 1781741249796,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1516957491983024258",
+      "players": [
+        "@zacsper as Axel",
+        "@redhaart as Isolde",
+        "@nut_wizard as Quill",
+        "@samikazuki as Ook",
+        "@letiana as Metzli",
+        "@themattroid as Palamedes"
+      ],
+      "masterId": "118899054179516417"
     }
   ]
 }
