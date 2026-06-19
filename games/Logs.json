@@ -1,5 +1,5 @@
 {
-  "timestamp": 1781773244518,
+  "timestamp": 1781859643167,
   "logs": [
     {
       "master": "@desyov",
@@ -29067,6 +29067,20 @@
         "@themattroid as Palamedes"
       ],
       "masterId": "118899054179516417"
+    },
+    {
+      "master": "@nikolaim.",
+      "title": "[Blood on the Street] The Benefactor",
+      "postedAt": 1781848342854,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1517406672824438808",
+      "players": [
+        "@mutemissy as Viliana",
+        "@sleepy_bernkastel as Asahi",
+        "@averysoftsheep as Yuanmin",
+        "@nerogenesis as Oren",
+        "@hellion as Corvin"
+      ],
+      "masterId": "419689143443128321"
     }
   ]
 }
