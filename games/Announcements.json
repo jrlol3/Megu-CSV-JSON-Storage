@@ -1,5 +1,5 @@
 {
-  "timestamp": 1781859643157,
+  "timestamp": 1781946041596,
   "games": [
     {
       "title": "First Introductions",
@@ -23936,6 +23936,28 @@
       "time": "<t:1782014400:F>",
       "public": false,
       "creator": "zzCaliste | Pidgeon"
+    },
+    {
+      "title": "[Crimes of Our Kin] A Bloodstained Debt",
+      "postedAt": 1781899207547,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1517620014809747567",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1781920800:F>",
+      "public": true,
+      "creator": "Gadget 🦊 | Thorium"
+    },
+    {
+      "title": "[Cost of Blood] Heavy is the Crown",
+      "postedAt": 1781926218560,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1517733307209482311",
+      "pings": [
+        "1170826716571238410"
+      ],
+      "time": "<t:1782169200:F>",
+      "public": true,
+      "creator": "Antigone"
     }
   ]
 }
