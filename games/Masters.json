@@ -1,5 +1,5 @@
 {
-  "timestamp": 1781946041615,
+  "timestamp": 1782032451225,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -39,7 +39,7 @@
     "@pidgeon": {
       "username": "@pidgeon",
       "id": "153330975575769088",
-      "gameCount": 92,
+      "gameCount": 100,
       "tier": "GM: World Builder - T2",
       "inGuild": true
     },
@@ -393,6 +393,13 @@
       "tier": "GM: Apprentice - T0",
       "inGuild": true
     },
+    "@iamthorium": {
+      "username": "@iamthorium",
+      "id": "220960630692118528",
+      "gameCount": 3,
+      "tier": "GM: Apprentice - T0",
+      "inGuild": true
+    },
     "@ijiyiji": {
       "username": "@ijiyiji",
       "id": "980973537739280384",
@@ -424,13 +431,6 @@
     "@arte_abstrata": {
       "username": "@arte_abstrata",
       "id": "351605715632390174",
-      "gameCount": 2,
-      "tier": "GM: Apprentice - T0",
-      "inGuild": true
-    },
-    "@iamthorium": {
-      "username": "@iamthorium",
-      "id": "220960630692118528",
       "gameCount": 2,
       "tier": "GM: Apprentice - T0",
       "inGuild": true
