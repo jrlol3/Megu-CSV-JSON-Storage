@@ -1,5 +1,5 @@
 {
-  "timestamp": 1781946041596,
+  "timestamp": 1782032451208,
   "games": [
     {
       "title": "First Introductions",
@@ -23958,6 +23958,17 @@
       "time": "<t:1782169200:F>",
       "public": true,
       "creator": "Antigone"
+    },
+    {
+      "title": "[TUTORIAL] Enter the Unknown: First Steps",
+      "postedAt": 1782020668431,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1518129458681479211",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1782075600:F>",
+      "public": true,
+      "creator": "Callum Baud☆uin II 👑"
     }
   ]
 }
