@@ -1,5 +1,5 @@
 {
-  "timestamp": 1781946041604,
+  "timestamp": 1782032451214,
   "logs": [
     {
       "master": "@desyov",
@@ -29081,6 +29081,144 @@
         "@hellion as Corvin"
       ],
       "masterId": "419689143443128321"
+    },
+    {
+      "master": "@iamthorium",
+      "title": "[Crimes Of Our Kin] A Bloodstained Debt",
+      "postedAt": 1781972080507,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1517925666157494295",
+      "players": [
+        "@nerogenesis as Oren",
+        "@someperson2094 as Astrid Engstrom",
+        "@eleesehn as Valissa Eden",
+        "@averysoftsheep as Xu Yuanmin",
+        "@akinotamashii as Kiva",
+        "@katen_m as Enkh Tsering"
+      ],
+      "masterId": "220960630692118528"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Broken Vortex] Fear",
+      "postedAt": 1782003238494,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1518056352227004467",
+      "players": [
+        "@lefender Mikkel",
+        "@oleamollevampie Mara",
+        "@themattroid Palamedes",
+        "@mutemissy Selene",
+        "@vittinhodosus De'Angelo",
+        "@sleepy_bernkastel Bedivere"
+      ],
+      "masterId": "153330975575769088"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Fragment of Ambition] Desire of all. The Desire of one.",
+      "postedAt": 1782003428108,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1518057147525628108",
+      "players": [
+        "@emgry Alois",
+        "@hellion Rajke",
+        "@mutemissy Natalia",
+        "@sleepy_bernkastel Théodore",
+        "@desyov Callum",
+        "@rastamufasa Calliope."
+      ],
+      "masterId": "153330975575769088"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Broken Vortex] Beyond the Border",
+      "postedAt": 1782003570236,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1518057743653797954",
+      "players": [
+        "@schwertaria Yuel",
+        "@lenpendragon Olivia",
+        "@aznrcmp Lyssa",
+        "@squidlover23 Franz",
+        "@katen_m Celestyn",
+        "@xavieremix The Assistant",
+        "Last reminder. Game in 30 minutes"
+      ],
+      "masterId": "153330975575769088"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Broken Vortex] Nothingness",
+      "postedAt": 1782003829139,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1518058829571555359",
+      "players": [
+        "@agentdj Oscar",
+        "@han69 Renard",
+        "@seraphim Void",
+        "@sunny.something Blue Bolt",
+        "@iamthorium Bjorn",
+        "@celesteias Daisy"
+      ],
+      "masterId": "153330975575769088"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Fragment of Ambition] Rampant Flame",
+      "postedAt": 1782004079160,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1518059878235635714",
+      "players": [
+        "@hellion Rajke",
+        "@emgry Alois",
+        "@honeydewmelons Azra",
+        "@nut_wizard Córdoba",
+        "@2naf1sh Galavan",
+        "@sussy_arata Rhys"
+      ],
+      "masterId": "153330975575769088"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[End of Aspiration] Dressed in Thorns",
+      "postedAt": 1782004251905,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1518060602780680305",
+      "players": [
+        "@missingpath Felicity",
+        "@lenpendragon Felicia",
+        "@.galebolg. Arzen",
+        "@nikkimp Juna",
+        "@oleamollevampie Fenja",
+        "@iamthorium Gadget",
+        "",
+        "Game in 5 hours and 53 minutes"
+      ],
+      "masterId": "153330975575769088"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Trials of Magic] Justice and Betrayal",
+      "postedAt": 1782004777355,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1518062806677590110",
+      "players": [
+        "@mutemissy Maria",
+        "@sleepy_bernkastel Poppy",
+        "@mooshen Pasqal",
+        "@doctor_temmie Agrippa",
+        "@zacsper Dante",
+        "@redhaart Emile"
+      ],
+      "masterId": "153330975575769088"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Eyes in the Stars] Infinity",
+      "postedAt": 1782018830583,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1518121750187999255",
+      "players": [
+        "@lenpendragon Olivia",
+        "@nikkimp Aile",
+        "@mooshen Elvis",
+        "@oleamollevampie Wraith",
+        "@galen876 Xing Wei",
+        "@themattroid Maxilos"
+      ],
+      "masterId": "153330975575769088"
     }
   ]
 }
