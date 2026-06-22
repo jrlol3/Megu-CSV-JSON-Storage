@@ -1,5 +1,5 @@
 {
-  "timestamp": 1782032451214,
+  "timestamp": 1782118845181,
   "logs": [
     {
       "master": "@desyov",
@@ -29219,6 +29219,20 @@
         "@themattroid Maxilos"
       ],
       "masterId": "153330975575769088"
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "This is the Decree of Jarl Niklas Engstrom, To Resist It is Foolishness",
+      "postedAt": 1782115946379,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1518529083359891537",
+      "players": [
+        "@sleepy_bernkastel as Théodore",
+        "@katen_m as Celestyn",
+        "@mutemissy as Natalia",
+        "@asimplehatter as Frederick",
+        "@squidlover23 as Franz"
+      ],
+      "masterId": "365605862615810049"
     }
   ]
 }
