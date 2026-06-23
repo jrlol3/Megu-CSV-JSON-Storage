@@ -1,5 +1,5 @@
 {
-  "timestamp": 1782118845181,
+  "timestamp": 1782205244213,
   "logs": [
     {
       "master": "@desyov",
@@ -29233,6 +29233,98 @@
         "@squidlover23 as Franz"
       ],
       "masterId": "365605862615810049"
+    },
+    {
+      "master": "@missingpath",
+      "title": "[The Epic of Arcadia] The Festival of Heroes",
+      "postedAt": 1782187469025,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1518829071079964763",
+      "players": [
+        "@seraphim as Nestor",
+        "@angrykitsu as Rhea",
+        "@madrid222 as Thumasios",
+        "@paradigm.42 as Zoe",
+        "@2naf1sh as Gialos",
+        "@enderten as Sophron",
+        "@hellion as Alethra",
+        "@desyov as Stratos",
+        "@pidgeon as Loxias",
+        "@caelum_blue as Aello",
+        "@incognegro as Bion"
+      ],
+      "masterId": "181544205796114433"
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "[The Epic of Arcadia] The Whim of Gods",
+      "postedAt": 1782187980374,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1518831215833125018",
+      "players": [
+        "@nikolaim. as Noir",
+        "@letiana as Erin",
+        "@oleamollevampie as Rue",
+        "@galen876 as Xing Wei",
+        "@sussy_arata as Lin Shen",
+        "@samikazuki as Mei Mei"
+      ],
+      "masterId": "283019070578753536"
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "[The Five Temples] Sands turned to Ash",
+      "postedAt": 1782188434297,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1518833119724310610",
+      "players": [
+        "@2naf1sh as Gyalwa",
+        "@schwertaria as Tenzin",
+        "@nikolaim. as Dujom",
+        "@desyov as Jiafei",
+        "@phos0947 as Annette",
+        "@xirozean as Zinnia"
+      ],
+      "masterId": "169795599758131200"
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "[Slithering Eels] Desperate Gambit",
+      "postedAt": 1782188570924,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1518833692779352107",
+      "players": [
+        "@oleamollevampie as Miyashiro Chieko",
+        "@sleepy_bernkastel as Asahi",
+        "@solaceinfire as Mizuki",
+        "@katen_m as Kaneko Ichiro",
+        "@rastamufasa as Henrik Nagy"
+      ],
+      "masterId": "169795599758131200"
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "An Old Man's Gambit",
+      "postedAt": 1782188745956,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1518834426916765798",
+      "players": [
+        "@Aki@sunny.something as Irobe Akinaga",
+        "@galen876 as Uto Masahide",
+        "@sussy_arata  As Ishikawa Shishiro",
+        "@fluffbet as Takano Akiyama",
+        "@phos0947 as Petra"
+      ],
+      "masterId": "169795599758131200"
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "[The Shadow of Mugetsu] Preventable Tragedies",
+      "postedAt": 1782188906149,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1518835098814775368",
+      "players": [
+        "@leplep as Anzai Midori",
+        "@oleamollevampie as Chieko Miyashiro",
+        "@sunny.something as Irobe Akinaga",
+        "@schwertaria as Inoue Tsuru",
+        "@han69 as Dustin Ryder"
+      ],
+      "masterId": "169795599758131200"
     }
   ]
 }
