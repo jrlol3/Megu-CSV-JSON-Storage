@@ -1,5 +1,5 @@
 {
-  "timestamp": 1782378047786,
+  "timestamp": 1782464440359,
   "logs": [
     {
       "master": "@desyov",
@@ -29325,6 +29325,19 @@
         "@han69 as Dustin Ryder"
       ],
       "masterId": "169795599758131200"
+    },
+    {
+      "master": "@incognegro",
+      "title": "A Straight Answer",
+      "postedAt": 1782444996959,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1519909221523787938",
+      "players": [
+        "@letiana as Metzli",
+        "@samikazuki as Ook",
+        "@desyov as Heron",
+        "@emgry as Gabriela"
+      ],
+      "masterId": "118899054179516417"
     }
   ]
 }
