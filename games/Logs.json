@@ -1,5 +1,5 @@
 {
-  "timestamp": 1782464440359,
+  "timestamp": 1782550847113,
   "logs": [
     {
       "master": "@desyov",
@@ -29336,6 +29336,41 @@
         "@samikazuki as Ook",
         "@desyov as Heron",
         "@emgry as Gabriela"
+      ],
+      "masterId": "118899054179516417"
+    },
+    {
+      "master": "@iamthorium",
+      "title": "[Crimes Of Our Kin] A New Page",
+      "postedAt": 1782506714059,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1520168081803051169",
+      "players": [
+        "@averysoftsheep as Xu Yuanmin",
+        "@fluffbet as Sybil",
+        "@nerogenesis as Oren",
+        "@pidgeon as Loxias Thausmastus",
+        "@caelum_blue as Morgana",
+        "@maxfish as Ciro"
+      ],
+      "masterId": "220960630692118528"
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "[The Epic of Arcadia] The Forge of Mankind VS The Death of Ascension",
+      "postedAt": 1782533777315,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1520281593326080001",
+      "players": [
+        "@brooms as Thyreos"
+      ],
+      "masterId": "283019070578753536"
+    },
+    {
+      "master": "@incognegro",
+      "title": "[Tall Tails] Taking Census",
+      "postedAt": 1782534733691,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1520285604657631423",
+      "players": [
+        "@nut_wizard as Ranmaru"
       ],
       "masterId": "118899054179516417"
     }
