@@ -1,5 +1,5 @@
 {
-  "timestamp": 1782464440368,
+  "timestamp": 1782550847136,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -25,7 +25,7 @@
     "@incognegro": {
       "username": "@incognegro",
       "id": "118899054179516417",
-      "gameCount": 111,
+      "gameCount": 112,
       "tier": "GM: Reality Shaper - T3",
       "inGuild": true
     },
@@ -74,7 +74,7 @@
     "@rastamufasa": {
       "username": "@rastamufasa",
       "id": "283019070578753536",
-      "gameCount": 66,
+      "gameCount": 67,
       "tier": "GM: Reality Shaper - T3",
       "inGuild": true
     },
@@ -281,19 +281,19 @@
       "tier": "GM: Storyteller - T1",
       "inGuild": true
     },
-    "@doobledeedooble": {
-      "username": "@doobledeedooble",
-      "id": "223253130417012736",
-      "gameCount": 7,
-      "tier": null,
-      "inGuild": true
-    },
     "@billyscrannerx": {
       "username": "@billyscrannerx",
       "id": "784244863528992788",
       "gameCount": 7,
       "tier": "GM: Apprentice - T0",
       "inGuild": true
+    },
+    "@doobledeedooble": {
+      "username": "@doobledeedooble",
+      "id": "223253130417012736",
+      "gameCount": 7,
+      "tier": null,
+      "inGuild": false
     },
     "@cursed6069": {
       "username": "@cursed6069",
@@ -379,6 +379,13 @@
       "tier": "GM: Apprentice - T0",
       "inGuild": true
     },
+    "@iamthorium": {
+      "username": "@iamthorium",
+      "id": "220960630692118528",
+      "gameCount": 4,
+      "tier": "GM: Apprentice - T0",
+      "inGuild": true
+    },
     "@vampiremommy": {
       "username": "@vampiremommy",
       "id": "186812413574774784",
@@ -389,13 +396,6 @@
     "@reggie7457": {
       "username": "@reggie7457",
       "id": "555561965951647754",
-      "gameCount": 3,
-      "tier": "GM: Apprentice - T0",
-      "inGuild": true
-    },
-    "@iamthorium": {
-      "username": "@iamthorium",
-      "id": "220960630692118528",
       "gameCount": 3,
       "tier": "GM: Apprentice - T0",
       "inGuild": true
