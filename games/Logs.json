@@ -1,5 +1,5 @@
 {
-  "timestamp": 1782550847113,
+  "timestamp": 1782637247966,
   "logs": [
     {
       "master": "@desyov",
@@ -29373,6 +29373,21 @@
         "@nut_wizard as Ranmaru"
       ],
       "masterId": "118899054179516417"
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "Aranova: The Wound of Eminence, Part 1",
+      "postedAt": 1782618787953,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1520638153784824012",
+      "players": [
+        "@nut_wizard as Cordoba",
+        "@caelum_blue as Mutt",
+        "@lenpendragon as Asuka",
+        "@incognegro as Zenith",
+        "@biffmcmanly as Reynaud",
+        "@rastamufasa as Calliope"
+      ],
+      "masterId": "365605862615810049"
     }
   ]
 }
