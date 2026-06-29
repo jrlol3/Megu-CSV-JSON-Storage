@@ -1,5 +1,5 @@
 {
-  "timestamp": 1782637247976,
+  "timestamp": 1782723645801,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -152,8 +152,8 @@
       "username": "@speagle",
       "id": "250502333903929344",
       "gameCount": 36,
-      "tier": "GM: Storyteller - T1",
-      "inGuild": true
+      "tier": null,
+      "inGuild": false
     },
     "@phosphophyllite0": {
       "username": "@phosphophyllite0",
