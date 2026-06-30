@@ -1,5 +1,5 @@
 {
-  "timestamp": 1782723645786,
+  "timestamp": 1782810045326,
   "logs": [
     {
       "master": "@desyov",
@@ -29388,6 +29388,36 @@
         "@rastamufasa as Calliope"
       ],
       "masterId": "365605862615810049"
+    },
+    {
+      "master": "@missingpath",
+      "title": "[AVALON] Dawnstar Strikeout!",
+      "postedAt": 1782783650856,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1521329638918590596",
+      "players": [
+        "@madrid222 as Marcus",
+        "@emgry as Valerie",
+        "@sussy_arata as Aston",
+        "@enderten as Tilly",
+        "@han69 as Taiki",
+        "@doctor_temmie as Agrippa"
+      ],
+      "masterId": "181544205796114433"
+    },
+    {
+      "master": "@niorno.",
+      "title": "[Avalon] Violet and the Wonderbots",
+      "postedAt": 1782799921753,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1521397884006826135",
+      "players": [
+        "@schwertaria as Aria!",
+        "@mutemissy as Selene! (The Shredspire)",
+        "@sleepy_bernkastel as Ser Bedivere! (The Grey Wolf)",
+        "@han69 as Mike",
+        "@aznrcmp as Rococo!",
+        "@ironheidcross as Maxwell!"
+      ],
+      "masterId": "1163222581478948915"
     }
   ]
 }
