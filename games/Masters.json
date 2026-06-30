@@ -1,5 +1,5 @@
 {
-  "timestamp": 1782723645801,
+  "timestamp": 1782810045379,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -67,7 +67,7 @@
     "@missingpath": {
       "username": "@missingpath",
       "id": "181544205796114433",
-      "gameCount": 70,
+      "gameCount": 71,
       "tier": "GM: Reality Shaper - T3",
       "inGuild": true
     },
@@ -480,6 +480,13 @@
     "@topsick": {
       "username": "@topsick",
       "id": "210992769890648064",
+      "gameCount": 1,
+      "tier": "GM: Apprentice - T0",
+      "inGuild": true
+    },
+    "@niorno.": {
+      "username": "@niorno.",
+      "id": "1163222581478948915",
       "gameCount": 1,
       "tier": "GM: Apprentice - T0",
       "inGuild": true
