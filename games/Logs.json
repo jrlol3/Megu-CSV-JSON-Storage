@@ -1,5 +1,5 @@
 {
-  "timestamp": 1783155646494,
+  "timestamp": 1783242044516,
   "logs": [
     {
       "master": "@desyov",
@@ -29418,6 +29418,36 @@
         "@ironheidcross as Maxwell!"
       ],
       "masterId": "1163222581478948915"
+    },
+    {
+      "master": "@letiana",
+      "title": "[King's Crusade] Broken Standstill",
+      "postedAt": 1783178853447,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1522987238726697103",
+      "players": [
+        "@madrid222 as Orion",
+        "@rastamufasa as Perseus",
+        "@seraphim as Onyx",
+        "@_.squibbles._ as Stock",
+        "@phos0947 as Fenn",
+        "@mooshen as Professor Elvis"
+      ],
+      "masterId": "299015281853071360"
+    },
+    {
+      "master": "@letiana",
+      "title": "[Part of the Cycle] A Full Moon",
+      "postedAt": 1783224770965,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1523179830756114605",
+      "players": [
+        "@facinarose as Akiko",
+        "@paradigm.42 as Enlai",
+        "@madrid222 as Tshuiho",
+        "@2naf1sh as Gyalwa",
+        "@missingpath as Rin",
+        "@emgry as Hiya"
+      ],
+      "masterId": "299015281853071360"
     }
   ]
 }
