@@ -1,5 +1,5 @@
 {
-  "timestamp": 1783242044516,
+  "timestamp": 1783328445729,
   "logs": [
     {
       "master": "@desyov",
@@ -29448,6 +29448,48 @@
         "@emgry as Hiya"
       ],
       "masterId": "299015281853071360"
+    },
+    {
+      "master": "@incognegro",
+      "title": "Dedications of the Faithful",
+      "postedAt": 1783282117504,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1523420359574159402",
+      "players": [
+        "@desyov as Heron",
+        "@emgry as Gabriela",
+        "@facinarose as Anabella",
+        "@maxfish as Ciro"
+      ],
+      "masterId": "118899054179516417"
+    },
+    {
+      "master": "@madrid222",
+      "title": "[AVALON] Entertainment!",
+      "postedAt": 1783296341545,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1523480019526090773",
+      "players": [
+        "@nerogenesis as Oren",
+        "@pidgeon as Horizon",
+        "@angrykitsu as Rhea",
+        "@schwertaria as Inoue",
+        "@fluffbet as Takano"
+      ],
+      "masterId": "173539943426031616"
+    },
+    {
+      "master": "@missingpath",
+      "title": "[AVALON] Red 21!",
+      "postedAt": 1783317913993,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1523570500931027027",
+      "players": [
+        "@emgry as Valerie",
+        "@madrid222 as Marcus",
+        "@sussy_arata as Aston",
+        "@seraphim as Cole",
+        "@starfir54 as Zoi",
+        "@themattroid as Palamedes"
+      ],
+      "masterId": "181544205796114433"
     }
   ]
 }
