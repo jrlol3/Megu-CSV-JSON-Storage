@@ -1,5 +1,5 @@
 {
-  "timestamp": 1783414846985,
+  "timestamp": 1783501246845,
   "logs": [
     {
       "master": "@desyov",
@@ -29488,6 +29488,36 @@
         "@seraphim as Cole",
         "@starfir54 as Zoi",
         "@themattroid as Palamedes"
+      ],
+      "masterId": "181544205796114433"
+    },
+    {
+      "master": "@oleamollevampie",
+      "title": "[AVALON] The Sato Sisters",
+      "postedAt": 1783450642896,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1524127206299930697",
+      "players": [
+        "@Midori | Lep as Midori",
+        "@Nestor of Mercury as Nestor",
+        "@Hannah|Corsair_Hellcat as Hannah",
+        "@Elasandros Pavaros as Elasandros",
+        "@Yuanmin | Sheep as Xu",
+        "@Kanae | Aki as Kanae"
+      ],
+      "masterId": "789352847505489981"
+    },
+    {
+      "master": "@missingpath",
+      "title": "[Checkmate] Tense Negotiations",
+      "postedAt": 1783489466709,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1524290045174091858",
+      "players": [
+        "@angrykitsu as Victoria",
+        "@madrid222 as Pierre",
+        "@solaceinfire as Naomi",
+        "@2naf1sh as Galavan",
+        "@sussy_arata as Rhys",
+        "@desyov as Callum"
       ],
       "masterId": "181544205796114433"
     }
