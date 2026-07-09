@@ -1,5 +1,5 @@
 {
-  "timestamp": 1783501246845,
+  "timestamp": 1783587643823,
   "logs": [
     {
       "master": "@desyov",
@@ -29520,6 +29520,45 @@
         "@desyov as Callum"
       ],
       "masterId": "181544205796114433"
+    },
+    {
+      "master": "@caelum_blue",
+      "title": "[Little Troubles] The Deer, The Cubs, and The Red King",
+      "postedAt": 1783520475756,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1524420106543960177",
+      "players": [
+        "@jvdragoon as Dira",
+        "@nerogenesis as Oren",
+        "@maxfish as Ciro",
+        "@viperalister as Elasandros",
+        "@emgry as Rachael",
+        "@facinarose as Mervei"
+      ],
+      "masterId": "886623433306288158"
+    },
+    {
+      "master": "@caelum_blue",
+      "title": "To Raise One's Spirits",
+      "postedAt": 1783520905494,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1524421908995772587",
+      "players": [
+        "@honestotter10 as Rasho",
+        "@aznrcmp as Rococo",
+        "@iamthorium as Gadget",
+        "@han69 as Taiki"
+      ],
+      "masterId": "886623433306288158"
+    },
+    {
+      "master": "@caelum_blue",
+      "title": "A Duel Of Honor",
+      "postedAt": 1783521429554,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1524424107062595688",
+      "players": [
+        "@schwertaria as Féin",
+        "@rastamufasa as Gwen"
+      ],
+      "masterId": "886623433306288158"
     }
   ]
 }
