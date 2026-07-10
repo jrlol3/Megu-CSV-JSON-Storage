@@ -1,5 +1,5 @@
 {
-  "timestamp": 1783587643775,
+  "timestamp": 1783674045867,
   "games": [
     {
       "title": "First Introductions",
@@ -24365,6 +24365,17 @@
       "time": "<t:1784337300:F>",
       "public": true,
       "creator": "= The Gulcher ="
+    },
+    {
+      "title": "[Grief] Negotiations with the Taira",
+      "postedAt": 1783661117574,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1525010001083760742",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1784080800:F>",
+      "public": true,
+      "creator": "==Innocent Woodland Creatures=="
     }
   ]
 }
