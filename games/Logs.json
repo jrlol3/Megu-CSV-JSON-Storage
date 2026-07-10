@@ -1,5 +1,5 @@
 {
-  "timestamp": 1783587643823,
+  "timestamp": 1783674045879,
   "logs": [
     {
       "master": "@desyov",
@@ -29559,6 +29559,21 @@
         "@rastamufasa as Gwen"
       ],
       "masterId": "886623433306288158"
+    },
+    {
+      "master": "@galen876",
+      "title": "[Deal of a Strange Kind] Stone to Mud",
+      "postedAt": 1783650929758,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1524967270286233621",
+      "players": [
+        "@hellion as Alethra",
+        "@sherifmisho as Cadence",
+        "@maxfish as Ciro",
+        "@viperalister as Elasandros",
+        "@someperson2094 as Nuni",
+        "@drafter42 as Rudica"
+      ],
+      "masterId": "413926319886303233"
     }
   ]
 }
