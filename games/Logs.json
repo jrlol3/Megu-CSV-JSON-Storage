@@ -1,5 +1,5 @@
 {
-  "timestamp": 1783760447396,
+  "timestamp": 1783846845841,
   "logs": [
     {
       "master": "@desyov",
@@ -29574,6 +29574,21 @@
         "@drafter42 as Rudica"
       ],
       "masterId": "413926319886303233"
+    },
+    {
+      "master": "@iamthorium",
+      "title": "[AVALON] Freeblades Even Further!",
+      "postedAt": 1783793172844,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1525563881030942741",
+      "players": [
+        "@someperson2094 as Nuni",
+        "@viperalister as Elasandros Pavaros",
+        "@drafter42 as Rudica",
+        "@paradigm.42 as Zoe",
+        "@caelum_blue as Aello",
+        "@angrykitsu as Rhea"
+      ],
+      "masterId": "220960630692118528"
     }
   ]
 }
