@@ -1,5 +1,5 @@
 {
-  "timestamp": 1783760447333,
+  "timestamp": 1783846845808,
   "games": [
     {
       "title": "First Introductions",
@@ -24396,6 +24396,15 @@
       "time": "<t:1783724404:F>",
       "public": false,
       "creator": "=- Showcase -="
+    },
+    {
+      "title": "[Cold Blooded] The Cadogan Lore",
+      "postedAt": 1783818279942,
+      "link": "https://discord.com/channels/1169852846083153941/1170183729856135250/1525669187832516730",
+      "pings": [],
+      "time": "<t:1783868400:F>",
+      "public": false,
+      "creator": "The Blue Bolt"
     }
   ]
 }
