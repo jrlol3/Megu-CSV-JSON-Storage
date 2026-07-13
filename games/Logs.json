@@ -1,5 +1,5 @@
 {
-  "timestamp": 1783846845841,
+  "timestamp": 1783933251598,
   "logs": [
     {
       "master": "@desyov",
@@ -29589,6 +29589,18 @@
         "@angrykitsu as Rhea"
       ],
       "masterId": "220960630692118528"
+    },
+    {
+      "master": "@sunny.something",
+      "title": "[Cold Blooded] The Cadogan Lore",
+      "postedAt": 1783909423264,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1526051470632423566",
+      "players": [
+        "@dragoneldester as Aijing Minli",
+        "@ironheidcross as Kenji Midoriyama",
+        "@hangedmantarot as Lyrric Dust"
+      ],
+      "masterId": "181195525914230784"
     }
   ]
 }
