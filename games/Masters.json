@@ -1,5 +1,5 @@
 {
-  "timestamp": 1783846845854,
+  "timestamp": 1783933251661,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -260,6 +260,13 @@
       "tier": null,
       "inGuild": true
     },
+    "@sunny.something": {
+      "username": "@sunny.something",
+      "id": "181195525914230784",
+      "gameCount": 9,
+      "tier": "GM: Storyteller - T1",
+      "inGuild": true
+    },
     "@saruno": {
       "username": "@saruno",
       "id": "140811574737764352",
@@ -270,13 +277,6 @@
     "@nut_wizard": {
       "username": "@nut_wizard",
       "id": "594008151779573762",
-      "gameCount": 8,
-      "tier": "GM: Storyteller - T1",
-      "inGuild": true
-    },
-    "@sunny.something": {
-      "username": "@sunny.something",
-      "id": "181195525914230784",
       "gameCount": 8,
       "tier": "GM: Storyteller - T1",
       "inGuild": true
