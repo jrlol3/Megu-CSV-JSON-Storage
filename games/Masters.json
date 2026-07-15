@@ -1,5 +1,5 @@
 {
-  "timestamp": 1784019647454,
+  "timestamp": 1784106046075,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -487,6 +487,13 @@
     "@topsick": {
       "username": "@topsick",
       "id": "210992769890648064",
+      "gameCount": 1,
+      "tier": "GM: Apprentice - T0",
+      "inGuild": true
+    },
+    "@lenpendragon": {
+      "username": "@lenpendragon",
+      "id": "95487748466544640",
       "gameCount": 1,
       "tier": "GM: Apprentice - T0",
       "inGuild": true
