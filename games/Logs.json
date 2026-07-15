@@ -1,5 +1,5 @@
 {
-  "timestamp": 1784019647445,
+  "timestamp": 1784106046060,
   "logs": [
     {
       "master": "@desyov",
@@ -29601,6 +29601,21 @@
         "@hangedmantarot as Lyrric Dust"
       ],
       "masterId": "181195525914230784"
+    },
+    {
+      "master": "@lenpendragon",
+      "title": "[Dawnstar Rockus] All Aboard!",
+      "postedAt": 1784024852841,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1526535617368948819",
+      "players": [
+        "@nerogenesis as Clara",
+        "@acetwinelf as Thyra",
+        "@someperson2094 as Astrid",
+        "@averysoftsheep as Yuanmin",
+        "@2naf1sh as Gialos",
+        "@sleepy_bernkastel as Asahi"
+      ],
+      "masterId": "95487748466544640"
     }
   ]
 }
