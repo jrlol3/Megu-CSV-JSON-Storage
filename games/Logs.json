@@ -1,5 +1,5 @@
 {
-  "timestamp": 1784278849500,
+  "timestamp": 1784365246160,
   "logs": [
     {
       "master": "@desyov",
@@ -29616,6 +29616,35 @@
         "@sleepy_bernkastel as Asahi"
       ],
       "masterId": "95487748466544640"
+    },
+    {
+      "master": "@incognegro",
+      "title": "Light at the end of the Tunnel",
+      "postedAt": 1784311644514,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1527738508830310573",
+      "players": [
+        "@angrykitsu as Sara",
+        "@desyov as Heron",
+        "@emgry as Gabriela",
+        "@letiana as Metzli",
+        "@seraphim as Cole",
+        "@madrid222 as Henry"
+      ],
+      "masterId": "118899054179516417"
+    },
+    {
+      "master": "@incognegro",
+      "title": "[Engines of Progress] Break Time's Over",
+      "postedAt": 1784350910001,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1527903200219369573",
+      "players": [
+        "@madrid222 as Henry",
+        "@r10 as Sirius",
+        "@iamthorium as Bjorn",
+        "@solotic. as Nathan",
+        "@pidgeon as Julia"
+      ],
+      "masterId": "118899054179516417"
     }
   ]
 }
