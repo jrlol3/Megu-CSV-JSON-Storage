@@ -1,5 +1,5 @@
 {
-  "timestamp": 1784365246160,
+  "timestamp": 1784451647047,
   "logs": [
     {
       "master": "@desyov",
@@ -29643,6 +29643,18 @@
         "@iamthorium as Bjorn",
         "@solotic. as Nathan",
         "@pidgeon as Julia"
+      ],
+      "masterId": "118899054179516417"
+    },
+    {
+      "master": "@incognegro",
+      "title": "Red Joker",
+      "postedAt": 1784442403286,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1528286950870749205",
+      "players": [
+        "@zacsper as Axel",
+        "@redhaartas Isolde",
+        "@seraphim as Onyx"
       ],
       "masterId": "118899054179516417"
     }
