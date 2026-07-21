@@ -1,5 +1,5 @@
 {
-  "timestamp": 1784451647047,
+  "timestamp": 1784624449883,
   "logs": [
     {
       "master": "@desyov",
@@ -29657,6 +29657,34 @@
         "@seraphim as Onyx"
       ],
       "masterId": "118899054179516417"
+    },
+    {
+      "master": "@missingpath",
+      "title": "[AVALON] Eastern Snow Fall!",
+      "postedAt": 1784600409017,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1528949674940039309",
+      "players": [
+        "@schwertaria as Aria",
+        "@madrid222 as Marcus",
+        "@emgry as Valerie",
+        "@enderten as Tilly",
+        "@doctor_temmie as Agrippa"
+      ],
+      "masterId": "181544205796114433"
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "[AVALON] Overtime!",
+      "postedAt": 1784613212137,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1529003375117471836",
+      "players": [
+        "@acetwinelf as Thyra",
+        "@twilightkiller as Stormbringer",
+        "@nerogenesis as Clara",
+        "@mecha_21 as Lusio",
+        "@vitordallman489 as Val"
+      ],
+      "masterId": "283019070578753536"
     }
   ]
 }
