@@ -1,5 +1,5 @@
 {
-  "timestamp": 1784710858359,
+  "timestamp": 1784797244968,
   "games": [
     {
       "title": "First Introductions",
@@ -24549,6 +24549,28 @@
       "time": "<t:1784995200:F>",
       "public": true,
       "creator": "Gyalwa Jigme「རྒྱལ་བ་འཇིགས་མེད་」"
+    },
+    {
+      "title": "[Urraim Meas] The First Day",
+      "postedAt": 1784768572054,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1529655001838780518",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1785286800:F>",
+      "public": true,
+      "creator": "==A Summer Dream=="
+    },
+    {
+      "title": "[Urraim Meas] The Second Day",
+      "postedAt": 1784769096571,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1529657201822535731",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1785585600:F>",
+      "public": true,
+      "creator": "==A Summer Dream=="
     }
   ]
 }
