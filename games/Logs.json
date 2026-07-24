@@ -1,5 +1,5 @@
 {
-  "timestamp": 1784797244976,
+  "timestamp": 1784883642780,
   "logs": [
     {
       "master": "@desyov",
@@ -29728,6 +29728,65 @@
         "@fluffbet as Farnier"
       ],
       "masterId": "283019070578753536"
+    },
+    {
+      "master": "@niorno.",
+      "title": "[Scrapyard] Doctor’s Note",
+      "postedAt": 1784829801410,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1529911816371835112",
+      "players": [
+        "@theladoflads as Nina",
+        "@katen_m as Kaneko, Ichirō",
+        "@h4lcy0n_d4ys as Delilah",
+        "@drafter42 as Rudica Zeln",
+        "@agentdj as Cassius Mordred",
+        "@kategeeper as Jacque Bouffon"
+      ],
+      "masterId": "1163222581478948915"
+    },
+    {
+      "master": "@niorno.",
+      "title": "[Flyfishing] A child in need",
+      "postedAt": 1784856052818,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1530021922757283902",
+      "players": [
+        "@someperson2094 as Nuni",
+        "@averysoftsheep as Taffeta",
+        "@facinarose as Mervei Retz-Yiloğan",
+        "@corsair_hellcat as Hannah Van Helsing",
+        "@emgry as Rachel",
+        "@mecha_21 as Lusio"
+      ],
+      "masterId": "1163222581478948915"
+    },
+    {
+      "master": "@seraphim",
+      "title": "[The Barren North] An Invitation to a Feast",
+      "postedAt": 1784877071078,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1530110079729143823",
+      "players": [
+        "@nikolaim. as Noen",
+        "@solaceinfire as Melinoe",
+        "@sunny.something as the Blue Bolt",
+        "@samikazuki as Edward",
+        "@sleepy_bernkastel as Theodore"
+      ],
+      "masterId": "108744783031185408"
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "Misplaced Engines",
+      "postedAt": 1784879417421,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1530119921005101077",
+      "players": [
+        "@redhaart as Isolde",
+        "@zacsper as Axel",
+        "@letiana as Metztli",
+        "@jrlol3megu as Marlo",
+        "@themattroid as Palamedes",
+        "@hangedmantarot as Shaw"
+      ],
+      "masterId": "365605862615810049"
     }
   ]
 }
