@@ -1,5 +1,5 @@
 {
-  "timestamp": 1784970044981,
+  "timestamp": 1785056443299,
   "logs": [
     {
       "master": "@desyov",
@@ -29787,6 +29787,21 @@
         "@hangedmantarot as Shaw"
       ],
       "masterId": "365605862615810049"
+    },
+    {
+      "master": "@sleepy_bernkastel",
+      "title": "[AVALON] Food Fight!",
+      "postedAt": 1785029831879,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1530750804968083620",
+      "players": [
+        "@eleesehn as Saki",
+        "@brooms as Thyreos",
+        "@pidgeon as Loxias",
+        "@paradigm.42 as Zoe",
+        "@nikolaim. as Sterling",
+        "@vittinhodosus as Carol"
+      ],
+      "masterId": "308792711274692610"
     }
   ]
 }
