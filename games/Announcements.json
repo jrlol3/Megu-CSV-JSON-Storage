@@ -1,5 +1,5 @@
 {
-  "timestamp": 1785142846502,
+  "timestamp": 1785229244837,
   "games": [
     {
       "title": "First Introductions",
@@ -24677,6 +24677,17 @@
       "time": "<t:1785144656:F>",
       "public": true,
       "creator": "Heron Caladrius ☀️"
+    },
+    {
+      "title": "[AVALON] K1NG P13CE - The Finals!",
+      "postedAt": 1785209999391,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1531506482284204115",
+      "pings": [
+        "1170826716571238410"
+      ],
+      "time": "<t:1785276000:F>",
+      "public": true,
+      "creator": ".AVALON Semi-Finals!."
     }
   ]
 }
