@@ -1,5 +1,5 @@
 {
-  "timestamp": 1785142846515,
+  "timestamp": 1785229244845,
   "logs": [
     {
       "master": "@desyov",
@@ -29983,6 +29983,21 @@
         "@fluffbet as Tanako"
       ],
       "masterId": "193553881249087488"
+    },
+    {
+      "master": "@missingpath",
+      "title": "[AVALON] Crimson Tide!",
+      "postedAt": 1785212204846,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1531515732632932394",
+      "players": [
+        "@doctor_temmie as Agrippa",
+        "@madrid222 as Marcus",
+        "@emgry as Valerie",
+        "@zacsper as Dante",
+        "@redhaart as Emile",
+        "@oleamollevampie as Mara"
+      ],
+      "masterId": "181544205796114433"
     }
   ]
 }
