@@ -1,5 +1,5 @@
 {
-  "timestamp": 1785315642823,
+  "timestamp": 1785402045152,
   "games": [
     {
       "title": "First Introductions",
@@ -24710,6 +24710,26 @@
       "time": "<t:1785780000:F>",
       "public": true,
       "creator": "Marcus"
+    },
+    {
+      "title": "[Part of the Cycle] A New Moon",
+      "postedAt": 1785336075014,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1532035281773924504",
+      "pings": [
+        "1170826784862908661"
+      ],
+      "time": "<t:1785711600:F>",
+      "public": true,
+      "creator": "Metztli"
+    },
+    {
+      "title": "[Checkmate] Gathering Allies",
+      "postedAt": 1785380259047,
+      "link": "https://discord.com/channels/1169852846083153941/1170183729856135250/1532220603040399424",
+      "pings": [],
+      "time": "<t:1785884400:F>",
+      "public": false,
+      "creator": ".AVALON Finals!."
     }
   ]
 }
