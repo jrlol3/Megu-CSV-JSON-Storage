@@ -1,5 +1,5 @@
 {
-  "timestamp": 1785488444485,
+  "timestamp": 1785574842008,
   "games": [
     {
       "title": "First Introductions",
@@ -24752,6 +24752,17 @@
       "time": "<t:1785538800:F>",
       "public": true,
       "creator": "Chieko | Olea"
+    },
+    {
+      "title": "[Legacy of Soul]: The Vile Rotway",
+      "postedAt": 1785516512961,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1532792093376909383",
+      "pings": [
+        "1170826716571238410"
+      ],
+      "time": "<t:1785538800:F>",
+      "public": true,
+      "creator": "Valerie | Emgry"
     }
   ]
 }
