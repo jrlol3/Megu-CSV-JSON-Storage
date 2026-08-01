@@ -1,5 +1,5 @@
 {
-  "timestamp": 1785488444502,
+  "timestamp": 1785574842039,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -62,7 +62,7 @@
       "id": "124671590775390208",
       "gameCount": 72,
       "tier": null,
-      "inGuild": false
+      "inGuild": true
     },
     "@madamezuri": {
       "username": "@madamezuri",
@@ -85,19 +85,19 @@
       "tier": null,
       "inGuild": false
     },
+    "@letiana": {
+      "username": "@letiana",
+      "id": "299015281853071360",
+      "gameCount": 53,
+      "tier": "GM: World Builder - T2",
+      "inGuild": true
+    },
     "@foxfacesuicide": {
       "username": "@foxfacesuicide",
       "id": "181593003008327680",
       "gameCount": 53,
       "tier": null,
       "inGuild": false
-    },
-    "@letiana": {
-      "username": "@letiana",
-      "id": "299015281853071360",
-      "gameCount": 51,
-      "tier": "GM: World Builder - T2",
-      "inGuild": true
     },
     "@xavieremix": {
       "username": "@xavieremix",
@@ -246,18 +246,18 @@
       "tier": "GM: Storyteller - T1",
       "inGuild": true
     },
+    "@sunny.something": {
+      "username": "@sunny.something",
+      "id": "181195525914230784",
+      "gameCount": 10,
+      "tier": "GM: Storyteller - T1",
+      "inGuild": true
+    },
     "@jrlol3megu": {
       "username": "@jrlol3megu",
       "id": "464911746088304650",
       "gameCount": 9,
       "tier": null,
-      "inGuild": true
-    },
-    "@sunny.something": {
-      "username": "@sunny.something",
-      "id": "181195525914230784",
-      "gameCount": 9,
-      "tier": "GM: Storyteller - T1",
       "inGuild": true
     },
     "@katen_m": {
