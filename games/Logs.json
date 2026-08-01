@@ -1,5 +1,5 @@
 {
-  "timestamp": 1785488444493,
+  "timestamp": 1785574842023,
   "logs": [
     {
       "master": "@desyov",
@@ -30013,6 +30013,48 @@
         "@incognegro as Zenith"
       ],
       "masterId": "181544205796114433"
+    },
+    {
+      "master": "@sunny.something",
+      "title": "[Cold-Blooded] Oblivion - Parts 1 and 2",
+      "postedAt": 1785505007016,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1532743833945772094",
+      "players": [
+        "@phos0947 as Annette",
+        "@sussy_arata as Aston",
+        "@ironheidcross as Kenji (part 1 only)",
+        "@hangedmantarot as Lyrric, and",
+        "@zatikin as René"
+      ],
+      "masterId": "181195525914230784"
+    },
+    {
+      "master": "@letiana",
+      "title": "[Cost of Blood] Heavy is the Crown",
+      "postedAt": 1785544221342,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1532908310750167141",
+      "players": [
+        "@sussy_arata as Rhys",
+        "@mutemissy as Natalia",
+        "@starfir54 as Freyr",
+        "@sleepy_bernkastel as Theodore",
+        "@biffmcmanly as Reynaud"
+      ],
+      "masterId": "299015281853071360"
+    },
+    {
+      "master": "@letiana",
+      "title": "Road Work Ahead",
+      "postedAt": 1785545305921,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1532912859804340266",
+      "players": [
+        "@iamthorium as Gadget",
+        "@schwertaria as Fein",
+        "@rastamufasa as Gwen",
+        "@nut_wizard as Quill",
+        "@niorno. as Charlotte"
+      ],
+      "masterId": "299015281853071360"
     }
   ]
 }
