@@ -1,5 +1,5 @@
 {
-  "timestamp": 1785574842023,
+  "timestamp": 1785661248600,
   "logs": [
     {
       "master": "@desyov",
@@ -30053,6 +30053,49 @@
         "@rastamufasa as Gwen",
         "@nut_wizard as Quill",
         "@niorno. as Charlotte"
+      ],
+      "masterId": "299015281853071360"
+    },
+    {
+      "master": "@lenpendragon",
+      "title": "[Dawnstar Rockus] Systems Override Complete",
+      "postedAt": 1785575532399,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1533039638841790684",
+      "players": [
+        "@someperson2094 as Astrid",
+        "@mecha_21 as Lusio",
+        "@twilightkiller as Stormbringer",
+        "@desyov as Stratos",
+        "@galen876 as Reflection",
+        "@nikkimp as Erin"
+      ],
+      "masterId": "95487748466544640"
+    },
+    {
+      "master": "@someperson2094",
+      "title": "Gazing From the Dark",
+      "postedAt": 1785628851645,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1533263275968561294",
+      "players": [
+        "@mecha_21 As Lucio",
+        "@kategeeper As Izumi",
+        "@lenpendragon As Iseult",
+        "@acetwinelf As Iseult (Batteries Included)",
+        "@niorno. As Azik"
+      ],
+      "masterId": "639884376171216906"
+    },
+    {
+      "master": "@letiana",
+      "title": "Finding Hope",
+      "postedAt": 1785630386098,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1533269711930921083",
+      "players": [
+        "@solaceinfire as Melinoe",
+        "@honeydewmelons as Shenrui",
+        "@soggy_saltine as Familade",
+        "@sunnyboyye6241 as Blue Bolt",
+        "@sleepy_bernkastel as Theodore"
       ],
       "masterId": "299015281853071360"
     }
