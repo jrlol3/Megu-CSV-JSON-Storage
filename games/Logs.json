@@ -1,5 +1,5 @@
 {
-  "timestamp": 1785661248600,
+  "timestamp": 1785747647290,
   "logs": [
     {
       "master": "@desyov",
@@ -30098,6 +30098,79 @@
         "@sleepy_bernkastel as Theodore"
       ],
       "masterId": "299015281853071360"
+    },
+    {
+      "master": "@emgry",
+      "title": "[War on Eternity]: Tipping Point",
+      "postedAt": 1785698228078,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1533554261818871821",
+      "players": [
+        "@rastamufasa as Calliope",
+        "@sleepy_bernkastel as Theodore",
+        "@desyov as Callum",
+        "@seraphim as Nasaya"
+      ],
+      "masterId": "186680561501339651"
+    },
+    {
+      "master": "@emgry",
+      "title": "[Legacy of Soul] The Vile Rotway",
+      "postedAt": 1785699313485,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1533558814345789533",
+      "players": [
+        "@enderten as Bernhard",
+        "@incognegro as Zenith",
+        "@seraphim as Nasaya",
+        "@schwertariaas Yuel",
+        "@soggy_saltine as Amaranth",
+        "@rastamufasa as Calliope"
+      ],
+      "masterId": "186680561501339651"
+    },
+    {
+      "master": "@schwertaria",
+      "title": "[A Primed Match] A Night of Red Hot Barrels",
+      "postedAt": 1785708838274,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1533598764206657717",
+      "players": [
+        "@Taffeta | Sheep as Xu Yuanmin",
+        "@Sol | DraStic as Solilun",
+        "@Oren | Clara as Oren",
+        "@==Blinov Nenadovic== as Palamedes",
+        "@zzGadget 🦊 | Thorium as Silas Oristal",
+        "@zzArata Ishikawa as Shishiro"
+      ],
+      "masterId": "95869822574809088"
+    },
+    {
+      "master": "@r10",
+      "title": "The Last Train to Clarksville",
+      "postedAt": 1785723667023,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1533660960487899177",
+      "players": [
+        "@seraphim as Cole Grant",
+        "@squidlover23 as Victor Cassidy",
+        "@kategeeper as Merlin Orien",
+        "@redhaart as Isolde",
+        "@oleamollevampie as Mara Zofia Jedvaj",
+        "@nerogenesis as Oren"
+      ],
+      "masterId": "132288834560983040"
+    },
+    {
+      "master": "@oleamollevampie",
+      "title": "[The Sealing Sands] Haunted Sands",
+      "postedAt": 1785724245408,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1533663386410418400",
+      "players": [
+        "@pidgeon as Akali",
+        "@hellion as Rajke",
+        "@celesteias as Ladora",
+        "@leplep as Reginn",
+        "@sleepy_bernkastel as Théodore",
+        "@solaceinfire as Naomi"
+      ],
+      "masterId": "789352847505489981"
     }
   ]
 }
