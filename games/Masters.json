@@ -1,5 +1,5 @@
 {
-  "timestamp": 1785661248609,
+  "timestamp": 1785747647299,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -176,18 +176,18 @@
       "tier": "GM: Storyteller - T1",
       "inGuild": true
     },
+    "@emgry": {
+      "username": "@emgry",
+      "id": "186680561501339651",
+      "gameCount": 31,
+      "tier": "GM: World Builder - T2",
+      "inGuild": true
+    },
     "@agentdj": {
       "username": "@agentdj",
       "id": "319372431221587968",
       "gameCount": 29,
       "tier": null,
-      "inGuild": true
-    },
-    "@emgry": {
-      "username": "@emgry",
-      "id": "186680561501339651",
-      "gameCount": 29,
-      "tier": "GM: World Builder - T2",
       "inGuild": true
     },
     "@snuggle_bun": {
@@ -288,6 +288,13 @@
       "tier": "GM: Apprentice - T0",
       "inGuild": true
     },
+    "@r10": {
+      "username": "@r10",
+      "id": "132288834560983040",
+      "gameCount": 7,
+      "tier": "GM: Storyteller - T1",
+      "inGuild": true
+    },
     "@doobledeedooble": {
       "username": "@doobledeedooble",
       "id": "223253130417012736",
@@ -300,13 +307,6 @@
       "id": "321875283147751424",
       "gameCount": 6,
       "tier": null,
-      "inGuild": true
-    },
-    "@r10": {
-      "username": "@r10",
-      "id": "132288834560983040",
-      "gameCount": 6,
-      "tier": "GM: Apprentice - T0",
       "inGuild": true
     },
     "@paradigm.42": {
@@ -393,6 +393,13 @@
       "tier": null,
       "inGuild": false
     },
+    "@schwertaria": {
+      "username": "@schwertaria",
+      "id": "95869822574809088",
+      "gameCount": 3,
+      "tier": "GM: Apprentice - T0",
+      "inGuild": true
+    },
     "@reggie7457": {
       "username": "@reggie7457",
       "id": "555561965951647754",
@@ -403,6 +410,13 @@
     "@niorno.": {
       "username": "@niorno.",
       "id": "1163222581478948915",
+      "gameCount": 3,
+      "tier": "GM: Apprentice - T0",
+      "inGuild": true
+    },
+    "@oleamollevampie": {
+      "username": "@oleamollevampie",
+      "id": "789352847505489981",
       "gameCount": 3,
       "tier": "GM: Apprentice - T0",
       "inGuild": true
@@ -420,13 +434,6 @@
       "gameCount": 3,
       "tier": null,
       "inGuild": false
-    },
-    "@schwertaria": {
-      "username": "@schwertaria",
-      "id": "95869822574809088",
-      "gameCount": 2,
-      "tier": "GM: Apprentice - T0",
-      "inGuild": true
     },
     "@hangedmantarot": {
       "username": "@hangedmantarot",
@@ -466,13 +473,6 @@
     "@corath16": {
       "username": "@corath16",
       "id": "185490926389559305",
-      "gameCount": 2,
-      "tier": "GM: Apprentice - T0",
-      "inGuild": true
-    },
-    "@oleamollevampie": {
-      "username": "@oleamollevampie",
-      "id": "789352847505489981",
       "gameCount": 2,
       "tier": "GM: Apprentice - T0",
       "inGuild": true
