@@ -1,5 +1,5 @@
 {
-  "timestamp": 1785747647278,
+  "timestamp": 1785834049617,
   "games": [
     {
       "title": "First Introductions",
@@ -24885,6 +24885,28 @@
       "time": "<t:1785884400:F>",
       "public": true,
       "creator": "zzDominic"
+    },
+    {
+      "title": "[The Epic of Arcadia] Boots on the Sand",
+      "postedAt": 1785821377683,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1534070788699983954",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1785970800:F>",
+      "public": true,
+      "creator": "-=Archmage Regus=-"
+    },
+    {
+      "title": "[The Epic of Arcadia] Through Thicket and Thorns",
+      "postedAt": 1785822555118,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1534075727220314254",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1786143600:F>",
+      "public": true,
+      "creator": "-=Archmage Regus=-"
     }
   ]
 }
