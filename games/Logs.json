@@ -1,5 +1,5 @@
 {
-  "timestamp": 1785747647290,
+  "timestamp": 1785834049624,
   "logs": [
     {
       "master": "@desyov",
@@ -30171,6 +30171,20 @@
         "@solaceinfire as Naomi"
       ],
       "masterId": "789352847505489981"
+    },
+    {
+      "master": "@madrid222",
+      "title": "(Whimsy Exodus) Enter Mckool Krew",
+      "postedAt": 1785788362039,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1533932311052157121",
+      "players": [
+        "@rastamufasa as Gwendoline",
+        "@iamthorium as Gadget",
+        "@leplep as Adelaide",
+        "@2naf1sh as Gojko",
+        "@nut_wizard as Quill"
+      ],
+      "masterId": "173539943426031616"
     }
   ]
 }
