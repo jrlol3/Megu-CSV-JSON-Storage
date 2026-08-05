@@ -1,5 +1,5 @@
 {
-  "timestamp": 1785834049624,
+  "timestamp": 1785920446637,
   "logs": [
     {
       "master": "@desyov",
@@ -30185,6 +30185,65 @@
         "@nut_wizard as Quill"
       ],
       "masterId": "173539943426031616"
+    },
+    {
+      "master": "@niorno.",
+      "title": "[Flyfishing] The Spread",
+      "postedAt": 1785871948931,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1534282899887620290",
+      "players": [
+        "@nerogenesis as Clara",
+        "@acetwinelf as Thyra Greco",
+        "@someperson2094 as Nuni",
+        "@mecha_21 Lusio",
+        "@drafter42 as Rudica Zeln",
+        "@maxfish as Ciro Solano"
+      ],
+      "masterId": "1163222581478948915"
+    },
+    {
+      "master": "@emgry",
+      "title": "Barbaric Book Bandits: Ser John and The Hellfire Dragon",
+      "postedAt": 1785888148941,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1534350847654363187",
+      "players": [
+        "@missingpath as Quincy",
+        "@sleepy_bernkastel as Poppy",
+        "@r10 as Sirius",
+        "@redhaart as Emile",
+        "@zacsper as Dante",
+        "@facinarose As Mervei"
+      ],
+      "masterId": "186680561501339651"
+    },
+    {
+      "master": "@missingpath",
+      "title": "[Checkmate] Gathering Allies",
+      "postedAt": 1785893107351,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1534371644733133033",
+      "players": [
+        "@sleepy_bernkastel as Theodore",
+        "@mutemissy as Natalia",
+        "@angrykitsu as Victoria",
+        "@2naf1sh as Galavan",
+        "@solaceinfire as Naomi"
+      ],
+      "masterId": "181544205796114433"
+    },
+    {
+      "master": "@someperson2094",
+      "title": "[Gazing From the Dark] Storming the Estate",
+      "postedAt": 1785898801581,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1534395528065056873",
+      "players": [
+        "@mecha_21 as Lusio",
+        "@twilightkiller as Stormbringer",
+        "@maxfish as Ciro",
+        "@corsair_hellcat as Hannah",
+        "@oleamollevampie as Chieko",
+        "@vittinhodosus as Carol"
+      ],
+      "masterId": "639884376171216906"
     }
   ]
 }
