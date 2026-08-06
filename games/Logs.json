@@ -1,5 +1,5 @@
 {
-  "timestamp": 1785920446637,
+  "timestamp": 1786006847862,
   "logs": [
     {
       "master": "@desyov",
@@ -30244,6 +30244,35 @@
         "@vittinhodosus as Carol"
       ],
       "masterId": "639884376171216906"
+    },
+    {
+      "master": "@incognegro",
+      "title": "Field Research",
+      "postedAt": 1785953246743,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1534623887625683015",
+      "players": [
+        "@agentdj as Mikael",
+        "@honeydewmelons as Rowan",
+        "@aznrcmp as Lyssa",
+        "@paradigm.42 as Retti",
+        "@themattroid as Maxilos"
+      ],
+      "masterId": "118899054179516417"
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "[The Epic of Arcadia] Boots on the Sand",
+      "postedAt": 1785989971260,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1534777921414369432",
+      "players": [
+        "@angrykitsu as Rhea",
+        "@incognegro as Bion",
+        "@desyov as Stratos",
+        "@pidgeon as Loxias",
+        "@letiana as Antigone",
+        "@sirgabite as Mordred"
+      ],
+      "masterId": "283019070578753536"
     }
   ]
 }
