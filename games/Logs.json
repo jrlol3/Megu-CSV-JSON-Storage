@@ -1,5 +1,5 @@
 {
-  "timestamp": 1786006847862,
+  "timestamp": 1786093246897,
   "logs": [
     {
       "master": "@desyov",
@@ -30273,6 +30273,16 @@
         "@sirgabite as Mordred"
       ],
       "masterId": "283019070578753536"
+    },
+    {
+      "master": "@incognegro",
+      "title": "Shepherding a Wayward Soul",
+      "postedAt": 1786069263750,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1535110498222211205",
+      "players": [
+        "@letiana as Metzli"
+      ],
+      "masterId": "118899054179516417"
     }
   ]
 }
