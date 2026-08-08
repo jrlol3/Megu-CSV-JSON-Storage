@@ -1,5 +1,5 @@
 {
-  "timestamp": 1786093246897,
+  "timestamp": 1786179646279,
   "logs": [
     {
       "master": "@desyov",
@@ -30283,6 +30283,21 @@
         "@letiana as Metzli"
       ],
       "masterId": "118899054179516417"
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "[The Epic of Arcadia] Through Thicket and Thorns",
+      "postedAt": 1786163771000,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1535506890358923268",
+      "players": [
+        "@brooms as Thyreos",
+        "@caelum_blue as Aello",
+        "@enderten as Sophros",
+        "@paradigm.42 as Zoe",
+        "@h4lcy0n_d4ys as Delilah",
+        "@asimplehatter as Blake Morn"
+      ],
+      "masterId": "283019070578753536"
     }
   ]
 }
