@@ -1,5 +1,5 @@
 {
-  "timestamp": 1786179646279,
+  "timestamp": 1786266046839,
   "logs": [
     {
       "master": "@desyov",
@@ -30298,6 +30298,21 @@
         "@asimplehatter as Blake Morn"
       ],
       "masterId": "283019070578753536"
+    },
+    {
+      "master": "@niorno.",
+      "title": "[Scrapyard] Home Run!",
+      "postedAt": 1786220306685,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1535744018208784457",
+      "players": [
+        "@mecha_21 as Lusio!",
+        "@katen_m as Kaneki, Ichirō",
+        "@drafter42 as Rudica Zeln",
+        "@sussy_arata as Ishikawa Shishirō",
+        "@2naf1sh as Gwydion Tlepsh",
+        "@viperalister as Elasandros Pavaros"
+      ],
+      "masterId": "1163222581478948915"
     }
   ]
 }
