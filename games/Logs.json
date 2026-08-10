@@ -1,5 +1,5 @@
 {
-  "timestamp": 1786266046839,
+  "timestamp": 1786352442792,
   "logs": [
     {
       "master": "@desyov",
@@ -30313,6 +30313,48 @@
         "@viperalister as Elasandros Pavaros"
       ],
       "masterId": "1163222581478948915"
+    },
+    {
+      "master": "@seraphim",
+      "title": "[The Heavenly Water Palace] Crossing the Threshold",
+      "postedAt": 1786308943527,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1536115788069732353",
+      "players": [
+        "@sleepy_bernkastel as Bedivere",
+        "@cielchair as Aria",
+        "@iamthorium as Gadget",
+        "@mutemissy as Viliana",
+        "@aznrcmp as Rococo"
+      ],
+      "masterId": "108744783031185408"
+    },
+    {
+      "master": "@madrid222",
+      "title": "(Envious Desires) The Cure For The Mind",
+      "postedAt": 1786328678664,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1536198563233538160",
+      "players": [
+        "@desyov as Abaddon",
+        "@missingpath as Felicity",
+        "@samikazuki as Ook",
+        "@lenpendragon as Felicia"
+      ],
+      "masterId": "173539943426031616"
+    },
+    {
+      "master": "@seraphim",
+      "title": "A Meretricious Night",
+      "postedAt": 1786335047900,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1536225277745700875",
+      "players": [
+        "@mike_miguel_michael as Heliodoro",
+        "@rastamufasa as Jericho",
+        "@sirgabite as Mordred",
+        "@zacsper as Vant",
+        "@hellion as Amos",
+        "@redhaart as Bea"
+      ],
+      "masterId": "108744783031185408"
     }
   ]
 }
