@@ -1,5 +1,5 @@
 {
-  "timestamp": 1786352442792,
+  "timestamp": 1786438845361,
   "logs": [
     {
       "master": "@desyov",
@@ -30355,6 +30355,21 @@
         "@redhaart as Bea"
       ],
       "masterId": "108744783031185408"
+    },
+    {
+      "master": "@missingpath",
+      "title": "[Arcadia] Lost and Found",
+      "postedAt": 1786404829436,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1536517962721402912",
+      "players": [
+        "@seraphim as Nestor",
+        "@madrid222 as Thaumasios",
+        "@paradigm.42 as Zoe",
+        "@hellion as Alethra",
+        "@2naf1sh as Gialos",
+        "@emgry as Rachael"
+      ],
+      "masterId": "181544205796114433"
     }
   ]
 }
