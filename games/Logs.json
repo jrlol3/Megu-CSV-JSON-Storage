@@ -1,5 +1,5 @@
 {
-  "timestamp": 1786438845361,
+  "timestamp": 1786525249171,
   "logs": [
     {
       "master": "@desyov",
@@ -30370,6 +30370,61 @@
         "@emgry as Rachael"
       ],
       "masterId": "181544205796114433"
+    },
+    {
+      "master": "@someperson2094",
+      "title": "Selene Harte",
+      "postedAt": 1786485382049,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1536855824868180050",
+      "players": [
+        "@averysoftsheep as Yuanmin",
+        "@akinotamashii as Kanae",
+        "@h4lcy0n_d4ys as Delilah",
+        "@mecha_21 as Lusio"
+      ],
+      "masterId": "639884376171216906"
+    },
+    {
+      "master": "@galen876",
+      "title": "[Deal of a Strange Kind] Forest of Lights",
+      "postedAt": 1786488984041,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1536870932717773071",
+      "players": [
+        "@acetwinelfas Iseult Battery",
+        "@nerogenesis as Clara",
+        "@viperalister as Elasandros",
+        "@lenpendragon as Lady Iseult",
+        "@katen_m as Enkh",
+        "@drafter42 as Rudica"
+      ],
+      "masterId": "413926319886303233"
+    },
+    {
+      "master": "@letiana",
+      "title": "[A New Cycle] Full Moon",
+      "postedAt": 1786497942211,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1536908506006036481",
+      "players": [
+        "@facinarose as Akiko",
+        "@paradigm.42 as Enlai",
+        "@madrid222 as Tshuiho",
+        "@2naf1sh as Gyalwa",
+        "@missingpath as Rin",
+        "@emgry as Hiya"
+      ],
+      "masterId": "299015281853071360"
+    },
+    {
+      "master": "@starfir54",
+      "title": "The Faithful's Pilgrimage",
+      "postedAt": 1786498288048,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1536909956551544874",
+      "players": [
+        "@missingpath as Quincy",
+        "@sleepybernkastel as Poppy",
+        "@emgry as Valerie"
+      ],
+      "masterId": "491765200727310337"
     }
   ]
 }
