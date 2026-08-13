@@ -1,5 +1,5 @@
 {
-  "timestamp": 1786525249182,
+  "timestamp": 1786611650793,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -497,6 +497,13 @@
       "gameCount": 2,
       "tier": null,
       "inGuild": false
+    },
+    "@redhaart": {
+      "username": "@redhaart",
+      "id": "147504491455840256",
+      "gameCount": 1,
+      "tier": "GM: Apprentice - T0",
+      "inGuild": true
     },
     "@soggy_saltine": {
       "username": "@soggy_saltine",
