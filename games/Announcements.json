@@ -1,5 +1,5 @@
 {
-  "timestamp": 1786784448278,
+  "timestamp": 1786870844952,
   "games": [
     {
       "title": "First Introductions",
@@ -25234,6 +25234,17 @@
       "time": "<t:1786748400:F>",
       "public": false,
       "creator": "Valerie Knight | Emgry"
+    },
+    {
+      "title": "The Path to Victory: \"Swords? How archaic.\"",
+      "postedAt": 1786853754283,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1538400890002874379",
+      "pings": [
+        "1170826716571238410"
+      ],
+      "time": "<t:1786921217:F>",
+      "public": true,
+      "creator": "Callum Baud☆uin II 👑"
     }
   ]
 }
