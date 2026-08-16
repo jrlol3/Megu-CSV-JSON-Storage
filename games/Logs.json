@@ -1,5 +1,5 @@
 {
-  "timestamp": 1786784448287,
+  "timestamp": 1786870844960,
   "logs": [
     {
       "master": "@desyov",
@@ -30466,6 +30466,112 @@
         "@seraphim as Cole"
       ],
       "masterId": "220960630692118528"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[The Crimson Light] The Trail",
+      "postedAt": 1786868033093,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1538460779672506419",
+      "players": [
+        "@han69 Michael",
+        "@anthonyyyyy8239 Vera",
+        "@squidlover23 Victor",
+        "@hangedmantarot Shaw",
+        "@celesteias Nettie",
+        "@galen876 Uto"
+      ],
+      "masterId": "153330975575769088"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Reign of Crimson] The Jaw",
+      "postedAt": 1786868228214,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1538461598069428237",
+      "players": [
+        "@iamthorium Silas",
+        "@aznrcmp Elias",
+        "@emgry Gabriela",
+        "@alterluck Carnot",
+        "@squidlover23 Victor",
+        "@xirozean Strabo"
+      ],
+      "masterId": "153330975575769088"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "Howl of Sólyom",
+      "postedAt": 1786868417819,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1538462393330434149",
+      "players": [
+        "@sussy_arata Nora",
+        "@phos0947 Petra",
+        "@angrykitsu Liberation",
+        "@ironheidcross Krynn",
+        "@r10 Sirius",
+        "@someperson2094 Selene"
+      ],
+      "masterId": "153330975575769088"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "Howl of Kígyó",
+      "postedAt": 1786868667512,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1538463440618917921",
+      "players": [
+        "@iamthorium Silas",
+        "@han69 Michael",
+        "@asimplehatter Patience",
+        "@honeydewmelons Rowan",
+        "@celesteias Nettie",
+        "@vittinhodosus De'Angelo"
+      ],
+      "masterId": "153330975575769088"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "Howl of Sündisznó",
+      "postedAt": 1786868902035,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1538464424279674881",
+      "players": [
+        "@rastamufasa Henrik",
+        "@letiana Viola",
+        "@hellion Corvin",
+        "@han69 Michael",
+        "@seraphim Cole",
+        "@nikkimp Erin"
+      ],
+      "masterId": "153330975575769088"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "Kingdom of Shadow. His eternal fantasy",
+      "postedAt": 1786869081045,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1538465175101767701",
+      "players": [
+        "@desyov Abaddon",
+        "@solotic. Nathan",
+        "@letiana Viola",
+        "@asimplehatter Patience",
+        "@niorno. Azik",
+        "@kategeeper Merlin",
+        "",
+        "Game in 5 hours and 8 minutes"
+      ],
+      "masterId": "153330975575769088"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "Tour of Myist: Armadis Clan",
+      "postedAt": 1786869227626,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1538465789907042346",
+      "players": [
+        "@vittinhodosus Alice",
+        "@lenpendragon Felicia",
+        "@oleamollevampie Mara",
+        "@han69 Michael",
+        "@honeydewmelons Rowan"
+      ],
+      "masterId": "153330975575769088"
     }
   ]
 }
