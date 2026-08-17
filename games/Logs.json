@@ -1,5 +1,5 @@
 {
-  "timestamp": 1786870844960,
+  "timestamp": 1786957247029,
   "logs": [
     {
       "master": "@desyov",
@@ -30572,6 +30572,21 @@
         "@honeydewmelons Rowan"
       ],
       "masterId": "153330975575769088"
+    },
+    {
+      "master": "@brooms",
+      "title": "[A Peaceless Ocean] Shellbringer",
+      "postedAt": 1786912950967,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1538649178891231305",
+      "players": [
+        "@drafter42 as Lyra Kerlan",
+        "@letiana as Antigone",
+        "@sherifmisho as Alysone",
+        "@desyov as Stratos",
+        "@nikolaim. as Sterling",
+        "@averysoftsheep as Xu Yuanmin"
+      ],
+      "masterId": "140595221300772864"
     }
   ]
 }
