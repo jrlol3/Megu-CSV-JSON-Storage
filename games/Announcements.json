@@ -1,5 +1,5 @@
 {
-  "timestamp": 1786957247018,
+  "timestamp": 1787043647445,
   "games": [
     {
       "title": "First Introductions",
@@ -25287,6 +25287,28 @@
       "time": "<t:1787688000:F>",
       "public": true,
       "creator": "Felicity | Path"
+    },
+    {
+      "title": "[The Path to Victory] Race to the Summit",
+      "postedAt": 1786999513222,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1539012247303626772",
+      "pings": [
+        "1170826716571238410"
+      ],
+      "time": "<t:1787252400:F>",
+      "public": true,
+      "creator": "Gadget 🦊 | Thorium"
+    },
+    {
+      "title": "The War Rages On I",
+      "postedAt": 1787005636698,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1539037931023372378",
+      "pings": [
+        "1170826784862908661"
+      ],
+      "time": "<t:1787097600:F>",
+      "public": true,
+      "creator": "zzEstrangedFather"
     }
   ]
 }
