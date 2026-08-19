@@ -1,5 +1,5 @@
 {
-  "timestamp": 1787043647453,
+  "timestamp": 1787130043873,
   "logs": [
     {
       "master": "@desyov",
@@ -30601,6 +30601,20 @@
         "@nikkimp as Juna"
       ],
       "masterId": "173539943426031616"
+    },
+    {
+      "master": "@someperson2094",
+      "title": "[Gazing From the Dark] Weep For the Time Lost",
+      "postedAt": 1787089332554,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1539388976886980629",
+      "players": [
+        "@mecha_21 as Lusio",
+        "@twilightkiller as Stormbringer",
+        "@oleamollevampie as Chieko",
+        "@maxfish as Argento",
+        "@seraphim as Nestor"
+      ],
+      "masterId": "639884376171216906"
     }
   ]
 }
