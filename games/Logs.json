@@ -1,5 +1,5 @@
 {
-  "timestamp": 1787130043873,
+  "timestamp": 1787216447782,
   "logs": [
     {
       "master": "@desyov",
@@ -30615,6 +30615,48 @@
         "@seraphim as Nestor"
       ],
       "masterId": "639884376171216906"
+    },
+    {
+      "master": "@nerogenesis",
+      "title": "[Desert Nights] A village lost",
+      "postedAt": 1787147315441,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1539632174741979197",
+      "players": [
+        "@Marianna Calertre as Marianna Caletre",
+        "@Edwin Fairwright/jackie the fox as Jackie",
+        "@Danny | Phos as Danny",
+        "@Kite | Vittin as Carol \"Kite\" McMillan"
+      ],
+      "masterId": "205648489294725121"
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "[Blood in the Mountains] An Eerie Quiet",
+      "postedAt": 1787159450645,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1539683073476796438",
+      "players": [
+        "@eleesehn as Saki",
+        "@akinotamashii as Kanae",
+        "@sleepy_bernkastel as Asahi",
+        "@sunny.something as Akinaga",
+        "@incognegro as Dominic"
+      ],
+      "masterId": "169795599758131200"
+    },
+    {
+      "master": "@brooms",
+      "title": "[A Peaceless Ocean] Shelltaker",
+      "postedAt": 1787185702697,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1539793182563377184",
+      "players": [
+        "@facinarose as Mervei",
+        "@kategeeper as Merlin",
+        "@mutemissy as Selene",
+        "@maxfish as Ciro",
+        "@hangedmantarot as Lyric",
+        "@vittinhodosus as Alice"
+      ],
+      "masterId": "140595221300772864"
     }
   ]
 }
