@@ -1,5 +1,5 @@
 {
-  "timestamp": 1787130043886,
+  "timestamp": 1787216447792,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -32,7 +32,7 @@
     "@angrykitsu": {
       "username": "@angrykitsu",
       "id": "169795599758131200",
-      "gameCount": 114,
+      "gameCount": 115,
       "tier": "GM: World Builder - T2",
       "inGuild": true
     },
@@ -99,6 +99,13 @@
       "tier": null,
       "inGuild": false
     },
+    "@brooms": {
+      "username": "@brooms",
+      "id": "140595221300772864",
+      "gameCount": 45,
+      "tier": "GM: Storyteller - T1",
+      "inGuild": true
+    },
     "@starfir54": {
       "username": "@starfir54",
       "id": "491765200727310337",
@@ -110,13 +117,6 @@
       "username": "@xavieremix",
       "id": "181294303622987776",
       "gameCount": 45,
-      "tier": "GM: Storyteller - T1",
-      "inGuild": true
-    },
-    "@brooms": {
-      "username": "@brooms",
-      "id": "140595221300772864",
-      "gameCount": 44,
       "tier": "GM: Storyteller - T1",
       "inGuild": true
     },
@@ -442,6 +442,13 @@
       "tier": null,
       "inGuild": false
     },
+    "@nerogenesis": {
+      "username": "@nerogenesis",
+      "id": "205648489294725121",
+      "gameCount": 2,
+      "tier": "GM: Apprentice - T0",
+      "inGuild": true
+    },
     "@hangedmantarot": {
       "username": "@hangedmantarot",
       "id": "276027404839813120",
@@ -497,13 +504,6 @@
       "gameCount": 2,
       "tier": null,
       "inGuild": false
-    },
-    "@nerogenesis": {
-      "username": "@nerogenesis",
-      "id": "205648489294725121",
-      "gameCount": 1,
-      "tier": "GM: Apprentice - T0",
-      "inGuild": true
     },
     "@redhaart": {
       "username": "@redhaart",
