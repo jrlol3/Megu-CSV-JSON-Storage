@@ -1,5 +1,5 @@
 {
-  "timestamp": 1787302849924,
+  "timestamp": 1787389248720,
   "logs": [
     {
       "master": "@desyov",
@@ -30657,6 +30657,51 @@
         "@vittinhodosus as Alice"
       ],
       "masterId": "140595221300772864"
+    },
+    {
+      "master": "@someperson2094",
+      "title": "[Gazing From the Dark]",
+      "postedAt": 1787354918822,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1540502926433189960",
+      "players": [
+        "@oleamollevampie as Chieko",
+        "@mecha_21 as Lusio",
+        "@twilightkiller as Stormbringer",
+        "@nerogenesis as Clara",
+        "@akinotamashii as Penny",
+        "@viperalister as Elasandros"
+      ],
+      "masterId": "639884376171216906"
+    },
+    {
+      "master": "@incognegro",
+      "title": "The War Rages On I",
+      "postedAt": 1787362576283,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1540535044152627233",
+      "players": [
+        "@rastamufasa as Muchen",
+        "@lenpendragon as Baimei",
+        "@sussy_arata as Lin Shen",
+        "@agentdj as Mako",
+        "@caelum_blue as Celine",
+        "@galen876 as Xing Wei",
+        "@madrid222 as Tsuiho"
+      ],
+      "masterId": "118899054179516417"
+    },
+    {
+      "master": "@seraphim",
+      "title": "[The Once Great Sects] The Shackles of Heaven",
+      "postedAt": 1787370348638,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1540567643772297268",
+      "players": [
+        "@honeydewlemons as Shenrui",
+        "@enderten as Siwu",
+        "@solaceinfire as Melinoe",
+        "@oleamollevampie as Fenja",
+        "@schwertaria as Aria"
+      ],
+      "masterId": "108744783031185408"
     }
   ]
 }
