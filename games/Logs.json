@@ -1,5 +1,5 @@
 {
-  "timestamp": 1787389248720,
+  "timestamp": 1787475647362,
   "logs": [
     {
       "master": "@desyov",
@@ -30702,6 +30702,20 @@
         "@schwertaria as Aria"
       ],
       "masterId": "108744783031185408"
+    },
+    {
+      "master": "@galen876",
+      "title": "[The Path to Victory] Rooftop Rumble",
+      "postedAt": 1787463305363,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1540957532535656491",
+      "players": [
+        "@katen_m as Celestyn",
+        "@oleamollevampie as Fenja",
+        "@seraphim as Void",
+        "@letiana as Estelle",
+        "@aznrcmp as Lyssa"
+      ],
+      "masterId": "413926319886303233"
     }
   ]
 }
