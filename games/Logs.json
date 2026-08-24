@@ -1,5 +1,5 @@
 {
-  "timestamp": 1787475647362,
+  "timestamp": 1787562061428,
   "logs": [
     {
       "master": "@desyov",
@@ -30716,6 +30716,34 @@
         "@aznrcmp as Lyssa"
       ],
       "masterId": "413926319886303233"
+    },
+    {
+      "master": "@enderten",
+      "title": "[The Path to Victory] Steel and Mist",
+      "postedAt": 1787550046150,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1541321349765791765",
+      "players": [
+        "@themattroid as Satsuki",
+        "@emgry as Alois",
+        "@aznrcmp as Lyssa",
+        "@seraphim as Onyx",
+        "@incognegro as Zenith"
+      ],
+      "masterId": "206900071055228930"
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "Cracked Porcelain and Rusted Steel",
+      "postedAt": 1787560346426,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1541364552254488647",
+      "players": [
+        "@mutemissy as Natalia",
+        "@starfir54 as Freyr",
+        "@samikazuki as Hamra",
+        "@leplep as Reginn",
+        "@honeydewmelons as Azra"
+      ],
+      "masterId": "365605862615810049"
     }
   ]
 }
