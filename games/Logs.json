@@ -1,5 +1,5 @@
 {
-  "timestamp": 1787562061428,
+  "timestamp": 1787648451791,
   "logs": [
     {
       "master": "@desyov",
@@ -30744,6 +30744,31 @@
         "@honeydewmelons as Azra"
       ],
       "masterId": "365605862615810049"
+    },
+    {
+      "master": "@paradigm.42",
+      "title": "[The Path to Victory] The Carvers of Valleys are Rivers, Not Giants",
+      "postedAt": 1787571338946,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1541410658225233953",
+      "players": [
+        "@hangedmantarot as Ray",
+        "@nikolaim. as Noen",
+        "@niorno. as Deckard",
+        "@oleamollevampie as Fenja",
+        "@angrykitsu as Victoria",
+        "@solaceinfire as Naomi"
+      ],
+      "masterId": "465582019150217226"
+    },
+    {
+      "master": "@incognegro",
+      "title": "Plucking a Kuroyuri",
+      "postedAt": 1787615039965,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1541593953583890463",
+      "players": [
+        "@missingpath as Rin"
+      ],
+      "masterId": "118899054179516417"
     }
   ]
 }
