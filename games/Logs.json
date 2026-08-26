@@ -1,5 +1,5 @@
 {
-  "timestamp": 1787648451791,
+  "timestamp": 1787734883626,
   "logs": [
     {
       "master": "@desyov",
@@ -30769,6 +30769,49 @@
         "@missingpath as Rin"
       ],
       "masterId": "118899054179516417"
+    },
+    {
+      "master": "@missingpath",
+      "title": "[Checkmate] The Tragedy of Owen Calest",
+      "postedAt": 1787704928579,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1541970973757022299",
+      "players": [
+        "@2naf1sh as Galavan",
+        "@sussy_arata as Rhys",
+        "@nikkimp as Aile",
+        "@themattroid as Maxilos",
+        "@facinarose as Vivian"
+      ],
+      "masterId": "181544205796114433"
+    },
+    {
+      "master": "@iamthorium",
+      "title": "[The Path to Victory] Race to the Summit",
+      "postedAt": 1787707007508,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1541979693417234594",
+      "players": [
+        "@asimplehatter as Frederick Schmidt",
+        "@sleepy_bernkastel as Theodore Pascal",
+        "@nikolaim. as Dujom Hong",
+        "@han69 as Absalom Kasand",
+        "@mutemissy as Natalia"
+      ],
+      "masterId": "220960630692118528"
+    },
+    {
+      "master": "@zacsper",
+      "title": "Nightmare Of Netherhill",
+      "postedAt": 1787708166615,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1541984555064631399",
+      "players": [
+        "@akinotamashii as Penny",
+        "@rastamufasa as Jericho Tubalcain",
+        "@maxfish as Argento",
+        "@iamthorium as Oreander Hillmore",
+        "@oleamollevampie as Chieko Miyashiro",
+        "@aznrcmp as Elias & Eugene"
+      ],
+      "masterId": "148283146339614720"
     }
   ]
 }
