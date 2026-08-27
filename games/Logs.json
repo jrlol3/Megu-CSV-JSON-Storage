@@ -1,5 +1,5 @@
 {
-  "timestamp": 1787734883626,
+  "timestamp": 1787821246595,
   "logs": [
     {
       "master": "@desyov",
@@ -30812,6 +30812,21 @@
         "@aznrcmp as Elias & Eugene"
       ],
       "masterId": "148283146339614720"
+    },
+    {
+      "master": "@seraphim",
+      "title": "[The Horrors of Coal and Smoke] Project Ars.",
+      "postedAt": 1787806262423,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1542395998704500737",
+      "players": [
+        "@leplep as Orpheus",
+        "@akinotamashii as Penny",
+        "@sleepy_bernkastel as Poppy",
+        "@angrykitsu as Rhea",
+        "@eleesehn as Valissa",
+        "@oleamollevampie as Wraith"
+      ],
+      "masterId": "108744783031185408"
     }
   ]
 }
