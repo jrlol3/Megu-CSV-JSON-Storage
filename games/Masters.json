@@ -1,5 +1,5 @@
 {
-  "timestamp": 1787821246603,
+  "timestamp": 1787907644571,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -32,7 +32,7 @@
     "@angrykitsu": {
       "username": "@angrykitsu",
       "id": "169795599758131200",
-      "gameCount": 115,
+      "gameCount": 116,
       "tier": "GM: World Builder - T2",
       "inGuild": true
     },
@@ -428,6 +428,13 @@
       "tier": "GM: Apprentice - T0",
       "inGuild": true
     },
+    "@nerogenesis": {
+      "username": "@nerogenesis",
+      "id": "205648489294725121",
+      "gameCount": 3,
+      "tier": "GM: Apprentice - T0",
+      "inGuild": true
+    },
     "@enderten": {
       "username": "@enderten",
       "id": "206900071055228930",
@@ -448,13 +455,6 @@
       "gameCount": 3,
       "tier": null,
       "inGuild": false
-    },
-    "@nerogenesis": {
-      "username": "@nerogenesis",
-      "id": "205648489294725121",
-      "gameCount": 2,
-      "tier": "GM: Apprentice - T0",
-      "inGuild": true
     },
     "@hangedmantarot": {
       "username": "@hangedmantarot",
