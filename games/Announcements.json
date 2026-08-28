@@ -1,5 +1,5 @@
 {
-  "timestamp": 1787821246584,
+  "timestamp": 1787907644553,
   "games": [
     {
       "title": "First Introductions",
@@ -25553,6 +25553,46 @@
       "time": "<t:1787796013:F>",
       "public": false,
       "creator": "zz"
+    },
+    {
+      "title": "Trials of Magic: Unending Hate",
+      "postedAt": 1787831326390,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1542501124601421967",
+      "pings": [
+        "1170826716571238410"
+      ],
+      "time": "<t:1788062400:F>",
+      "public": true,
+      "creator": "Backstreets Dash | Pidgeon"
+    },
+    {
+      "title": "[The 84th Terra] : Lovers and Legacies",
+      "postedAt": 1787859757243,
+      "link": "https://discord.com/channels/1169852846083153941/1170183729856135250/1542620372241752098",
+      "pings": [],
+      "time": "<t:1788474600:F>",
+      "public": false,
+      "creator": ".WE'RE ROTTING. | Sammy"
+    },
+    {
+      "title": "[Broken Vortex] Lost Love",
+      "postedAt": 1787874716829,
+      "link": "https://discord.com/channels/1169852846083153941/1170183729856135250/1542683117293146184",
+      "pings": [],
+      "time": "<t:1788397200:F>",
+      "public": false,
+      "creator": "Backstreets Dash | Pidgeon"
+    },
+    {
+      "title": "Figures in the Fog",
+      "postedAt": 1787888526941,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1542741041101275220",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1788109200:F>",
+      "public": true,
+      "creator": "Nikolai M."
     }
   ]
 }
