@@ -1,5 +1,5 @@
 {
-  "timestamp": 1787821246595,
+  "timestamp": 1787907644560,
   "logs": [
     {
       "master": "@desyov",
@@ -30827,6 +30827,33 @@
         "@oleamollevampie as Wraith"
       ],
       "masterId": "108744783031185408"
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "[The Shadow of Mugetsu] Prelude to Violence",
+      "postedAt": 1787844623769,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1542556897851482235",
+      "players": [
+        "@katen_m as Ichiro Kaneko",
+        "@schwertaria as Tsuru Inoue",
+        "@incognegro as Dominic",
+        "@letiana as Antigone",
+        "@corsair_hellcat as Hanna van Helsing"
+      ],
+      "masterId": "169795599758131200"
+    },
+    {
+      "master": "@nerogenesis",
+      "title": "[Desert Nights] An Interrupted Execution",
+      "postedAt": 1787878647013,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1542699601679613993",
+      "players": [
+        "@Delilah Ashmead [Halcyon] as Delilah (PBP)",
+        "@Iseult B-acetwinelf as Iseult Battery",
+        "@Miguel (Niorno) as Miguel",
+        "@Marianna as Marianna"
+      ],
+      "masterId": "205648489294725121"
     }
   ]
 }
