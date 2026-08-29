@@ -1,5 +1,5 @@
 {
-  "timestamp": 1787907644571,
+  "timestamp": 1787994047331,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -120,17 +120,17 @@
       "tier": "GM: Storyteller - T1",
       "inGuild": true
     },
-    "@mercurialcomet": {
-      "username": "@mercurialcomet",
-      "id": "227988328119533568",
+    "@madrid222": {
+      "username": "@madrid222",
+      "id": "173539943426031616",
       "gameCount": 43,
       "tier": "GM: Storyteller - T1",
       "inGuild": true
     },
-    "@madrid222": {
-      "username": "@madrid222",
-      "id": "173539943426031616",
-      "gameCount": 42,
+    "@mercurialcomet": {
+      "username": "@mercurialcomet",
+      "id": "227988328119533568",
+      "gameCount": 43,
       "tier": "GM: Storyteller - T1",
       "inGuild": true
     },
