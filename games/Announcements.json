@@ -1,5 +1,5 @@
 {
-  "timestamp": 1787907644553,
+  "timestamp": 1787994047298,
   "games": [
     {
       "title": "First Introductions",
@@ -25593,6 +25593,17 @@
       "time": "<t:1788109200:F>",
       "public": true,
       "creator": "Nikolai M."
+    },
+    {
+      "title": "(Gentle Deals) Friend Inside Me",
+      "postedAt": 1787910705629,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1542834065261072457",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1787958000:F>",
+      "public": true,
+      "creator": "zzMadrid"
     }
   ]
 }
