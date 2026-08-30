@@ -1,5 +1,5 @@
 {
-  "timestamp": 1787994047298,
+  "timestamp": 1788080448734,
   "games": [
     {
       "title": "First Introductions",
@@ -25604,6 +25604,59 @@
       "time": "<t:1787958000:F>",
       "public": true,
       "creator": "zzMadrid"
+    },
+    {
+      "title": "Where in the world are Percy and Apollo?",
+      "postedAt": 1788017833981,
+      "link": "https://discord.com/channels/1169852846083153941/1170183729856135250/1543283394136506429",
+      "pings": [],
+      "time": "<t:1788052248:F>",
+      "public": false,
+      "creator": "L☆ngevity"
+    },
+    {
+      "title": "[King’s Crusade] Unwelcomed Invitiation",
+      "postedAt": 1788020406913,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1543294185795358793",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1788303600:F>",
+      "public": true,
+      "creator": "Metztli | Leti"
+    },
+    {
+      "title": "[Heaven's Memory] A Tower to Reach Her Wind",
+      "postedAt": 1788057213778,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1543448564976328757",
+      "pings": [
+        "1170826784862908661"
+      ],
+      "time": "<t:1788318000:F>",
+      "public": true,
+      "creator": "zz | Path"
+    },
+    {
+      "title": "[Friendship is Madness] : The Bonds that Bind Us",
+      "postedAt": 1788071966289,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1543510441492353095",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1788130800:F>",
+      "public": true,
+      "creator": "zzzWEEE | Sammy"
+    },
+    {
+      "title": "[King’s Crusade] Personal Investigations",
+      "postedAt": 1788072259757,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1543511672386355223",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1788735600:F>",
+      "public": true,
+      "creator": "Erin-31 | Leti"
     }
   ]
 }
