@@ -1,5 +1,5 @@
 {
-  "timestamp": 1787994047321,
+  "timestamp": 1788080448752,
   "logs": [
     {
       "master": "@desyov",
@@ -30868,6 +30868,27 @@
         "@pidgeon as Hyde"
       ],
       "masterId": "173539943426031616"
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "[The Five Temples] Disagreements of Balance",
+      "postedAt": 1788039290995,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1543373391376031955",
+      "players": [
+        "@2na as Gyalwa"
+      ],
+      "masterId": "169795599758131200"
+    },
+    {
+      "master": "@incognegro",
+      "title": "Proudrock Vs. Axel Reed",
+      "postedAt": 1788063938921,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1543476772270645320",
+      "players": [
+        "@zacsper as Axel",
+        "Fuckin everyone else in the sign up thread bro go look"
+      ],
+      "masterId": "118899054179516417"
     }
   ]
 }
