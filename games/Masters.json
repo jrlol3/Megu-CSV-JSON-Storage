@@ -1,5 +1,5 @@
 {
-  "timestamp": 1788080448764,
+  "timestamp": 1788166848295,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -39,7 +39,7 @@
     "@pidgeon": {
       "username": "@pidgeon",
       "id": "153330975575769088",
-      "gameCount": 107,
+      "gameCount": 115,
       "tier": "GM: World Builder - T2",
       "inGuild": true
     },
@@ -228,7 +228,7 @@
     "@nikolaim.": {
       "username": "@nikolaim.",
       "id": "419689143443128321",
-      "gameCount": 11,
+      "gameCount": 12,
       "tier": "GM: Storyteller - T1",
       "inGuild": true
     },
@@ -428,13 +428,6 @@
       "tier": "GM: Apprentice - T0",
       "inGuild": true
     },
-    "@nerogenesis": {
-      "username": "@nerogenesis",
-      "id": "205648489294725121",
-      "gameCount": 3,
-      "tier": "GM: Apprentice - T0",
-      "inGuild": true
-    },
     "@enderten": {
       "username": "@enderten",
       "id": "206900071055228930",
@@ -452,6 +445,13 @@
     "@ijiyiji": {
       "username": "@ijiyiji",
       "id": "980973537739280384",
+      "gameCount": 3,
+      "tier": null,
+      "inGuild": false
+    },
+    "@nerogenesis": {
+      "username": "@nerogenesis",
+      "id": "205648489294725121",
       "gameCount": 3,
       "tier": null,
       "inGuild": false
