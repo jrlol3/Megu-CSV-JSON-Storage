@@ -1,5 +1,5 @@
 {
-  "timestamp": 1788080448752,
+  "timestamp": 1788166848284,
   "logs": [
     {
       "master": "@desyov",
@@ -30889,6 +30889,135 @@
         "Fuckin everyone else in the sign up thread bro go look"
       ],
       "masterId": "118899054179516417"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "Tour of Myist: Imre Clan",
+      "postedAt": 1788123592175,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1543726976152637643",
+      "players": [
+        "@rastamufasa Henrik",
+        "@missingpath Felicity",
+        "@lenpendragon Felicia",
+        "@honeydewmelons Rowan",
+        "@desyov Abaddon",
+        "@caelum_blue Katsura"
+      ],
+      "masterId": "153330975575769088"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "Tour of Myist: Orsós Clan",
+      "postedAt": 1788123900555,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1543728269591969855",
+      "players": [
+        "@incognegro Dominic",
+        "@hellion Corvin",
+        "@jrlol3megu Marlo",
+        "@iamthorium Silas",
+        "@nerogenesis Oren",
+        "<@!210557304125259776>."
+      ],
+      "masterId": "153330975575769088"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[The Crimson Light] The Last Light",
+      "postedAt": 1788124544301,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1543730969658531942",
+      "players": [
+        "@hangedmantarot Shaw",
+        "@niorno. Deckard",
+        "@aznrcmp Rococo",
+        "@honeydewmelons Rowan",
+        "@rastamufasa Henrik",
+        "@caelum_blue Katsura"
+      ],
+      "masterId": "153330975575769088"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "Pilgrimage to Desire",
+      "postedAt": 1788125608324,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1543735432494194839",
+      "players": [
+        "@desyov Callum",
+        "@rastamufasa Calliope",
+        "@hellion Rajke",
+        "@seraphim Nasaya",
+        "@schwertaria Yuel",
+        "@emgry Alois"
+      ],
+      "masterId": "153330975575769088"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "Howls of Freedom",
+      "postedAt": 1788125951263,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1543736870884868157",
+      "players": [
+        "@oleamollevampie Mara",
+        "@sussy_arata Nora",
+        "@phos0947 Petra",
+        "@rastamufasa Henrik",
+        "@honeydewmelons Rowan",
+        "<@!220960630692118528> Silas"
+      ],
+      "masterId": "153330975575769088"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[The New World] Ridoth Hunt",
+      "postedAt": 1788126071062,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1543737373358297221",
+      "players": [
+        "@desyov Stratos",
+        "@brooms Thyreos",
+        "@someperson2094 Nuni",
+        "@angrykitsu Rhea",
+        "@enderten Sophron",
+        "@seraphim Nestor"
+      ],
+      "masterId": "153330975575769088"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[Bliss in the Streets] Showcasing",
+      "postedAt": 1788126293446,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1543738306104266864",
+      "players": [
+        "@vittinhodosus Melinda",
+        "@hangedmantarot Ray",
+        "@2naf1sh Gyalwa",
+        "@aznrcmp Topal",
+        "@phos0947 Mokah",
+        "@katen_m Celestyn"
+      ],
+      "masterId": "153330975575769088"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "Court Action",
+      "postedAt": 1788127757816,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1543744448117084222",
+      "players": [
+        "@schwertaria Yuel",
+        "@desyov Callum"
+      ],
+      "masterId": "153330975575769088"
+    },
+    {
+      "master": "@nikolaim.",
+      "title": "Figures in the Fog",
+      "postedAt": 1788148052417,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1543829569843495005",
+      "players": [
+        "@caelum_blue as Aello",
+        "@brooms as Franklin",
+        "@corsair_hellcat as Hannah",
+        "@sunny.something as Svetlana"
+      ],
+      "masterId": "419689143443128321"
     }
   ]
 }
