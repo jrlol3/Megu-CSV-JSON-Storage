@@ -1,5 +1,5 @@
 {
-  "timestamp": 1788166848295,
+  "timestamp": 1788253291475,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -22,17 +22,17 @@
       "tier": "GM: Reality Shaper - T3",
       "inGuild": true
     },
-    "@seraphim": {
-      "username": "@seraphim",
-      "id": "108744783031185408",
+    "@angrykitsu": {
+      "username": "@angrykitsu",
+      "id": "169795599758131200",
       "gameCount": 118,
       "tier": "GM: World Builder - T2",
       "inGuild": true
     },
-    "@angrykitsu": {
-      "username": "@angrykitsu",
-      "id": "169795599758131200",
-      "gameCount": 117,
+    "@seraphim": {
+      "username": "@seraphim",
+      "id": "108744783031185408",
+      "gameCount": 118,
       "tier": "GM: World Builder - T2",
       "inGuild": true
     },
@@ -323,6 +323,13 @@
       "tier": null,
       "inGuild": true
     },
+    "@galen876": {
+      "username": "@galen876",
+      "id": "413926319886303233",
+      "gameCount": 5,
+      "tier": "GM: Storyteller - T1",
+      "inGuild": true
+    },
     "@niorno.": {
       "username": "@niorno.",
       "id": "1163222581478948915",
@@ -344,13 +351,6 @@
       "tier": "GM: Storyteller - T1",
       "inGuild": true
     },
-    "@galen876": {
-      "username": "@galen876",
-      "id": "413926319886303233",
-      "gameCount": 5,
-      "tier": "GM: Storyteller - T1",
-      "inGuild": true
-    },
     "@johnm0": {
       "username": "@johnm0",
       "id": "312749945780174849",
@@ -365,18 +365,18 @@
       "tier": null,
       "inGuild": false
     },
-    "@rayhammer": {
-      "username": "@rayhammer",
-      "id": "200273794969894912",
-      "gameCount": 4,
-      "tier": null,
-      "inGuild": true
-    },
     "@phos0947": {
       "username": "@phos0947",
       "id": "1473745047332847791",
       "gameCount": 4,
       "tier": "GM: Storyteller - T1",
+      "inGuild": true
+    },
+    "@rayhammer": {
+      "username": "@rayhammer",
+      "id": "200273794969894912",
+      "gameCount": 4,
+      "tier": null,
       "inGuild": true
     },
     "@sirgabite": {
