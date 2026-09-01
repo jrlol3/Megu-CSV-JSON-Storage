@@ -1,5 +1,5 @@
 {
-  "timestamp": 1788166848284,
+  "timestamp": 1788253291465,
   "logs": [
     {
       "master": "@desyov",
@@ -31018,6 +31018,21 @@
         "@sunny.something as Svetlana"
       ],
       "masterId": "419689143443128321"
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "[The Silence of the Soga] The Port of Dejima",
+      "postedAt": 1788235857630,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1544197851599347773",
+      "players": [
+        "@fluffbet as Takano Akiyama",
+        "@eleesehn as Tachibana Saki",
+        "@akinotamashii as Kimoto Kanae",
+        "@sleepy_bernkastel as Asahi",
+        "@honeydewmelons as Rowan",
+        "@phos0947 as Annette"
+      ],
+      "masterId": "169795599758131200"
     }
   ]
 }
