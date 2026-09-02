@@ -1,5 +1,5 @@
 {
-  "timestamp": 1788253291475,
+  "timestamp": 1788339652585,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -18,20 +18,20 @@
     "@incognegro": {
       "username": "@incognegro",
       "id": "118899054179516417",
-      "gameCount": 121,
+      "gameCount": 122,
       "tier": "GM: Reality Shaper - T3",
-      "inGuild": true
-    },
-    "@angrykitsu": {
-      "username": "@angrykitsu",
-      "id": "169795599758131200",
-      "gameCount": 118,
-      "tier": "GM: World Builder - T2",
       "inGuild": true
     },
     "@seraphim": {
       "username": "@seraphim",
       "id": "108744783031185408",
+      "gameCount": 119,
+      "tier": "GM: World Builder - T2",
+      "inGuild": true
+    },
+    "@angrykitsu": {
+      "username": "@angrykitsu",
+      "id": "169795599758131200",
       "gameCount": 118,
       "tier": "GM: World Builder - T2",
       "inGuild": true
@@ -323,18 +323,18 @@
       "tier": null,
       "inGuild": true
     },
+    "@niorno.": {
+      "username": "@niorno.",
+      "id": "1163222581478948915",
+      "gameCount": 6,
+      "tier": "GM: Apprentice - T0",
+      "inGuild": true
+    },
     "@galen876": {
       "username": "@galen876",
       "id": "413926319886303233",
       "gameCount": 5,
       "tier": "GM: Storyteller - T1",
-      "inGuild": true
-    },
-    "@niorno.": {
-      "username": "@niorno.",
-      "id": "1163222581478948915",
-      "gameCount": 5,
-      "tier": "GM: Apprentice - T0",
       "inGuild": true
     },
     "@someperson2094": {
