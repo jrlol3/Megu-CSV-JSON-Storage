@@ -1,5 +1,5 @@
 {
-  "timestamp": 1788339652576,
+  "timestamp": 1788426049099,
   "logs": [
     {
       "master": "@desyov",
@@ -31077,6 +31077,50 @@
         "@niorno. as Miguel"
       ],
       "masterId": "118899054179516417"
+    },
+    {
+      "master": "@missingpath",
+      "title": "[Checkmate] Freedom from Isolation",
+      "postedAt": 1788377924176,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1544793721881628673",
+      "players": [
+        "@solaceinfire as Naomi",
+        "@madrid222 as Pierre",
+        "@angrykitsu as Victoria",
+        "@2naf1sh as Galavan",
+        "@sussy_arata as Rhys",
+        "@desyov as Callum"
+      ],
+      "masterId": "181544205796114433"
+    },
+    {
+      "master": "@missingpath",
+      "title": "[Checkmate] A Path Forwards",
+      "postedAt": 1788382457645,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1544812736628658190",
+      "players": [
+        "@nut_wizard as Cordoba",
+        "@leplep as Reginn",
+        "@kategeeper as Merlin",
+        "@schwertaria as Yuel",
+        "@asimplehatter as Frederick"
+      ],
+      "masterId": "181544205796114433"
+    },
+    {
+      "master": "@missingpath",
+      "title": "[Heaven's Memory] A Tower to Reach Her Wind",
+      "postedAt": 1788382732332,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1544813888749572107",
+      "players": [
+        "@rastamufasa as Perseus",
+        "@sirgabite as Apollo",
+        "@2naf1sh as Gladiolus",
+        "@desyov as Dr.Lawrence Faust",
+        "@angrykitsu as Victoria",
+        "@xavieremix as Vista"
+      ],
+      "masterId": "181544205796114433"
     }
   ]
 }
