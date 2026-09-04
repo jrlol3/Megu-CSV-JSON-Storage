@@ -1,5 +1,5 @@
 {
-  "timestamp": 1788426049127,
+  "timestamp": 1788512463969,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -57,18 +57,18 @@
       "tier": "GM: Storyteller - T1",
       "inGuild": true
     },
-    "@theelusivegin": {
-      "username": "@theelusivegin",
-      "id": "124671590775390208",
-      "gameCount": 72,
-      "tier": null,
-      "inGuild": true
-    },
     "@rastamufasa": {
       "username": "@rastamufasa",
       "id": "283019070578753536",
       "gameCount": 72,
       "tier": "GM: Reality Shaper - T3",
+      "inGuild": true
+    },
+    "@theelusivegin": {
+      "username": "@theelusivegin",
+      "id": "124671590775390208",
+      "gameCount": 72,
+      "tier": null,
       "inGuild": true
     },
     "@madamezuri": {
@@ -239,16 +239,16 @@
       "tier": "GM: Storyteller - T1",
       "inGuild": true
     },
-    "@solaceinfire": {
-      "username": "@solaceinfire",
-      "id": "151914442035036160",
+    "@sunny.something": {
+      "username": "@sunny.something",
+      "id": "181195525914230784",
       "gameCount": 10,
       "tier": "GM: Storyteller - T1",
       "inGuild": true
     },
-    "@sunny.something": {
-      "username": "@sunny.something",
-      "id": "181195525914230784",
+    "@solaceinfire": {
+      "username": "@solaceinfire",
+      "id": "151914442035036160",
       "gameCount": 10,
       "tier": "GM: Storyteller - T1",
       "inGuild": true
@@ -330,13 +330,6 @@
       "tier": "GM: Apprentice - T0",
       "inGuild": true
     },
-    "@galen876": {
-      "username": "@galen876",
-      "id": "413926319886303233",
-      "gameCount": 5,
-      "tier": "GM: Storyteller - T1",
-      "inGuild": true
-    },
     "@someperson2094": {
       "username": "@someperson2094",
       "id": "639884376171216906",
@@ -347,6 +340,13 @@
     "@yoshimage": {
       "username": "@yoshimage",
       "id": "180873257480617984",
+      "gameCount": 5,
+      "tier": "GM: Storyteller - T1",
+      "inGuild": true
+    },
+    "@galen876": {
+      "username": "@galen876",
+      "id": "413926319886303233",
       "gameCount": 5,
       "tier": "GM: Storyteller - T1",
       "inGuild": true
@@ -414,6 +414,13 @@
       "tier": null,
       "inGuild": false
     },
+    "@oleamollevampie": {
+      "username": "@oleamollevampie",
+      "id": "789352847505489981",
+      "gameCount": 3,
+      "tier": "GM: Apprentice - T0",
+      "inGuild": true
+    },
     "@schwertaria": {
       "username": "@schwertaria",
       "id": "95869822574809088",
@@ -433,13 +440,6 @@
       "id": "206900071055228930",
       "gameCount": 3,
       "tier": "GM: Storyteller - T1",
-      "inGuild": true
-    },
-    "@oleamollevampie": {
-      "username": "@oleamollevampie",
-      "id": "789352847505489981",
-      "gameCount": 3,
-      "tier": "GM: Apprentice - T0",
       "inGuild": true
     },
     "@ijiyiji": {
@@ -505,16 +505,16 @@
       "tier": null,
       "inGuild": false
     },
-    "@redhaart": {
-      "username": "@redhaart",
-      "id": "147504491455840256",
+    "@soggy_saltine": {
+      "username": "@soggy_saltine",
+      "id": "560244151258578964",
       "gameCount": 1,
       "tier": "GM: Apprentice - T0",
       "inGuild": true
     },
-    "@soggy_saltine": {
-      "username": "@soggy_saltine",
-      "id": "560244151258578964",
+    "@redhaart": {
+      "username": "@redhaart",
+      "id": "147504491455840256",
       "gameCount": 1,
       "tier": "GM: Apprentice - T0",
       "inGuild": true
