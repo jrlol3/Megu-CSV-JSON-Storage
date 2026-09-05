@@ -1,5 +1,5 @@
 {
-  "timestamp": 1788512463959,
+  "timestamp": 1788598848546,
   "logs": [
     {
       "master": "@desyov",
@@ -31121,6 +31121,124 @@
         "@xavieremix as Vista"
       ],
       "masterId": "181544205796114433"
+    },
+    {
+      "master": "@sunny.something",
+      "title": "[Cold Blooded] Quetzalcoatl's Den",
+      "postedAt": 1788534179590,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1545449104589586474",
+      "players": [
+        "@han69 as Absalom",
+        "@dragoneldester as Aijing",
+        "@phos0947 as Annette",
+        "@sussy_arata as Aston",
+        "@hangedmantarot as Lyrric",
+        "@and @zatikin as Rene"
+      ],
+      "masterId": "181195525914230784"
+    },
+    {
+      "master": "@letiana",
+      "title": "[A New Cycle] Waning Moon",
+      "postedAt": 1788566914657,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1545586405412179999",
+      "players": [
+        "@facinarose as Akiko",
+        "@paradigm.42 as Enlai",
+        "@madrid222 as Tshuiho",
+        "@2naf1sh as Gyalwa",
+        "@missingpath as Rin",
+        "@emgry as Hiya"
+      ],
+      "masterId": "299015281853071360"
+    },
+    {
+      "master": "@letiana",
+      "title": "[A New Cycle] A Waxing Moon",
+      "postedAt": 1788567050205,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1545586973941440614",
+      "players": [
+        "@madrid222 as Tshuiho",
+        "@facinarose as Akiko",
+        "@missingpath as Rin",
+        "@2naf1sh as Gyalwa",
+        "@paradigm.42 as Enlai",
+        "@emgry as Hiya"
+      ],
+      "masterId": "299015281853071360"
+    },
+    {
+      "master": "@letiana",
+      "title": "[A New Cycle] A New Moon",
+      "postedAt": 1788567856746,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1545590356819714089",
+      "players": [
+        "@desyov as Faust",
+        "@madrid222 as Tshuiho",
+        "@2naf1sh as Gyalwa",
+        "@missingpath as Rin",
+        "@theelusivegin as Gin",
+        "@emgry as Hiya"
+      ],
+      "masterId": "299015281853071360"
+    },
+    {
+      "master": "@letiana",
+      "title": "A Fair Trade",
+      "postedAt": 1788570091343,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1545599729398718577",
+      "players": [
+        "@honeydewmelons as Azra",
+        "@zacsper as Percy",
+        "@redhaart as Alyx",
+        "@soggy_saltine as Amaranth",
+        "@solaceinfire as Naomi"
+      ],
+      "masterId": "299015281853071360"
+    },
+    {
+      "master": "@letiana",
+      "title": "Weight of Zenit",
+      "postedAt": 1788572184061,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1545608506894192681",
+      "players": [
+        "@zacsper as Percy",
+        "@redhaart as Alyx",
+        "@honeydewmelons as Azra",
+        "@starfir54 as Freyr",
+        "@vittinhodosus as Mel"
+      ],
+      "masterId": "299015281853071360"
+    },
+    {
+      "master": "@niorno.",
+      "title": "[Flyfishing] With a Clouded Mind",
+      "postedAt": 1788574624032,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1545618740874444814",
+      "players": [
+        "@someperson2094 as Nuni",
+        "@drafter42 as Rudica Zeln",
+        "@aznrcmp as Rococo",
+        "@schwertaria as Féin of Lionheart’s Reach",
+        "@r10 as Sirius Proudmoore",
+        "@jacethetraveller as Rasho"
+      ],
+      "masterId": "1163222581478948915"
+    },
+    {
+      "master": "@seraphim",
+      "title": "[Weakness of the Flesh] The Heart of Man",
+      "postedAt": 1788587536151,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1545672898226819144",
+      "players": [
+        "@someperson2094 as Mariana",
+        "@enderten as Judah",
+        "@oleamollevampie as Madeline",
+        "@drafter42 as Lyra",
+        "@letiana as Antigone",
+        "@drdinocrusher as Lanelle"
+      ],
+      "masterId": "108744783031185408"
     }
   ]
 }
