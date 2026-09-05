@@ -1,5 +1,5 @@
 {
-  "timestamp": 1788519613351,
+  "timestamp": 1788606012269,
   "approvals": [
     {
       "user": "samikazuki",
@@ -7764,6 +7764,18 @@
       "approver": "sleepy_bernkastel",
       "date": 1788153097376,
       "character": "BeiFang"
+    },
+    {
+      "user": "hangedmantarot",
+      "approver": "sleepy_bernkastel",
+      "date": 1788549659274,
+      "character": "Fintan Rootbound"
+    },
+    {
+      "user": "lenpendragon",
+      "approver": "sleepy_bernkastel",
+      "date": 1788550023946,
+      "character": "William Falkner"
     }
   ]
 }
