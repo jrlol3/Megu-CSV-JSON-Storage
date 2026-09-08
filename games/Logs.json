@@ -1,5 +1,5 @@
 {
-  "timestamp": 1788771646448,
+  "timestamp": 1788858048259,
   "logs": [
     {
       "master": "@desyov",
@@ -31284,6 +31284,33 @@
         "@aehnomaly as Enkh Tsering"
       ],
       "masterId": "1163222581478948915"
+    },
+    {
+      "master": "@madrid222",
+      "title": "(Grand Tour) Welcome To The Grand Tour!",
+      "postedAt": 1788827691411,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1546680182394458124",
+      "players": [
+        "@incognegro as Zenith",
+        "@leplep as Adelaide",
+        "@solaceinfire as Melinoe",
+        "@schwertaria as Yuel",
+        "@missingpath as Felicity"
+      ],
+      "masterId": "173539943426031616"
+    },
+    {
+      "master": "@nikolaim.",
+      "title": "[Families in Feud] Warehouse Wreckage",
+      "postedAt": 1788833747344,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1546705582818467922",
+      "players": [
+        "@brooms As Franklin",
+        "@pebbleslug As Meorielle",
+        "@h4lcy0n_d4ys As Delilah",
+        "@lenpendragon as William"
+      ],
+      "masterId": "419689143443128321"
     }
   ]
 }
