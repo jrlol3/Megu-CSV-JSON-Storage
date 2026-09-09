@@ -1,5 +1,5 @@
 {
-  "timestamp": 1788858048259,
+  "timestamp": 1788944449937,
   "logs": [
     {
       "master": "@desyov",
@@ -31311,6 +31311,21 @@
         "@lenpendragon as William"
       ],
       "masterId": "419689143443128321"
+    },
+    {
+      "master": "@oleamollevampie",
+      "title": "[The Sealing Sands] The Hungry Swarm",
+      "postedAt": 1788932613489,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1547120257486037036",
+      "players": [
+        "@Anabella ✝ | Rose as Anabella",
+        "@Vidar | Miguel as Vidar",
+        "@Nestor of Mercury as Nestor",
+        "@zzMoonwisp | Chronos as Moonwisp",
+        "@Iseult | Len as Iseult",
+        "@Aello🪶| Caelum as Aello"
+      ],
+      "masterId": "789352847505489981"
     }
   ]
 }
