@@ -1,5 +1,5 @@
 {
-  "timestamp": 1788944449946,
+  "timestamp": 1789030853626,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -81,7 +81,7 @@
     "@letiana": {
       "username": "@letiana",
       "id": "299015281853071360",
-      "gameCount": 60,
+      "gameCount": 64,
       "tier": "GM: World Builder - T2",
       "inGuild": true
     },
@@ -508,6 +508,13 @@
     "@soggy_saltine": {
       "username": "@soggy_saltine",
       "id": "560244151258578964",
+      "gameCount": 1,
+      "tier": "GM: Apprentice - T0",
+      "inGuild": true
+    },
+    "@akinotamashii": {
+      "username": "@akinotamashii",
+      "id": "80892297905963008",
       "gameCount": 1,
       "tier": "GM: Apprentice - T0",
       "inGuild": true
