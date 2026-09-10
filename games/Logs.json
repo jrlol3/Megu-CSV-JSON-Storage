@@ -1,5 +1,5 @@
 {
-  "timestamp": 1788944449937,
+  "timestamp": 1789030853611,
   "logs": [
     {
       "master": "@desyov",
@@ -31326,6 +31326,72 @@
         "@Aello🪶| Caelum as Aello"
       ],
       "masterId": "789352847505489981"
+    },
+    {
+      "master": "@letiana",
+      "title": "Finding Kindness",
+      "postedAt": 1789001818909,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1547410526055698634",
+      "players": [
+        "@solaceinfire as Melinoe",
+        "@sleepy_bernkastel as Théodore Pascal",
+        "@seraphim as Onyx",
+        "@soggy_saltine as Familade",
+        "@sunny.something as Blue Bolt",
+        "@honeydewmelons as Shēnruì Er Xián"
+      ],
+      "masterId": "299015281853071360"
+    },
+    {
+      "master": "@letiana",
+      "title": "Weight of Consequences",
+      "postedAt": 1789002326410,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1547412654669307976",
+      "players": [
+        "@missingpath as Felicity"
+      ],
+      "masterId": "299015281853071360"
+    },
+    {
+      "master": "@letiana",
+      "title": "[King's Crusade] A Conversation Amongst Men",
+      "postedAt": 1789002798567,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1547414635039170653",
+      "players": [
+        "@starfir54 as Rose Meiki'tari Albertus",
+        "@madrid222 as Orion Marduke"
+      ],
+      "masterId": "299015281853071360"
+    },
+    {
+      "master": "@letiana",
+      "title": "[King's Crusade] Unwelcomed Invitation",
+      "postedAt": 1789005178399,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1547424616778039407",
+      "players": [
+        "@hellion as Gwydion",
+        "@galen876 as Reflection of Summer’s Shine",
+        "@nikolaim. As sterling",
+        "@brooms as Franklin",
+        "@mike_miguel_michael as Vidal",
+        "@enderten as Judah"
+      ],
+      "masterId": "299015281853071360"
+    },
+    {
+      "master": "@akinotamashii",
+      "title": "[Destructive Interference] I Just Want to See Your Place",
+      "postedAt": 1789016232833,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1547470982434918484",
+      "players": [
+        "@eleesehn as Valissa",
+        "@averysoftsheep as Taffetta",
+        "@angrykitsu as Rhea",
+        "@drdinocrusher as Lanelle",
+        "@sawzie as Langley",
+        "@aznrcmp as Elias (and Eugene!)"
+      ],
+      "masterId": "80892297905963008"
     }
   ]
 }
