@@ -1,5 +1,5 @@
 {
-  "timestamp": 1789030853611,
+  "timestamp": 1789117250610,
   "logs": [
     {
       "master": "@desyov",
@@ -31392,6 +31392,36 @@
         "@aznrcmp as Elias (and Eugene!)"
       ],
       "masterId": "80892297905963008"
+    },
+    {
+      "master": "@letiana",
+      "title": "[Streamer Awards] Door Dash",
+      "postedAt": 1789092666270,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1547791567505588378",
+      "players": [
+        "@incognegro as Bion",
+        "@hellion as Alethra",
+        "@angrykitsu as Rhea",
+        "@seraphim as Nestor",
+        "@madrid222 as Thaumasios",
+        "@someperson2094 as Selene as the designated tour guide!!"
+      ],
+      "masterId": "299015281853071360"
+    },
+    {
+      "master": "@redhaart",
+      "title": "[Devil in the Details] Light of the Body",
+      "postedAt": 1789098595531,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1547816436628590613",
+      "players": [
+        "@zzJudah | EnderTen as Judah",
+        "@zz | Path as Friday",
+        "@Madeline Lumen | Olea as Madeline",
+        "@Charlie | Pidgeon as Charlie",
+        "@Meorielle | Pebble as Meorielle",
+        "@Shakes the Earth as Shakes the Earth"
+      ],
+      "masterId": "147504491455840256"
     }
   ]
 }
