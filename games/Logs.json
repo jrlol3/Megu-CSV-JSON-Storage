@@ -1,5 +1,5 @@
 {
-  "timestamp": 1789117250610,
+  "timestamp": 1789203653066,
   "logs": [
     {
       "master": "@desyov",
@@ -31422,6 +31422,17 @@
         "@Shakes the Earth as Shakes the Earth"
       ],
       "masterId": "147504491455840256"
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "[The Dead Ito] Return to Kumiko",
+      "postedAt": 1789144890913,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1548010613534359644",
+      "players": [
+        "@Pabb as Sylvaine",
+        "@Ciel as Inoue Tsuru"
+      ],
+      "masterId": "169795599758131200"
     }
   ]
 }
