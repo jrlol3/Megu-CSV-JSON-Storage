@@ -1,5 +1,5 @@
 {
-  "timestamp": 1789210814392,
+  "timestamp": 1789297214797,
   "approvals": [
     {
       "user": "samikazuki",
@@ -7800,6 +7800,12 @@
       "approver": "sleepy_bernkastel",
       "date": 1789081490249,
       "character": "Nattigan Twyst"
+    },
+    {
+      "user": "xchronos",
+      "approver": "sleepy_bernkastel",
+      "date": 1789271404928,
+      "character": "Seeker of the Perfect Slash"
     }
   ]
 }
