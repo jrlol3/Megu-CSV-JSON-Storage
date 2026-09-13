@@ -1,5 +1,5 @@
 {
-  "timestamp": 1789203653066,
+  "timestamp": 1789290051436,
   "logs": [
     {
       "master": "@desyov",
@@ -31431,6 +31431,51 @@
       "players": [
         "@Pabb as Sylvaine",
         "@Ciel as Inoue Tsuru"
+      ],
+      "masterId": "169795599758131200"
+    },
+    {
+      "master": "@seraphim",
+      "title": "[A New World] The Price of Progress is Forged by Peace and Innocence",
+      "postedAt": 1789249628249,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1548449913761955961",
+      "players": [
+        "@oleamollevampie as Wraith",
+        "@han69 as Garmir",
+        "@themattroid as Maxilos",
+        "@nikolaim. As Noir",
+        "@schwertaria as Tatsuya",
+        "@desyov as Faust"
+      ],
+      "masterId": "108744783031185408"
+    },
+    {
+      "master": "@lenpendragon",
+      "title": "[Dawnstar Rockus] Golden Hall Robbery",
+      "postedAt": 1789251832846,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1548459160511848520",
+      "players": [
+        "@drafter42 as Lyra",
+        "@phos0947 as Danny",
+        "@nikkimp as Erin",
+        "@oleamollevampie as Madeline",
+        "@kategeeper as Izumi",
+        "@corsair_hellcat as Lexi"
+      ],
+      "masterId": "95487748466544640"
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "[The Sound of Hooves] The Khan Marches",
+      "postedAt": 1789252255231,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1548460932122812457",
+      "players": [
+        "@schwertaria as Tenzin",
+        "@nikolaim. as Dujom",
+        "@aehnomaly as Enkh",
+        "@2naf1sh as Gyalwa",
+        "@leplep as Adelaide",
+        "@oleamollevampie as Fenja"
       ],
       "masterId": "169795599758131200"
     }
