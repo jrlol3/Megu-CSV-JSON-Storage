@@ -1,5 +1,5 @@
 {
-  "timestamp": 1789376448391,
+  "timestamp": 1789462847134,
   "logs": [
     {
       "master": "@desyov",
@@ -31493,6 +31493,21 @@
         "@Thyra-acetwinelf as Thyra"
       ],
       "masterId": "80892297905963008"
+    },
+    {
+      "master": "@missingpath",
+      "title": "[Scales of Sin] The Harvest",
+      "postedAt": 1789434709424,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1549226200474325175",
+      "players": [
+        "@2naf1sh as Gialos",
+        "@paradigm.42 as Zoe",
+        "@hellion as Alethra",
+        "@incognegro as Bion",
+        "@sawzie as Langley",
+        "@emgry as Rachael"
+      ],
+      "masterId": "181544205796114433"
     }
   ]
 }
