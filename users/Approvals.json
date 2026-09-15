@@ -1,5 +1,5 @@
 {
-  "timestamp": 1789383616978,
+  "timestamp": 1789470016559,
   "approvals": [
     {
       "user": "samikazuki",
@@ -7806,6 +7806,18 @@
       "approver": "sleepy_bernkastel",
       "date": 1789271404928,
       "character": "Seeker of the Perfect Slash"
+    },
+    {
+      "user": "soggy_saltine",
+      "approver": "sleepy_bernkastel",
+      "date": 1789441311430,
+      "character": "Unwilling Weapon of Justice"
+    },
+    {
+      "user": "squppyvt",
+      "approver": "sleepy_bernkastel",
+      "date": 1789446874365,
+      "character": "Caroline \"Whiskey\" Daisy"
     }
   ]
 }
