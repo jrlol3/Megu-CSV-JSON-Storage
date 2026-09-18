@@ -1,5 +1,5 @@
 {
-  "timestamp": 1789635649034,
+  "timestamp": 1789722045251,
   "games": [
     {
       "title": "First Introductions",
@@ -26218,6 +26218,28 @@
       "time": "<t:1789938000:F>",
       "public": true,
       "creator": "Quincy | Path"
+    },
+    {
+      "title": "Trails of Ember: Longevity",
+      "postedAt": 1789687104496,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1550284822134653029",
+      "pings": [
+        "1170826716571238410"
+      ],
+      "time": "<t:1790118000:F>",
+      "public": true,
+      "creator": "Abadd☆n 😈"
+    },
+    {
+      "title": "Heroes' End: Fatebreaker",
+      "postedAt": 1789688109821,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1550289038773067788",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1789691458:F>",
+      "public": true,
+      "creator": "Abadd☆n 😈"
     }
   ]
 }
