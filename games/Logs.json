@@ -1,5 +1,5 @@
 {
-  "timestamp": 1789722045262,
+  "timestamp": 1789808454165,
   "logs": [
     {
       "master": "@desyov",
@@ -31553,6 +31553,20 @@
         "@phos0947 as Verge"
       ],
       "masterId": "169795599758131200"
+    },
+    {
+      "master": "@incognegro",
+      "title": "A Hymn Down At Brine Bluff",
+      "postedAt": 1789787961989,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1550707849120718869",
+      "players": [
+        "@twilightkiller as Sunny",
+        "@averysoftsheep as Etta",
+        "@enderten as Judah",
+        "@facinarose as Anabella",
+        "@drdinocrusher as Lanelle"
+      ],
+      "masterId": "118899054179516417"
     }
   ]
 }
