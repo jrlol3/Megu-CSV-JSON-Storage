@@ -1,5 +1,5 @@
 {
-  "timestamp": 1789729214423,
+  "timestamp": 1789815614297,
   "approvals": [
     {
       "user": "samikazuki",
@@ -7818,6 +7818,12 @@
       "approver": "sleepy_bernkastel",
       "date": 1789446874365,
       "character": "Caroline \"Whiskey\" Daisy"
+    },
+    {
+      "user": "drafter42",
+      "approver": "sleepy_bernkastel",
+      "date": 1789788759855,
+      "character": "Arabella Atent Bugle"
     }
   ]
 }
