@@ -1,5 +1,5 @@
 {
-  "timestamp": 1789808454165,
+  "timestamp": 1789894848258,
   "logs": [
     {
       "master": "@desyov",
@@ -31567,6 +31567,34 @@
         "@drdinocrusher as Lanelle"
       ],
       "masterId": "118899054179516417"
+    },
+    {
+      "master": "@redhaart",
+      "title": "[Devil in the Details] Light of the Mind",
+      "postedAt": 1789851858914,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1550975852249088142",
+      "players": [
+        "@zzThe Horizon  ৡ as Horizon",
+        "@xx | Path as Friday",
+        "@Madeline | Olea as Madeline",
+        "@zzRudica Zeln as Lyra",
+        "@= The Young Hunter = as Heliodoro",
+        "@Aile Forrester as Marianna"
+      ],
+      "masterId": "147504491455840256"
+    },
+    {
+      "master": "@seraphim",
+      "title": "[The Horrors of Smoke and Coal] The Propagator of War",
+      "postedAt": 1789870480951,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1551053958733111407",
+      "players": [
+        "@akinotamashii as Penny",
+        "@someperson2094 as Astrid",
+        "@missingpath as Quincy",
+        "@eleesehn as Saki"
+      ],
+      "masterId": "108744783031185408"
     }
   ]
 }
