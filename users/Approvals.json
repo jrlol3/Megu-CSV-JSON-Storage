@@ -1,5 +1,5 @@
 {
-  "timestamp": 1789902013368,
+  "timestamp": 1789988415285,
   "approvals": [
     {
       "user": "samikazuki",
@@ -7824,6 +7824,24 @@
       "approver": "sleepy_bernkastel",
       "date": 1789788759855,
       "character": "Arabella Atent Bugle"
+    },
+    {
+      "user": "angrykitsu",
+      "approver": "sleepy_bernkastel",
+      "date": 1789945161669,
+      "character": "The Bloodied Hand of Amagi"
+    },
+    {
+      "user": "akinotamashii",
+      "approver": "sleepy_bernkastel",
+      "date": 1789946762493,
+      "character": "Hibiscus"
+    },
+    {
+      "user": "asimplehatter",
+      "approver": "sleepy_bernkastel",
+      "date": 1789962972640,
+      "character": "Cassidy Forge"
     }
   ]
 }
