@@ -1,5 +1,5 @@
 {
-  "timestamp": 1789894848258,
+  "timestamp": 1789981251177,
   "logs": [
     {
       "master": "@desyov",
@@ -31595,6 +31595,78 @@
         "@eleesehn as Saki"
       ],
       "masterId": "108744783031185408"
+    },
+    {
+      "master": "@someperson2094",
+      "title": "[Sing For Us] Can I Get Uhhh…: Electric Boogaloo",
+      "postedAt": 1789940344433,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1551346987415244901",
+      "players": [
+        "@averysoftsheep as Xu Yuanmin",
+        "@twilightkiller as Stormbringer",
+        "@akinotamashii as Penny",
+        "@aznrcmp as Rococo",
+        "@drafter42 as Rudica",
+        "@nikolaim. as Sama Shihitsugi"
+      ],
+      "masterId": "639884376171216906"
+    },
+    {
+      "master": "@someperson2094",
+      "title": "[Sing For Us] We're Your Biggest Fans!!",
+      "postedAt": 1789940616902,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1551348130232930465",
+      "players": [
+        "@aznrcmp as Rococo",
+        "@akinotamashii as Penny",
+        "@niorno. As Azik",
+        "@han69 as Michael Adder",
+        "@nikolaim. as Sama",
+        "@mecha_21 as Lusio"
+      ],
+      "masterId": "639884376171216906"
+    },
+    {
+      "master": "@letiana",
+      "title": "[King's Crusade] Personal Investigation",
+      "postedAt": 1789943442196,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1551359980374982747",
+      "players": [
+        "@drafter42 as Rudica",
+        "@schwertaria as Fein",
+        "@missingpath as Sylvaine",
+        "@maxfish as Ciro"
+      ],
+      "masterId": "299015281853071360"
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "[The Epic of Arcadia] Suneater",
+      "postedAt": 1789961134063,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1551434185443639337",
+      "players": [
+        "@angrykitsu as Rhea",
+        "@eleesehn as Valissa",
+        "@caelum_blue as Aello",
+        "@bookie as Nattigan",
+        "@drafter42 as Arabella",
+        "@drdinocrusher as Lanelle"
+      ],
+      "masterId": "283019070578753536"
+    },
+    {
+      "master": "@missingpath",
+      "title": "[Checkmate] Rescue Before Dawn",
+      "postedAt": 1789965476162,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1551452397526843483",
+      "players": [
+        "@solaceinfire as Naomi",
+        "@madrid222 as Pierre",
+        "@mutemissy as Natalia",
+        "@2naf1sh as Galavan",
+        "@asimplehatter as Frederick"
+      ],
+      "masterId": "181544205796114433"
     }
   ]
 }
