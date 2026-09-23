@@ -1,5 +1,5 @@
 {
-  "timestamp": 1790067647914,
+  "timestamp": 1790154048003,
   "logs": [
     {
       "master": "@desyov",
@@ -31667,6 +31667,115 @@
         "@asimplehatter as Frederick"
       ],
       "masterId": "181544205796114433"
+    },
+    {
+      "master": "@letiana",
+      "title": "[King's Crusade] Retaliation",
+      "postedAt": 1790117185390,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1552088712148418642",
+      "players": [
+        "@sirgabite as Apollo",
+        "@caelum_blue as Celine",
+        "@facinarose as Vivian",
+        "@oleamollevampie as Rue",
+        "@rastamufasa as Percy",
+        "@seraphim as Esmon"
+      ],
+      "masterId": "299015281853071360"
+    },
+    {
+      "master": "@letiana",
+      "title": "Apple of My Eye",
+      "postedAt": 1790117831474,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1552091422021128255",
+      "players": [
+        "@pidgeon as Julia",
+        "@schwertariaas Tenzin"
+      ],
+      "masterId": "299015281853071360"
+    },
+    {
+      "master": "@letiana",
+      "title": "[King's Crusade] The First Bloom",
+      "postedAt": 1790119215399,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1552097226623557786",
+      "players": [
+        "@hellion as Gwydion",
+        "@caelum_blue as Celine",
+        "@paradigm.42 as Retti",
+        "@celesteias as Daisy"
+      ],
+      "masterId": "299015281853071360"
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "[Grestaz] Like Doves in the Wind",
+      "postedAt": 1790119682657,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1552099186445516891",
+      "players": [
+        "@schwertaria as Yuel",
+        "@sleepy_bernkastel as Theodore",
+        "@honeydewmelons as Azra",
+        "@mutemissy as Natalia",
+        "@nikkimp as Aile",
+        "@phos0947 as Verge"
+      ],
+      "masterId": "283019070578753536"
+    },
+    {
+      "master": "@caelum_blue",
+      "title": "A Name For The Sky",
+      "postedAt": 1790120255319,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1552101588364034133",
+      "players": [
+        "@iamthorium as Gadget",
+        "@nut_wizard as Quill",
+        "@honestotter10 as Rasho",
+        "@rastamufasa as Gwen",
+        "@schwertaria as Yuel",
+        "@xchronos as Moonwisp"
+      ],
+      "masterId": "886623433306288158"
+    },
+    {
+      "master": "@madrid222",
+      "title": "Fools Gold Or Diamond In The Rough",
+      "postedAt": 1790126349157,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1552127147773001741",
+      "players": [
+        "@missingpath as Quincy",
+        "@angrykitsu as Sara",
+        "@r10 as Sirius",
+        "@someperson2094 as Nuni",
+        "@zacsper as Dante",
+        "@redhaart as Emile"
+      ],
+      "masterId": "173539943426031616"
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "[Grief] The Herald",
+      "postedAt": 1790127651901,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1552132611877376151",
+      "players": [
+        "@incognegro as Dominic"
+      ],
+      "masterId": "169795599758131200"
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "[Mundó's Kuwento] The Key to Shape Mountains",
+      "postedAt": 1790138724450,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1552179053514072116",
+      "players": [
+        "@samikazuki  as Anahi/Datu",
+        "@starfir54 as Hui",
+        "@emgry as Hiya",
+        "@2naf1sh as Gyalwa",
+        "@xavieremix as The Assistant",
+        "@han69 as Garmir"
+      ],
+      "masterId": "283019070578753536"
     }
   ]
 }
