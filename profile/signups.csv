@@ -529,13 +529,16 @@ Annette,1473745047332847791,1544167101269278720,1c1603f0-22e0-4631-9bb1-11f83dd8
 Floralist ★
 Wayfarer 6
 Arcanist 1",,19,"Korala, Lhodos",,"Annette is a 5'4"" girl with dirty blonde hair, and light brown eyes. She carries a brown bag full of paints and other art supplies with her at all times. When she speaks she has a noticable french accent. She's accompanied by a small water elemental named Flaque, who sometimes rides in a waterproof container in her bag.",,,,"Annette Desjardins was born and raised in Korala. She attended the Acadamy of Korala from a young age, possessing the rare gift of magic. She took mainly to the arts, and as the college became more focused on the war, she faced pressure to train as a battlemage. She hated the idea of contributing to the war, and chose instead to flee the college as the demands from above became more threatening. Along with her familiar, a water elemental named Flaque, she was travelling through the countryside when she was caught in a realmstorm and brought into the Heaven's Sea.",Joy
-Anri,886623433306288158,1532053637038211328,308d4ba2-7b38-4439-97ae-e580f4d3af8f,https://i.imgur.com/lDHIrOX.png,,https://docs.google.com/spreadsheets/d/1drr5NGTMBsucFRcM2oCZlZSlNHgqVF-YUIn4ZboU4B4/edit?gid=0#gid=0,"Tinkerer ★
+Anri,886623433306288158,1552318980599980032,308d4ba2-7b38-4439-97ae-e580f4d3af8f,https://i.imgur.com/lDHIrOX.png,,"[""A home for those with nowhere left to go... Yeah, I'd want to fight for that.""](https://docs.google.com/spreadsheets/d/1dN7zQd0KuO5fTmCho5ezBXVfkbhBJe4QBrikb-4vWr4/edit?gid=134529543#gid=134529543)
+-# Notice: Recently updated to 3.0","Tinkerer ★
 Symbolist ★
-Arcanist 7
+Arcanist ★
 Guardian 1
-Weaponmaster 2",#FFFFFF,30,"Kald Forest, Aldistir",杏梨,"Standing at just under 5 feet tall (not counting the ears), Anri is a white-and-grey-furred rabbit Yokai with distant silver eyes, blue markings on his cheeks, and a deceptively muscular build. Quiet and introspective to a fault, they always seem preoccupied with some question or other, often giving the impression that he does not notice-- or care-- about what's going on around him.",,"- Magitech Hammer (Quantum Armament, Heavy Specialist)
+Weaponmaster 2",#FFFFFF,34,"Kald Forest, Aldistir",杏梨,"Standing at just under 5 feet tall (not counting the ears), Anri is a white-and-grey-furred rabbit Yokai with distant silver eyes, blue markings on his cheeks, and a deceptively muscular build. Quiet and introspective to a fault, they always seem preoccupied with some question or other, often giving the impression that he does not notice-- or care-- about what's going on around him.",,"- Magitech Hammer (Quantum Armament, Heavy Specialist)
 - Moon Rabbit's Guard (Heaven's Defender)
-- Stalwart Lantern (Composure)",Tubalcain,"- Born to a family of Blacksmiths and Tubalcain devotees in a small village in the Kald forest
+- Stalwart Lantern (Composure)","Logi [Tubalcain]
+Ymir [Antikythera]
+Kardia [Seraph]","- Born to a family of Blacksmiths and Tubalcain devotees in a small village in the Kald forest
 - An ald raid saw him taken from his home and separated from his family
 - Was seen as a high-value captive due to his smithing skill; exchanged captors often due to trades, leadership changes, and short-lived escapes
 - Eventually, gained freedom as a consequence of what he would one day learn - were the actions of Goldhearted.
@@ -1509,11 +1512,12 @@ A plethora of both physical and mechanical augmentations decorate their body. Gi
 * Accidentally created a material daemon by feeding it card data. Re-writing it into a companion. Volt. 
 * After assisting a friend in avoiding some loan sharks, he found himself upon the worldhelm. 
 * Unexpectedly, he came across the curious fae Celine. And like it was written in the very stars, the two have become engaged to each other.",Valiancy
-Céline Brighttail,886623433306288158,1532052531281400064,7316430b-a1be-47ce-acf9-51df7b3f408d,https://i.imgur.com/hQU9j3O.jpeg,,https://docs.google.com/spreadsheets/d/1K_2soMoHbsoXG97c7iIe_F_c2FuOs7xsiPbaYkFRa8c/edit?usp=drivesdk,"Arcanist ★
+Céline Brighttail,886623433306288158,1552321042930860032,7316430b-a1be-47ce-acf9-51df7b3f408d,https://i.imgur.com/hQU9j3O.jpeg,,"[""My name? You may *not* have it, but you may refer to me as Céline, Scholar and Arcanist. It's a pleasure to meet you!""](https://docs.google.com/spreadsheets/d/1QGSJygXahnTWqqvBTJe8FB1nSrVq7bAOKcmky0Iwnxk/edit?gid=134529543#gid=134529543)
+-# Notice: Recently updated to 3.0","Arcanist ★
 Entropist ★
 Wayfarer ★
 Loremaster ★
-Guardian ★",#051650,50,"Hudal Academy, Kor'tarion",,"""Many have told me that, when it comes to magic, the sky is the limit. I disagree. The sky is merely my starting point.""
+Guardian ★",#123771,50,"Hudal Academy, Kor'tarion",,"""Many have told me that, when it comes to magic, the sky is the limit. I disagree. The sky is merely my starting point.""
 
 Céline is a rat-like fae with soft white fur, large rounded ears, and sharp violet eyes. She is most often seen wearing a set of deep blue scholar's robes along with a black mask and a matching hat. Standing just under 4ft tall-- which she insists is quite tall for her kind-- she sports a delicate frame, though her ears give a significant height boost to her silhouette.",Outcast Fairy (Weakness: Can't Lie or break her word),"- Lovesick Bracelet (Arcane Regen +2, can spend value to form Bonds)
 - When Stars Align (Loaded Dice)
@@ -1521,19 +1525,13 @@ Céline is a rat-like fae with soft white fur, large rounded ears, and sharp vio
 - Mayhem (Restore 10 MP on Dismiss)
 - Cynosure (World Saver)
 - Lunar Spellbook (Magic Up)
-- Warden Battle Uniform (Arcane Vitality)",,"- Grew up in a warren in the fae realm, forbidden to leave ""for the safety of the clan""
-
+- Warden Battle Uniform (Arcane Vitality)",True Antikythera,"- Grew up in a warren in the fae realm, forbidden to leave ""for the safety of the clan""
 - Dreamt of the night sky often, of asking the stars about the way the world worked
-
 - One night, the stars answered, and led her to a ruined temple in the mortal realm
-
 - She struck a bargain: the secrets of the stars, in exchange for one day restoring that place to its former glory
-
 - To make good on that, she joined Hudal Academy to study magic and astrology
-
 - After Project Bloodmoon shut it down for repairs, she took to wandering, eventually getting swept up by a Realmstorm and ending up in the Worldhelm
-
-- Since, she has battled undead, outmaneuvered vampires, stood her ground against demons... And found a lifelong partner in Cypher Yuten, to whom she is now engaged.",Curiosity
+- Since, she has battled undead, outmaneuvered vampires, stood her ground against demons, even rewritten Fate itself... And along the road, found a lifelong partner in Cypher Yuten, to whom she is now engaged.",Curiosity
 Córdoba,594008151779573762,1538426432764780544,d283e0c7-a9ad-4e67-b3dc-3749a727783c,https://i.imgur.com/ssr8aiV.png,,https://docs.google.com/spreadsheets/d/1ldRfoSxMKA4bxq-1cQUJl7I6FQX1erjSuRO1og83-7I/edit?gid=0#gid=0,"Entropist Lv. ★
 Loremaster Lv. 6
 Spiritist Lv. ★
@@ -3843,7 +3841,7 @@ Arcanist -2",,20,"Outside of Miza, Delsatz, Eurys",,"Lyrric stands at around 5'6
 -The deal meant he would be called on in the future by said power.
 *He left to travel the world so that any stigma of him being a ""warlock"" as his magic was not really his, would not stay attached to his family or the lively hood.
 *During his travels he was caught in storm near the Runewall and the winds forced him and his mount through.",Hope
-Lyssa 🪄,223265921727201280,1546146872782094592,866939ee-4132-4e61-8392-0c118d11a738,https://i.imgur.com/P1MM0aE.png,https://discord.com/channels/1169852846083153941/1170111183869706362/1405609115434221568,[Lyssa's Journal](https://docs.google.com/spreadsheets/d/1t4dKQDqz0_SAxnjoMFy0OmjiMVS9vjfWfABSgWGJoAo/edit?usp=sharing),"[★] Spiritist
+"Lyssa, Watcher of Rocade 🪄",223265921727201280,1552348328300257280,866939ee-4132-4e61-8392-0c118d11a738,https://i.imgur.com/P1MM0aE.png,https://discord.com/channels/1169852846083153941/1170111183869706362/1405609115434221568,[Lyssa's Journal](https://docs.google.com/spreadsheets/d/1t4dKQDqz0_SAxnjoMFy0OmjiMVS9vjfWfABSgWGJoAo/edit?usp=sharing),"[★] Spiritist
 [★] Loremaster
 [3] Entropist
 [3] Chimerist
@@ -3860,7 +3858,8 @@ Weapons:
 - Wants to protect her homeland and believes chaos must meet chaos to restore order with the spirts
 - Desires to explore and study other places and magic
 - Has a heroic bond with Franz Alberic
-- Has a mentee of Isolde Reed",Curiosity
+- Has a mentee of Isolde Reed
+- Connected with the Great Spirit of the Basilisk",Patience
 Mabilis Na'ulan,178284834978791425,1350121406872162304,0c410dcd-214a-4c92-876a-befe95c070ca,https://i.imgur.com/CrvsgHu.png,https://discord.com/channels/1169852846083153941/1170111183869706362/1323835305844936800,https://docs.google.com/spreadsheets/d/1cZFH_9HLSHY2kk2n9VXeIT5H5ACP6fgR268DwVoVobc/edit?gid=0#gid=0,"Spiritist 8
 Wayfarer 1
 Dancer 2",,11,"Mt. Magayon, Sangang-Daan",,"An old man who's appearance is hides his true age, Mabilis stands at 6'1 with an athletics build, bearded with a disheveled head of grey hair held up by a headband. He wears light clothing covered in a heavy cloak dyed a blue reminiscent of the ocean, a style recognized easily as that of a martial artist hailing from Tian Yin. His face is deep set with scars and wrinkles alike, but Mabilis often wears a smile despite the clear toll the life of a cultivator has taken.",Cultivator (Water),,,"- Cultivator who trained in secret alongside two other students under a surviving master of the war against heaven, Ghatu Na'alon
@@ -4325,7 +4324,7 @@ Symbolist 1",,5,Tei Sei - Sakai,,"A petite woman with white hair, amber eyes and
 *Was tasked to help safekeeping her community's last remaining sacred sites from evil spirits as well as heal the wounded.
 
 *Mitsuhime is a firm believer the Sun will shine once again and vowed to do her best to keep people's hope alive.",Hope
-Mizuki,151914442035036160,1545461627569180672,ce2b521c-752a-4aab-a52b-8848844b39ff,https://i.imgur.com/WShSI6s.jpeg,https://discord.com/channels/1169852846083153941/1170111183869706362/1485341570667643040,https://docs.google.com/spreadsheets/d/1iGAidaVUPo_XRvWd2fpOSyKhnH3FS8pG4Zan1xux61A/edit?usp=sharing,Symbolist 5/ Necromancer 2/ Spiritist 3,#DC143C,10,"Nishibi, The Imperial Fields",,Mizuki is a thin young woman of around 5’2” in height with long straight black hair that falls down to her lower back. Her eyes are a deep crimson that almost seems to glow when she taps into her powers as a medium. Usually she is dressed in Miko robes befitting her current station as a shrine maiden of Izanami.,Spirit Medium,,Vanagandr (Izanami),"Mizuki was left in the Temple of Hotei as a toddler after her family could no longer deal with their daughter’s awakening powers as a medium. This temple taught her to control those powers as well as prepared for her role as a shrine maiden in the future. During this time she still struggled to connect with other normal people, having few friends among the other orphans in the temple.
+Mizuki,151914442035036160,1552303758426251264,ce2b521c-752a-4aab-a52b-8848844b39ff,https://i.imgur.com/WShSI6s.jpeg,https://discord.com/channels/1169852846083153941/1170111183869706362/1485341570667643040,https://docs.google.com/spreadsheets/d/1iGAidaVUPo_XRvWd2fpOSyKhnH3FS8pG4Zan1xux61A/edit?usp=sharing,Symbolist 7/ Necromancer 2/ Spiritist 3,#DC143C,11,"Nishibi, The Imperial Fields",,Mizuki is a thin young woman of around 5’2” in height with long straight black hair that falls down to her lower back. Her eyes are a deep crimson that almost seems to glow when she taps into her powers as a medium. Usually she is dressed in Miko robes befitting her current station as a shrine maiden of Izanami.,Spirit Medium,,Vanagandr (Izanami),"Mizuki was left in the Temple of Hotei as a toddler after her family could no longer deal with their daughter’s awakening powers as a medium. This temple taught her to control those powers as well as prepared for her role as a shrine maiden in the future. During this time she still struggled to connect with other normal people, having few friends among the other orphans in the temple.
 
 Later, when she reached her majority, she was taken in by the Konoe clan, as a gift to Shion Konoe, one who shared her powers and was a well known exorcist in the region. She works under her new teacher at the temple of Izanami in Mugestu, learning the trade of the exorcist under their careful, and often harsh, eyes.",Harmony
 Mokah,1473745047332847791,1522408360773685504,3d36dd7b-3ad1-461e-b7d7-b28393be1d90,https://i.imgur.com/r1xWiaR.jpeg,https://discord.com/channels/1169852846083153941/1170111183869706362/1415921398219542638,https://docs.google.com/spreadsheets/d/1FqD9Zfj6BAbgTgZQ4xdkSV9-i8E8_LUJ6AzIyWW65aA/edit?gid=0#gid=0,"Wayfarer 6
