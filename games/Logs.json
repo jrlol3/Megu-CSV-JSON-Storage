@@ -1,5 +1,5 @@
 {
-  "timestamp": 1790240445187,
+  "timestamp": 1790326845638,
   "logs": [
     {
       "master": "@desyov",
@@ -31776,6 +31776,46 @@
         "@han69 as Garmir"
       ],
       "masterId": "283019070578753536"
+    },
+    {
+      "master": "@niorno.",
+      "title": "[Flyfishing] for a better future.",
+      "postedAt": 1790278955518,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1552767225243377725",
+      "players": [
+        "@averysoftsheep as Taffeta",
+        "@agentdj as Cassius Mordred",
+        "@kategeeper as Shirogane Izumi",
+        "@h4lcy0n_d4ys as Delilah Ashmead",
+        "@akinotamashii as Hibiscus",
+        "@corsair_hellcat as Hannah Van Helsing"
+      ],
+      "masterId": "1163222581478948915"
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "Nestor 1:1",
+      "postedAt": 1790284738757,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1552791481905979575",
+      "players": [
+        "@Seraphim as Nestor"
+      ],
+      "masterId": "365605862615810049"
+    },
+    {
+      "master": "@r10",
+      "title": "Yesterday's Papers",
+      "postedAt": 1790296742544,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1552841829437939806",
+      "players": [
+        "@twilightkiller as Horizon",
+        "@iamthorium as Oreander",
+        "@pebbleslug as Meorielle",
+        "@akinotamashii as Hibiscus",
+        "@angrykitsu as Makoto",
+        "@xchronos as Cain"
+      ],
+      "masterId": "132288834560983040"
     }
   ]
 }
