@@ -1,5 +1,5 @@
 {
-  "timestamp": 1790326845638,
+  "timestamp": 1790413247440,
   "logs": [
     {
       "master": "@desyov",
@@ -31816,6 +31816,33 @@
         "@xchronos as Cain"
       ],
       "masterId": "132288834560983040"
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "[Grief] Sun and Moon",
+      "postedAt": 1790357599394,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1553097081567187080",
+      "players": [
+        "@Ely as Saki",
+        "@Aki as Hoshi",
+        "@Solace as Mizuki",
+        "@Aeh as Ichiro"
+      ],
+      "masterId": "169795599758131200"
+    },
+    {
+      "master": "@madrid222",
+      "title": "The Silver Rock Mall",
+      "postedAt": 1790389726092,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1553231830705246229",
+      "players": [
+        "@desyov as Stratos",
+        "@twilightkiller as “Horizon”",
+        "@soggy_saltine as Yasmin",
+        "@maxfish as Argento",
+        "@pidgeon as Horizon"
+      ],
+      "masterId": "173539943426031616"
     }
   ]
 }
