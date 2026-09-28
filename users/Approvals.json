@@ -1,5 +1,5 @@
 {
-  "timestamp": 1790506815109,
+  "timestamp": 1790593213444,
   "approvals": [
     {
       "user": "samikazuki",
@@ -7848,6 +7848,12 @@
       "approver": "angrykitsu",
       "date": 1790384456153,
       "character": "Amahia Oriana de la Cuesta"
+    },
+    {
+      "user": "eleesehn",
+      "approver": "sleepy_bernkastel",
+      "date": 1790564941889,
+      "character": "Elodie Fournier"
     }
   ]
 }
