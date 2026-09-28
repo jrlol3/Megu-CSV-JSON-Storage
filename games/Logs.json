@@ -1,5 +1,5 @@
 {
-  "timestamp": 1790499650430,
+  "timestamp": 1790586053207,
   "logs": [
     {
       "master": "@desyov",
@@ -31843,6 +31843,51 @@
         "@pidgeon as Horizon"
       ],
       "masterId": "173539943426031616"
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "[Mundó's Kuwento] The Kabiya VS The World",
+      "postedAt": 1790575342774,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1554010363497021491",
+      "players": [
+        "@schwertaria as Aria",
+        "@themattroid as Palamades",
+        "@galen876 as Azhtang",
+        "@enderten as Siwu",
+        "@averysoftsheep as Yuanmin",
+        "@iamthorium as Silas"
+      ],
+      "masterId": "283019070578753536"
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "To Trample Mortals",
+      "postedAt": 1790575570806,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1554011319932428372",
+      "players": [
+        "@emgry as Hiya",
+        "@samikazuki as Anahi",
+        "@aznrcmp as Topal",
+        "@2naf1sh as Gyalwa",
+        "@honeydewmelons as Shenrui",
+        "@facinarose as Vivian"
+      ],
+      "masterId": "283019070578753536"
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "[The Epic of Arcadia] War Profiting",
+      "postedAt": 1790575751877,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1554012079399239681",
+      "players": [
+        "@hellion as Alethra",
+        "@desyov as Stratos",
+        "@paradigm.42 as Zoe",
+        "@pidgeon as Loxias",
+        "@letiana as Antigone",
+        "@pocketotter as Herb"
+      ],
+      "masterId": "283019070578753536"
     }
   ]
 }
