@@ -1,5 +1,5 @@
 {
-  "timestamp": 1790593213444,
+  "timestamp": 1790679612615,
   "approvals": [
     {
       "user": "samikazuki",
@@ -7854,6 +7854,12 @@
       "approver": "sleepy_bernkastel",
       "date": 1790564941889,
       "character": "Elodie Fournier"
+    },
+    {
+      "user": "evil_golshi",
+      "approver": "sleepy_bernkastel",
+      "date": 1790669535146,
+      "character": "Graham Rohde"
     }
   ]
 }
