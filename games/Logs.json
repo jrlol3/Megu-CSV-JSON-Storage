@@ -1,5 +1,5 @@
 {
-  "timestamp": 1790672449513,
+  "timestamp": 1790758846968,
   "logs": [
     {
       "master": "@desyov",
@@ -31888,6 +31888,46 @@
         "@pocketotter as Herb"
       ],
       "masterId": "283019070578753536"
+    },
+    {
+      "master": "@incognegro",
+      "title": "Light at the End of the Tunnel II",
+      "postedAt": 1790735304622,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1554681292115681431",
+      "players": [
+        "@angrykitsu as Sara",
+        "@seraphim as Cole",
+        "@letiana as Metzli",
+        "@madrid222 as Henry"
+      ],
+      "masterId": "118899054179516417"
+    },
+    {
+      "master": "@nikolaim.",
+      "title": "[Blood on the Street] \"Grave\" Deals",
+      "postedAt": 1790747773760,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1554733591471202305",
+      "players": [
+        "@mutemissy as Viliana",
+        "@hellion as Corvin",
+        "@sleepy_bernkastel as Asahi",
+        "@incognegro as Dominic",
+        "@angrykitsu as Liberation"
+      ],
+      "masterId": "419689143443128321"
+    },
+    {
+      "master": "@nikolaim.",
+      "title": "[The Quiet Crown] The Aspirant",
+      "postedAt": 1790748521521,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1554736727808155781",
+      "players": [
+        "@letiana as Viola",
+        "@mutemissy as Viliana",
+        "@fluffbet as Takano",
+        "@honestotter10 as Rasho"
+      ],
+      "masterId": "419689143443128321"
     }
   ]
 }
