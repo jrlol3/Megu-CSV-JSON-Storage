@@ -1,5 +1,5 @@
 {
-  "timestamp": 1790758846968,
+  "timestamp": 1790845253817,
   "logs": [
     {
       "master": "@desyov",
@@ -31928,6 +31928,20 @@
         "@honestotter10 as Rasho"
       ],
       "masterId": "419689143443128321"
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "The Ballad of Angela Hoi",
+      "postedAt": 1790759683185,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1554783543219982437",
+      "players": [
+        "@xavieremix as NULL",
+        "@eleesehn as Saki",
+        "@missingpath as Quincy",
+        "@iamthorium as Silas",
+        "@leplep as Anzai Midori"
+      ],
+      "masterId": "365605862615810049"
     }
   ]
 }
