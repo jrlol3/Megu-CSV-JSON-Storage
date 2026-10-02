@@ -1,5 +1,5 @@
 {
-  "timestamp": 1790845253817,
+  "timestamp": 1790931645905,
   "logs": [
     {
       "master": "@desyov",
@@ -31942,6 +31942,47 @@
         "@leplep as Anzai Midori"
       ],
       "masterId": "365605862615810049"
+    },
+    {
+      "master": "@galen876",
+      "title": "[Deal of a Strange Kind] Thrice Burned, Once Stolen",
+      "postedAt": 1790885709039,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1555312133963780230",
+      "players": [
+        "@kategeeper as Izumi",
+        "@nikkimp as Marianna",
+        "@angrykitsu as Makoto",
+        "@drafter42 as Lyra",
+        "@corsair_hellcat as Hannah",
+        "@evil_golshi as Graham"
+      ],
+      "masterId": "413926319886303233"
+    },
+    {
+      "master": "@seraphim",
+      "title": "[The Holy Water Palace] The Final Barrier",
+      "postedAt": 1790894112667,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1555347381334315112",
+      "players": [
+        "@nikolaim. as Noir",
+        "@sleepy_bernkastel as Caspian",
+        "@mutemissy as Fernia",
+        "@lenpendragon as Sakura"
+      ],
+      "masterId": "108744783031185408"
+    },
+    {
+      "master": "@seraphim",
+      "title": "[The Once Great Sects] Frozen River, Empty Flood",
+      "postedAt": 1790907430629,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1555403240915345413",
+      "players": [
+        "@kategeeper as Izumi",
+        "@xchronos as Xinghan",
+        "@corsair_hellcat as Wicked Fenina",
+        "@viperalister as Gizmo"
+      ],
+      "masterId": "108744783031185408"
     }
   ]
 }
