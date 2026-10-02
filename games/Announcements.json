@@ -1,5 +1,5 @@
 {
-  "timestamp": 1790845253789,
+  "timestamp": 1790931645879,
   "games": [
     {
       "title": "First Introductions",
@@ -26647,6 +26647,15 @@
       "time": "<t:1791586800:F>",
       "public": true,
       "creator": "==Amagi=="
+    },
+    {
+      "title": "The Path to Victory: The First Great Magic",
+      "postedAt": 1790896013168,
+      "link": "https://discord.com/channels/1169852846083153941/1170183729856135250/1555355352613126165",
+      "pings": [],
+      "time": "<t:1790902790:F>",
+      "public": false,
+      "creator": "Strat☆s 🌿"
     }
   ]
 }
