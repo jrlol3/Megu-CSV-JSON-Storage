@@ -1,5 +1,5 @@
 {
-  "timestamp": 1790931645905,
+  "timestamp": 1791018049465,
   "logs": [
     {
       "master": "@desyov",
@@ -31983,6 +31983,48 @@
         "@viperalister as Gizmo"
       ],
       "masterId": "108744783031185408"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Friendship is Madness] : Pop Lock n' Socket",
+      "postedAt": 1790960199944,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1555624571464581222",
+      "players": [
+        "@spiralhorizon as Mithreign",
+        "@han69 as Renard",
+        "@pidgeon as Julia Moors",
+        "@celesteias as Daisy Starbloom",
+        "@solcarona as Califex"
+      ],
+      "masterId": "173547590694993920"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Friendship is Madness] : Enter! Texture",
+      "postedAt": 1790961104872,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1555628367007719585",
+      "players": [
+        "@han69 as Renard",
+        "@spiralhorizon as Mithreign",
+        "@celesteias as Daisy",
+        "@asimplehatter as Patience",
+        "@r10 as Sirius"
+      ],
+      "masterId": "173547590694993920"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Friendship is Madness] : Find the Truth, The Debator",
+      "postedAt": 1790961399911,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1555629604490973205",
+      "players": [
+        "@han69 as Renard",
+        "@spiralhorizon as Mithreign",
+        "@celesteias as Daisy",
+        "@niorno. Azik",
+        "@kategeeper as Merlin"
+      ],
+      "masterId": "173547590694993920"
     }
   ]
 }
