@@ -1,5 +1,5 @@
 {
-  "timestamp": 1791018049465,
+  "timestamp": 1791104456451,
   "logs": [
     {
       "master": "@desyov",
@@ -32025,6 +32025,21 @@
         "@kategeeper as Merlin"
       ],
       "masterId": "173547590694993920"
+    },
+    {
+      "master": "@paradigm.42",
+      "title": "[Nine-Pronged Attack] Murata Besieged",
+      "postedAt": 1791052787608,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1556012912273793048",
+      "players": [
+        "@viperalister as Elasandros",
+        "@kategeeper as Shirogane Izumi",
+        "@averysoftsheep as Xu Yuanmin",
+        "@drafter42 as Rudica Zeln",
+        "@leplep as Anzai Midori",
+        "@nikkimp as Juna Schmidt"
+      ],
+      "masterId": "465582019150217226"
     }
   ]
 }
