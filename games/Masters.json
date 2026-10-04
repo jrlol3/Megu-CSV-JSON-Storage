@@ -1,5 +1,5 @@
 {
-  "timestamp": 1791018049477,
+  "timestamp": 1791104456462,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -302,6 +302,13 @@
       "tier": "GM: Storyteller - T1",
       "inGuild": true
     },
+    "@paradigm.42": {
+      "username": "@paradigm.42",
+      "id": "465582019150217226",
+      "gameCount": 7,
+      "tier": "GM: Storyteller - T1",
+      "inGuild": true
+    },
     "@billyscrannerx": {
       "username": "@billyscrannerx",
       "id": "784244863528992788",
@@ -322,13 +329,6 @@
       "gameCount": 7,
       "tier": null,
       "inGuild": false
-    },
-    "@paradigm.42": {
-      "username": "@paradigm.42",
-      "id": "465582019150217226",
-      "gameCount": 6,
-      "tier": "GM: Storyteller - T1",
-      "inGuild": true
     },
     "@cursed6069": {
       "username": "@cursed6069",
