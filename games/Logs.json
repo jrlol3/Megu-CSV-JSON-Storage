@@ -1,5 +1,5 @@
 {
-  "timestamp": 1791104456451,
+  "timestamp": 1791190850953,
   "logs": [
     {
       "master": "@desyov",
@@ -32040,6 +32040,33 @@
         "@nikkimp as Juna Schmidt"
       ],
       "masterId": "465582019150217226"
+    },
+    {
+      "master": "@sleepy_bernkastel",
+      "title": "[Nine-Pronged Attack] The Tempest of Ogawa",
+      "postedAt": 1791169569367,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1556502730472947795",
+      "players": [
+        "@themattroid as Satsuki",
+        "@squidlover23 as Franz",
+        "@mutemissy as Maria",
+        "@solaceinfire as Melinoe"
+      ],
+      "masterId": "308792711274692610"
+    },
+    {
+      "master": "@iamthorium",
+      "title": "[The Earth Quakes] Don't Mine at Night",
+      "postedAt": 1791180097970,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1556546890634502175",
+      "players": [
+        "@hangedmantarot as Fintan Rootbound",
+        "@bookie as Nattigan Twyst",
+        "@drafter42 as Arabella Atent",
+        "@agentdj as Cassius Mordred",
+        "@averysoftsheep as Taffeta"
+      ],
+      "masterId": "220960630692118528"
     }
   ]
 }
