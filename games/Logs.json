@@ -1,5 +1,5 @@
 {
-  "timestamp": 1791190850953,
+  "timestamp": 1791277253776,
   "logs": [
     {
       "master": "@desyov",
@@ -32067,6 +32067,21 @@
         "@averysoftsheep as Taffeta"
       ],
       "masterId": "220960630692118528"
+    },
+    {
+      "master": "@seraphim",
+      "title": "[The Once Great Sects] Clarity at Blade's Edge",
+      "postedAt": 1791240459766,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1556800066356776965",
+      "players": [
+        "@schwertaria as Aria",
+        "@soggy_saltine as Jing",
+        "@mutemissy as Selene",
+        "@sleepy_bernkastel as Bedivere.",
+        "@oleamollevampie as Chieko.",
+        "@eleesehn as Tachibana"
+      ],
+      "masterId": "108744783031185408"
     }
   ]
 }
