@@ -1,5 +1,5 @@
 {
-  "timestamp": 1791190850926,
+  "timestamp": 1791277253762,
   "games": [
     {
       "title": "First Introductions",
@@ -26740,6 +26740,28 @@
       "time": "<t:1791248400:F>",
       "public": true,
       "creator": "Vista Wynn 🃏 | χavier"
+    },
+    {
+      "title": "[Deal of a Strange Kind] Hidden Majesty",
+      "postedAt": 1791240332551,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1556799532778655855",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1791306000:F>",
+      "public": true,
+      "creator": "= [___] ="
+    },
+    {
+      "title": "[That Which Remains] Emergence",
+      "postedAt": 1791245721731,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1556822136637624435",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1791500400:F>",
+      "public": true,
+      "creator": "zzJudah | EnderTen"
     }
   ]
 }
