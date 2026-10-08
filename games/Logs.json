@@ -1,5 +1,5 @@
 {
-  "timestamp": 1791363653296,
+  "timestamp": 1791450049140,
   "logs": [
     {
       "master": "@desyov",
@@ -32257,6 +32257,116 @@
         "@phos0947 Fenn"
       ],
       "masterId": "153330975575769088"
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "[The Epic of Arcadia] Knowing Your Enemy",
+      "postedAt": 1791409320980,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1557508321622102089",
+      "players": [
+        "@incognegro as Bion",
+        "@angrykitsu as Rhea",
+        "@2naf1sh as Gialos",
+        "@seraphim as Nestor",
+        "@enderten as Sophron",
+        "@emgry as Rachael"
+      ],
+      "masterId": "283019070578753536"
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "[Checkmate] Blood Drenched Snow Litters the Frontlines",
+      "postedAt": 1791409628672,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1557509612175892501",
+      "players": [
+        "@nikolaim. as Noen",
+        "@soggy_saltine as Amaranth",
+        "@mutemissy as Natalia",
+        "@paradigm.42 as Jaith",
+        "@themattroid as Maxilos",
+        "@caelum_blue as Anri"
+      ],
+      "masterId": "283019070578753536"
+    },
+    {
+      "master": "@letiana",
+      "title": "[King's Crusade] What Does it mean to be a Knight",
+      "postedAt": 1791413254180,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1557524818658725900",
+      "players": [
+        "@schwertaria as Fein",
+        "@asimplehatter as Pateince",
+        "@someperson2094 as Nuni",
+        "@viperalister as Elasandros",
+        "@missingpath as Sylvaine",
+        "@desyov as Abaddon"
+      ],
+      "masterId": "299015281853071360"
+    },
+    {
+      "master": "@letiana",
+      "title": "Summer Shine",
+      "postedAt": 1791414313188,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1557529260460085399",
+      "players": [
+        "@solaceinfire as Melinoe",
+        "@galen876 as R.O.S.S."
+      ],
+      "masterId": "299015281853071360"
+    },
+    {
+      "master": "@letiana",
+      "title": "[Nine-Pronged Attack] Siege of Amagi",
+      "postedAt": 1791416763824,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1557539539172597841",
+      "players": [
+        "@theelusivegin as Gin",
+        "@2naf1sh as Gylwa",
+        "@aznrcmp as Topal",
+        "@sussy_arata as Lin Shen",
+        "@solaceinfire as Naomi",
+        "@phos0947 as Verge"
+      ],
+      "masterId": "299015281853071360"
+    },
+    {
+      "master": "@letiana",
+      "title": "[King's Crusade] Collection",
+      "postedAt": 1791417685997,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1557543407046365388",
+      "players": [
+        "@desyov as Abaddon"
+      ],
+      "masterId": "299015281853071360"
+    },
+    {
+      "master": "@r10",
+      "title": "Amarillo Sky",
+      "postedAt": 1791426961984,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1557582313355870300",
+      "players": [
+        "@Anabella ✝ | Rose as Anabella",
+        "@Iseult D | Len as Iseult",
+        "@Wicked Fenina|Corsair_Hellcat as Fenina",
+        "@Samson | Han as Samson",
+        "@Nattigan | Spookie as Nattigan",
+        "@Thorium as Oreander"
+      ],
+      "masterId": "132288834560983040"
+    },
+    {
+      "master": "@incognegro",
+      "title": "[Nine-Pronged Attack] Gold Heart Citadel",
+      "postedAt": 1791431784063,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1557602538620977186",
+      "players": [
+        "@soggy_saltine as Jing",
+        "@angrykitsu as Makoto",
+        "@enderten as Siwu",
+        "@someperson2094 as Nuni",
+        "@missingpath as Quincy"
+      ],
+      "masterId": "118899054179516417"
     }
   ]
 }
