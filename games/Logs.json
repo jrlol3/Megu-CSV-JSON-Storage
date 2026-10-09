@@ -1,5 +1,5 @@
 {
-  "timestamp": 1791450049140,
+  "timestamp": 1791536447104,
   "logs": [
     {
       "master": "@desyov",
@@ -32367,6 +32367,35 @@
         "@missingpath as Quincy"
       ],
       "masterId": "118899054179516417"
+    },
+    {
+      "master": "@sleepy_bernkastel",
+      "title": "[Checkmate] The Battle for Aberdon",
+      "postedAt": 1791510607550,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1557933148288057345",
+      "players": [
+        "@phos0947 as Mokah",
+        "@hangedmantarot as Lyrric",
+        "@aznrcmp as Lyssa",
+        "@squidlover23 as Franz",
+        "@fluffbet as Garnier",
+        "@agentdj as Oscar"
+      ],
+      "masterId": "308792711274692610"
+    },
+    {
+      "master": "@enderten",
+      "title": "[That Which Remains] Emergence",
+      "postedAt": 1791513675572,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1557946016504741959",
+      "players": [
+        "@angrykitsu as Liberation",
+        "@themattroid as Palamedes",
+        "@iamthorium as Silas",
+        "@facinarose as Mervei",
+        "@solaceinfire as Mizuki"
+      ],
+      "masterId": "206900071055228930"
     }
   ]
 }
