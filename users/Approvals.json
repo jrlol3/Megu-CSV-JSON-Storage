@@ -1,5 +1,5 @@
 {
-  "timestamp": 1791543615987,
+  "timestamp": 1791630012885,
   "approvals": [
     {
       "user": "samikazuki",
@@ -7860,6 +7860,12 @@
       "approver": "sleepy_bernkastel",
       "date": 1790669535146,
       "character": "Graham Rohde"
+    },
+    {
+      "user": "seraphim",
+      "approver": "angrykitsu",
+      "date": 1791610699003,
+      "character": "Sylvie Malkai"
     }
   ]
 }
