@@ -1,5 +1,5 @@
 {
-  "timestamp": 1791622851192,
+  "timestamp": 1791709249422,
   "logs": [
     {
       "master": "@desyov",
@@ -32396,6 +32396,50 @@
         "@solaceinfire as Mizuki"
       ],
       "masterId": "206900071055228930"
+    },
+    {
+      "master": "@nikolaim.",
+      "title": "[Nine-Pronged Attack] The Assault of Sakai",
+      "postedAt": 1791642757060,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1558487423506190408",
+      "players": [
+        "@xchronos as Xinghan",
+        "@galen876 as Masahide",
+        "@honestotter10 as Rasho",
+        "@han69 as Michael",
+        "@phos0947 as Petra",
+        "@honeydewmelons as Rowan"
+      ],
+      "masterId": "419689143443128321"
+    },
+    {
+      "master": "@incognegro",
+      "title": "Pagan Panic",
+      "postedAt": 1791655995331,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1558542948839202879",
+      "players": [
+        "40 min!",
+        "@angrykitsu as Sara",
+        "@solaceinfire as Mizuki",
+        "@emgry as Gabriela",
+        "@maxfish as Ciro",
+        "@mutemissy as Selene"
+      ],
+      "masterId": "118899054179516417"
+    },
+    {
+      "master": "@incognegro",
+      "title": "The Exodus of Sesi Schlächter",
+      "postedAt": 1791695054188,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1558706773559607297",
+      "players": [
+        "@justuspotatoes as Laura",
+        "@samikazuki2_80517 as Ook",
+        "@oleamollevampie as Madeline",
+        "@soggy_saltine as Shakes the Earth",
+        "@eleesehn as Elodie"
+      ],
+      "masterId": "118899054179516417"
     }
   ]
 }
