@@ -1,5 +1,5 @@
 {
-  "timestamp": 1791716414335,
+  "timestamp": 1791802813766,
   "approvals": [
     {
       "user": "samikazuki",
@@ -7866,6 +7866,24 @@
       "approver": "angrykitsu",
       "date": 1791610699003,
       "character": "Sylvie Malkai"
+    },
+    {
+      "user": "caelum_blue",
+      "approver": "sleepy_bernkastel",
+      "date": 1791751110744,
+      "character": "Koda"
+    },
+    {
+      "user": "billyscrannerx",
+      "approver": "sleepy_bernkastel",
+      "date": 1791758724310,
+      "character": "Myralla Velonia"
+    },
+    {
+      "user": "corsair_hellcat",
+      "approver": "sleepy_bernkastel",
+      "date": 1791762324436,
+      "character": "Amity Quinn"
     }
   ]
 }
