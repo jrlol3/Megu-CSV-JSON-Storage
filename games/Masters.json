@@ -1,5 +1,5 @@
 {
-  "timestamp": 1791709249454,
+  "timestamp": 1791795653937,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -22,17 +22,17 @@
       "tier": "GM: Reality Shaper - T3",
       "inGuild": true
     },
-    "@seraphim": {
-      "username": "@seraphim",
-      "id": "108744783031185408",
+    "@angrykitsu": {
+      "username": "@angrykitsu",
+      "id": "169795599758131200",
       "gameCount": 125,
       "tier": "GM: World Builder - T2",
       "inGuild": true
     },
-    "@angrykitsu": {
-      "username": "@angrykitsu",
-      "id": "169795599758131200",
-      "gameCount": 124,
+    "@seraphim": {
+      "username": "@seraphim",
+      "id": "108744783031185408",
+      "gameCount": 125,
       "tier": "GM: World Builder - T2",
       "inGuild": true
     },
@@ -46,7 +46,7 @@
     "@missingpath": {
       "username": "@missingpath",
       "id": "181544205796114433",
-      "gameCount": 86,
+      "gameCount": 87,
       "tier": "GM: Reality Shaper - T3",
       "inGuild": true
     },
