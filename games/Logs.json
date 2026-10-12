@@ -1,5 +1,5 @@
 {
-  "timestamp": 1791709249422,
+  "timestamp": 1791795653923,
   "logs": [
     {
       "master": "@desyov",
@@ -32440,6 +32440,36 @@
         "@eleesehn as Elodie"
       ],
       "masterId": "118899054179516417"
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "[The Five Temples] May you Find Balance in the Void",
+      "postedAt": 1791767940420,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1559012480573771807",
+      "players": [
+        "@2naf1sh as Gyalwa",
+        "@nikolaim. as Dujom",
+        "@schwertaria as Tenzin",
+        "@galen876 as Azhtang",
+        "@honeydewmelons as Shenrui",
+        "@aznrcmp as Topal"
+      ],
+      "masterId": "169795599758131200"
+    },
+    {
+      "master": "@missingpath",
+      "title": "[Checkmate] Until the Final Verse is Sung",
+      "postedAt": 1791779327745,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1559060242476572713",
+      "players": [
+        "@solaceinfire as Naomi",
+        "@angrykitsu as Victoria",
+        "@sussy_arata as Rhys",
+        "@2naf1sh as Galavan",
+        "@madrid222 as Pierre",
+        "@hellion as Rajke"
+      ],
+      "masterId": "181544205796114433"
     }
   ]
 }
