@@ -1,5 +1,5 @@
 {
-  "timestamp": 1791882051175,
+  "timestamp": 1791968448938,
   "logs": [
     {
       "master": "@desyov",
@@ -32470,6 +32470,20 @@
         "@hellion as Rajke"
       ],
       "masterId": "181544205796114433"
+    },
+    {
+      "master": "@xavieremix",
+      "title": "[Nine-Pronged Attack] Assault on the Ashina",
+      "postedAt": 1791913225933,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1559621852182347867",
+      "players": [
+        "@eleesehn as Saki",
+        "@aehnomaly as Ichiro",
+        "@corsair_hellcat as Hannah",
+        "@someperson2094 as Selene",
+        "@seraphim as Cole"
+      ],
+      "masterId": "181294303622987776"
     }
   ]
 }
