@@ -1,5 +1,5 @@
 {
-  "timestamp": 1791968448938,
+  "timestamp": 1792054853314,
   "logs": [
     {
       "master": "@desyov",
@@ -32484,6 +32484,35 @@
         "@seraphim as Cole"
       ],
       "masterId": "181294303622987776"
+    },
+    {
+      "master": "@someperson2094",
+      "title": "[Sing for Us] BYSTANDER NO LONGER",
+      "postedAt": 1791995810770,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1559968238094385236",
+      "players": [
+        "@akinotamashii as Penny",
+        "@kategeeper as Izumi",
+        "@corsair_hellcat as Hannah",
+        "@niorno. as Azik",
+        "@r10 as Sirius"
+      ],
+      "masterId": "639884376171216906"
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "[Grief] A Return to Ishiba",
+      "postedAt": 1792039648713,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1560152107753938997",
+      "players": [
+        "@letiana as Antigone",
+        "@sleepy_bernkastel as Asahi",
+        "@incognegro as Dominic",
+        "@akinotamashii as Hoshi/Kanae",
+        "@solaceinfire as Mizuki",
+        "@eleesehn as Saki"
+      ],
+      "masterId": "169795599758131200"
     }
   ]
 }
