@@ -1,5 +1,5 @@
 {
-  "timestamp": 1792054853314,
+  "timestamp": 1792141250218,
   "logs": [
     {
       "master": "@desyov",
@@ -32513,6 +32513,20 @@
         "@eleesehn as Saki"
       ],
       "masterId": "169795599758131200"
+    },
+    {
+      "master": "@enderten",
+      "title": "[That Which Remains] Persistence",
+      "postedAt": 1792094003836,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1560380089663754330",
+      "players": [
+        "@zacsper as Dante",
+        "@redhaart as Emile",
+        "@jrlol3megu as Marlo",
+        "@fluffbet as Sybil",
+        "@kategeeper as Izumi"
+      ],
+      "masterId": "206900071055228930"
     }
   ]
 }
