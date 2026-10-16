@@ -1,5 +1,5 @@
 {
-  "timestamp": 1792054853329,
+  "timestamp": 1792141250235,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -344,6 +344,13 @@
       "tier": null,
       "inGuild": false
     },
+    "@enderten": {
+      "username": "@enderten",
+      "id": "206900071055228930",
+      "gameCount": 5,
+      "tier": "GM: Storyteller - T1",
+      "inGuild": true
+    },
     "@yoshimage": {
       "username": "@yoshimage",
       "id": "180873257480617984",
@@ -410,13 +417,6 @@
     "@sawzie": {
       "username": "@sawzie",
       "id": "66337541518790656",
-      "gameCount": 4,
-      "tier": "GM: Storyteller - T1",
-      "inGuild": true
-    },
-    "@enderten": {
-      "username": "@enderten",
-      "id": "206900071055228930",
       "gameCount": 4,
       "tier": "GM: Storyteller - T1",
       "inGuild": true
