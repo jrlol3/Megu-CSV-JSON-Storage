@@ -1,5 +1,5 @@
 {
-  "timestamp": 1792141250235,
+  "timestamp": 1792227649854,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -155,19 +155,19 @@
       "tier": null,
       "inGuild": false
     },
+    "@themattroid": {
+      "username": "@themattroid",
+      "id": "193553881249087488",
+      "gameCount": 35,
+      "tier": "GM: Storyteller - T1",
+      "inGuild": true
+    },
     "@phosphophyllite0": {
       "username": "@phosphophyllite0",
       "id": "237438769840652291",
       "gameCount": 33,
       "tier": null,
       "inGuild": false
-    },
-    "@themattroid": {
-      "username": "@themattroid",
-      "id": "193553881249087488",
-      "gameCount": 32,
-      "tier": "GM: Storyteller - T1",
-      "inGuild": true
     },
     "@emgry": {
       "username": "@emgry",
@@ -253,6 +253,13 @@
       "tier": "GM: Storyteller - T1",
       "inGuild": true
     },
+    "@niorno.": {
+      "username": "@niorno.",
+      "id": "1163222581478948915",
+      "gameCount": 10,
+      "tier": "GM: Apprentice - T0",
+      "inGuild": true
+    },
     "@r10": {
       "username": "@r10",
       "id": "132288834560983040",
@@ -265,13 +272,6 @@
       "id": "464911746088304650",
       "gameCount": 9,
       "tier": null,
-      "inGuild": true
-    },
-    "@niorno.": {
-      "username": "@niorno.",
-      "id": "1163222581478948915",
-      "gameCount": 9,
-      "tier": "GM: Apprentice - T0",
       "inGuild": true
     },
     "@aehnomaly": {
