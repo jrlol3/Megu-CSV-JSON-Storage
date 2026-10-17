@@ -1,5 +1,5 @@
 {
-  "timestamp": 1792141250218,
+  "timestamp": 1792227649840,
   "logs": [
     {
       "master": "@desyov",
@@ -32527,6 +32527,66 @@
         "@kategeeper as Izumi"
       ],
       "masterId": "206900071055228930"
+    },
+    {
+      "master": "@niorno.",
+      "title": "[Scrapyard] Stronger Together",
+      "postedAt": 1792185389094,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1560763387216924837",
+      "players": [
+        "@xchronos as Xinghan",
+        "@sawzie as Langley V. L.",
+        "@caelum_blue as Koda",
+        "@mike_miguel_michael as Vidar Havenson",
+        "@someperson2094 as Qixi Harper",
+        "@corsair_hellcat as Amity Quinn"
+      ],
+      "masterId": "1163222581478948915"
+    },
+    {
+      "master": "@themattroid",
+      "title": "[The Price of Progress] Highspeed Acquisitions PT 1 and PT 2",
+      "postedAt": 1792190360928,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1560784240600285312",
+      "players": [
+        "@seraphim as Void",
+        "@ct777dice as Edwin",
+        "@fluffbet as Sybil",
+        "@kategeeper as Merlin",
+        "@iamthorium as Gadget",
+        "@xavieremix as NULL"
+      ],
+      "masterId": "193553881249087488"
+    },
+    {
+      "master": "@themattroid",
+      "title": "[The Price of Progress] Today is your Birthday",
+      "postedAt": 1792191248738,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1560787964345188543",
+      "players": [
+        "@χavier as NULL",
+        "@Stormbringer as Stormbringer",
+        "@Axel Reed as Dante",
+        "@Isolde Reed as Emile",
+        "@Rudica Zeln as Rudica",
+        "@Qixi Harper | SomePerson as Nuni"
+      ],
+      "masterId": "193553881249087488"
+    },
+    {
+      "master": "@themattroid",
+      "title": "[A Storm to Cleanse Heresy] Shatter the Iron Cage",
+      "postedAt": 1792192607016,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1560793661376045138",
+      "players": [
+        "@mutemissy as Villiana",
+        "@ZZrata the mover as Nora",
+        "@Lyrric DustTarot as Shaw",
+        "@zzikkimp as Juna",
+        "@zzAki as Kimoto",
+        "@Yuanmin | Sheep as Xu"
+      ],
+      "masterId": "193553881249087488"
     }
   ]
 }
