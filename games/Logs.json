@@ -1,5 +1,5 @@
 {
-  "timestamp": 1792227649840,
+  "timestamp": 1792314055691,
   "logs": [
     {
       "master": "@desyov",
@@ -32587,6 +32587,63 @@
         "@Yuanmin | Sheep as Xu"
       ],
       "masterId": "193553881249087488"
+    },
+    {
+      "master": "@lenpendragon",
+      "title": "[Dawnstar Rockus] Explosive Measures",
+      "postedAt": 1792238936506,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1560987981341261865",
+      "players": [
+        "@akinotamashii as Penny",
+        "@drafter42 as Lyra Kerlan",
+        "@twilightkiller as Stormbringer",
+        "@oleamollevampie as Madeline Lumen",
+        "@asimplehatter as Patience",
+        "@<@!210557304125259776> as Michael Adder"
+      ],
+      "masterId": "95487748466544640"
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "The Wound of Eminence pt. 2",
+      "postedAt": 1792256092050,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1561059936908091473",
+      "players": [
+        "@caelum_blue as Mutt",
+        "@lenpendragon as Asuka",
+        "@fluffbet as Garnier",
+        "@hangedmantarot as Lyrric",
+        "@zatikin as René"
+      ],
+      "masterId": "365605862615810049"
+    },
+    {
+      "master": "@incognegro",
+      "title": "[The Art of War] The Trial of Incisiveness",
+      "postedAt": 1792279427510,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1561157812921573518",
+      "players": [
+        "@themattroid as Haruka",
+        "@galen876 as Azhtang",
+        "@schwertaria as Aria",
+        "@solaceinfire as Melinoe",
+        "@hangedmantarot as Ray"
+      ],
+      "masterId": "118899054179516417"
+    },
+    {
+      "master": "@missingpath",
+      "title": "A Wonderful Harvest Festival",
+      "postedAt": 1792290088125,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1561202526781440113",
+      "players": [
+        "@soggy_saltine as Lindwa",
+        "@2naf1sh as Gialos",
+        "@madrid222 as Thaumasios",
+        "@seraphim as Sylvie",
+        "@emgry as Rachael"
+      ],
+      "masterId": "181544205796114433"
     }
   ]
 }
