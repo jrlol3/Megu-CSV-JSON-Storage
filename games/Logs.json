@@ -1,5 +1,5 @@
 {
-  "timestamp": 1792314055691,
+  "timestamp": 1792400451551,
   "logs": [
     {
       "master": "@desyov",
@@ -32644,6 +32644,35 @@
         "@emgry as Rachael"
       ],
       "masterId": "181544205796114433"
+    },
+    {
+      "master": "@xchronos",
+      "title": "[Tales from the Gulch] The Red Ghost",
+      "postedAt": 1792345070454,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1561433139384160257",
+      "players": [
+        "@vitordallman489 as Val Tamboia",
+        "@h4lcy0n_d4ys as Anise C Solei",
+        "@twilightkiller as Sunny \"Horizon\" Silverlock",
+        "@someperson2094 as Qixi Harper",
+        "@viperalister as Gizmo",
+        "@han69 as Samson Sokolov the 2nd"
+      ],
+      "masterId": "164529173379940352"
+    },
+    {
+      "master": "@incognegro",
+      "title": "[Ark of the World] Grassroots Movement",
+      "postedAt": 1792373967531,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1561554342509805599",
+      "players": [
+        "@rastamufasa as Jericho",
+        "@missingpath as Felix",
+        "@evil_golshi as Graham",
+        "@eleesehn as Elodie",
+        "@someperson2094 as Qixi"
+      ],
+      "masterId": "118899054179516417"
     }
   ]
 }
