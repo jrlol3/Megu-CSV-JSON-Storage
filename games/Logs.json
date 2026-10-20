@@ -1,5 +1,5 @@
 {
-  "timestamp": 1792400451551,
+  "timestamp": 1792486851742,
   "logs": [
     {
       "master": "@desyov",
@@ -32673,6 +32673,34 @@
         "@someperson2094 as Qixi"
       ],
       "masterId": "118899054179516417"
+    },
+    {
+      "master": "@letiana",
+      "title": "An Unfamiliar Family Reunion",
+      "postedAt": 1792449140403,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1561869640387264673",
+      "players": [
+        "@asimplehatter as Patience",
+        "@desyov as Abaddon",
+        "@emgry as Gabriela",
+        "@redhaart as Isolde",
+        "@zacsper as Axel"
+      ],
+      "masterId": "299015281853071360"
+    },
+    {
+      "master": "@nikolaim.",
+      "title": "[The Quiet Crown[ The Empty Chain",
+      "postedAt": 1792471918697,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1561965179477041186",
+      "players": [
+        "@letiana as Viola",
+        "@mutemissy as Viliana",
+        "@rastamufasa as Henrik",
+        "@galen876 as Uto",
+        "@honestotter10 as Rasho"
+      ],
+      "masterId": "419689143443128321"
     }
   ]
 }
