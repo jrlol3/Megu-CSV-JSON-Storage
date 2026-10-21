@@ -1,5 +1,5 @@
 {
-  "timestamp": 1792494014214,
+  "timestamp": 1792580415807,
   "approvals": [
     {
       "user": "samikazuki",
@@ -3818,7 +3818,7 @@
       "character": "Tough Warrior with a Heart of Gold"
     },
     {
-      "user": "taekmiel",
+      "user": "eidolonaut",
       "approver": "jrlol3megu",
       "date": 1737749568720,
       "character": "Mori Yuma"
@@ -7896,6 +7896,12 @@
       "approver": "sleepy_bernkastel",
       "date": 1792436344031,
       "character": "Elias Vane"
+    },
+    {
+      "user": "vitordallman489",
+      "approver": "mutemissy",
+      "date": 1792506542969,
+      "character": "Clover"
     }
   ]
 }
