@@ -1,5 +1,5 @@
 {
-  "timestamp": 1792486851742,
+  "timestamp": 1792573265203,
   "logs": [
     {
       "master": "@desyov",
@@ -32701,6 +32701,54 @@
         "@honestotter10 as Rasho"
       ],
       "masterId": "419689143443128321"
+    },
+    {
+      "master": "@xchronos",
+      "title": "The Vampire's Masquerade Ball",
+      "postedAt": 1792512390832,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1562134931914760303",
+      "players": [
+        "@akinotamashii as Hibiscus",
+        "@seraphim as Sylvie",
+        "@kategeeper as Kris",
+        "@bookie as Nattigan Twyst",
+        "@aznrcmp as Elias and Eugene",
+        "@drafter42 as Arabella Atent"
+      ],
+      "masterId": "164529173379940352"
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "[The Dead Ito] A Broken History",
+      "postedAt": 1792512866198,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1562136925744402475",
+      "players": [
+        "@leplep as Anzai Midori",
+        "@schwertaria as Tsuru Inoue",
+        "@oleamollevampie as Miyashiro Chieko",
+        "@incognegro as Dominic",
+        "@missingpath as Sylvaine"
+      ],
+      "masterId": "169795599758131200"
+    },
+    {
+      "master": "@seraphim",
+      "title": "[The Sound of Static] A Disruptive Melody",
+      "postedAt": 1792548575004,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1562286699331985569",
+      "players": [
+        "@missingpath as Quincy",
+        "@sleepy_bernkastel as Poppy",
+        "@akinotamashii as Penny",
+        "@eleesehn as Saki",
+        "@han69 as Samson",
+        "@desyov as Faust",
+        "@mutemissy as Maria",
+        "@redhaart as Emile",
+        "@zacsper as Dante",
+        "@samikazuki as Edward"
+      ],
+      "masterId": "108744783031185408"
     }
   ]
 }
