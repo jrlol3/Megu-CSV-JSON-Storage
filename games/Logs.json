@@ -1,5 +1,5 @@
 {
-  "timestamp": 1792573265203,
+  "timestamp": 1792659652247,
   "logs": [
     {
       "master": "@desyov",
@@ -32749,6 +32749,36 @@
         "@samikazuki as Edward"
       ],
       "masterId": "108744783031185408"
+    },
+    {
+      "master": "@xchronos",
+      "title": "[Tales from the Gulch] The Devil's Music",
+      "postedAt": 1792624696687,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1562605976811479053",
+      "players": [
+        "@nikolaim. as Elias Vane",
+        "@niorno. as Miguel Calavera|",
+        "@corsair_hellcat as Wicked Fenina",
+        "@h4lcy0n_d4ys as Anise C Solei",
+        "@evil_golshi as Graham Rohde",
+        "@someperson2094 as Qixi Harper"
+      ],
+      "masterId": "164529173379940352"
+    },
+    {
+      "master": "@akinotamashii",
+      "title": "[Destructive Interference] A Plague on Both Houses",
+      "postedAt": 1792650850079,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1562715672088412242",
+      "players": [
+        "@sawzie as Langley",
+        "@eleesehn as Valissa",
+        "@bookie as Nattigan",
+        "@pocketotter as Peri",
+        "@han69 as Samson",
+        "@h4lcy0n_d4ys as Captain Finn O'Brian"
+      ],
+      "masterId": "80892297905963008"
     }
   ]
 }
