@@ -1,5 +1,5 @@
 {
-  "timestamp": 1792573265218,
+  "timestamp": 1792659652256,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -442,6 +442,13 @@
       "tier": null,
       "inGuild": false
     },
+    "@akinotamashii": {
+      "username": "@akinotamashii",
+      "id": "80892297905963008",
+      "gameCount": 3,
+      "tier": "GM: Apprentice - T0",
+      "inGuild": true
+    },
     "@schwertaria": {
       "username": "@schwertaria",
       "id": "95869822574809088",
@@ -452,6 +459,13 @@
     "@reggie7457": {
       "username": "@reggie7457",
       "id": "555561965951647754",
+      "gameCount": 3,
+      "tier": "GM: Apprentice - T0",
+      "inGuild": true
+    },
+    "@xchronos": {
+      "username": "@xchronos",
+      "id": "164529173379940352",
       "gameCount": 3,
       "tier": "GM: Apprentice - T0",
       "inGuild": true
@@ -469,13 +483,6 @@
       "gameCount": 3,
       "tier": null,
       "inGuild": false
-    },
-    "@akinotamashii": {
-      "username": "@akinotamashii",
-      "id": "80892297905963008",
-      "gameCount": 2,
-      "tier": "GM: Apprentice - T0",
-      "inGuild": true
     },
     "@hangedmantarot": {
       "username": "@hangedmantarot",
@@ -501,13 +508,6 @@
     "@corath16": {
       "username": "@corath16",
       "id": "185490926389559305",
-      "gameCount": 2,
-      "tier": "GM: Apprentice - T0",
-      "inGuild": true
-    },
-    "@xchronos": {
-      "username": "@xchronos",
-      "id": "164529173379940352",
       "gameCount": 2,
       "tier": "GM: Apprentice - T0",
       "inGuild": true
