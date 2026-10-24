@@ -1,5 +1,5 @@
 {
-  "timestamp": 1792746049886,
+  "timestamp": 1792832489494,
   "logs": [
     {
       "master": "@desyov",
@@ -32779,6 +32779,21 @@
         "@h4lcy0n_d4ys as Captain Finn O'Brian"
       ],
       "masterId": "80892297905963008"
+    },
+    {
+      "master": "@galen876",
+      "title": "[King's Crusade] Where Ironholde Stands",
+      "postedAt": 1792795487447,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1563322325179437139",
+      "players": [
+        "@viperalister as Elasandros",
+        "@asimplehatter as Patience",
+        "@corsair_hellcat as Hannah",
+        "@oleamollevampie as Madeline",
+        "@leplep as Midori",
+        "@mutemissy as Selene"
+      ],
+      "masterId": "413926319886303233"
     }
   ]
 }
