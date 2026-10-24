@@ -1,5 +1,5 @@
 {
-  "timestamp": 1792746049897,
+  "timestamp": 1792832489506,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -50,18 +50,18 @@
       "tier": "GM: Reality Shaper - T3",
       "inGuild": true
     },
-    "@rastamufasa": {
-      "username": "@rastamufasa",
-      "id": "283019070578753536",
-      "gameCount": 81,
-      "tier": "GM: Reality Shaper - T3",
-      "inGuild": true
-    },
     "@samikazuki": {
       "username": "@samikazuki",
       "id": "173547590694993920",
       "gameCount": 81,
       "tier": "GM: Storyteller - T1",
+      "inGuild": true
+    },
+    "@rastamufasa": {
+      "username": "@rastamufasa",
+      "id": "283019070578753536",
+      "gameCount": 81,
+      "tier": "GM: Reality Shaper - T3",
       "inGuild": true
     },
     "@letiana": {
@@ -99,6 +99,13 @@
       "tier": null,
       "inGuild": false
     },
+    "@xavieremix": {
+      "username": "@xavieremix",
+      "id": "181294303622987776",
+      "gameCount": 46,
+      "tier": "GM: Storyteller - T1",
+      "inGuild": true
+    },
     "@brooms": {
       "username": "@brooms",
       "id": "140595221300772864",
@@ -109,13 +116,6 @@
     "@madrid222": {
       "username": "@madrid222",
       "id": "173539943426031616",
-      "gameCount": 46,
-      "tier": "GM: Storyteller - T1",
-      "inGuild": true
-    },
-    "@xavieremix": {
-      "username": "@xavieremix",
-      "id": "181294303622987776",
       "gameCount": 46,
       "tier": "GM: Storyteller - T1",
       "inGuild": true
@@ -169,18 +169,18 @@
       "tier": null,
       "inGuild": false
     },
-    "@emgry": {
-      "username": "@emgry",
-      "id": "186680561501339651",
-      "gameCount": 32,
-      "tier": "GM: World Builder - T2",
-      "inGuild": true
-    },
     "@solotic.": {
       "username": "@solotic.",
       "id": "384371410576998401",
       "gameCount": 32,
       "tier": "GM: Storyteller - T1",
+      "inGuild": true
+    },
+    "@emgry": {
+      "username": "@emgry",
+      "id": "186680561501339651",
+      "gameCount": 32,
+      "tier": "GM: World Builder - T2",
       "inGuild": true
     },
     "@agentdj": {
@@ -281,16 +281,16 @@
       "tier": "GM: Apprentice - T0",
       "inGuild": true
     },
-    "@someperson2094": {
-      "username": "@someperson2094",
-      "id": "639884376171216906",
+    "@nut_wizard": {
+      "username": "@nut_wizard",
+      "id": "594008151779573762",
       "gameCount": 8,
       "tier": "GM: Storyteller - T1",
       "inGuild": true
     },
-    "@iamthorium": {
-      "username": "@iamthorium",
-      "id": "220960630692118528",
+    "@galen876": {
+      "username": "@galen876",
+      "id": "413926319886303233",
       "gameCount": 8,
       "tier": "GM: Storyteller - T1",
       "inGuild": true
@@ -302,9 +302,16 @@
       "tier": "GM: Apprentice - T0",
       "inGuild": true
     },
-    "@nut_wizard": {
-      "username": "@nut_wizard",
-      "id": "594008151779573762",
+    "@someperson2094": {
+      "username": "@someperson2094",
+      "id": "639884376171216906",
+      "gameCount": 8,
+      "tier": "GM: Storyteller - T1",
+      "inGuild": true
+    },
+    "@iamthorium": {
+      "username": "@iamthorium",
+      "id": "220960630692118528",
       "gameCount": 8,
       "tier": "GM: Storyteller - T1",
       "inGuild": true
@@ -321,13 +328,6 @@
       "id": "784244863528992788",
       "gameCount": 7,
       "tier": "GM: Apprentice - T0",
-      "inGuild": true
-    },
-    "@galen876": {
-      "username": "@galen876",
-      "id": "413926319886303233",
-      "gameCount": 7,
-      "tier": "GM: Storyteller - T1",
       "inGuild": true
     },
     "@doobledeedooble": {
@@ -372,6 +372,13 @@
       "tier": null,
       "inGuild": false
     },
+    "@facinarose": {
+      "username": "@facinarose",
+      "id": "194955560276197377",
+      "gameCount": 4,
+      "tier": "GM: Apprentice - T0",
+      "inGuild": true
+    },
     "@rayhammer": {
       "username": "@rayhammer",
       "id": "200273794969894912",
@@ -398,13 +405,6 @@
       "id": "80826834912018432",
       "gameCount": 4,
       "tier": "GM: Storyteller - T1",
-      "inGuild": true
-    },
-    "@facinarose": {
-      "username": "@facinarose",
-      "id": "194955560276197377",
-      "gameCount": 4,
-      "tier": "GM: Apprentice - T0",
       "inGuild": true
     },
     "@sawzie": {
