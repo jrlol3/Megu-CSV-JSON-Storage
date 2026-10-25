@@ -1,5 +1,5 @@
 {
-  "timestamp": 1792839616039,
+  "timestamp": 1792926015813,
   "approvals": [
     {
       "user": "samikazuki",
@@ -752,7 +752,7 @@
       "character": "Cecile"
     },
     {
-      "user": ".galebolg.",
+      "user": ".gaelbolg.",
       "approver": "jrlol3megu",
       "date": 1710645441748,
       "character": "Jyuto"
@@ -824,7 +824,7 @@
       "character": "Miike"
     },
     {
-      "user": ".galebolg.",
+      "user": ".gaelbolg.",
       "approver": "jrlol3megu",
       "date": 1711516287148,
       "character": "Sylvain"
@@ -1316,7 +1316,7 @@
       "character": "Whispers"
     },
     {
-      "user": ".galebolg.",
+      "user": ".gaelbolg.",
       "approver": "jrlol3megu",
       "date": 1717633912489,
       "character": "Cassius"
@@ -1580,7 +1580,7 @@
       "character": "Sonnet"
     },
     {
-      "user": ".galebolg.",
+      "user": ".gaelbolg.",
       "approver": "jrlol3megu",
       "date": 1724773666666,
       "character": "S'Rana"
@@ -1862,7 +1862,7 @@
       "character": "Indebted Singer on the Run"
     },
     {
-      "user": ".galebolg.",
+      "user": ".gaelbolg.",
       "approver": "agentdj",
       "date": 1728360993694,
       "character": "Cypher Yuten"
@@ -2444,7 +2444,7 @@
       "character": "Kanon"
     },
     {
-      "user": ".galebolg.",
+      "user": ".gaelbolg.",
       "approver": "madamezuri",
       "date": 1734555041215,
       "character": "Diana Valentina"
@@ -3236,7 +3236,7 @@
       "character": "Beatrice Verdenhart"
     },
     {
-      "user": ".galebolg.",
+      "user": ".gaelbolg.",
       "approver": "agentdj",
       "date": 1736583369641,
       "character": "J'yuto"
@@ -3398,7 +3398,7 @@
       "character": "Daphila Tinkertop"
     },
     {
-      "user": ".galebolg.",
+      "user": ".gaelbolg.",
       "approver": "doobledeedooble",
       "date": 1736635064664,
       "character": "Cassius Caldonis"
@@ -3722,7 +3722,7 @@
       "character": "Storm"
     },
     {
-      "user": ".galebolg.",
+      "user": ".gaelbolg.",
       "approver": "jrlol3megu",
       "date": 1737326762469,
       "character": "Cypher"
@@ -4202,7 +4202,7 @@
       "character": "Lin Shěn"
     },
     {
-      "user": ".galebolg.",
+      "user": ".gaelbolg.",
       "approver": "angrykitsu",
       "date": 1740601340470,
       "character": "Shi Xuefeng"
@@ -4340,7 +4340,7 @@
       "character": "Dehua (and Jiǔ Yǒu)"
     },
     {
-      "user": ".galebolg.",
+      "user": ".gaelbolg.",
       "approver": "jrlol3megu",
       "date": 1742527308112,
       "character": "Alejandra \"Iron Vein\""
@@ -4484,7 +4484,7 @@
       "character": "Eris L'arca"
     },
     {
-      "user": ".galebolg.",
+      "user": ".gaelbolg.",
       "approver": "saruno",
       "date": 1743765372229,
       "character": "Caelan Blacklaw"
@@ -5402,7 +5402,7 @@
       "character": "Nanri"
     },
     {
-      "user": ".galebolg.",
+      "user": ".gaelbolg.",
       "approver": "starfir54",
       "date": 1751557204097,
       "character": "Evelyn"
@@ -5696,7 +5696,7 @@
       "character": "Once that's done"
     },
     {
-      "user": ".galebolg.",
+      "user": ".gaelbolg.",
       "approver": "starfir54",
       "date": 1754854535870,
       "character": "Anais Penelle"
@@ -6632,7 +6632,7 @@
       "character": "Wandering Lion Protecting the Weak"
     },
     {
-      "user": ".galebolg.",
+      "user": ".gaelbolg.",
       "approver": "mutemissy",
       "date": 1773498820631,
       "character": "Arzen Algnost- The Lion's Pride"
@@ -7902,6 +7902,18 @@
       "approver": "mutemissy",
       "date": 1792506542969,
       "character": "Clover"
+    },
+    {
+      "user": "billyscrannerx",
+      "approver": "mutemissy",
+      "date": 1792849992692,
+      "character": "Janine Casina"
+    },
+    {
+      "user": "honeydewmelons",
+      "approver": "sleepy_bernkastel",
+      "date": 1792897229718,
+      "character": "Tomás Rafael del Bosque Walker"
     }
   ]
 }
