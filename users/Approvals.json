@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793012416130,
+  "timestamp": 1793098816039,
   "approvals": [
     {
       "user": "samikazuki",
@@ -7920,6 +7920,18 @@
       "approver": "paradigm.42",
       "date": 1792954111164,
       "character": "Tessa"
+    },
+    {
+      "user": "agentdj",
+      "approver": "sleepy_bernkastel",
+      "date": 1793072464973,
+      "character": "Evelyn \"Nyx\" Crow"
+    },
+    {
+      "user": "xirozean",
+      "approver": "sleepy_bernkastel",
+      "date": 1793076883438,
+      "character": "Ludo Mallory"
     }
   ]
 }
