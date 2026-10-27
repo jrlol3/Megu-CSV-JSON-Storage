@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793005254119,
+  "timestamp": 1793091692032,
   "logs": [
     {
       "master": "@desyov",
@@ -33132,6 +33132,75 @@
         "@han69 as Samson Sokolov the 2nd"
       ],
       "masterId": "164529173379940352"
+    },
+    {
+      "master": "@xchronos",
+      "title": "[Firwood Fables] Battle for the Burrow",
+      "postedAt": 1793027630060,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1564296001869840446",
+      "players": [
+        "@aznrcmp as Elias and Orizuma",
+        "@viperalister as Gizmo",
+        "@billyscrannerx as Janine Casina",
+        "@ct777dice as Jackie the Fox",
+        "@someperson2094 as Qixi Harper",
+        "@h4lcy0n_d4ys as Anise and Lysander"
+      ],
+      "masterId": "164529173379940352"
+    },
+    {
+      "master": "@letiana",
+      "title": "[King's Crusade] The First Draft",
+      "postedAt": 1793057590964,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1564421667009077279",
+      "players": [
+        "@starfir54 As Rose Mei",
+        "@desyov as Abaddon",
+        "@hangedmantarot as Mort",
+        "@aznrcmp as Topal"
+      ],
+      "masterId": "299015281853071360"
+    },
+    {
+      "master": "@madrid222",
+      "title": "(Grand Tour) The Assassination of Fandaniel",
+      "postedAt": 1793058073200,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1564423689653723219",
+      "players": [
+        "@missingpath as Felicity",
+        "@kategeeper as Merlin",
+        "@squidlover23 as Franz",
+        "@hangedmantarot as Lyrric"
+      ],
+      "masterId": "173539943426031616"
+    },
+    {
+      "master": "@seraphim",
+      "title": "[The Once Great Sects] To Walk Down Hell to Reach Heaven",
+      "postedAt": 1793066041533,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1564457111264563292",
+      "players": [
+        "@emgry as Rachael",
+        "@schwertaria as Aria",
+        "@soggy_saltine as Jing",
+        "@biffmcmanly aa Reynaud",
+        "@han69 as Renard"
+      ],
+      "masterId": "108744783031185408"
+    },
+    {
+      "master": "@incognegro",
+      "title": "[Obsidian Mirror] Fracture",
+      "postedAt": 1793070924395,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1564477591472054343",
+      "players": [
+        "@facinarose as Anabella",
+        "@honeydewmelons Tomas",
+        "@mike_miguel_michael as Heliodoro",
+        "@mutemissy as Tessa",
+        "@paradigm.42 as Amahia"
+      ],
+      "masterId": "118899054179516417"
     }
   ]
 }
