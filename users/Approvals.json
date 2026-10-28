@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793098816039,
+  "timestamp": 1793185218799,
   "approvals": [
     {
       "user": "samikazuki",
@@ -7932,6 +7932,12 @@
       "approver": "sleepy_bernkastel",
       "date": 1793076883438,
       "character": "Ludo Mallory"
+    },
+    {
+      "user": "sunny.something",
+      "approver": "han69",
+      "date": 1793114744001,
+      "character": "Riley Ó Gallagher"
     }
   ]
 }
