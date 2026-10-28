@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793091692032,
+  "timestamp": 1793178053295,
   "logs": [
     {
       "master": "@desyov",
@@ -33201,6 +33201,34 @@
         "@paradigm.42 as Amahia"
       ],
       "masterId": "118899054179516417"
+    },
+    {
+      "master": "@seraphim",
+      "title": "[The Once Great Sects] The Wolf and The Lion",
+      "postedAt": 1793127850046,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1564716354957742111",
+      "players": [
+        "@soggy_saltine as Jing",
+        "@kategeeper as Izumi",
+        "@mutemissy as Selene",
+        "@sleepy_bernkastel as Bedivere"
+      ],
+      "masterId": "108744783031185408"
+    },
+    {
+      "master": "@xchronos",
+      "title": "[Firwood Fables] Tales of Heroism",
+      "postedAt": 1793138102284,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1564759355960598699",
+      "players": [
+        "@nikkimp as Marianna Caletre",
+        "@billyscrannerx as Janine Casina",
+        "@viperalister as Gizmo",
+        "@agentdj as Cassius Mordred",
+        "@acetwinelf as Thyra Greco",
+        "@corsair_hellcat as Amity Quinn"
+      ],
+      "masterId": "164529173379940352"
     }
   ]
 }
