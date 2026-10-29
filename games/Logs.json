@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793178053295,
+  "timestamp": 1793264455063,
   "logs": [
     {
       "master": "@desyov",
@@ -33229,6 +33229,122 @@
         "@corsair_hellcat as Amity Quinn"
       ],
       "masterId": "164529173379940352"
+    },
+    {
+      "master": "@missingpath",
+      "title": "[Heirs of Blood] A Father's Control",
+      "postedAt": 1793191848437,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1564984783665234023",
+      "players": [
+        "@facinarose as Vivian",
+        "@starfir54 as Freyr",
+        "@emgry as Cici",
+        "@caelum_blue as Celine",
+        "@honeydewmelons as Isolde"
+      ],
+      "masterId": "181544205796114433"
+    },
+    {
+      "master": "@xchronos",
+      "title": "[Tales from the Gulch] The Weeping Woman",
+      "postedAt": 1793201634465,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1565025829241753713",
+      "players": [
+        "@hangedmantarot as Fintan",
+        "@agentdj as Nyx",
+        "@h4lcy0n_d4ys as Anise and Lysander",
+        "@han69 as Samson Sokolov the 2nd",
+        "@niorno. as Miguel Calavera",
+        "@corsair_hellcat as Wicked Fenina"
+      ],
+      "masterId": "164529173379940352"
+    },
+    {
+      "master": "@letiana",
+      "title": "[King's Crusade] Where Tradesfair Stands",
+      "postedAt": 1793244491510,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1565205584716898406",
+      "players": [
+        "@schwertaria as Fein",
+        "@drafter42 as Rudica",
+        "@someperson2094 as Nuni",
+        "@galen876 as R.O.S.S",
+        "@hellion as Gwdion"
+      ],
+      "masterId": "299015281853071360"
+    },
+    {
+      "master": "@incognegro",
+      "title": "Dia De Los Muertos: Rivermouth",
+      "postedAt": 1793245112063,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1565208187504693370",
+      "players": [
+        "@pidgeon as Charlie",
+        "@nikolaim. as Elias",
+        "@corsair_hellcat as Fenina",
+        "@bookie as Nattigan",
+        "@twilightkiller as Sunny"
+      ],
+      "masterId": "118899054179516417"
+    },
+    {
+      "master": "@xirozean",
+      "title": "[Scout's Honor] Cross Your Heart",
+      "postedAt": 1793248026757,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1565220412617531453",
+      "players": [
+        "@mutemissy as Selene",
+        "@zzPoppy as Ser Bedivere the Grey Wolf",
+        "@Gadget 🦊  | Thorium as Silas Oristal",
+        "@Dira | JVDragoon as Dira",
+        "@Henrik Type Shit as Gwendoline of Hearthome",
+        "@Sybil | Fluff as Sybil"
+      ],
+      "masterId": "194579940992221187"
+    },
+    {
+      "master": "@xirozean",
+      "title": "[Scout's Honor] End of the Rope",
+      "postedAt": 1793248892009,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1565224041747587085",
+      "players": [
+        "@Elias as Sterling Bazel",
+        "@zzHan as Michael Adder",
+        "@zzGizmo as Elasandros Conchoille",
+        "@Rudica Zeln as Rudica Zeln",
+        "@Aria [ᜀᜍᜒᜀ] as Féin of Lionheart's Reach",
+        "@Sybil | Fluff as Sybil"
+      ],
+      "masterId": "194579940992221187"
+    },
+    {
+      "master": "@xirozean",
+      "title": "Under Raven's Wings",
+      "postedAt": 1793250123303,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1565229206168805410",
+      "players": [
+        "@Fintan Rootbound|Tarot as Fintan Rootbound",
+        "@Hiya Dai Salamin  | Emgry as Rachael",
+        "@Fenn | Phos as Annette and Flaque",
+        "@Nuni | SomePerson as Nuni",
+        "@Topal {🐍} Orizuma as Rococo",
+        "@zzÁdhán | squibbles as Ádhán"
+      ],
+      "masterId": "194579940992221187"
+    },
+    {
+      "master": "@xirozean",
+      "title": "[Cafe Cuties] Brewing Some New Ideas!",
+      "postedAt": 1793251078022,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1565233210550648975",
+      "players": [
+        "@Wicked Fenina|Corsair_Hellcat as Amity Quinn",
+        "@zzXinghan  | Chronos as Moonwisp",
+        "@zz Graham Rohde || Vega as Graham Rohde",
+        "@zzLen as Lady Iseult of Deleria",
+        "@Yuanmin | Sheep as Taffeta"
+      ],
+      "masterId": "194579940992221187"
     }
   ]
 }
