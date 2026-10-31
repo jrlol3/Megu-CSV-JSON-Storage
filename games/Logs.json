@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793350856074,
+  "timestamp": 1793437252603,
   "logs": [
     {
       "master": "@desyov",
@@ -33479,6 +33479,62 @@
         "@incognegro as Dominic"
       ],
       "masterId": "169795599758131200"
+    },
+    {
+      "master": "@sunny.something",
+      "title": "[Saga of the Shattered Hand] A Ball in Belfrost",
+      "postedAt": 1793391099882,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1565820504797872309",
+      "players": [
+        "@hangedmantarot as Lyrric Dust",
+        "@sussy_arata as Aston",
+        "@lenpendragon as Felicia Rehinsfel",
+        "@iamthorium as Gadget",
+        "@kategeeper as Merlin Orien"
+      ],
+      "masterId": "181195525914230784"
+    },
+    {
+      "master": "@enderten",
+      "title": "Hero's Warning: Crueltide",
+      "postedAt": 1793395860299,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1565840471433936937",
+      "players": [
+        "@sleepy_bernkastel as Poppy",
+        "@nut_wizard as Quill",
+        "@aznrcmp as Lyssa",
+        "@solaceinfire as Melinoe",
+        "@r10 as Sirius"
+      ],
+      "masterId": "206900071055228930"
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "Weapons of Permanence, Algiz ᛉ",
+      "postedAt": 1793400132866,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1565858391878926499",
+      "players": [
+        "@mike_miguel_michael as Vidarr",
+        "@aehnomaly as Enkh",
+        "@soggy_saltine as Yasmin",
+        "@xirozean as Ludo",
+        "@pidgeon as Charlie"
+      ],
+      "masterId": "365605862615810049"
+    },
+    {
+      "master": "@incognegro",
+      "title": "[Obsidian Mirror] A Reflection Cast through Time",
+      "postedAt": 1793416015329,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1565925007757025371",
+      "players": [
+        "@facinarose as Anabella",
+        "@honeydewmelons as Tomas",
+        "@mike_miguel_michael as Heliodoro",
+        "@mutemissy as Tessa",
+        "@paradigm.42 as Amahia"
+      ],
+      "masterId": "118899054179516417"
     }
   ]
 }
