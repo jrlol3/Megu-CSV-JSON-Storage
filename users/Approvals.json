@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793358012767,
+  "timestamp": 1793444414296,
   "approvals": [
     {
       "user": "samikazuki",
@@ -7944,6 +7944,18 @@
       "approver": "sleepy_bernkastel",
       "date": 1793234768407,
       "character": "Patricia Fortune"
+    },
+    {
+      "user": "someperson2094",
+      "approver": "sleepy_bernkastel",
+      "date": 1793406512044,
+      "character": "Sage"
+    },
+    {
+      "user": "hellion",
+      "approver": "sleepy_bernkastel",
+      "date": 1793407031414,
+      "character": "Legacy"
     }
   ]
 }
