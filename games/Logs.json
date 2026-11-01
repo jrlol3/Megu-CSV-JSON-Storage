@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793437252603,
+  "timestamp": 1793523649180,
   "logs": [
     {
       "master": "@desyov",
@@ -33533,6 +33533,33 @@
         "@mike_miguel_michael as Heliodoro",
         "@mutemissy as Tessa",
         "@paradigm.42 as Amahia"
+      ],
+      "masterId": "118899054179516417"
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "Dia de los Muertos: Aztlan",
+      "postedAt": 1793443239275,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1566039193262624885",
+      "players": [
+        "@oleamollevampie as Madeleine",
+        "@redhaart as Isolde",
+        "@zacsper as Axel",
+        "@letiana as Metztli",
+        "@maxfish as Ciro",
+        "@someperson2094 as Selene"
+      ],
+      "masterId": "365605862615810049"
+    },
+    {
+      "master": "@incognegro",
+      "title": "Field Research II",
+      "postedAt": 1793468916152,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1566146889890398231",
+      "players": [
+        "@seraphim as Cole",
+        "@samikazuki as Metztli",
+        "@letiana as Ook"
       ],
       "masterId": "118899054179516417"
     }
