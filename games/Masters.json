@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793523649190,
+  "timestamp": 1793610060960,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -32,7 +32,7 @@
     "@seraphim": {
       "username": "@seraphim",
       "id": "108744783031185408",
-      "gameCount": 128,
+      "gameCount": 132,
       "tier": "GM: World Builder - T2",
       "inGuild": true
     },
@@ -316,6 +316,13 @@
       "tier": "GM: Storyteller - T1",
       "inGuild": true
     },
+    "@xchronos": {
+      "username": "@xchronos",
+      "id": "164529173379940352",
+      "gameCount": 8,
+      "tier": "GM: Apprentice - T0",
+      "inGuild": true
+    },
     "@paradigm.42": {
       "username": "@paradigm.42",
       "id": "465582019150217226",
@@ -333,13 +340,6 @@
     "@billyscrannerx": {
       "username": "@billyscrannerx",
       "id": "784244863528992788",
-      "gameCount": 7,
-      "tier": "GM: Apprentice - T0",
-      "inGuild": true
-    },
-    "@xchronos": {
-      "username": "@xchronos",
-      "id": "164529173379940352",
       "gameCount": 7,
       "tier": "GM: Apprentice - T0",
       "inGuild": true
