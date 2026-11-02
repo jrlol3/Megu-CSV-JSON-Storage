@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793523649180,
+  "timestamp": 1793610060947,
   "logs": [
     {
       "master": "@desyov",
@@ -33562,6 +33562,78 @@
         "@letiana as Ook"
       ],
       "masterId": "118899054179516417"
+    },
+    {
+      "master": "@xchronos",
+      "title": "[Lurking in the Myist] No Strings on Me",
+      "postedAt": 1793551354219,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1566492660204576769",
+      "players": [
+        "@averysoftsheep as Taffeta",
+        "@caelum_blue as Koda",
+        "@someperson2094 as Sage",
+        "@niorno. as Miguel",
+        "@lenpendragon as William Falkner",
+        "@aznrcmp as Elias and Eugene"
+      ],
+      "masterId": "164529173379940352"
+    },
+    {
+      "master": "@seraphim",
+      "title": "[The Once Great Sects] A Rise to the Empyrean Domain",
+      "postedAt": 1793557091703,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1566516724956663860",
+      "players": [
+        "@enderten as Siwu",
+        "@soggy_saltine as Jing",
+        "@aehnomaly as Ichiro",
+        "@kategeeper as Izumi",
+        "@pidgeon as Loxias",
+        "@asimplehatter as Patience"
+      ],
+      "masterId": "108744783031185408"
+    },
+    {
+      "master": "@seraphim",
+      "title": "[The Once Great Sects] A Mother's Spite",
+      "postedAt": 1793557319891,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1566517682046505201",
+      "players": [
+        "@2naf1sh as Gyalwa",
+        "@honeydewmelons as Shenrui",
+        "@soggy_saltine as Jing",
+        "@kategeeper as Izumi",
+        "@xchronos as Xinghan",
+        "@sleepy_bernkastel as Caspian"
+      ],
+      "masterId": "108744783031185408"
+    },
+    {
+      "master": "@seraphim",
+      "title": "[The Once Great Sects] Who Would Care about A Beggar",
+      "postedAt": 1793557554251,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1566518665023725741",
+      "players": [
+        "@aznrcmp as Topal",
+        "@missingpath as Quincy",
+        "@honeydewmelons as Shenrui",
+        "@xchronos as Xinghan",
+        "@drafter42 as Rudica"
+      ],
+      "masterId": "108744783031185408"
+    },
+    {
+      "master": "@seraphim",
+      "title": "[The Once Great Sects] The Wolf and The Lion",
+      "postedAt": 1793557643483,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1566519039289729210",
+      "players": [
+        "@soggy_saltine as Jing",
+        "@kategeeper as Izumi",
+        "@mutemissy as Selene",
+        "@sleepy_bernkastel as Bedivere"
+      ],
+      "masterId": "108744783031185408"
     }
   ]
 }
