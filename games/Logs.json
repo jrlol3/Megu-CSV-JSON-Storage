@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793696451273,
+  "timestamp": 1793782853844,
   "logs": [
     {
       "master": "@desyov",
@@ -33634,6 +33634,49 @@
         "@sleepy_bernkastel as Bedivere"
       ],
       "masterId": "108744783031185408"
+    },
+    {
+      "master": "@iamthorium",
+      "title": "[A Hero's Journey] A Freeblade I Am",
+      "postedAt": 1793742687792,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1567295171375403209",
+      "players": [
+        "@xirozean as Ferry",
+        "@samikazuki as Mei-Mei",
+        "@aehnomaly as Beryl",
+        "@seraphim as Nasaya"
+      ],
+      "masterId": "220960630692118528"
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "[Mundó's Kuwento] The Prison to Cradle Earth",
+      "postedAt": 1793758177352,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1567360139298873425",
+      "players": [
+        "@2naf1sh as Gyalwa",
+        "@emgry as Anahi/Datu",
+        "@desyov as Dr. Faust",
+        "@starfir54 as Hui",
+        "@emgry as Hiya",
+        "@aehnomaly as Beryl"
+      ],
+      "masterId": "283019070578753536"
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "[Mundó's Kuwento] The Devil's Lady",
+      "postedAt": 1793758494831,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1567361470902050978",
+      "players": [
+        "@2naf1sh as Gyalwa",
+        "@emgry as Anahi/Datu",
+        "@desyov as Dr. Faust",
+        "@starfir54 as Hui",
+        "@emgry as Hiya",
+        "@aehnomaly as Beryl"
+      ],
+      "masterId": "283019070578753536"
     }
   ]
 }
