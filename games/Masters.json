@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793696451285,
+  "timestamp": 1793782853857,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -50,18 +50,18 @@
       "tier": "GM: Reality Shaper - T3",
       "inGuild": true
     },
+    "@rastamufasa": {
+      "username": "@rastamufasa",
+      "id": "283019070578753536",
+      "gameCount": 83,
+      "tier": "GM: Reality Shaper - T3",
+      "inGuild": true
+    },
     "@samikazuki": {
       "username": "@samikazuki",
       "id": "173547590694993920",
       "gameCount": 81,
       "tier": "GM: Storyteller - T1",
-      "inGuild": true
-    },
-    "@rastamufasa": {
-      "username": "@rastamufasa",
-      "id": "283019070578753536",
-      "gameCount": 81,
-      "tier": "GM: Reality Shaper - T3",
       "inGuild": true
     },
     "@letiana": {
@@ -274,6 +274,13 @@
       "tier": null,
       "inGuild": true
     },
+    "@iamthorium": {
+      "username": "@iamthorium",
+      "id": "220960630692118528",
+      "gameCount": 9,
+      "tier": "GM: Storyteller - T1",
+      "inGuild": true
+    },
     "@aehnomaly": {
       "username": "@aehnomaly",
       "id": "404317967585640451",
@@ -305,13 +312,6 @@
     "@someperson2094": {
       "username": "@someperson2094",
       "id": "639884376171216906",
-      "gameCount": 8,
-      "tier": "GM: Storyteller - T1",
-      "inGuild": true
-    },
-    "@iamthorium": {
-      "username": "@iamthorium",
-      "id": "220960630692118528",
       "gameCount": 8,
       "tier": "GM: Storyteller - T1",
       "inGuild": true
