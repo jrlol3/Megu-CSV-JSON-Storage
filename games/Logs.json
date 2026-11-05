@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793782853844,
+  "timestamp": 1793869257089,
   "logs": [
     {
       "master": "@desyov",
@@ -33677,6 +33677,162 @@
         "@aehnomaly as Beryl"
       ],
       "masterId": "283019070578753536"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Uzume's Grace] : Parade of 1000 Lights -  The Funeral",
+      "postedAt": 1793832658995,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1567672537951903745",
+      "players": [
+        "@galen876 as Xing Wei",
+        "@nut_wizard as Ranmaru",
+        "@lenpendragon as Baimei",
+        "@celesteias as Ladora",
+        "@aehnomaly as Beryl [Zhen]"
+      ],
+      "masterId": "173547590694993920"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Uzume's Grace] : Parade of 1000 Lights - The Return of the Tanuki",
+      "postedAt": 1793832919541,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1567673630761164881",
+      "players": [
+        "@2naf1sh as Gyalwa",
+        "@nikolaim. as Dujom",
+        "@mooshen as Shi",
+        "@han69 as Taiki",
+        "@aznrcmp as Topal"
+      ],
+      "masterId": "173547590694993920"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Uzume's Grace] : Parade of 1000 Lights - Tanuki Tanabata",
+      "postedAt": 1793833607669,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1567676516978917458",
+      "players": [
+        "@starfir54 as Tomiko",
+        "@themattroid as Haruka",
+        "@aznrcmp as Topal",
+        "@celesteias as Ladora",
+        "@honeydewmelons as Shenrui"
+      ],
+      "masterId": "173547590694993920"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Friendship is Madness] : Alice's Tea Party",
+      "postedAt": 1793833880676,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1567677662053273601",
+      "players": [
+        "@han69 as Renard",
+        "@celesteias as Daisy",
+        "@solaceinfire as Melinoe",
+        "@someperson2094 as Nuni",
+        "@niorno. as Azik",
+        "@kategeeper as Merlin"
+      ],
+      "masterId": "173547590694993920"
+    },
+    {
+      "master": "@desyov",
+      "title": "Trails of Ember: Rebirth of the Longevity Beacon",
+      "postedAt": 1793847932276,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1567736598735491195",
+      "players": [
+        "@\"@aznrcmp as Lyssa",
+        "@letiana as Estelle",
+        "@nikolaim. as Noen",
+        "@solotic. as Amelie",
+        "@fluffbet as Garnier",
+        "@soggy_saltine as Amaranth\""
+      ],
+      "masterId": "247940619022893065"
+    },
+    {
+      "master": "@desyov",
+      "title": "Trails of Ember: Death of the Great Phoenix Spirit",
+      "postedAt": 1793847994853,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1567736861202317354",
+      "players": [
+        "@\"@letiana as Estelle",
+        "@nikolaim. as Noen",
+        "@solotic. as Amelie",
+        "@missingpath as Gawain",
+        "@nut_wizard as Cordoba",
+        "@angrykitsu as Victoria\""
+      ],
+      "masterId": "247940619022893065"
+    },
+    {
+      "master": "@desyov",
+      "title": "Heaven's Memory / Steelbin Trials: The Skies Descend",
+      "postedAt": 1793848025909,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1567736991460753470",
+      "players": [
+        "@\"@agentdj as Lyle",
+        "@letiana as Erin-31",
+        "@honeydewmelons as Isolde",
+        "@leplep as Elijah-2615",
+        "@soggy_saltine as Lynne-4\""
+      ],
+      "masterId": "247940619022893065"
+    },
+    {
+      "master": "@desyov",
+      "title": "Heaven's Memory: Gladiolus Rising",
+      "postedAt": 1793848105371,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1567737324748546110",
+      "players": [
+        "@2naf1sh as Gladiolus"
+      ],
+      "masterId": "247940619022893065"
+    },
+    {
+      "master": "@desyov",
+      "title": "Ripplith Trials: Cigarettes from the Milk Store",
+      "postedAt": 1793848151128,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1567737516667314199",
+      "players": [
+        "@\"@emgry as Ci-Ci",
+        "@sleepy_bernkastel as Caspian",
+        "@solaceinfire as Aelina",
+        "@rastamufasa as Perseus",
+        "@letiana as Erin",
+        "@missingpath as Sylvaine\""
+      ],
+      "masterId": "247940619022893065"
+    },
+    {
+      "master": "@desyov",
+      "title": "The Hands of Thanatos",
+      "postedAt": 1793848222330,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1567737815310270538",
+      "players": [
+        "@\"@incognegro as Kviss",
+        "@soggy_saltine as Lynne-4",
+        "@angrykitsu as Kori",
+        "@solaceinfire as Aelina",
+        "@honeydewmelons as Isolde",
+        "@samikazuki as Moritz\""
+      ],
+      "masterId": "247940619022893065"
+    },
+    {
+      "master": "@desyov",
+      "title": "Heartdom Trials: Sibling Rivalry",
+      "postedAt": 1793848339976,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1567738308753096817",
+      "players": [
+        "@\"@angrykitsu as Kori",
+        "@rastamufasa as Perseus",
+        "@sleepy_bernkastel as Caspian",
+        "@sirgabite as Apollo",
+        "@soggy_saltine as Lynne-4",
+        "@solaceinfire as Aelina\""
+      ],
+      "masterId": "247940619022893065"
     }
   ]
 }
