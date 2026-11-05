@@ -1,10 +1,10 @@
 {
-  "timestamp": 1793782853857,
+  "timestamp": 1793869257102,
   "masters": {
     "@desyov": {
       "username": "@desyov",
       "id": "247940619022893065",
-      "gameCount": 188,
+      "gameCount": 195,
       "tier": "GM: Reality Shaper - T3",
       "inGuild": true
     },
@@ -50,18 +50,18 @@
       "tier": "GM: Reality Shaper - T3",
       "inGuild": true
     },
+    "@samikazuki": {
+      "username": "@samikazuki",
+      "id": "173547590694993920",
+      "gameCount": 85,
+      "tier": "GM: Storyteller - T1",
+      "inGuild": true
+    },
     "@rastamufasa": {
       "username": "@rastamufasa",
       "id": "283019070578753536",
       "gameCount": 83,
       "tier": "GM: Reality Shaper - T3",
-      "inGuild": true
-    },
-    "@samikazuki": {
-      "username": "@samikazuki",
-      "id": "173547590694993920",
-      "gameCount": 81,
-      "tier": "GM: Storyteller - T1",
       "inGuild": true
     },
     "@letiana": {
