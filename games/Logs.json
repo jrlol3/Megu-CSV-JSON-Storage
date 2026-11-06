@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793869257089,
+  "timestamp": 1793955652841,
   "logs": [
     {
       "master": "@desyov",
@@ -33833,6 +33833,128 @@
         "@solaceinfire as Aelina\""
       ],
       "masterId": "247940619022893065"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Friendship is Madness] : A Sundae Special",
+      "postedAt": 1793894083548,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1567930171200114810",
+      "players": [
+        "@celesteias as Daisy",
+        "@han69 as Renard",
+        "@kategeeper as Merlin",
+        "@someperson2094 as Nuni",
+        "@niorno. as Azik"
+      ],
+      "masterId": "173547590694993920"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Friendship is Madness] : The Bonds that Bind Us",
+      "postedAt": 1793894093535,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1567930213088755802",
+      "players": [
+        "@han69 as Renard",
+        "@celesteias as Daisy",
+        "@spiralhorizon as Mithreign",
+        "@drafter42 as Rudica",
+        "@kategeeper as Merlin",
+        "@niorno. as Azik"
+      ],
+      "masterId": "173547590694993920"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[Friendship is Madness] : Friendship and Madness",
+      "postedAt": 1793894103406,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1567930254490730542",
+      "players": [
+        "@han69 as Renard",
+        "@celesteias as Daisy",
+        "@spiralhorizon as Mithreign",
+        "@drafter42 as Rudica",
+        "@kategeeper as Merlin",
+        "@niorno. as Azik"
+      ],
+      "masterId": "173547590694993920"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[The 84th Terra] : The Tomorrow Show - Fianna's Interview",
+      "postedAt": 1793894111923,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1567930290213625917",
+      "players": [
+        "@sleepy_bernkastel as Kawa",
+        "@.gaelbolg. as Cypher",
+        "@rastamufasa as Basil",
+        "@schwertaria as Tatsuya"
+      ],
+      "masterId": "173547590694993920"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[The 84th Terra] : Inicting Incidents",
+      "postedAt": 1793894118371,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1567930317258493953",
+      "players": [
+        "@oleamollevampie as Fenja",
+        "@seraphim as Void",
+        "@angrykitsu as Mika",
+        "@honeydewmelons as Shenrui"
+      ],
+      "masterId": "173547590694993920"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[The 84th Terra] Breaking Groundhog Day",
+      "postedAt": 1793894129476,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1567930363836371026",
+      "players": [
+        "@schwertaria as Tatsuya",
+        "@rastamufasa as Basil",
+        "@lenpendragon as Sakura",
+        "@sirgabite as Ezekirl",
+        "@2naf1sh as Gladi",
+        "@han69 s Garmir"
+      ],
+      "masterId": "173547590694993920"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[The 84th Terra] : Lovers and Legacies",
+      "postedAt": 1793894684801,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1567932693038112819",
+      "players": [
+        "@mutemissy as Fernia",
+        "@sleepy_bernkastel as Kawa",
+        "@solaceinfire as Saki"
+      ],
+      "masterId": "173547590694993920"
+    },
+    {
+      "master": "@starfir54",
+      "title": "[Acquisitions of the End Times] A Simple Business Meeting",
+      "postedAt": 1793915390820,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1568019540376289453",
+      "players": [
+        "@samikazuki as Ed",
+        "@2naf1sh as Gladi",
+        "@sawzie as Langley"
+      ],
+      "masterId": "491765200727310337"
+    },
+    {
+      "master": "@incognegro",
+      "title": "[The Jade Road] Secret Fern Village",
+      "postedAt": 1793937850894,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1568113744754507912",
+      "players": [
+        "@averysoftsheep as Yuanmin",
+        "@enderten as Siwu",
+        "@soggy_saltine as Jing",
+        "@angrykitsu as Rhea"
+      ],
+      "masterId": "118899054179516417"
     }
   ]
 }
