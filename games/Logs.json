@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794042053249,
+  "timestamp": 1794128452579,
   "logs": [
     {
       "master": "@desyov",
@@ -34082,6 +34082,90 @@
         "@angrykitsu as Rhea, Daughter of Athelios"
       ],
       "masterId": "639884376171216906"
+    },
+    {
+      "master": "@xirozean",
+      "title": "[Knights of the Realm] Watch for Rolling Rocks",
+      "postedAt": 1794055989398,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1568609253554520098",
+      "players": [
+        "@Amity Quinn|Corsair_Hellcat as Amity Quinn",
+        "@Cole Grant as Sylvie Malkai",
+        "@Arabella as Arabella Atent",
+        "@Sienna (Sherifmisho) as Sienna \"Sweety\" Gordon",
+        "@Evelyn \"Nyx\" Crow as Cassius Mordred",
+        "@Asuka | Len as Lady Iseult of Deleria"
+      ],
+      "masterId": "194579940992221187"
+    },
+    {
+      "master": "@xirozean",
+      "title": "[Cottontail Incidents] Night of the Living Pumpkin",
+      "postedAt": 1794056595875,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1568611797303304213",
+      "players": [
+        "@Arabella as Arabella",
+        "@Val/Vitordallman489 as Val \"Maestri\" Tamboia",
+        "@zzHan as Samson Solomon Skolov the 2nd",
+        "@Amity Quinn|Corsair_Hellcat as Wicked Fenina",
+        "@Evelyn \"Nyx\" Crow as Cassius Mordred",
+        "@Gizmo as Gizmo"
+      ],
+      "masterId": "194579940992221187"
+    },
+    {
+      "master": "@xirozean",
+      "title": "[Firwood] The Answer We Sought",
+      "postedAt": 1794057180152,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1568614247938924685",
+      "players": [
+        "@Rasho as Rasho",
+        "@Freako Type Shit as Gwendoline of Hearthome",
+        "@Sol the Moth as Caellica Ronara",
+        "@Gadget 🦊|  Thorium as Gadget",
+        "@zz {🐍} Orizuma as Rococo",
+        "@zzÁdhán | squibbles as Ádhán"
+      ],
+      "masterId": "194579940992221187"
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "The Wound of Eminence pt. 3",
+      "postedAt": 1794083360312,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1568724055488733264",
+      "players": [
+        "@lenpendragon as Asuka",
+        "@caelum_blue as Mutt",
+        "@fluffbet as Garnier",
+        "@facinarose as Akiko",
+        "@agentdj as Lyle",
+        "@paradigm.42 as Enlai"
+      ],
+      "masterId": "365605862615810049"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[The 84th Terra] : Kora's Enclave",
+      "postedAt": 1794102921465,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1568806100911001673",
+      "players": [
+        "@mutemissy as Fernia",
+        "@sleepy_bernkastel as Kawa",
+        "@solaceinfire as Saki"
+      ],
+      "masterId": "173547590694993920"
+    },
+    {
+      "master": "@samikazuki",
+      "title": "[The 84th Terra] : We're Rotting You Know",
+      "postedAt": 1794102925203,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1568806116589174958",
+      "players": [
+        "@mutemissy as Fernia",
+        "@sleepy_bernkastel as Kawa",
+        "@solaceinfire as Saki"
+      ],
+      "masterId": "173547590694993920"
     }
   ]
 }
