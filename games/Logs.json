@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794128452579,
+  "timestamp": 1794214849707,
   "logs": [
     {
       "master": "@desyov",
@@ -34166,6 +34166,184 @@
         "@solaceinfire as Saki"
       ],
       "masterId": "173547590694993920"
+    },
+    {
+      "master": "@missingpath",
+      "title": "[Wisdom] The Many Faces of Wisdom",
+      "postedAt": 1794180436657,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1569131223190867979",
+      "players": [
+        "@sussy_arata as Rhys",
+        "@2naf1sh as Galavan"
+      ],
+      "masterId": "181544205796114433"
+    },
+    {
+      "master": "@2naf1sh",
+      "title": "Weapons of Permanence, Naudiz ᚾ",
+      "postedAt": 1794184715034,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1569149168004628563",
+      "players": [
+        "@galen876 as Burkhardt",
+        "@samikazuki as Hamra",
+        "@starfir54 as Freyr",
+        "@mutemissy as Natalia",
+        "@seraphim as Nasaya"
+      ],
+      "masterId": "365605862615810049"
+    },
+    {
+      "master": "@letiana",
+      "title": "[King's Crusade] Collar of Anger and Resentment",
+      "postedAt": 1794193739130,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1569187017806315533",
+      "players": [
+        "@facinarose as Vivian",
+        "@madrid222 as Orion",
+        "@celesteias as Daisy",
+        "@starfir54 as Rose-Mei (Mb Rose)",
+        "@rastamufasa as Percy",
+        "@solotic. as Noel"
+      ],
+      "masterId": "299015281853071360"
+    },
+    {
+      "master": "@letiana",
+      "title": "[King's Crusade] Where Kor'tarion Stands",
+      "postedAt": 1794194387787,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1569189738470965259",
+      "players": [
+        "@seraphim as Onyx",
+        "@desyov as Abaddon",
+        "@madrid222 as Orion",
+        "@xavieremix as Vista",
+        "@facinarose as Vivian",
+        "@starfir54 as Rose-Mei"
+      ],
+      "masterId": "299015281853071360"
+    },
+    {
+      "master": "@nikolaim.",
+      "title": "[Blood on the Street] \"Grave\" Mistakes",
+      "postedAt": 1794196066141,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1569196777998123171",
+      "players": [
+        "@mutemissy as Viliana",
+        "@hellion as Corvin",
+        "@sleepy_bernkastel as Asahi",
+        "@xirozean as Strabo",
+        "@bookie as Nattigan"
+      ],
+      "masterId": "419689143443128321"
+    },
+    {
+      "master": "@desyov",
+      "title": "Welcome to Fortune: A Shady Deal",
+      "postedAt": 1794199652559,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1569211820525355039",
+      "players": [
+        "@\"@missingpath as Rin",
+        "@seraphim as Esmon",
+        "@foxfacesuicide as Helios",
+        "@emgry as Hiya\""
+      ],
+      "masterId": "247940619022893065"
+    },
+    {
+      "master": "@desyov",
+      "title": "Heaven's Memory: Fifth Floor, The Worthworks",
+      "postedAt": 1794199715679,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1569212085269700659",
+      "players": [
+        "@\"@agentdj as Lyle",
+        "@honeydewmelons as Isolde",
+        "@rastamufasa as Perseus",
+        "@emgry as Ri-Ri",
+        "@.gaelbolg. as Cypher",
+        "@phos0947 as Verge\""
+      ],
+      "masterId": "247940619022893065"
+    },
+    {
+      "master": "@desyov",
+      "title": "Heaven's Memory: Sixth Floor, The Valuation",
+      "postedAt": 1794199771095,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1569212317701513278",
+      "players": [
+        "@\"@missingpath as Sylvaine",
+        "@seraphim as Esmon",
+        "@solotic. as Alexei",
+        "@soggy_saltine as Lynne-4",
+        "@2naf1sh as Gladiolus",
+        "@sirgabite as Apollo\""
+      ],
+      "masterId": "247940619022893065"
+    },
+    {
+      "master": "@desyov",
+      "title": "Heaven's Memory: Seventh Floor, The Dividend",
+      "postedAt": 1794199814902,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1569212501441118301",
+      "players": [
+        "@\"@seraphim as Esmon",
+        "@rastamufasa as Perseus",
+        "@oleamollevampie as Rue",
+        "@honeydewmelons as Isolde",
+        "@agentdj as Lyle",
+        "@missingpath as Sylvaine\""
+      ],
+      "masterId": "247940619022893065"
+    },
+    {
+      "master": "@desyov",
+      "title": "Heaven's Memory: Eighth Floor, The Ledger + Ninth Floor, The Equity (Part 1)",
+      "postedAt": 1794199958290,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1569213102854246543",
+      "players": [
+        "@\"@solotic. as Alexei",
+        "@emgry as Ci-Ci",
+        "@lenpendragon as Elaine",
+        "@mooshen as Elvis",
+        "@letiana as Erin",
+        "@enderten as Kit",
+        "@soggy_saltine as Lynne-4",
+        "@rastamufasa as Perseus",
+        "@pidgeon as Phoebe\""
+      ],
+      "masterId": "247940619022893065"
+    },
+    {
+      "master": "@desyov",
+      "title": "Heaven's Memory: Eighth Floor, The Ledger + Ninth Floor, The Equity (Part 2)",
+      "postedAt": 1794199995144,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1569213257430863893",
+      "players": [
+        "@\"@solotic. as Alexei",
+        "@emgry as Ci-Ci",
+        "@lenpendragon as Elaine",
+        "@mooshen as Elvis",
+        "@enderten as Kit",
+        "@rastamufasa as Perseus",
+        "@pidgeon as Phoebe",
+        "@2naf1sh as Gladiolus",
+        "@agentdj as Lyle\""
+      ],
+      "masterId": "247940619022893065"
+    },
+    {
+      "master": "@desyov",
+      "title": "Heaven's Memory: Tenth Floor, The Vault",
+      "postedAt": 1794200049380,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1569213484913262653",
+      "players": [
+        "@\"@missingpath as Sylvaine",
+        "@letiana as Erin",
+        "@rastamufasa as Perseus",
+        "@sirgabite as Apollo",
+        "@enderten as Kit",
+        "@honeydewmelons as Isolde\""
+      ],
+      "masterId": "247940619022893065"
     }
   ]
 }
