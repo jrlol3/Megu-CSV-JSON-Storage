@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794301255031,
+  "timestamp": 1794387655982,
   "games": [
     {
       "title": "First Introductions",
@@ -28047,6 +28047,26 @@
       "time": "<t:1794353400:F>",
       "public": false,
       "creator": "Satsuki Haruka | Matt"
+    },
+    {
+      "title": "[A Hero's Journey] A Ranger's Quarry",
+      "postedAt": 1794351129598,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1569847161275940935",
+      "pings": [
+        "1170826784862908661"
+      ],
+      "time": "<t:1794528000:F>",
+      "public": true,
+      "creator": "Gadget🦊 | Thorium"
+    },
+    {
+      "title": "[Obsidian Mirror] Crows and Moths",
+      "postedAt": 1794352318374,
+      "link": "https://discord.com/channels/1169852846083153941/1170183729856135250/1569852147363872769",
+      "pings": [],
+      "time": "<t:1794357000:F>",
+      "public": false,
+      "creator": "= 窮奇 ="
     }
   ]
 }
