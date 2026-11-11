@@ -1,10 +1,10 @@
 {
-  "timestamp": 1794301255051,
+  "timestamp": 1794387656014,
   "masters": {
     "@desyov": {
       "username": "@desyov",
       "id": "247940619022893065",
-      "gameCount": 213,
+      "gameCount": 222,
       "tier": "GM: Reality Shaper - T3",
       "inGuild": true
     },
@@ -25,14 +25,14 @@
     "@incognegro": {
       "username": "@incognegro",
       "id": "118899054179516417",
-      "gameCount": 136,
+      "gameCount": 138,
       "tier": "GM: Reality Shaper - T3",
       "inGuild": true
     },
     "@seraphim": {
       "username": "@seraphim",
       "id": "108744783031185408",
-      "gameCount": 132,
+      "gameCount": 133,
       "tier": "GM: World Builder - T2",
       "inGuild": true
     },
@@ -327,8 +327,8 @@
       "username": "@xchronos",
       "id": "164529173379940352",
       "gameCount": 8,
-      "tier": "GM: Apprentice - T0",
-      "inGuild": true
+      "tier": null,
+      "inGuild": false
     },
     "@paradigm.42": {
       "username": "@paradigm.42",
