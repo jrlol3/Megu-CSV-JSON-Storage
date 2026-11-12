@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794387655982,
+  "timestamp": 1794474058739,
   "games": [
     {
       "title": "First Introductions",
@@ -28067,6 +28067,28 @@
       "time": "<t:1794357000:F>",
       "public": false,
       "creator": "= 窮奇 ="
+    },
+    {
+      "title": "[Destructive Interference] Star-Crossed Lovers",
+      "postedAt": 1794450382468,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1570263457985462377",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1794682800:F>",
+      "public": true,
+      "creator": "zzAki"
+    },
+    {
+      "title": "[Sugar Crash] The Secrets of Soda Gulch",
+      "postedAt": 1794451734932,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1570269130630897826",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1795050000:F>",
+      "public": true,
+      "creator": "zzAki"
     }
   ]
 }
