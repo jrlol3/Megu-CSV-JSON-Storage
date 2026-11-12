@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794387656000,
+  "timestamp": 1794474058760,
   "logs": [
     {
       "master": "@desyov",
@@ -34677,6 +34677,21 @@
         "@samikazuki as Anahi"
       ],
       "masterId": "118899054179516417"
+    },
+    {
+      "master": "@niorno.",
+      "title": "[Flyfishing] With Grandpa!",
+      "postedAt": 1794451118483,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1570266545056120944",
+      "players": [
+        "@leplep as Anzai Midori",
+        "@averysoftsheep as Taffeta",
+        "@akinotamashii as Penny",
+        "@corsair_hellcat as Hannah Van Helsing",
+        "@dragoneldester as Aijing Minli",
+        "@h4lcy0n_d4ys as Delilah Ashmead"
+      ],
+      "masterId": "1163222581478948915"
     }
   ]
 }
