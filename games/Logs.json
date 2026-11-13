@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794474058760,
+  "timestamp": 1794560454248,
   "logs": [
     {
       "master": "@desyov",
@@ -34692,6 +34692,21 @@
         "@h4lcy0n_d4ys as Delilah Ashmead"
       ],
       "masterId": "1163222581478948915"
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "[The Shadow of Mugetsu] Hearts and Minds",
+      "postedAt": 1794547536848,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1570670952990122037",
+      "players": [
+        "@sussy_arata as Shishiro",
+        "@aehnomaly as Ichiro",
+        "@sleepy_bernkastel as Asahi",
+        "@solaceinfire as Mizuki",
+        "@enderten as Tilly",
+        "@leplep as Midori"
+      ],
+      "masterId": "169795599758131200"
     }
   ]
 }
