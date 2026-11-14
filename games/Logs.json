@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794560454248,
+  "timestamp": 1794646850012,
   "logs": [
     {
       "master": "@desyov",
@@ -34707,6 +34707,51 @@
         "@leplep as Midori"
       ],
       "masterId": "169795599758131200"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "Beyond the crack",
+      "postedAt": 1794601855046,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1570898780025397277",
+      "players": [
+        "@seraphim Nasaya",
+        "@iamthorium Gadget",
+        "@schwertaria Yuel"
+      ],
+      "masterId": "153330975575769088"
+    },
+    {
+      "master": "@pidgeon",
+      "title": "[End of Aspirations] A Mage's Mystery",
+      "postedAt": 1794602471447,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1570901365398569104",
+      "players": [
+        "@kategeeper Merlin",
+        "@missingpath Felicity",
+        "@han69 Absalom",
+        "@solaceinfire Melinoe",
+        "@hangedmantarot Lyrric",
+        "@drafter42 Rudica"
+      ],
+      "masterId": "153330975575769088"
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "Heroes' End: The Beginning - C",
+      "postedAt": 1794642907787,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1571070967701053491",
+      "players": [
+        "@agentdj as Lyle",
+        "@letiana as Erin",
+        "@missingpath as Gawain",
+        "@2naf1sh as Gladi",
+        "@schwertaria as Yuel",
+        "@nikkimp as Aile",
+        "@sirgabite as Apollo",
+        "@seraphim as Nasaya",
+        "@celesteias as Ladora"
+      ],
+      "masterId": "283019070578753536"
     }
   ]
 }
