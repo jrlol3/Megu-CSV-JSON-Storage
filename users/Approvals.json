@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794567617959,
+  "timestamp": 1794654017010,
   "approvals": [
     {
       "user": "samikazuki",
@@ -7412,7 +7412,7 @@
       "character": "Diligent Artisan"
     },
     {
-      "user": "hatsunemishka_",
+      "user": "horsefkr69420",
       "approver": "sleepy_bernkastel",
       "date": 1782079104024,
       "character": "Lucena"
@@ -7980,6 +7980,12 @@
       "approver": "sleepy_bernkastel",
       "date": 1794389529961,
       "character": "Wilhelmina Schneider"
+    },
+    {
+      "user": "akinotamashii",
+      "approver": "sleepy_bernkastel",
+      "date": 1794604406167,
+      "character": "Kaelen"
     }
   ]
 }
