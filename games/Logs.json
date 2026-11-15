@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794646850012,
+  "timestamp": 1794733255780,
   "logs": [
     {
       "master": "@desyov",
@@ -34752,6 +34752,51 @@
         "@celesteias as Ladora"
       ],
       "masterId": "283019070578753536"
+    },
+    {
+      "master": "@xirozean",
+      "title": "[Cafe Cuties] The Pumpkin Spice That Could",
+      "postedAt": 1794662714724,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1571154044016267338",
+      "players": [
+        "@Lyra Kerlan as Lyra Kerlan",
+        "@zzPoppy✨ | Sleepy as Asahi",
+        "@mutemissy as Selene",
+        "@zzHan as Michael Adder",
+        "@Izumi | Gate as Shirogane Izumi [白銀泉]",
+        "@Sterling as Sterling Bazel"
+      ],
+      "masterId": "194579940992221187"
+    },
+    {
+      "master": "@xirozean",
+      "title": "[Cafe Cuties] Pumpkin Spice and Rabbit Nuns",
+      "postedAt": 1794663208049,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1571156113171423344",
+      "players": [
+        "@Lyra Kerlan as Lyra Kerlan",
+        "@zzPoppy✨ | Sleepy as Asahi",
+        "@mutemissy as Selene",
+        "@zzHan as Michael Adder",
+        "@Izumi | Gate as Shirogane Izumi [白銀泉]",
+        "@Sterling as Sterling Baze"
+      ],
+      "masterId": "194579940992221187"
+    },
+    {
+      "master": "@akinotamashii",
+      "title": "[Destructive Interference] Star-Crossed Lovers",
+      "postedAt": 1794698297124,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1571303287419047978",
+      "players": [
+        "@sawzie as Langley",
+        "@eleesehn as Valissa",
+        "@bookie as Nattigan",
+        "@angrykitsu as Rhea",
+        "@oleamollevampie as Madeline",
+        "@drafter42 as Lyra"
+      ],
+      "masterId": "80892297905963008"
     }
   ]
 }
