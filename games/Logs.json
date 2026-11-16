@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794733255780,
+  "timestamp": 1794819651489,
   "logs": [
     {
       "master": "@desyov",
@@ -34797,6 +34797,57 @@
         "@drafter42 as Lyra"
       ],
       "masterId": "80892297905963008"
+    },
+    {
+      "master": "@mike_miguel_michael",
+      "title": "[Calamity Wave] Shadows of the Veil",
+      "postedAt": 1794761179650,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1571567035849121918",
+      "players": [
+        "@Merlin | Gate as Merlin",
+        "@zzTarot as Lyrric",
+        "@Yuanmin | Sheep as Yuanmin",
+        "@Nasaya Valsieve as Cole"
+      ],
+      "masterId": "178284834978791425"
+    },
+    {
+      "master": "@mike_miguel_michael",
+      "title": "An Ode to Broken Wings",
+      "postedAt": 1794762000406,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1571570478349418718",
+      "players": [
+        "@Vivian ❄ | Rose as Vivian Ashblanc",
+        "@==Mouse & Magpie== as Céline",
+        "@Freyr | Star as Freyr"
+      ],
+      "masterId": "178284834978791425"
+    },
+    {
+      "master": "@letiana",
+      "title": "[Susanoo's Wrath] Judgement & Judgement",
+      "postedAt": 1794781116548,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1571650657260142785",
+      "players": [
+        "@2naf1sh as Gyalwa",
+        "@facinarose as Akiko",
+        "@madrid222 as Tsuiho",
+        "@nikolaim. as Noir"
+      ],
+      "masterId": "299015281853071360"
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "The Path of a Samurai",
+      "postedAt": 1794783423121,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1571660331728773234",
+      "players": [
+        "@eleesehn as Saki",
+        "@aehnomaly as Ichiro",
+        "@schwertaria as Inoue",
+        "@akinotamashii as Hoshi-no-Kagayuki"
+      ],
+      "masterId": "169795599758131200"
     }
   ]
 }
