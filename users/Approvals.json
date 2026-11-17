@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794826818058,
+  "timestamp": 1794913217932,
   "approvals": [
     {
       "user": "samikazuki",
@@ -7986,6 +7986,30 @@
       "approver": "sleepy_bernkastel",
       "date": 1794604406167,
       "character": "Kaelen"
+    },
+    {
+      "user": "seraphim",
+      "approver": "sirgabite",
+      "date": 1794841143053,
+      "character": "Dorian Bazhan"
+    },
+    {
+      "user": "iamthorium",
+      "approver": "sirgabite",
+      "date": 1794845195209,
+      "character": "Creo Albaine"
+    },
+    {
+      "user": "billyscrannerx",
+      "approver": "sleepy_bernkastel",
+      "date": 1794847375001,
+      "character": "Nike - ᵀʰᵉ Endless War"
+    },
+    {
+      "user": "drafter42",
+      "approver": "sleepy_bernkastel",
+      "date": 1794847575602,
+      "character": "Ardia Dispa"
     }
   ]
 }
