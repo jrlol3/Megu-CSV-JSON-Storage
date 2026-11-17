@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794819651489,
+  "timestamp": 1794906055603,
   "logs": [
     {
       "master": "@desyov",
@@ -34846,6 +34846,91 @@
         "@aehnomaly as Ichiro",
         "@schwertaria as Inoue",
         "@akinotamashii as Hoshi-no-Kagayuki"
+      ],
+      "masterId": "169795599758131200"
+    },
+    {
+      "master": "@xchronos",
+      "title": "All Aboard the Chaos Train!",
+      "postedAt": 1794853389598,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1571953792402857987",
+      "players": [
+        "@seraphim as Cole Grant",
+        "@emgry as Gabriela Josephine Caladrius",
+        "@sleepy_bernkastel as Ser Bedivere the Gray Wolf",
+        "@maxfish as Ciro Solano",
+        "@mutemissy as Selene",
+        "@lenpendragon as Lady Iseult of Deleria"
+      ],
+      "masterId": "164529173379940352"
+    },
+    {
+      "master": "@xchronos",
+      "title": "[Firwood Fables] Territorial Turmoil",
+      "postedAt": 1794853758662,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1571955340369461331",
+      "players": [
+        "@schwertaria as Fein of Lionheart's Reach",
+        "@xirozean as Strabo Brightfeathers",
+        "@someperson2094 as Selene Harte",
+        "@oleamollevampie as Madeline Lumen"
+      ],
+      "masterId": "164529173379940352"
+    },
+    {
+      "master": "@missingpath",
+      "title": "[The Epic of Thunder] The Smoldering Blades",
+      "postedAt": 1794874648936,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1572042960529522739",
+      "players": [
+        "@paradigm.42 as Zoe",
+        "@2naf1sh as Gialos",
+        "@hellion as Alethra",
+        "@emgry as Rachael",
+        "@galen876 as Uto"
+      ],
+      "masterId": "181544205796114433"
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "Heroes' End : Trial By Combat",
+      "postedAt": 1794889614104,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1572105728993398807",
+      "players": [
+        "@brooms as Thyreos",
+        "@seraphim as Nestor",
+        "@oleamollevampie as Chieko",
+        "@jrlol3megu as Marlo",
+        "@sirgabite as Mordred",
+        "@leplep as Midori"
+      ],
+      "masterId": "283019070578753536"
+    },
+    {
+      "master": "@incognegro",
+      "title": "[Obsidian Mirror] Crows and Moths II",
+      "postedAt": 1794890365061,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1572108878735343627",
+      "players": [
+        "@facinarose as Anabella",
+        "@honeydewmelons as Tomas",
+        "@mike_miguel_michael as Heliodoro",
+        "@mutemissy as Tessa",
+        "@paradigm.42 as Amahia"
+      ],
+      "masterId": "118899054179516417"
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "[The Tragedy of Blood] A Missing Brother",
+      "postedAt": 1794892593529,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1572118225607589889",
+      "players": [
+        "@eleesehn as Saki",
+        "@akinotamashii as Kimoto Kanae",
+        "@solaceinfire as Mizuki",
+        "@han69 as Dustin",
+        "@madrid222 as Dr. Henry Fuckin' Calvin"
       ],
       "masterId": "169795599758131200"
     }
