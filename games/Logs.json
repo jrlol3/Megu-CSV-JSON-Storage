@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794906055603,
+  "timestamp": 1794992454485,
   "logs": [
     {
       "master": "@desyov",
@@ -34933,6 +34933,35 @@
         "@madrid222 as Dr. Henry Fuckin' Calvin"
       ],
       "masterId": "169795599758131200"
+    },
+    {
+      "master": "@galen876",
+      "title": "Heroes' End: Trial of the Water Chakra - D",
+      "postedAt": 1794952915835,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1572371235697066098",
+      "players": [
+        "@maxfish as Ciro",
+        "@han69 as Samson",
+        "@angrykitsu as Rhea",
+        "@soggy_saltine as Jing",
+        "@drafter42 as Lyra"
+      ],
+      "masterId": "413926319886303233"
+    },
+    {
+      "master": "@sleepy_bernkastel",
+      "title": "Heroes's End : Trial of the Water Chakra - B",
+      "postedAt": 1794971214804,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1572447987135680535",
+      "players": [
+        "@honeydewmelons as Shenrui",
+        "@incognegro as Zenith",
+        "@seraphim as Nasaya",
+        "@mutemissy as Natalia",
+        "@caelum_blue as Anri",
+        "@aehnomaly as Beryl"
+      ],
+      "masterId": "308792711274692610"
     }
   ]
 }
