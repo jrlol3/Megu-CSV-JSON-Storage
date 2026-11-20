@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795078852155,
+  "timestamp": 1795165254420,
   "games": [
     {
       "title": "First Introductions",
@@ -28027,17 +28027,6 @@
       "creator": "Satsuki Haruka | Matt"
     },
     {
-      "title": "[A Hero's Journey] A Ranger's Quarry",
-      "postedAt": 1794351129598,
-      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1569847161275940935",
-      "pings": [
-        "1170826784862908661"
-      ],
-      "time": "<t:1795132800:F>",
-      "public": true,
-      "creator": "Gadget🦊 | Thorium"
-    },
-    {
       "title": "[Obsidian Mirror] Crows and Moths",
       "postedAt": 1794352318374,
       "link": "https://discord.com/channels/1169852846083153941/1170183729856135250/1569852147363872769",
@@ -28358,6 +28347,83 @@
       "time": "<t:1795047090:F>",
       "public": true,
       "creator": "Selene | SomePerson"
+    },
+    {
+      "title": "[Heroes' End] Aces, Eights, and a King of Stars kicker",
+      "postedAt": 1795107058721,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1573017757820256417",
+      "pings": [
+        "1170826784862908661"
+      ],
+      "time": "<t:1795136400:F>",
+      "public": true,
+      "creator": "zzMountaingazer | χavier ="
+    },
+    {
+      "title": "[Just a little OFF] A Red Herring",
+      "postedAt": 1795121809410,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1573079626694131853",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1795145400:F>",
+      "public": true,
+      "creator": "= ✧ Terra ✧ ="
+    },
+    {
+      "title": "[The Art of War] The Challenge of Bounty",
+      "postedAt": 1795122017685,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1573080500262928385",
+      "pings": [
+        "1170826716571238410"
+      ],
+      "time": "<t:1795309200:F>",
+      "public": true,
+      "creator": "Dominic"
+    },
+    {
+      "title": "Kijin",
+      "postedAt": 1795122349573,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1573081892301971598",
+      "pings": [
+        "1170826784862908661"
+      ],
+      "time": "<t:1795388400:F>",
+      "public": true,
+      "creator": "Dominic"
+    },
+    {
+      "title": "[Sugar Crash] Break-In at Soda Gulch!",
+      "postedAt": 1795134383760,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1573132367340507157",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1795656600:F>",
+      "public": true,
+      "creator": "zzAki"
+    },
+    {
+      "title": "[A day in the life of an agent] On the Beat",
+      "postedAt": 1795138011518,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1573147583260401746",
+      "pings": [
+        "1170826554914373652"
+      ],
+      "time": "<t:1795906800:F>",
+      "public": true,
+      "creator": "zzMaxilos | Matt"
+    },
+    {
+      "title": "[The Edict of Iron] First Strike",
+      "postedAt": 1795140396909,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1573157588315537582",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1796252400:F>",
+      "public": true,
+      "creator": "zzMaxilos | Matt"
     }
   ]
 }
