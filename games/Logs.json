@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795078852163,
+  "timestamp": 1795165254437,
   "logs": [
     {
       "master": "@desyov",
@@ -35253,6 +35253,84 @@
         "@billyscrannerx as Wilhelmina"
       ],
       "masterId": "80892297905963008"
+    },
+    {
+      "master": "@starfir54",
+      "title": "Heroes' End: The Beginning - D",
+      "postedAt": 1795122429110,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1573082225904328906",
+      "players": [
+        "@galen876 as Uto",
+        "@themattroid as Palamedes",
+        "@angrykitsu as Rhea",
+        "@xirozean as Strabo",
+        "@fluffbet as Takano",
+        "@kategeeper as Shirogane",
+        "@asimplehatter as Patience",
+        "@someperson2094 as Selene",
+        "@nikolaim. as Sterling"
+      ],
+      "masterId": "491765200727310337"
+    },
+    {
+      "master": "@rastamufasa",
+      "title": "Daughters of Faith",
+      "postedAt": 1795154668328,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1573217446985339001",
+      "players": [
+        "@angrykitsu as Rhea",
+        "@enderten as Sophron",
+        "@eleesehn as Valissa",
+        "@hellion as Alethra",
+        "@pidgeon as Loxias",
+        "@incognegro as Bion"
+      ],
+      "masterId": "283019070578753536"
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "Heroes' End: Cracks Form",
+      "postedAt": 1795155149266,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1573219464185385007",
+      "players": [
+        "@fluffbet as Takano Akiyama",
+        "@oleamollevampie as Miyashiro Chieko",
+        "@leplep as Anzai Midori",
+        "@galen876 as Uto Masahide Miyabi",
+        "@incognegro as Dominic",
+        "@pidgeon as Horizon Deneith"
+      ],
+      "masterId": "169795599758131200"
+    },
+    {
+      "master": "@starfir54",
+      "title": "Heroes' End: Disaster Relief, Damage Control",
+      "postedAt": 1795161716086,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1573247007424913499",
+      "players": [
+        "@bookie as Nattigan",
+        "@aehnomaly as Ichiro",
+        "@jrlol3megu as Marlo",
+        "@han69 as Samson",
+        "@sawzie as Langely",
+        "@enderten as Tilly"
+      ],
+      "masterId": "491765200727310337"
+    },
+    {
+      "master": "@starfir54",
+      "title": "[A little bit OFF] A Red Herring",
+      "postedAt": 1795161950412,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1573247990259253322",
+      "players": [
+        "@leplep as Midori",
+        "@someperson2094 as Selene",
+        "@akinotamashii as Penny",
+        "@madrid222 as Thaumasios",
+        "@seraphim as Nestor",
+        "@camelodev as Marlo"
+      ],
+      "masterId": "491765200727310337"
     }
   ]
 }
