@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795165254437,
+  "timestamp": 1795251654613,
   "logs": [
     {
       "master": "@desyov",
@@ -35331,6 +35331,36 @@
         "@camelodev as Marlo"
       ],
       "masterId": "491765200727310337"
+    },
+    {
+      "master": "@galen876",
+      "title": "Heroes' End : Pulling Together",
+      "postedAt": 1795212956858,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1573461926799745035",
+      "players": [
+        "@sawzie as Langley",
+        "@nikkimp as Juna",
+        "@oleamollevampie as Chieko",
+        "@someperson2094 as Selene",
+        "@leplep as Midori",
+        "@kategeeper as Izumi"
+      ],
+      "masterId": "413926319886303233"
+    },
+    {
+      "master": "@someperson2094",
+      "title": "[Botanic Mishaps] Ardent Passion",
+      "postedAt": 1795234295080,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1573551425789890683",
+      "players": [
+        "@corsair_hellcat as Hannah",
+        "@bookie as Nattigan",
+        "@drafter42 as Lyria",
+        "@agentdj as Cassius",
+        "@jrlol3megu as Marlo",
+        "@han69 as Samson"
+      ],
+      "masterId": "639884376171216906"
     }
   ]
 }
