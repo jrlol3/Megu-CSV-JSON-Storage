@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795165254420,
+  "timestamp": 1795251654590,
   "games": [
     {
       "title": "First Introductions",
@@ -28424,6 +28424,50 @@
       "time": "<t:1796252400:F>",
       "public": true,
       "creator": "zzMaxilos | Matt"
+    },
+    {
+      "title": "Heroes' End: [Grief] The Missing Daughter",
+      "postedAt": 1795200676271,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1573410418284826846",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1795575600:F>",
+      "public": true,
+      "creator": "zzKitsu"
+    },
+    {
+      "title": "Heroes' End: The Sanctum of Tiamat - Shifting Tide",
+      "postedAt": 1795232025373,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1573541905948610684",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1795374000:F>",
+      "public": true,
+      "creator": "= One Guy ="
+    },
+    {
+      "title": "Heroes' End: The Sanctum of Tiamat - Slack Water",
+      "postedAt": 1795232195246,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1573542618447614003",
+      "pings": [
+        "1170826716571238410"
+      ],
+      "time": "<t:1795546800:F>",
+      "public": true,
+      "creator": "= One Guy ="
+    },
+    {
+      "title": "Heroes' End: Not to Give, but to Take",
+      "postedAt": 1795238218286,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1573567880908378174",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1795564800:F>",
+      "public": true,
+      "creator": "EnderTen"
     }
   ]
 }
