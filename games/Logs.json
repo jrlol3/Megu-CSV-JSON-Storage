@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795338055021,
+  "timestamp": 1795424454880,
   "logs": [
     {
       "master": "@desyov",
@@ -35463,6 +35463,65 @@
         "@oleamollevampie as Chieko"
       ],
       "masterId": "639884376171216906"
+    },
+    {
+      "master": "@starfir54",
+      "title": "Beyond Shattered Hope",
+      "postedAt": 1795375102917,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1574142016663847069",
+      "players": [
+        "@samikazuki as Ed",
+        "@missingpath as Quincy",
+        "@themattroid as Maxilios",
+        "@schwertaria as Tatsuya",
+        "@sleepy_bernkastel as Poppy",
+        "@emgry as Valerie"
+      ],
+      "masterId": "491765200727310337"
+    },
+    {
+      "master": "@xavieremix",
+      "title": "[Heroes' End] Aces, Eights, and a King of Stars kicker",
+      "postedAt": 1795381927756,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1574170642113237023",
+      "players": [
+        "@lenpendragon as Asuka",
+        "@schwertaria as Yuel",
+        "@han69 as Garmir",
+        "@aznrcmp as Topal",
+        "@caelum_blue as Mutt",
+        "@nut_wizard as Córdoba"
+      ],
+      "masterId": "181294303622987776"
+    },
+    {
+      "master": "@solotic.",
+      "title": "Heroes' End: The Sanctum of Tiamat - Rising Tide",
+      "postedAt": 1795388544983,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1574198396774776895",
+      "players": [
+        "@seraphim as Nestor",
+        "@drafter42 as Lyra",
+        "@jrlol3megu as Marlo",
+        "@schwertaria as Féin",
+        "@lenpendragon as Iseult",
+        "@caelum_blue as Morgana"
+      ],
+      "masterId": "384371410576998401"
+    },
+    {
+      "master": "@incognegro",
+      "title": "Kijin",
+      "postedAt": 1795406787248,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1574274910379974727",
+      "players": [
+        "@emgry as Hiya",
+        "@2naf1sh as Gyalwa",
+        "@honeydewmelons as Shenrui",
+        "@sussy_arata as Lin Shen",
+        "@aehnomaly as Beryl Etc."
+      ],
+      "masterId": "118899054179516417"
     }
   ]
 }
