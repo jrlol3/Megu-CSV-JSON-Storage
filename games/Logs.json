@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795424454880,
+  "timestamp": 1795510854122,
   "logs": [
     {
       "master": "@desyov",
@@ -35522,6 +35522,58 @@
         "@aehnomaly as Beryl Etc."
       ],
       "masterId": "118899054179516417"
+    },
+    {
+      "master": "@incognegro",
+      "title": "[The Art of War] Heroes' End: The Challenge of Bounty",
+      "postedAt": 1795457809822,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1574488914566058195",
+      "players": [
+        "@enderten as Siwu",
+        "@soggy_saltine as Jing",
+        "@schwertaria as Aria",
+        "@kategeeper as Izumi",
+        "@han69 as Absalom"
+      ],
+      "masterId": "118899054179516417"
+    },
+    {
+      "master": "@incognegro",
+      "title": "[Ark of the World] Heroes' End: The Lesser of Two Evils",
+      "postedAt": 1795497118829,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1574653788491358230",
+      "players": [
+        "@hellion as Amos",
+        "@soggy_saltine as Shakes the Earth",
+        "@angrykitsu as Makoto",
+        "@mutemissy as Tessa",
+        "@xchronos as Moonwisp"
+      ],
+      "masterId": "118899054179516417"
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "A Single Moment",
+      "postedAt": 1795497188641,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1574654081304232028",
+      "players": [
+        "@Aeh as Kaneko Ichiro",
+        "@Ciel as Tsuru Inoue"
+      ],
+      "masterId": "169795599758131200"
+    },
+    {
+      "master": "@h4lcy0n_d4ys",
+      "title": "[Monster Hunter Interdimensional] Swampwalker",
+      "postedAt": 1795498142285,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1574658081177083915",
+      "players": [
+        "@someperson2094 As Qixi Harper",
+        "@sussy_arata As Kashif and Samum",
+        "@corsair_hellcat as Amity",
+        "@billyscrannerx as Nike- ᵀʰᵉ Endless War"
+      ],
+      "masterId": "284550031674048524"
     }
   ]
 }
