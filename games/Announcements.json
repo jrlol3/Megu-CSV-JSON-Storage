@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795597259592,
+  "timestamp": 1795683654855,
   "games": [
     {
       "title": "First Introductions",
@@ -28660,6 +28660,39 @@
       "time": "<t:1795737600:F>",
       "public": true,
       "creator": "= Dr. Faust ☆ ="
+    },
+    {
+      "title": "Heroes' End : Waxxing Gibbous",
+      "postedAt": 1795612390930,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1575137274725670983",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1795953600:F>",
+      "public": true,
+      "creator": "Ludo Mallory | Xiro"
+    },
+    {
+      "title": "Heroes' End : Waning Cresent",
+      "postedAt": 1795612625865,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1575138260114481163",
+      "pings": [
+        "1170826620869808248"
+      ],
+      "time": "<t:1795953600:F>",
+      "public": true,
+      "creator": ".Tian Yin. | Sammy"
+    },
+    {
+      "title": "[Heroes' End] End of Breusen's Prodigy",
+      "postedAt": 1795656356502,
+      "link": "https://discord.com/channels/1169852846083153941/1170183705231376434/1575321679700435085",
+      "pings": [
+        "1170826784862908661"
+      ],
+      "time": "<t:1795737600:F>",
+      "public": true,
+      "creator": "= Perseus Akalakos ="
     }
   ]
 }
