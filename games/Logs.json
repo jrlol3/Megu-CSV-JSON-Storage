@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795597259605,
+  "timestamp": 1795683654869,
   "logs": [
     {
       "master": "@desyov",
@@ -35587,6 +35587,51 @@
         "@aznrcmp as Topal"
       ],
       "masterId": "299015281853071360"
+    },
+    {
+      "master": "@enderten",
+      "title": "Heroes' End: Not to Give, but to Take",
+      "postedAt": 1795625446255,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1575192032727670995",
+      "players": [
+        "@averysoftsheep as Yuanmin",
+        "@bookie as Nattigan",
+        "@mike_miguel_michael as Vidarr",
+        "@seraphim as Nestor",
+        "@schwertaria as Ser Faolan",
+        "@facinarose as Tsutsuji"
+      ],
+      "masterId": "206900071055228930"
+    },
+    {
+      "master": "@angrykitsu",
+      "title": "Heroes' End: [Grief] The Missing Daughter",
+      "postedAt": 1795656220254,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1575321108234899467",
+      "players": [
+        "@eleesehn as Saki",
+        "@akinotamashii as Hoshi",
+        "@fluffbet as Akiyama",
+        "@oleamollevampie as Chieko",
+        "@letiana as Antigone",
+        "@incognegro as Dominic"
+      ],
+      "masterId": "169795599758131200"
+    },
+    {
+      "master": "@akinotamashii",
+      "title": "[Sugar Crash] Break-in at Soda Gulch!",
+      "postedAt": 1795676499778,
+      "link": "https://discord.com/channels/1169852846083153941/1170946931791515659/1575406166723264574",
+      "players": [
+        "@rastamufasa as Zion",
+        "@galen876 as Masahide",
+        "@solaceinfire as Mizuki",
+        "@eleesehn as Valissa",
+        "@drdinocrusher as Lanelle",
+        "@angrykitsu as Liberation"
+      ],
+      "masterId": "80892297905963008"
     }
   ]
 }
