@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795597259616,
+  "timestamp": 1795683654882,
   "masters": {
     "@desyov": {
       "username": "@desyov",
@@ -29,16 +29,16 @@
       "tier": "GM: Reality Shaper - T3",
       "inGuild": true
     },
-    "@seraphim": {
-      "username": "@seraphim",
-      "id": "108744783031185408",
-      "gameCount": 133,
-      "tier": "GM: World Builder - T2",
-      "inGuild": true
-    },
     "@angrykitsu": {
       "username": "@angrykitsu",
       "id": "169795599758131200",
+      "gameCount": 134,
+      "tier": "GM: World Builder - T2",
+      "inGuild": true
+    },
+    "@seraphim": {
+      "username": "@seraphim",
+      "id": "108744783031185408",
       "gameCount": 133,
       "tier": "GM: World Builder - T2",
       "inGuild": true
@@ -295,6 +295,13 @@
       "tier": "GM: Apprentice - T0",
       "inGuild": true
     },
+    "@enderten": {
+      "username": "@enderten",
+      "id": "206900071055228930",
+      "gameCount": 9,
+      "tier": "GM: Storyteller - T1",
+      "inGuild": true
+    },
     "@iamthorium": {
       "username": "@iamthorium",
       "id": "220960630692118528",
@@ -314,13 +321,6 @@
       "id": "140811574737764352",
       "gameCount": 8,
       "tier": "GM: Apprentice - T0",
-      "inGuild": true
-    },
-    "@enderten": {
-      "username": "@enderten",
-      "id": "206900071055228930",
-      "gameCount": 8,
-      "tier": "GM: Storyteller - T1",
       "inGuild": true
     },
     "@nut_wizard": {
@@ -351,19 +351,19 @@
       "tier": null,
       "inGuild": false
     },
+    "@akinotamashii": {
+      "username": "@akinotamashii",
+      "id": "80892297905963008",
+      "gameCount": 6,
+      "tier": "GM: Storyteller - T1",
+      "inGuild": true
+    },
     "@cursed6069": {
       "username": "@cursed6069",
       "id": "321875283147751424",
       "gameCount": 6,
       "tier": null,
       "inGuild": false
-    },
-    "@akinotamashii": {
-      "username": "@akinotamashii",
-      "id": "80892297905963008",
-      "gameCount": 5,
-      "tier": "GM: Storyteller - T1",
-      "inGuild": true
     },
     "@yoshimage": {
       "username": "@yoshimage",
