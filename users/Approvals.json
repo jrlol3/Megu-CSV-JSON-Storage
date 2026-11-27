@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795690814558,
+  "timestamp": 1795777216831,
   "approvals": [
     {
       "user": "samikazuki",
@@ -8022,6 +8022,12 @@
       "approver": "sleepy_bernkastel",
       "date": 1795647441201,
       "character": "Briar"
+    },
+    {
+      "user": "corsair_hellcat",
+      "approver": "sleepy_bernkastel",
+      "date": 1795757533719,
+      "character": "Bianca Belushi"
     }
   ]
 }
